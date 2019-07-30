@@ -1,0 +1,27 @@
+---
+title: "Udstrækning af inderlår og lyske "
+excerpt: "Udstrækning af indadførerne som parøvelse."
+redirect_from: /oevelse/udstraekning-af-inderlaar-og-lyske
+language: da
+header:
+  overlay_image: /assets/images/exercises/udstraekning-af-inderlaar-og-lyske-0.JPG
+  teaser: /assets/images/exercises/udstraekning-af-inderlaar-og-lyske-0.JPG
+categories:
+training_type: 
+  - Parøvelser
+  - Strækøvelser
+training_focus: 
+equipment:
+  - kropsvægt
+muscle_group:
+alternative_titles:
+  - clean and jerk
+gallery:
+  - url: /assets/udstraekning-af-inderlaar-og-lyske-0.JPG
+    image_path: /assets/images/exercises/udstraekning-af-inderlaar-og-lyske-0.JPG
+    alt: "Udstrækning af inderlår og lyske "
+    title: "Udstrækning af inderlår og lyske "
+last_modified_at: 2014-10-12T14:36:53Z
+---
+
+Sid på gulvet med benene i et V. Makkeren sidder på samme måde overfor, tager fat i makkerens hænder, retter ryggen og presser benene fra hinanden. Hold strækket i 30 sek. Skift.

@@ -1,0 +1,20 @@
+---
+title: "Pike press"
+excerpt: "Med fødderne hævet, armene på jorden og en bøjning i hoften bøjer og strækker du armene. Presset er over hovedet."
+redirect_from: /oevelse/pike-press
+language: da
+categories:
+training_type: 
+training_focus: 
+  - 
+  - 
+equipment:
+  - kropsvægt
+muscle_group:
+alternative_titles:
+  - Reb
+gallery:
+last_modified_at: 2011-05-22T10:12:41Z
+---
+
+Det kræver en rimelig styrke at komme i gang med denne øvelse.

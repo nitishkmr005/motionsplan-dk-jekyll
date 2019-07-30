@@ -1,0 +1,37 @@
+---
+title: "Hoftebøjer hængende"
+excerpt: "Hæng med strakt krop i enten en ribbe eller en barre. Herfra bøjes i hoften indtil fødderne er i vandret."
+redirect_from: /oevelse/hofteboejer
+language: da
+header:
+  overlay_image: /assets/images/exercises/hofteboejer-0.JPG
+  teaser: /assets/images/exercises/hofteboejer-0.JPG
+categories:
+training_type: 
+training_focus: 
+  - 
+  - 
+equipment:
+  - bar
+muscle_group:
+  - 
+  - 
+alternative_titles:
+  - Hoftebøjer i ribbe
+gallery:
+  - url: /assets/hofteboejer-0.JPG
+    image_path: /assets/images/exercises/hofteboejer-0.JPG
+    alt: "Hoftebøjer hængende"
+    title: "Hoftebøjer hængende"
+  - url: /assets/hofteboejer-1.JPG
+    image_path: /assets/images/exercises/hofteboejer-1.JPG
+    alt: "Hoftebøjer hængende"
+    title: "Hoftebøjer hængende"
+  - url: /assets/hofteboejer-2.JPG
+    image_path: /assets/images/exercises/hofteboejer-2.JPG
+    alt: "Hoftebøjer hængende"
+    title: "Hoftebøjer hængende"
+last_modified_at: 2013-10-02T20:20:53Z
+---
+
+Start med at hænge i en ribbe eller en stang. Løft med kontrolleret bevægelse benene op i 90 grader. Hold dem strakte gennem hele øvelsen.

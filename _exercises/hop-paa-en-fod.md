@@ -1,0 +1,21 @@
+---
+title: "Hop på én fod"
+excerpt: "Du står uden sko på et eftergivende underlag, fx en måtte. Der hoppes på en fod fra side til side."
+redirect_from: /oevelse/hop-paa-en-fod
+language: da
+categories:
+training_type: 
+training_focus: 
+  - 
+equipment:
+  - måtte
+muscle_group:
+alternative_titles:
+  - Reb
+gallery:
+last_modified_at: 2011-10-31T13:13:47Z
+---
+
+ Du står uden sko på et eftergivende underlag, fx en måtte. Der hoppes på en fod fra side til side.
+
+En øvelse hvor der arbejdes med fodled og landing

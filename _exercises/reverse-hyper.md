@@ -1,0 +1,34 @@
+---
+title: "Reverse hyper"
+excerpt: "Læg dig til rette på en bænk med benene hængende ud over. Bænken skal være så høj, at du kan have strakte ben, når hoften er bøjet. Start med bøjet hofte og stræk hoften ud. Langsomt tilbage til udgangspunktet."
+redirect_from: /oevelse/reverse-hyper
+language: da
+header:
+  overlay_image: /assets/images/exercises/reverse-hyper-0.jpg
+  teaser: /assets/images/exercises/reverse-hyper-0.jpg
+categories:
+training_type: 
+training_focus: 
+  - 
+  - hoftedomineret
+equipment:
+  - kropsvægt
+  - maskine
+muscle_group:
+alternative_titles:
+  - Stående curl
+  - albuebøj håndvægte
+  - albuebøj
+gallery:
+  - url: /assets/reverse-hyper-0.jpg
+    image_path: /assets/images/exercises/reverse-hyper-0.jpg
+    alt: "Reverse hyper"
+    title: "Reverse hyper"
+  - url: /assets/reverse-hyper-1.jpg
+    image_path: /assets/images/exercises/reverse-hyper-1.jpg
+    alt: "Reverse hyper"
+    title: "Reverse hyper"
+last_modified_at: 2011-05-01T10:21:12Z
+---
+
+Øvelsen kan også laves i maskine. Hvis du vil have mere kraft på den excentriske fase, kan du bruge 2/1-teknikken, hvor du løfter med to ben, men kommer tilbage til udgangspunktet kun med et ben.

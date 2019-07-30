@@ -1,0 +1,44 @@
+---
+title: "Skulderpres, vægte"
+excerpt: "Sæt dig på en en skråbænk og start vægtene fra skuldrene. Pres op over hovedet indtil du har strakte arme. Sænk langsomt til udgangspunktet igen."
+redirect_from: /oevelse/skulderpres-vaegte
+language: da
+header:
+  overlay_image: /assets/images/exercises/skulderpres-vaegte-0.jpg
+  teaser: /assets/images/exercises/skulderpres-vaegte-0.jpg
+categories:
+training_type: 
+training_focus: 
+  - 
+  - 
+equipment:
+  - vægtstang
+  - håndvægte
+muscle_group:
+  - 
+  - 
+  - 
+  - 
+alternative_titles:
+  - Albuestræk stang
+gallery:
+  - url: /assets/skulderpres-vaegte-0.jpg
+    image_path: /assets/images/exercises/skulderpres-vaegte-0.jpg
+    alt: "Skulderpres, vægte"
+    title: "Skulderpres, vægte"
+  - url: /assets/skulderpres-vaegte-1.jpg
+    image_path: /assets/images/exercises/skulderpres-vaegte-1.jpg
+    alt: "Skulderpres, vægte"
+    title: "Skulderpres, vægte"
+  - url: /assets/skulderpres-vaegte-2.jpg
+    image_path: /assets/images/exercises/skulderpres-vaegte-2.jpg
+    alt: "Skulderpres, vægte"
+    title: "Skulderpres, vægte"
+last_modified_at: 2011-04-19T11:37:26Z
+---
+
+Sæt dig på en skråbænk med vægtene foran dig med bøjede arme. Derfra skal du have ført vægtene op, så du holder dem lige over skuldrene. Herfra fører du vægtene kontrolleret op over hovedet og sænker den igen til udgangspunktet.
+
+**Bemærk**: Du kan også lave øvelsen med en vægtstang, men vi anbefaler at bruge håndvægte, da dine skuldre har optimal frihedsgrad på den måde.
+
+**Advarsel**: Nogen kører stangen ned bag nakken, men det er meget usundt for skulderne, da overarmsknoglen kommer så langt tilbage i ledkapslen, og der er den ikke beregnet til at arbejde.

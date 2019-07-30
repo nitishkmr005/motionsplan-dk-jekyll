@@ -1,0 +1,35 @@
+---
+title: "Chinup, kropshævning med underhåndsgreb"
+excerpt: "Kropshævning med underhåndsgreb."
+redirect_from: /oevelse/chinup
+language: da
+header:
+  overlay_image: /assets/images/exercises/chinup-0.jpg
+  teaser: /assets/images/exercises/chinup-0.jpg
+categories:
+  - Træk
+training_type: 
+  - Styrketræning
+training_focus: 
+  - træk lodret
+equipment:
+  - bar
+muscle_group:
+  - Arme
+  - Skuldre
+  - Øvre ryg
+alternative_titles:
+  - chinup
+gallery:
+  - url: /assets/chinup-0.jpg
+    image_path: /assets/images/exercises/chinup-0.jpg
+    alt: "Chinup, kropshævning med underhåndsgreb"
+    title: "Chinup, kropshævning med underhåndsgreb"
+  - url: /assets/chinup-1.jpg
+    image_path: /assets/images/exercises/chinup-1.jpg
+    alt: "Chinup, kropshævning med underhåndsgreb"
+    title: "Chinup, kropshævning med underhåndsgreb"
+last_modified_at: 2014-10-14T10:48:42Z
+---
+
+Man fatter stangen noget bredere end skulderbredde med underhåndsgreb. Man trækker sig op, til man kigger over stangen og sænker sig kontrolleret ned igen.

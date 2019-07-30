@@ -1,0 +1,50 @@
+---
+title: "Wall slides"
+excerpt: "Stå med ryggen op ad væggen. Pres underarmene og hænderne hårdt ind mod væggen. Lad armene glide op og ned ad væggen."
+redirect_from: /oevelse/wall-slides
+language: da
+header:
+  overlay_image: /assets/images/exercises/wall-slides-0.JPG
+  teaser: /assets/images/exercises/wall-slides-0.JPG
+categories:
+training_type: 
+training_focus: 
+  - 
+equipment:
+  - kropsvægt
+  - mur
+muscle_group:
+alternative_titles:
+  - L lateral raise
+gallery:
+  - url: /assets/wall-slides-0.JPG
+    image_path: /assets/images/exercises/wall-slides-0.JPG
+    alt: "Wall slides"
+    title: "Wall slides"
+  - url: /assets/wall-slides-1.JPG
+    image_path: /assets/images/exercises/wall-slides-1.JPG
+    alt: "Wall slides"
+    title: "Wall slides"
+last_modified_at: 2011-04-16T07:05:20Z
+---
+
+Der er tre rigtig gode ting ved at lave wall slides:
+
+- Aktiverer nederste del af trapezius, rhomboiderne og de eksterne rotatorer.
+- Strækker brystmusklen og de indre rotatorer.
+- Nedsætter virkningen af den øverste del af trapezius.
+
+Det er slet ikke så let, som det ser ud. Du vil sikkert få nogle enkelte overraskelser:
+
+- Det er svært at komme ind i den rigtige position pga. nedsat smidighed i skuldrene.
+- Dine skuldre kan meget vel være asymmetriske.
+- Når du lader armene glide op af væggen er der mange, der med det samme fører skuldrene op også. Det er ikke meningen - og det er et udslag af at den øverste del af trapezius dominerer for meget.
+
+Hemmeligheden bag wall slides er:
+
+- Skulderbladet skal være _retracted_ og _depressed_.
+- Hænderne og håndledene skal være flad mod muren.
+- Når du glider op, skal begge forarme presses blidt ind mod væggen.
+- Du skal ikke forcere range of motion. Øvelsen hjælper til at afslappe den anteriore del af skulderen.
+
+God fornøjelse.

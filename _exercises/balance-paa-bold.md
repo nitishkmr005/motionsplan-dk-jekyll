@@ -1,0 +1,26 @@
+---
+title: "Balance på bold"
+excerpt: "Prøv at holde balancen siddende på knæene på en stor træningsbold."
+redirect_from: /oevelse/balance-paa-bold
+language: da
+header:
+  overlay_image: /assets/images/exercises/balance-paa-bold-0.JPG
+  teaser: /assets/images/exercises/balance-paa-bold-0.JPG
+categories:
+training_type: 
+training_focus: 
+  - kropsstamme
+equipment:
+  - swissball
+muscle_group:
+alternative_titles:
+  - Træk i tov
+gallery:
+  - url: /assets/balance-paa-bold-0.JPG
+    image_path: /assets/images/exercises/balance-paa-bold-0.JPG
+    alt: "Balance på bold"
+    title: "Balance på bold"
+last_modified_at: 2011-04-18T17:55:55Z
+---
+
+Det er en god ide at have en til at hjælpe de første par gange, du forsøger at holde balancen ved at sidde på knæene på træningsbolden. Prøv at strække helt ud i hoften.

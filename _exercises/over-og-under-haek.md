@@ -1,0 +1,32 @@
+---
+title: "Over og under hæk"
+excerpt: "Hop over den første hæk og kravl under den næste hæk på skift."
+redirect_from: /oevelse/over-og-under-haek
+language: da
+header:
+  overlay_image: /assets/images/exercises/over-og-under-haek-0.jpg
+  teaser: /assets/images/exercises/over-og-under-haek-0.jpg
+categories:
+training_type: 
+training_focus: 
+equipment:
+muscle_group:
+alternative_titles:
+  - Op og ned under hæk
+gallery:
+  - url: /assets/over-og-under-haek-0.jpg
+    image_path: /assets/images/exercises/over-og-under-haek-0.jpg
+    alt: "Over og under hæk"
+    title: "Over og under hæk"
+  - url: /assets/over-og-under-haek-1.jpg
+    image_path: /assets/images/exercises/over-og-under-haek-1.jpg
+    alt: "Over og under hæk"
+    title: "Over og under hæk"
+  - url: /assets/over-og-under-haek-2.jpg
+    image_path: /assets/images/exercises/over-og-under-haek-2.jpg
+    alt: "Over og under hæk"
+    title: "Over og under hæk"
+last_modified_at: 2013-05-30T07:47:15Z
+---
+
+Hække sættes op efter hinanden. Den første hoppes over, den næste kravles der under.

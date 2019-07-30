@@ -1,0 +1,31 @@
+---
+title: "Cykelmaveøvelse"
+excerpt: "Lig på ryggen. Hænderne bag nakken. Kør skiftevis albuen hen til knæet i modsatte side, mens du cykler med benene."
+redirect_from: /oevelse/cykelmaveoevelse
+language: da
+header:
+  overlay_image: /assets/images/exercises/cykelmaveoevelse-0.jpg
+  teaser: /assets/images/exercises/cykelmaveoevelse-0.jpg
+categories:
+training_type: 
+training_focus: 
+equipment:
+muscle_group:
+alternative_titles:
+  - Laterals
+  - Lateral raise
+  - Skuldersideløft
+  - Sideløft håndvægte
+gallery:
+  - url: /assets/cykelmaveoevelse-0.jpg
+    image_path: /assets/images/exercises/cykelmaveoevelse-0.jpg
+    alt: "Cykelmaveøvelse"
+    title: "Cykelmaveøvelse"
+  - url: /assets/cykelmaveoevelse-1.jpg
+    image_path: /assets/images/exercises/cykelmaveoevelse-1.jpg
+    alt: "Cykelmaveøvelse"
+    title: "Cykelmaveøvelse"
+last_modified_at: 2009-06-05T15:50:18Z
+---
+
+Dette er en af de mest effektive maveøvelser, man kan lave. Der er masser af aktivitet i både den lige mavemuskel og de skrå mavemuskler. Lig på ryggen. Hænderne bag nakken. Kør skiftevis albuen hen til knæet i modsatte side, mens du cykler med benene.

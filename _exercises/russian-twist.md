@@ -1,0 +1,36 @@
+---
+title: "Russian twist"
+excerpt: "Sid på numsen med bøjede knæ. Læn dig tilbage indtil mavemusklerne begynder at stramme. Med håndfladerne sammen roterer du skiftevis fra den ene side og til den anden side."
+redirect_from: /oevelse/russian-twist
+language: da
+header:
+  overlay_image: /assets/images/exercises/russian-twist-0.jpg
+  teaser: /assets/images/exercises/russian-twist-0.jpg
+categories:
+  - Kropsstamme
+training_type: 
+  - Styrketræning
+training_focus: 
+  - kropsstamme
+equipment:
+  - håndvægte
+  - kropsvægt
+muscle_group:
+  - Mave
+alternative_titles:gallery:
+  - url: /assets/russian-twist-0.jpg
+    image_path: /assets/images/exercises/russian-twist-0.jpg
+    alt: "Russian twist"
+    title: "Russian twist"
+  - url: /assets/russian-twist-1.jpg
+    image_path: /assets/images/exercises/russian-twist-1.jpg
+    alt: "Russian twist"
+    title: "Russian twist"
+  - url: /assets/russian-twist-2.jpg
+    image_path: /assets/images/exercises/russian-twist-2.jpg
+    alt: "Russian twist"
+    title: "Russian twist"
+last_modified_at: 2014-10-13T22:08:53Z
+---
+
+Sid på numsen med bøjede knæ. Læn dig tilbage indtil mavemusklerne begynder at stramme. Hold håndfladerne sammen, så hænderne er cirka foran hovedet. Drej overkroppen den ene vej og tilbage til starten igen. Derefter den anden vej.

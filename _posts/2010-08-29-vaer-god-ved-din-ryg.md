@@ -1,0 +1,56 @@
+---
+title: "Vær god ved din ryg"
+redirect_from: /artikel/vaer-god-ved-din-ryg
+language: da
+header:
+  overlay_image: /assets/images/Back Pain.jpg
+  teaser: /assets/images/Back Pain.jpg
+tags:
+  - træning
+  - ryggen
+  - forebyggelse
+category:
+  - Styrketræning
+last_modified_at: 2013-02-13T22:03:29Z
+---
+
+Ondt i ryggen er en folkesygdom. [Motion-online.dk har fire gode råd for at undgå ondt i ryggen](http://www.motion-online.dk/sundhed_og_vaegt/sundhed_generelt/undgaa_ondt_i_ryggen/):
+
+- **Sid varieret**. Du skal skifte stilling ofte, når du sidder. Det gælder både på kontoret, i skolen, i toget og også derhjemme når du er lidt træt.
+- **Bevæg ryggen**. Du skal bevæge ryggen på mange forskellige måder, og det er en god ide at tage nogle pauser i løbet af dagen, hvor du gør det. Drejninger, foroverbøjninger og bagudbøjninger.
+- **Træn ryggen**. Du skal træne ryggen varieret. Der er øvelser med på motion-online.dk's side.
+- **Undgå den dumme bevægelse**. Brug rigtig løfteteknik, når du løfter. Det er ikke en god ide at have en krum ryg, samtidig med at du laver en drejning, når du løfter.
+
+Som altid nogle gode råd fra det sige. Måske skal man med viden fra en af verdens førende rygspecialister, Stuart McGill, præcisere rådet om at træne ryggen til: Træn ryggen så den bliver mere udholdende.
+
+Ryggen skal være udholdende
+---------------------------
+
+Noget af det vigtigste for at undgå rygproblemer er ifølge Stuart McGill, at de muskler der stabiliserer ryggen er udholdende. Det er altså væsentligere at den kan holde til mange gentagelser end at den er stærk og kan løfte en stor vægt. Og det er vist sikkert og vist at træning forebygger rygproblemer (Hides et al 2001, via [motion-online.dk](http://www.motion-online.dk/styrketraening/styrke_-_artikler/traening_forebygger_ondt_i_ryggen/)).
+
+For at træne ryggen foreslår Stuart McGill følgende øvelser:
+
+- [Curlup](http://motionsplan.dk/oevelse/maveoevelse-stuart-mcgill-curlup), [planken](http://motionsplan.dk/oevelse/planken) eller for de avancerede [stir the pot](http://motionsplan.dk/oevelse/stir-pot).
+- [Side bridge](http://motionsplan.dk/oevelse/side-bridge)
+- [Birddog](http://motionsplan.dk/oevelse/birddog)
+
+Test om du er i farezonen
+-------------------------
+
+Du kan let lave en test derhjemme for at se om du er i farezonen. [Fixyourownback.com](http://fixyourownback.com) forklarer her Stuart McGills tests:
+
+Præsentation om ryggen
+----------------------
+
+Vi arbejder på en præsentation om ryggen. Du er velkommen til at kommentere både på indhold og opbygning. Se den her:
+
+Udbredelse af rygproblemer
+--------------------------
+
+Vi leder efter forskning der fortæller lidt om udbredelsen af rygproblemer i Danmark.Hvis du ved noget, så host op med din viden i kommentarerne.
+
+Referencer
+----------
+
+- [McGill, Stuart: Low Back Disorders, Second Edition](http://www.amazon.com/Back-Disorders-Second-Stuart-McGill/dp/0736066926)
+- [Long-term effects of specific stabilizing exercises for first-episode low back pain. Hides JA, Jull GA, Richardson CA. Spine 2001 Jun 1;26(11):E243-8](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=11389408&dopt=Abstract)

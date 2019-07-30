@@ -1,0 +1,45 @@
+---
+title: "Step up, front loaded"
+excerpt: ""
+redirect_from: /oevelse/step-front-loaded
+language: da
+header:
+  overlay_image: /assets/images/exercises/step-front-loaded-0.jpg
+  teaser: /assets/images/exercises/step-front-loaded-0.jpg
+categories:
+training_type: 
+  - Styrketræning
+training_focus: 
+  - knædomineret
+equipment:
+  - vægtstang
+muscle_group:
+  - Baller
+  - Forlår
+alternative_titles:
+  - 
+gallery:
+  - url: /assets/step-front-loaded-0.jpg
+    image_path: /assets/images/exercises/step-front-loaded-0.jpg
+    alt: "Step up, front loaded"
+    title: "Step up, front loaded"
+  - url: /assets/step-front-loaded-1.jpg
+    image_path: /assets/images/exercises/step-front-loaded-1.jpg
+    alt: "Step up, front loaded"
+    title: "Step up, front loaded"
+  - url: /assets/step-front-loaded-2.jpg
+    image_path: /assets/images/exercises/step-front-loaded-2.jpg
+    alt: "Step up, front loaded"
+    title: "Step up, front loaded"
+  - url: /assets/step-front-loaded-3.jpg
+    image_path: /assets/images/exercises/step-front-loaded-3.jpg
+    alt: "Step up, front loaded"
+    title: "Step up, front loaded"
+  - url: /assets/step-front-loaded-4.jpg
+    image_path: /assets/images/exercises/step-front-loaded-4.jpg
+    alt: "Step up, front loaded"
+    title: "Step up, front loaded"
+last_modified_at: 2016-10-18T07:34:01Z
+---
+
+

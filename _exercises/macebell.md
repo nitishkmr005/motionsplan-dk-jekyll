@@ -1,0 +1,41 @@
+---
+title: "Macebell"
+excerpt: "Hold macebell i begge hænder og hold den frem foran dig. Herfra skal du svinge den rundt om hovedet og slutte i samme position, som du startede."
+redirect_from: /oevelse/macebell
+language: da
+header:
+  overlay_image: /assets/images/exercises/macebell-0.jpg
+  teaser: /assets/images/exercises/macebell-0.jpg
+categories:
+training_type: 
+training_focus: 
+equipment:
+  - mace bell
+muscle_group:
+alternative_titles:
+  - 
+gallery:
+  - url: /assets/macebell-0.jpg
+    image_path: /assets/images/exercises/macebell-0.jpg
+    alt: "Macebell"
+    title: "Macebell"
+  - url: /assets/macebell-1.jpg
+    image_path: /assets/images/exercises/macebell-1.jpg
+    alt: "Macebell"
+    title: "Macebell"
+  - url: /assets/macebell-2.jpg
+    image_path: /assets/images/exercises/macebell-2.jpg
+    alt: "Macebell"
+    title: "Macebell"
+  - url: /assets/macebell-3.jpg
+    image_path: /assets/images/exercises/macebell-3.jpg
+    alt: "Macebell"
+    title: "Macebell"
+  - url: /assets/macebell-4.jpg
+    image_path: /assets/images/exercises/macebell-4.jpg
+    alt: "Macebell"
+    title: "Macebell"
+last_modified_at: 2013-05-29T20:43:34Z
+---
+
+At håndtere macebell stiller store krav til din stabilitet i kropsstammen. Du kan fx starte med at bruge en hammer.

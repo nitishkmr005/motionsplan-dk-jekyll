@@ -1,0 +1,35 @@
+---
+title: "Udstrækning af ryg og mave"
+excerpt: "Multiøvelser i par."
+redirect_from: /oevelse/udstraekning-af-ryg-og-mave
+language: da
+header:
+  overlay_image: /assets/images/exercises/udstraekning-af-ryg-og-mave-0.JPG
+  teaser: /assets/images/exercises/udstraekning-af-ryg-og-mave-0.JPG
+categories:
+training_type: 
+  - Parøvelser
+  - Strækøvelser
+training_focus: 
+equipment:
+muscle_group:
+alternative_titles:
+  - Triceps pushdown
+  - Pushdown
+  - cable pushdown
+  - triceps pulldown
+  - triceps rope extension
+  - albuestræk kabel
+gallery:
+  - url: /assets/udstraekning-af-ryg-og-mave-0.JPG
+    image_path: /assets/images/exercises/udstraekning-af-ryg-og-mave-0.JPG
+    alt: "Udstrækning af ryg og mave"
+    title: "Udstrækning af ryg og mave"
+  - url: /assets/udstraekning-af-ryg-og-mave-1.JPG
+    image_path: /assets/images/exercises/udstraekning-af-ryg-og-mave-1.JPG
+    alt: "Udstrækning af ryg og mave"
+    title: "Udstrækning af ryg og mave"
+last_modified_at: 2014-10-12T14:37:12Z
+---
+
+Man står ryg mod ryg, et skridt fra hinanden. Man svejer i ryggen til hænderne mødes over hoved. Hold strækket i maven. Bøj herefter i ryggen, så hænderne mødes under benene. Hold strækket i ryggen.

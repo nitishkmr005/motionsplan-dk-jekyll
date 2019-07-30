@@ -1,0 +1,46 @@
+---
+title: "Spring, 180  jump "
+excerpt: "Maksimalt hop samtidig med en 180 graders  rotation af hele kroppen. Ved landing foretages endnu et maksimalt hop samtidigt med en 180 graders rotation den anden vej og tilbage til udgangsposition"
+redirect_from: /oevelse/180-jump
+language: da
+header:
+  overlay_image: /assets/images/exercises/180-jump-0.jpg
+  teaser: /assets/images/exercises/180-jump-0.jpg
+categories:
+training_type: 
+training_focus: 
+  - 
+equipment:
+  - kropsvægt
+muscle_group:
+alternative_titles:
+  - Clean
+gallery:
+  - url: /assets/180-jump-0.jpg
+    image_path: /assets/images/exercises/180-jump-0.jpg
+    alt: "Spring, 180  jump "
+    title: "Spring, 180  jump "
+  - url: /assets/180-jump-1.jpg
+    image_path: /assets/images/exercises/180-jump-1.jpg
+    alt: "Spring, 180  jump "
+    title: "Spring, 180  jump "
+  - url: /assets/180-jump-2.jpg
+    image_path: /assets/images/exercises/180-jump-2.jpg
+    alt: "Spring, 180  jump "
+    title: "Spring, 180  jump "
+  - url: /assets/180-jump-3.jpg
+    image_path: /assets/images/exercises/180-jump-3.jpg
+    alt: "Spring, 180  jump "
+    title: "Spring, 180  jump "
+  - url: /assets/180-jump-4.jpg
+    image_path: /assets/images/exercises/180-jump-4.jpg
+    alt: "Spring, 180  jump "
+    title: "Spring, 180  jump "
+  - url: /assets/180-jump-5.jpg
+    image_path: /assets/images/exercises/180-jump-5.jpg
+    alt: "Spring, 180  jump "
+    title: "Spring, 180  jump "
+last_modified_at: 2010-11-02T13:43:26Z
+---
+
+Udgangsposition er stående med en skulderbredde afstand mellem fødder. Der foretages et maksimalt hop samtidig med at der roteres 180 grader rundt om kroppens længdeakse. Ved landing foretages endnu et maksimalt hop samtidigt med en 180 graders rotation tilbage til udgangspositionen. Der holdes en kort pause før øvelsen udføres, hvor man starter med at rotere den modsatte vej rundt.

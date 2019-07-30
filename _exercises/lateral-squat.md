@@ -1,0 +1,32 @@
+---
+title: "Lateral lunge, bodyweight"
+excerpt: "LLunge til siden."
+redirect_from: /oevelse/lateral-squat
+language: da
+header:
+  overlay_image: /assets/images/exercises/lateral-squat-0.jpg
+  teaser: /assets/images/exercises/lateral-squat-0.jpg
+categories:
+training_type: 
+  - Mobilisering
+  - Strækøvelser
+  - Styrketræning
+training_focus: 
+equipment:
+  - kropsvægt
+muscle_group:
+alternative_titles:
+  - Lateral Lunge
+gallery:
+  - url: /assets/lateral-squat-0.jpg
+    image_path: /assets/images/exercises/lateral-squat-0.jpg
+    alt: "Lateral lunge, bodyweight"
+    title: "Lateral lunge, bodyweight"
+  - url: /assets/lateral-squat-1.jpg
+    image_path: /assets/images/exercises/lateral-squat-1.jpg
+    alt: "Lateral lunge, bodyweight"
+    title: "Lateral lunge, bodyweight"
+last_modified_at: 2015-10-20T11:17:37Z
+---
+
+Bredstående udgangsposition med en vægtstang på skuldrenen. Læg vægten på det ene ben samtidig med, at du bøjer benet. Kom tilbage til udgangspositionen og lav bevægelsen til den anden side. Husk, at knæ og tæer skal i samme retning.

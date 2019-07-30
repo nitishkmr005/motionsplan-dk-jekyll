@@ -1,0 +1,43 @@
+---
+title: "Triceps liggende"
+excerpt: "Liggende på en bænk og sænk armene bag hovedet til vandret."
+redirect_from: /oevelse/triceps-liggende
+language: da
+header:
+  overlay_image: /assets/images/exercises/triceps-liggende-0.jpg
+  teaser: /assets/images/exercises/triceps-liggende-0.jpg
+categories:
+  - Træk
+training_type: 
+  - Styrketræning
+training_focus: 
+  - træk lodret
+equipment:
+  - håndvægte
+muscle_group:
+  - Arme
+  - Bryst
+  - Skuldre
+alternative_titles:
+  - Lunges spring
+  - Englehop
+  - Dynamisk lunges
+  - Lunges plyo
+  - Lunges plyometrisk
+gallery:
+  - url: /assets/triceps-liggende-0.jpg
+    image_path: /assets/images/exercises/triceps-liggende-0.jpg
+    alt: "Triceps liggende"
+    title: "Triceps liggende"
+  - url: /assets/triceps-liggende-1.jpg
+    image_path: /assets/images/exercises/triceps-liggende-1.jpg
+    alt: "Triceps liggende"
+    title: "Triceps liggende"
+  - url: /assets/triceps-liggende-2.jpg
+    image_path: /assets/images/exercises/triceps-liggende-2.jpg
+    alt: "Triceps liggende"
+    title: "Triceps liggende"
+last_modified_at: 2014-10-14T10:51:30Z
+---
+
+Liggende udstrakt på en flad bænk med en håndvægt i begge hænder. Strakte arme. Sænk armene bag hovedet til vandret og løft tilbage til udgangspositionen.

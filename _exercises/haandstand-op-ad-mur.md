@@ -1,0 +1,24 @@
+---
+title: "Håndstand op ad mur"
+excerpt: "Lav en håndstand op ad en mur."
+redirect_from: /oevelse/haandstand-op-ad-mur
+language: da
+header:
+  overlay_image: /assets/images/exercises/haandstand-op-ad-mur-0.jpg
+  teaser: /assets/images/exercises/haandstand-op-ad-mur-0.jpg
+categories:
+training_type: 
+training_focus: 
+equipment:
+muscle_group:
+alternative_titles:
+  - deadlift
+gallery:
+  - url: /assets/haandstand-op-ad-mur-0.jpg
+    image_path: /assets/images/exercises/haandstand-op-ad-mur-0.jpg
+    alt: "Håndstand op ad mur"
+    title: "Håndstand op ad mur"
+last_modified_at: 2011-04-04T21:22:02Z
+---
+
+Lav en håndstand op ad en mur.

@@ -1,0 +1,42 @@
+---
+title: "Rotatormanchetten, lateral raise"
+excerpt: "Løft vægten sidelæns op med 90 grader bøjede arme til de er på højde med skuldrene. Herfra roterer du i overarmen så underarmene bliver lodrette, men overarmen bliver på samme sted. Sænk langsomt ned, hvor du laver de to trin baglæns."
+redirect_from: /oevelse/l-lateral-raise
+language: da
+header:
+  overlay_image: /assets/images/exercises/l-lateral-raise-0.JPG
+  teaser: /assets/images/exercises/l-lateral-raise-0.JPG
+categories:
+training_type: 
+training_focus: 
+  - 
+equipment:
+  - håndvægte
+muscle_group:
+alternative_titles:
+  - L lateral raise
+gallery:
+  - url: /assets/l-lateral-raise-0.JPG
+    image_path: /assets/images/exercises/l-lateral-raise-0.JPG
+    alt: "Rotatormanchetten, lateral raise"
+    title: "Rotatormanchetten, lateral raise"
+  - url: /assets/l-lateral-raise-1.JPG
+    image_path: /assets/images/exercises/l-lateral-raise-1.JPG
+    alt: "Rotatormanchetten, lateral raise"
+    title: "Rotatormanchetten, lateral raise"
+  - url: /assets/l-lateral-raise-2.JPG
+    image_path: /assets/images/exercises/l-lateral-raise-2.JPG
+    alt: "Rotatormanchetten, lateral raise"
+    title: "Rotatormanchetten, lateral raise"
+  - url: /assets/l-lateral-raise-3.JPG
+    image_path: /assets/images/exercises/l-lateral-raise-3.JPG
+    alt: "Rotatormanchetten, lateral raise"
+    title: "Rotatormanchetten, lateral raise"
+  - url: /assets/l-lateral-raise-4.JPG
+    image_path: /assets/images/exercises/l-lateral-raise-4.JPG
+    alt: "Rotatormanchetten, lateral raise"
+    title: "Rotatormanchetten, lateral raise"
+last_modified_at: 2011-04-16T07:23:24Z
+---
+
+En god øvelse til at træne rotatormanchetten.

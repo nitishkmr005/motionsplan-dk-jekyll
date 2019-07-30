@@ -1,0 +1,24 @@
+---
+title: "Træn med en makker"
+redirect_from: /artikel/traen-med-en-makker
+language: da
+header:
+  overlay_image: /assets/images/JAY_SULLIVAN_PHOTOGRAPHER_B8P3227.jpg
+  teaser: /assets/images/JAY_SULLIVAN_PHOTOGRAPHER_B8P3227.jpg
+tags:
+  - styrketræning
+  - makkerøvelser
+  - træning
+category:
+  - Styrketræning
+last_modified_at: 2013-02-13T22:19:00Z
+---
+
+Vi har på det seneste eksperimenteret lidt med forskellige [makkerøvelser](http://motionsplan.dk/kategori/tags/makkeroevelse). At træne med en makker giver en række fordele:
+
+- **Motivation**. Det er motiverende at træne med en makker, fordi man hele tiden kan presse hinanden under træningen.
+- **Vedholdenhed**. Når man laver aftaler med andre, så er det vanskeligere at blive siddende hjemme på terassen i det gode vejr.
+
+En rigtig god måde at træne med en makker på, er at kombinere intervalløb med styrkeøvelser, hvor man bruger hinanden som belastning. Du kan se en masse forslag under vores [makkerøvelser](http://motionsplan.dk/kategori/tags/makkeroevelse).
+
+Men hvad er dine erfaringer med at træne med en makker, og hvilke øvelser plejer I at bruge? Giv din mening til kende i kommentarerne.

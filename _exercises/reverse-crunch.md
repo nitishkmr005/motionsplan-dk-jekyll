@@ -1,0 +1,35 @@
+---
+title: "Mave, Reverse crunch"
+excerpt: "Lig på ryggen og hold fast med armene. Før derefter knæene op mod skuldrene."
+redirect_from: /oevelse/reverse-crunch
+language: da
+header:
+  overlay_image: /assets/images/exercises/reverse-crunch-0.jpg
+  teaser: /assets/images/exercises/reverse-crunch-0.jpg
+categories:
+  - Kropsstamme
+training_type: 
+  - Styrketræning
+training_focus: 
+  - kropsstamme
+equipment:
+  - kropsvægt
+muscle_group:
+  - Mave
+alternative_titles:gallery:
+  - url: /assets/reverse-crunch-0.jpg
+    image_path: /assets/images/exercises/reverse-crunch-0.jpg
+    alt: "Mave, Reverse crunch"
+    title: "Mave, Reverse crunch"
+  - url: /assets/reverse-crunch-1.jpg
+    image_path: /assets/images/exercises/reverse-crunch-1.jpg
+    alt: "Mave, Reverse crunch"
+    title: "Mave, Reverse crunch"
+  - url: /assets/reverse-crunch-2.jpg
+    image_path: /assets/images/exercises/reverse-crunch-2.jpg
+    alt: "Mave, Reverse crunch"
+    title: "Mave, Reverse crunch"
+last_modified_at: 2016-10-18T07:22:36Z
+---
+
+Lig dig på ryggen og hold fast i noget med armene. Bøj knæene og løft fødderne op fra gulvet. Nu fører du knæene op mod skuldrene ved at starte bevægelsen i maven. Du skal altså ikke kippe med benene.

@@ -1,0 +1,38 @@
+---
+title: "Roning, enarms med kettlebell"
+excerpt: ""
+redirect_from: /oevelse/roning-enarms-med-kettlebell
+language: da
+header:
+  overlay_image: /assets/images/exercises/roning-enarms-med-kettlebell-0.jpg
+  teaser: /assets/images/exercises/roning-enarms-med-kettlebell-0.jpg
+categories:
+  - Træk
+training_type: 
+  - Styrketræning
+training_focus: 
+  - træk vandret
+equipment:
+  - kettlebell
+muscle_group:
+  - Arme
+  - Øvre ryg
+alternative_titles:
+  - 
+gallery:
+  - url: /assets/roning-enarms-med-kettlebell-0.jpg
+    image_path: /assets/images/exercises/roning-enarms-med-kettlebell-0.jpg
+    alt: "Roning, enarms med kettlebell"
+    title: "Roning, enarms med kettlebell"
+  - url: /assets/roning-enarms-med-kettlebell-1.jpg
+    image_path: /assets/images/exercises/roning-enarms-med-kettlebell-1.jpg
+    alt: "Roning, enarms med kettlebell"
+    title: "Roning, enarms med kettlebell"
+  - url: /assets/roning-enarms-med-kettlebell-2.jpg
+    image_path: /assets/images/exercises/roning-enarms-med-kettlebell-2.jpg
+    alt: "Roning, enarms med kettlebell"
+    title: "Roning, enarms med kettlebell"
+last_modified_at: 2015-04-07T11:47:12Z
+---
+
+

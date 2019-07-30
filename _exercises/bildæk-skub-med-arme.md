@@ -1,0 +1,29 @@
+---
+title: "Bildæk, skub med arme"
+excerpt: ""
+redirect_from: /oevelse/bildæk-skub-med-arme
+language: da
+header:
+  overlay_image: /assets/images/exercises/bildæk-skub-med-arme-0.jpg
+  teaser: /assets/images/exercises/bildæk-skub-med-arme-0.jpg
+categories:
+  - Pres
+training_type: 
+training_focus: 
+equipment:
+muscle_group:
+alternative_titles:
+  - 
+gallery:
+  - url: /assets/bildæk-skub-med-arme-0.jpg
+    image_path: /assets/images/exercises/bildæk-skub-med-arme-0.jpg
+    alt: "Bildæk, skub med arme"
+    title: "Bildæk, skub med arme"
+  - url: /assets/bildæk-skub-med-arme-1.jpg
+    image_path: /assets/images/exercises/bildæk-skub-med-arme-1.jpg
+    alt: "Bildæk, skub med arme"
+    title: "Bildæk, skub med arme"
+last_modified_at: 2014-10-03T10:16:17Z
+---
+
+

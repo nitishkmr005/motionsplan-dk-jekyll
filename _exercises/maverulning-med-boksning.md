@@ -1,0 +1,41 @@
+---
+title: "Maverulning med boksning"
+excerpt: ""
+redirect_from: /oevelse/maverulning-med-boksning
+language: da
+header:
+  overlay_image: /assets/images/exercises/maverulning-med-boksning-0.jpg
+  teaser: /assets/images/exercises/maverulning-med-boksning-0.jpg
+categories:
+  - Kropsstamme
+training_type: 
+  - Styrketræning
+training_focus: 
+  - kropsstamme
+equipment:
+  - kropsvægt
+muscle_group:
+  - Mave
+alternative_titles:
+  - 
+gallery:
+  - url: /assets/maverulning-med-boksning-0.jpg
+    image_path: /assets/images/exercises/maverulning-med-boksning-0.jpg
+    alt: "Maverulning med boksning"
+    title: "Maverulning med boksning"
+  - url: /assets/maverulning-med-boksning-1.jpg
+    image_path: /assets/images/exercises/maverulning-med-boksning-1.jpg
+    alt: "Maverulning med boksning"
+    title: "Maverulning med boksning"
+  - url: /assets/maverulning-med-boksning-2.jpg
+    image_path: /assets/images/exercises/maverulning-med-boksning-2.jpg
+    alt: "Maverulning med boksning"
+    title: "Maverulning med boksning"
+  - url: /assets/maverulning-med-boksning-3.jpg
+    image_path: /assets/images/exercises/maverulning-med-boksning-3.jpg
+    alt: "Maverulning med boksning"
+    title: "Maverulning med boksning"
+last_modified_at: 2015-04-07T11:57:18Z
+---
+
+

@@ -1,0 +1,53 @@
+---
+title: "Burpees"
+excerpt: "Sæt hænderne ned til fødderne. Spring tilbage med fødderne. Lig dig fladt ned på gulvet. Spring igen frem med fødderne, så du står på hele fodsålen. Herfra springer du op i luften og klapper over hovedet og bag ved ørelinjen. Start forfra."
+redirect_from: /oevelse/burpees
+language: da
+header:
+  overlay_image: /assets/images/exercises/burpees-0.JPG
+  teaser: /assets/images/exercises/burpees-0.JPG
+categories:
+  - Kondition og puls
+  - 
+training_type: 
+  - Kondition
+training_focus: 
+  - 
+  - helkropsøvelse
+  - 
+equipment:
+  - kropsvægt
+muscle_group:
+alternative_titles:
+  - burpee
+gallery:
+  - url: /assets/burpees-0.JPG
+    image_path: /assets/images/exercises/burpees-0.JPG
+    alt: "Burpees"
+    title: "Burpees"
+  - url: /assets/burpees-1.JPG
+    image_path: /assets/images/exercises/burpees-1.JPG
+    alt: "Burpees"
+    title: "Burpees"
+  - url: /assets/burpees-2.JPG
+    image_path: /assets/images/exercises/burpees-2.JPG
+    alt: "Burpees"
+    title: "Burpees"
+  - url: /assets/burpees-3.JPG
+    image_path: /assets/images/exercises/burpees-3.JPG
+    alt: "Burpees"
+    title: "Burpees"
+  - url: /assets/burpees-4.JPG
+    image_path: /assets/images/exercises/burpees-4.JPG
+    alt: "Burpees"
+    title: "Burpees"
+last_modified_at: 2014-10-10T21:05:16Z
+---
+
+Start stående. Sæt hænderne ved fødderne. Spring tilbage med fødderne, så du kommer til at stå i armstrækningsposition. Lig dig ned på maven. Spring herfra igen med fødderne hen til hænderne. Rejs dig op. Spring op i luften og sørg for at hofte og knæ er strakte, og klap med hænderne.
+
+For at få en gentagelse godkendt i crossfit, skal klappet foregå bag ved ørelinjen - og kroppen skal være strakt, når du springer.
+
+For en sikkerheds skyld bør du lande med fødderne i squat position og stå gerne på flad fod, inden du springer.
+
+Giv efter i benene når du lander og start forfra med en armstrækning. Dette er en virkelig hård øvelse.

@@ -1,0 +1,25 @@
+---
+title: "Løb"
+excerpt: "Løb"
+redirect_from: /oevelse/loeb
+language: da
+header:
+  overlay_image: /assets/images/exercises/loeb-0.jpg
+  teaser: /assets/images/exercises/loeb-0.jpg
+categories:
+training_type: 
+  - Kondition
+training_focus: 
+equipment:
+muscle_group:
+alternative_titles:
+  - burpee
+gallery:
+  - url: /assets/loeb-0.jpg
+    image_path: /assets/images/exercises/loeb-0.jpg
+    alt: "Løb"
+    title: "Løb"
+last_modified_at: 2014-10-12T14:38:54Z
+---
+
+Løb
