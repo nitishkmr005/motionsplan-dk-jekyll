@@ -6,6 +6,9 @@ language: da
 header:
   overlay_image: /assets/images/exercises/armstrækning-trx-0.jpg
   teaser: /assets/images/exercises/armstrækning-trx-0.jpg
+tags:
+  - Pres
+  - trx
 categories:
   - Pres
 training_type: 

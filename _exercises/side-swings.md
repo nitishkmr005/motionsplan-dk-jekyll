@@ -6,6 +6,11 @@ language: da
 header:
   overlay_image: /assets/images/exercises/side-swings-0.jpg
   teaser: /assets/images/exercises/side-swings-0.jpg
+tags:
+  - kropsstamme
+  - træstub
+  - vægtskive
+  - sten
 categories:
 training_type: 
 training_focus: 

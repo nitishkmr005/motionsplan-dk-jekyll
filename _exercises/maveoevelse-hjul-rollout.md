@@ -6,6 +6,10 @@ language: da
 header:
   overlay_image: /assets/images/exercises/maveoevelse-hjul-rollout-0.jpg
   teaser: /assets/images/exercises/maveoevelse-hjul-rollout-0.jpg
+tags:
+  - kropsstamme
+  - hjul
+  - 
 categories:
 training_type: 
 training_focus: 

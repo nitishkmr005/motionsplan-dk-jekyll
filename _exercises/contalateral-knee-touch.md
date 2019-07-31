@@ -6,6 +6,13 @@ language: da
 header:
   overlay_image: /assets/images/exercises/contalateral-knee-touch-0.jpg
   teaser: /assets/images/exercises/contalateral-knee-touch-0.jpg
+tags:
+  - Kropsstamme
+  - Balance
+  - kropsstamme
+  - kropsvægt
+  - Core
+  - Mave
 categories:
   - Kropsstamme
 training_type: 

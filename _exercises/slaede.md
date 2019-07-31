@@ -6,6 +6,8 @@ language: da
 header:
   overlay_image: /assets/images/exercises/slaede-0.jpg
   teaser: /assets/images/exercises/slaede-0.jpg
+tags:
+  - slæde
 categories:
 training_type: 
 training_focus: 

@@ -6,6 +6,9 @@ language: da
 header:
   overlay_image: /assets/images/exercises/balance-paa-bold-staaende-0.jpg
   teaser: /assets/images/exercises/balance-paa-bold-staaende-0.jpg
+tags:
+  - swissball
+  - Core
 categories:
 training_type: 
 training_focus: 

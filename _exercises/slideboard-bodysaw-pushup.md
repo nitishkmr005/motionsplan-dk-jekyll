@@ -3,6 +3,15 @@ title: "Slideboard bodysaw pushup"
 excerpt: ""
 permalink: /oevelse/slideboard-bodysaw-pushup
 language: da
+tags:
+  - Kropsstamme
+  - Balance
+  - Styrketræning
+  - skub vandret
+  - kropsstamme
+  - kropsvægt
+  - Arme
+  - Bryst
 categories:
   - Kropsstamme
 training_type: 

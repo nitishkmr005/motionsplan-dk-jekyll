@@ -6,6 +6,15 @@ language: da
 header:
   overlay_image: /assets/images/exercises/squat-and-lunge-complex-0.jpg
   teaser: /assets/images/exercises/squat-and-lunge-complex-0.jpg
+tags:
+  - Helkropsøvelse
+  - Styrketræning
+  - knædomineret
+  - kropsvægt
+  - Baglår
+  - Baller
+  - Forlår
+  - Lægge
 categories:
   - Helkropsøvelse
 training_type: 

@@ -6,6 +6,15 @@ language: da
 header:
   overlay_image: /assets/images/exercises/traek-til-ansigt-0.JPG
   teaser: /assets/images/exercises/traek-til-ansigt-0.JPG
+tags:
+  - Træk
+  - Balance
+  - Mobilisering
+  - Styrketræning
+  - træk vandret
+  - kabeltræk
+  - Skuldre
+  - Øvre ryg
 categories:
   - Træk
 training_type: 

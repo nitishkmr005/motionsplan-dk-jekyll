@@ -3,6 +3,7 @@ title: "Band Upright Row to Rotation"
 excerpt: ""
 permalink: /oevelse/band-upright-row-rotation
 language: da
+tags:
 categories:
 training_type: 
 training_focus: 

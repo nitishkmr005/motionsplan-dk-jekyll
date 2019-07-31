@@ -6,9 +6,17 @@ language: da
 header:
   overlay_image: /assets/images/exercises/mountainclimber-paa-stepbaenk-0.jpg
   teaser: /assets/images/exercises/mountainclimber-paa-stepbaenk-0.jpg
+tags:
+  - Kondition og puls
+  - Kondition
+  - helkropsøvelse
+  - bænk
+  - Step
+  - Hoftebøjere
+  - Lægge
+  - Mave
 categories:
   - Kondition og puls
-  - <p>Primært fokus på kredsløbstræning, som giver høj puls og belaster det aerobe system maksimalt.</p>
 training_type: 
   - Kondition
 training_focus: 

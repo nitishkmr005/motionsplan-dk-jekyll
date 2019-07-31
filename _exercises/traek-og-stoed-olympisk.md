@@ -6,6 +6,9 @@ language: da
 header:
   overlay_image: /assets/images/exercises/traek-og-stoed-olympisk-0.JPG
   teaser: /assets/images/exercises/traek-og-stoed-olympisk-0.JPG
+tags:
+  - helkropsøvelse
+  - vægtstang
 categories:
 training_type: 
 training_focus: 

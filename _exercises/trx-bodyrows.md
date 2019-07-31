@@ -3,6 +3,7 @@ title: "TRX Bodyrows"
 excerpt: ""
 permalink: /oevelse/trx-bodyrows
 language: da
+tags:
 categories:
 training_type: 
 training_focus: 

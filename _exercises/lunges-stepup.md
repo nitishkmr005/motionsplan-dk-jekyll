@@ -6,6 +6,16 @@ language: da
 header:
   overlay_image: /assets/images/exercises/lunges-stepup-0.jpg
   teaser: /assets/images/exercises/lunges-stepup-0.jpg
+tags:
+  - Ben
+  - Styrketræning
+  - knædomineret
+  - bænk
+  - kasse
+  - plint
+  - vægtstang
+  - Baller
+  - Forlår
 categories:
   - Ben
 training_type: 

@@ -6,6 +6,12 @@ language: da
 header:
   overlay_image: /assets/images/exercises/skulderpres-0.JPG
   teaser: /assets/images/exercises/skulderpres-0.JPG
+tags:
+  - maskine
+  - 
+  - 
+  - 
+  - 
 categories:
 training_type: 
 training_focus: 

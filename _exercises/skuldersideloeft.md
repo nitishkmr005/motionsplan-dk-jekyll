@@ -6,6 +6,13 @@ language: da
 header:
   overlay_image: /assets/images/exercises/skuldersideloeft-0.jpg
   teaser: /assets/images/exercises/skuldersideloeft-0.jpg
+tags:
+  - Træk
+  - Styrketræning
+  - træk vandret
+  - håndvægte
+  - Skuldre
+  - Øvre ryg
 categories:
   - Træk
 training_type: 

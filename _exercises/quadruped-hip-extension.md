@@ -6,9 +6,15 @@ language: da
 header:
   overlay_image: /assets/images/exercises/quadruped-hip-extension-0.jpg
   teaser: /assets/images/exercises/quadruped-hip-extension-0.jpg
+tags:
+  - Koordination og balance
+  - Styrketræning
+  - hoftedomineret
+  - kropsstamme
+  - kropsvægt
+  - Baller
 categories:
   - Koordination og balance
-  - <p>Kombinationsøvelser med fokus på stabilitet, koordination og balancetræning. Her vælges gerne teknisk komplicerede øvelser, som udfordrer kropsstammen.</p>
 training_type: 
   - Styrketræning
 training_focus: 

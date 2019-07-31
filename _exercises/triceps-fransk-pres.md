@@ -6,6 +6,9 @@ language: da
 header:
   overlay_image: /assets/images/exercises/triceps-fransk-pres-0.jpg
   teaser: /assets/images/exercises/triceps-fransk-pres-0.jpg
+tags:
+  - vægtstang
+  - 
 categories:
 training_type: 
 training_focus: 

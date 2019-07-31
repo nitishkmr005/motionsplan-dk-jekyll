@@ -3,6 +3,9 @@ title: "SMR brystmuskel"
 excerpt: ""
 permalink: /oevelse/smr-brystmuskel
 language: da
+tags:
+  - Self Myofascial Release (SMR)
+  - lacrosse bold
 categories:
 training_type: 
   - Self Myofascial Release (SMR)

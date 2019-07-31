@@ -6,6 +6,8 @@ language: da
 header:
   overlay_image: /assets/images/exercises/stir-pot-0.JPG
   teaser: /assets/images/exercises/stir-pot-0.JPG
+tags:
+  - swissball
 categories:
 training_type: 
 training_focus: 

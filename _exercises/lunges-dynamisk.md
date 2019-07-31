@@ -6,6 +6,9 @@ language: da
 header:
   overlay_image: /assets/images/exercises/lunges-dynamisk-0.jpg
   teaser: /assets/images/exercises/lunges-dynamisk-0.jpg
+tags:
+  - knædomineret
+  - vægtstang
 categories:
 training_type: 
 training_focus: 

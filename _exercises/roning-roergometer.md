@@ -6,6 +6,9 @@ language: da
 header:
   overlay_image: /assets/images/exercises/roning-roergometer-0.JPG
   teaser: /assets/images/exercises/roning-roergometer-0.JPG
+tags:
+  - Kondition
+  - roergometer
 categories:
 training_type: 
   - Kondition

@@ -6,6 +6,13 @@ language: da
 header:
   overlay_image: /assets/images/exercises/dips-0.jpg
   teaser: /assets/images/exercises/dips-0.jpg
+tags:
+  - Pres
+  - Styrketræning
+  - skub lodret
+  - stativ
+  - Arme
+  - Bryst
 categories:
   - Pres
 training_type: 

@@ -6,6 +6,9 @@ language: da
 header:
   overlay_image: /assets/images/exercises/wall-slides-0.JPG
   teaser: /assets/images/exercises/wall-slides-0.JPG
+tags:
+  - kropsvægt
+  - mur
 categories:
 training_type: 
 training_focus: 

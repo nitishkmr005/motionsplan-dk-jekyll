@@ -6,6 +6,9 @@ language: da
 header:
   overlay_image: /assets/images/exercises/kast-bildaek-0.jpg
   teaser: /assets/images/exercises/kast-bildaek-0.jpg
+tags:
+  - Styrketræning
+  - bildæk
 categories:
 training_type: 
   - Styrketræning

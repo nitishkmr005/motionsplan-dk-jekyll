@@ -6,6 +6,14 @@ language: da
 header:
   overlay_image: /assets/images/exercises/triceps-liggende-0.jpg
   teaser: /assets/images/exercises/triceps-liggende-0.jpg
+tags:
+  - Træk
+  - Styrketræning
+  - træk lodret
+  - håndvægte
+  - Arme
+  - Bryst
+  - Skuldre
 categories:
   - Træk
 training_type: 

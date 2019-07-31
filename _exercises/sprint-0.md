@@ -6,9 +6,19 @@ language: da
 header:
   overlay_image: /assets/images/exercises/sprint-0-0.jpg
   teaser: /assets/images/exercises/sprint-0-0.jpg
+tags:
+  - Hård styrkeøvelse
+  - Kondition
+  - helkropsøvelse
+  - kropsvægt
+  - Baglår
+  - Baller
+  - Core
+  - Forlår
+  - Hoftebøjere
+  - Lægge
 categories:
   - Hård styrkeøvelse
-  - <p>Primært anaerobe styrkeøvelser med maksimal intensitet. Gruppen er hovedsageligt multiledsøvelser, hvor flere muskler udfordres samtidig.</p>
 training_type: 
   - Kondition
 training_focus: 

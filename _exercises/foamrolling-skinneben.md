@@ -3,6 +3,9 @@ title: "Foamrolling skinneben"
 excerpt: ""
 permalink: /oevelse/foamrolling-skinneben
 language: da
+tags:
+  - Self Myofascial Release (SMR)
+  - foamroller
 categories:
 training_type: 
   - Self Myofascial Release (SMR)

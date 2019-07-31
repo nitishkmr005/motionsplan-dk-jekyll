@@ -6,6 +6,8 @@ language: da
 header:
   overlay_image: /assets/images/exercises/bildæk-roning-med-arme-0.jpg
   teaser: /assets/images/exercises/bildæk-roning-med-arme-0.jpg
+tags:
+  - Træk
 categories:
   - Træk
 training_type: 

@@ -6,6 +6,9 @@ language: da
 header:
   overlay_image: /assets/images/exercises/mobilisering-ankel-0.jpg
   teaser: /assets/images/exercises/mobilisering-ankel-0.jpg
+tags:
+  - Strækøvelser
+  - kropsvægt
 categories:
 training_type: 
   - Strækøvelser

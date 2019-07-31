@@ -6,6 +6,12 @@ language: da
 header:
   overlay_image: /assets/images/exercises/shrug-0.JPG
   teaser: /assets/images/exercises/shrug-0.JPG
+tags:
+  - Træk
+  - Styrketræning
+  - træk lodret
+  - vægtstang
+  - Øvre ryg
 categories:
   - Træk
 training_type: 

@@ -3,6 +3,7 @@ title: "Plate loaded lateral lunge"
 excerpt: ""
 permalink: /oevelse/plate-loaded-lateral-lunge
 language: da
+tags:
 categories:
 training_type: 
 training_focus: 

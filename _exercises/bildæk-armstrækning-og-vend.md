@@ -6,6 +6,8 @@ language: da
 header:
   overlay_image: /assets/images/exercises/bildæk-armstrækning-og-vend-0.jpg
   teaser: /assets/images/exercises/bildæk-armstrækning-og-vend-0.jpg
+tags:
+  - Kropsstamme
 categories:
   - Kropsstamme
 training_type: 

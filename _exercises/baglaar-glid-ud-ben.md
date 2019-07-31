@@ -6,9 +6,12 @@ language: da
 header:
   overlay_image: /assets/images/exercises/baglaar-glid-ud-ben-0.jpg
   teaser: /assets/images/exercises/baglaar-glid-ud-ben-0.jpg
+tags:
+  - Koordination og balance
+  - hoftedomineret
+  - klud
 categories:
   - Koordination og balance
-  - <p>Kombinationsøvelser med fokus på stabilitet, koordination og balancetræning. Her vælges gerne teknisk komplicerede øvelser, som udfordrer kropsstammen.</p>
 training_type: 
 training_focus: 
   - hoftedomineret

@@ -6,6 +6,7 @@ language: da
 header:
   overlay_image: /assets/images/exercises/udstraekning-af-rygmusklerne-0.JPG
   teaser: /assets/images/exercises/udstraekning-af-rygmusklerne-0.JPG
+tags:
 categories:
 training_type: 
 training_focus: 

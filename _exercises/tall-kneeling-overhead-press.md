@@ -3,9 +3,14 @@ title: "Tall kneeling overhead press"
 excerpt: ""
 permalink: /oevelse/tall-kneeling-overhead-press
 language: da
+tags:
+  - Hård styrkeøvelse
+  - Styrketræning
+  - skub lodret
+  - kettlebell
+  - Skuldre
 categories:
   - Hård styrkeøvelse
-  - <p>Primært anaerobe styrkeøvelser med maksimal intensitet. Gruppen er hovedsageligt multiledsøvelser, hvor flere muskler udfordres samtidig.</p>
 training_type: 
   - Styrketræning
 training_focus: 

@@ -6,6 +6,16 @@ language: da
 header:
   overlay_image: /assets/images/exercises/rite-5-sael-og-omvendt-v-0.jpg
   teaser: /assets/images/exercises/rite-5-sael-og-omvendt-v-0.jpg
+tags:
+  - Kropsstamme
+  - Strækøvelser
+  - Styrketræning
+  - Yoga
+  - helkropsøvelse
+  - kropsvægt
+  - Baglår
+  - Core
+  - Mave
 categories:
   - Kropsstamme
 training_type: 

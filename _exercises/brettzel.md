@@ -6,6 +6,11 @@ language: da
 header:
   overlay_image: /assets/images/exercises/brettzel-0.jpg
   teaser: /assets/images/exercises/brettzel-0.jpg
+tags:
+  - Strækøvelser
+  - Baller
+  - Forlår
+  - Øvre ryg
 categories:
 training_type: 
   - Strækøvelser

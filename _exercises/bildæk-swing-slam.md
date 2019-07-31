@@ -6,6 +6,8 @@ language: da
 header:
   overlay_image: /assets/images/exercises/bildæk-swing-slam-0.jpg
   teaser: /assets/images/exercises/bildæk-swing-slam-0.jpg
+tags:
+  - Helkropsøvelse
 categories:
   - Helkropsøvelse
 training_type: 

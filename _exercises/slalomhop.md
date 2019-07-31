@@ -6,6 +6,9 @@ language: da
 header:
   overlay_image: /assets/images/exercises/slalomhop-0.gif
   teaser: /assets/images/exercises/slalomhop-0.gif
+tags:
+  - knædomineret
+  - kropsvægt
 categories:
 training_type: 
 training_focus: 

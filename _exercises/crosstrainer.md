@@ -3,6 +3,8 @@ title: "Crosstrainer"
 excerpt: "Crosstrainer"
 permalink: /oevelse/crosstrainer
 language: da
+tags:
+  - Kondition
 categories:
 training_type: 
   - Kondition

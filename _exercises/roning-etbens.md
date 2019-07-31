@@ -6,6 +6,14 @@ language: da
 header:
   overlay_image: /assets/images/exercises/roning-etbens-0.jpg
   teaser: /assets/images/exercises/roning-etbens-0.jpg
+tags:
+  - Træk
+  - Styrketræning
+  - træk vandret
+  - håndvægte
+  - Arme
+  - Skuldre
+  - Øvre ryg
 categories:
   - Træk
 training_type: 

@@ -3,6 +3,8 @@ title: "Cykel, kondicykel"
 excerpt: "Cykel, kondicykel"
 permalink: /oevelse/cykel-kondicykel
 language: da
+tags:
+  - Kondition
 categories:
 training_type: 
   - Kondition

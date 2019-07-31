@@ -3,6 +3,9 @@ title: "Vug på ryggen med benspark op"
 excerpt: "Du lægger dig på ryggen, og løfter ben og overkrop. Du vugger frem og tilbage, og ved hvert andet vug, løfter du benene højt op over hovedet."
 permalink: /oevelse/vug-paa-ryggen-med-benspark-op
 language: da
+tags:
+  - kropsstamme
+  - måtte
 categories:
 training_type: 
 training_focus: 

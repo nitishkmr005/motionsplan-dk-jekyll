@@ -6,6 +6,13 @@ language: da
 header:
   overlay_image: /assets/images/exercises/doedloeft-0.jpg
   teaser: /assets/images/exercises/doedloeft-0.jpg
+tags:
+  - Ben
+  - Styrketræning
+  - hoftedomineret
+  - vægtstang
+  - Baglår
+  - Baller
 categories:
   - Ben
 training_type: 

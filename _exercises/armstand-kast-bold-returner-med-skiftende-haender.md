@@ -5,6 +5,10 @@ excerpt: "Stil dig i udgangsposition til armstand. Få en makker til at kaste en
 Som en udvidelse kan du returnere bolden med skiftevis højre og venstre hånd. Bolden skal ikke kastes til den hånd den skal gribes med. Det vil være fint med krydsbevægelser. Fx gribe ind foran kroppen."
 permalink: /oevelse/armstand-kast-bold-returner-med-skiftende-haender
 language: da
+tags:
+  - kropsstamme
+  - måtte
+  - bold
 categories:
 training_type: 
 training_focus: 

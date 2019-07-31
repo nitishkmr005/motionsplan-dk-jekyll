@@ -6,6 +6,7 @@ language: da
 header:
   overlay_image: /assets/images/exercises/cable-cross-0.JPG
   teaser: /assets/images/exercises/cable-cross-0.JPG
+tags:
 categories:
 training_type: 
 training_focus: 

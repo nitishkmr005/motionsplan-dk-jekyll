@@ -6,6 +6,8 @@ language: da
 header:
   overlay_image: /assets/images/exercises/udstraekning-af-triceps-0.JPG
   teaser: /assets/images/exercises/udstraekning-af-triceps-0.JPG
+tags:
+  - Strækøvelser
 categories:
 training_type: 
   - Strækøvelser

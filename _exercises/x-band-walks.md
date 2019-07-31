@@ -6,6 +6,9 @@ language: da
 header:
   overlay_image: /assets/images/exercises/x-band-walks-0.jpg
   teaser: /assets/images/exercises/x-band-walks-0.jpg
+tags:
+  - kropsstamme
+  - elastik
 categories:
 training_type: 
 training_focus: 

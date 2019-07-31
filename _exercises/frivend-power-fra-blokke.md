@@ -6,6 +6,10 @@ language: da
 header:
   overlay_image: /assets/images/exercises/frivend-power-fra-blokke-0.jpg
   teaser: /assets/images/exercises/frivend-power-fra-blokke-0.jpg
+tags:
+  - hoftedomineret
+  - kasse
+  - vægtstang
 categories:
 training_type: 
 training_focus: 

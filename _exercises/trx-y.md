@@ -3,6 +3,12 @@ title: "TRX Y"
 excerpt: ""
 permalink: /oevelse/trx-y
 language: da
+tags:
+  - Balance
+  - kropsstamme
+  - trx
+  - Skuldre
+  - Øvre ryg
 categories:
 training_type: 
   - Balance

@@ -3,6 +3,7 @@ title: "Dips med makker"
 excerpt: "Parvis. Den ene støtter på armene og benene og skyder hoften op i vejret. Benene er rimeligt spredte. Den anden sætter armene på knæene og begynder at lave dips."
 permalink: /oevelse/dips-med-makker
 language: da
+tags:
 categories:
 training_type: 
 training_focus: 

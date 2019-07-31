@@ -3,6 +3,9 @@ title: "Vug på ryggen med frie hænder"
 excerpt: "Læg dig på ryggen, løft ben og overkrop fri af gulvet, og vug frem og tilbage uden at holde på benene med hænderne. Du kan også starte med at have benene på knæene."
 permalink: /oevelse/vug-paa-ryggen-med-frie-haender
 language: da
+tags:
+  - kropsstamme
+  - måtte
 categories:
 training_type: 
 training_focus: 

@@ -6,6 +6,10 @@ language: da
 header:
   overlay_image: /assets/images/exercises/frivend-og-stoed-0.jpg
   teaser: /assets/images/exercises/frivend-og-stoed-0.jpg
+tags:
+  - helkropsøvelse
+  - flise
+  - dunk
 categories:
 training_type: 
 training_focus: 

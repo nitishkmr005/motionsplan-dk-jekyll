@@ -6,6 +6,16 @@ language: da
 header:
   overlay_image: /assets/images/exercises/gunthers-backextension-0.JPG
   teaser: /assets/images/exercises/gunthers-backextension-0.JPG
+tags:
+  - Kropsstamme
+  - Styrketræning
+  - kropsstamme
+  - håndvægte
+  - skrå bænk
+  - Baglår
+  - Baller
+  - Ryg
+  - Øvre ryg
 categories:
   - Kropsstamme
 training_type: 

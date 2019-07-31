@@ -6,9 +6,10 @@ language: da
 header:
   overlay_image: /assets/images/exercises/bildæk-prowler-0.jpg
   teaser: /assets/images/exercises/bildæk-prowler-0.jpg
+tags:
+  - Kondition og puls
 categories:
   - Kondition og puls
-  - <p>Primært fokus på kredsløbstræning, som giver høj puls og belaster det aerobe system maksimalt.</p>
 training_type: 
 training_focus: 
 equipment:

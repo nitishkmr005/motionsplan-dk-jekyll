@@ -6,6 +6,10 @@ language: da
 header:
   overlay_image: /assets/images/exercises/hammer-swings-0.jpg
   teaser: /assets/images/exercises/hammer-swings-0.jpg
+tags:
+  - helkropsøvelse
+  - hammer
+  - traktordæk
 categories:
 training_type: 
 training_focus: 

@@ -6,6 +6,9 @@ language: da
 header:
   overlay_image: /assets/images/exercises/armstraekning-med-rows-0.JPG
   teaser: /assets/images/exercises/armstraekning-med-rows-0.JPG
+tags:
+  - Pres
+  - håndvægte
 categories:
   - Pres
 training_type: 

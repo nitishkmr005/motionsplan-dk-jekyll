@@ -6,6 +6,14 @@ language: da
 header:
   overlay_image: /assets/images/exercises/step-out-high-lift-cable-0.jpg
   teaser: /assets/images/exercises/step-out-high-lift-cable-0.jpg
+tags:
+  - Kropsstamme
+  - Balance
+  - Styrketræning
+  - kropsstamme
+  - kabeltræk
+  - Core
+  - Mave
 categories:
   - Kropsstamme
 training_type: 

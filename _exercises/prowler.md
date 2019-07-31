@@ -6,6 +6,17 @@ language: da
 header:
   overlay_image: /assets/images/exercises/prowler-0.jpg
   teaser: /assets/images/exercises/prowler-0.jpg
+tags:
+  - Helkropsøvelse
+  - Kondition
+  - Styrketræning
+  - helkropsøvelse
+  - prowler
+  - Baglår
+  - Baller
+  - Forlår
+  - Hoftebøjere
+  - Lægge
 categories:
   - Helkropsøvelse
 training_type: 

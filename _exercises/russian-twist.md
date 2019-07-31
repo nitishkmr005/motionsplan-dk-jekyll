@@ -6,6 +6,13 @@ language: da
 header:
   overlay_image: /assets/images/exercises/russian-twist-0.jpg
   teaser: /assets/images/exercises/russian-twist-0.jpg
+tags:
+  - Kropsstamme
+  - Styrketræning
+  - kropsstamme
+  - håndvægte
+  - kropsvægt
+  - Mave
 categories:
   - Kropsstamme
 training_type: 

@@ -6,6 +6,16 @@ language: da
 header:
   overlay_image: /assets/images/exercises/lunges-med-en-haandvaegt-over-hovedet-0.JPG
   teaser: /assets/images/exercises/lunges-med-en-haandvaegt-over-hovedet-0.JPG
+tags:
+  - Helkropsøvelse
+  - Styrketræning
+  - knædomineret
+  - kropsstamme
+  - helkropsøvelse
+  - håndvægte
+  - Baller
+  - Core
+  - Forlår
 categories:
   - Helkropsøvelse
 training_type: 

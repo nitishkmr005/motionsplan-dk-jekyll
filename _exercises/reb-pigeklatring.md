@@ -6,9 +6,11 @@ language: da
 header:
   overlay_image: /assets/images/exercises/reb-pigeklatring-0.jpg
   teaser: /assets/images/exercises/reb-pigeklatring-0.jpg
+tags:
+  - Hård styrkeøvelse
+  - tov
 categories:
   - Hård styrkeøvelse
-  - <p>Primært anaerobe styrkeøvelser med maksimal intensitet. Gruppen er hovedsageligt multiledsøvelser, hvor flere muskler udfordres samtidig.</p>
 training_type: 
 training_focus: 
 equipment:

@@ -6,6 +6,14 @@ language: da
 header:
   overlay_image: /assets/images/exercises/squat-mobiliseringsøvelse-0.jpg
   teaser: /assets/images/exercises/squat-mobiliseringsøvelse-0.jpg
+tags:
+  - Ben
+  - Mobilisering
+  - knædomineret
+  - kropsvægt
+  - Baller
+  - Forlår
+  - Øvre ryg
 categories:
   - Ben
 training_type: 

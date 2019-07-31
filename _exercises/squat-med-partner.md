@@ -6,6 +6,10 @@ language: da
 header:
   overlay_image: /assets/images/exercises/squat-med-partner-0.jpg
   teaser: /assets/images/exercises/squat-med-partner-0.jpg
+tags:
+  - Ben
+  - knædomineret
+  - planke
 categories:
   - Ben
 training_type: 

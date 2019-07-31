@@ -6,6 +6,11 @@ language: da
 header:
   overlay_image: /assets/images/exercises/rygoevelse-paa-bold-0.JPG
   teaser: /assets/images/exercises/rygoevelse-paa-bold-0.JPG
+tags:
+  - Styrketræning
+  - kropsstamme
+  - swissball
+  - 
 categories:
 training_type: 
   - Styrketræning

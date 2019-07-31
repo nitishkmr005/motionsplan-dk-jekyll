@@ -3,6 +3,12 @@ title: "Side windmill"
 excerpt: ""
 permalink: /oevelse/side-windmill
 language: da
+tags:
+  - Kropsstamme
+  - Styrketræning
+  - kropsstamme
+  - kettlebell
+  - Mave
 categories:
   - Kropsstamme
 training_type: 

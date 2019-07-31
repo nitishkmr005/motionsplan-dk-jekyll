@@ -3,6 +3,12 @@ title: "Quadroped extension rotation"
 excerpt: ""
 permalink: /oevelse/quadroped-extension-rotation
 language: da
+tags:
+  - Kropsstamme
+  - Mobilisering
+  - kropsstamme
+  - kropsvægt
+  - Øvre ryg
 categories:
   - Kropsstamme
 training_type: 

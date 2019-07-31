@@ -6,6 +6,8 @@ language: da
 header:
   overlay_image: /assets/images/exercises/skulder-shrugs-armstraekningsposition-0.jpg
   teaser: /assets/images/exercises/skulder-shrugs-armstraekningsposition-0.jpg
+tags:
+  - kropsvægt
 categories:
 training_type: 
 training_focus: 

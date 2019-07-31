@@ -6,6 +6,14 @@ language: da
 header:
   overlay_image: /assets/images/exercises/armstraekning-haenderne-haevet-0.jpg
   teaser: /assets/images/exercises/armstraekning-haenderne-haevet-0.jpg
+tags:
+  - Styrketræning
+  - skub vandret
+  - bænk
+  - kropsvægt
+  - Step
+  - Arme
+  - Bryst
 categories:
 training_type: 
   - Styrketræning

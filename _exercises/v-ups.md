@@ -6,6 +6,12 @@ language: da
 header:
   overlay_image: /assets/images/exercises/v-ups-0.jpg
   teaser: /assets/images/exercises/v-ups-0.jpg
+tags:
+  - Kropsstamme
+  - Styrketræning
+  - kropsstamme
+  - kropsvægt
+  - Mave
 categories:
   - Kropsstamme
 training_type: 

@@ -3,6 +3,12 @@ title: "Bottom up KB carry"
 excerpt: ""
 permalink: /oevelse/bottom-kb-carry
 language: da
+tags:
+  - Kropsstamme
+  - Balance
+  - kropsstamme
+  - kettlebell
+  - Skuldre
 categories:
   - Kropsstamme
 training_type: 

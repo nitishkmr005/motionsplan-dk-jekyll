@@ -6,6 +6,9 @@ language: da
 header:
   overlay_image: /assets/images/exercises/foamrolling-it-band-0.jpg
   teaser: /assets/images/exercises/foamrolling-it-band-0.jpg
+tags:
+  - Self Myofascial Release (SMR)
+  - foamroller
 categories:
 training_type: 
   - Self Myofascial Release (SMR)

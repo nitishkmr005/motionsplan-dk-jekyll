@@ -6,6 +6,13 @@ language: da
 header:
   overlay_image: /assets/images/exercises/back-squat-0.jpg
   teaser: /assets/images/exercises/back-squat-0.jpg
+tags:
+  - Ben
+  - Styrketræning
+  - knædomineret
+  - vægtstang
+  - Baller
+  - Forlår
 categories:
   - Ben
 training_type: 

@@ -6,6 +6,11 @@ language: da
 header:
   overlay_image: /assets/images/exercises/trilleboer-0.jpg
   teaser: /assets/images/exercises/trilleboer-0.jpg
+tags:
+  - Kropsstamme
+  - kropsstamme
+  - makker
+  - kropsvægt
 categories:
   - Kropsstamme
 training_type: 

@@ -6,9 +6,16 @@ language: da
 header:
   overlay_image: /assets/images/exercises/pistol-0.JPG
   teaser: /assets/images/exercises/pistol-0.JPG
+tags:
+  - Hård styrkeøvelse
+  - Styrketræning
+  - knædomineret
+  - helkropsøvelse
+  - kropsvægt
+  - Baller
+  - Forlår
 categories:
   - Hård styrkeøvelse
-  - <p>Primært anaerobe styrkeøvelser med maksimal intensitet. Gruppen er hovedsageligt multiledsøvelser, hvor flere muskler udfordres samtidig.</p>
 training_type: 
   - Styrketræning
 training_focus: 

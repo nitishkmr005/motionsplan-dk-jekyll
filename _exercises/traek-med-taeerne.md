@@ -6,6 +6,8 @@ language: da
 header:
   overlay_image: /assets/images/exercises/traek-med-taeerne-0.jpeg
   teaser: /assets/images/exercises/traek-med-taeerne-0.jpeg
+tags:
+  - måtte
 categories:
 training_type: 
 training_focus: 

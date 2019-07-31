@@ -6,6 +6,8 @@ language: da
 header:
   overlay_image: /assets/images/exercises/cuban-press-0-0.JPG
   teaser: /assets/images/exercises/cuban-press-0-0.JPG
+tags:
+  - vægtstang
 categories:
 training_type: 
 training_focus: 

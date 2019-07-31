@@ -6,6 +6,8 @@ language: da
 header:
   overlay_image: /assets/images/exercises/sumo-doedloeft-0.jpg
   teaser: /assets/images/exercises/sumo-doedloeft-0.jpg
+tags:
+  - Ben
 categories:
   - Ben
 training_type: 

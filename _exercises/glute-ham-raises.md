@@ -6,6 +6,9 @@ language: da
 header:
   overlay_image: /assets/images/exercises/glute-ham-raises-0.jpg
   teaser: /assets/images/exercises/glute-ham-raises-0.jpg
+tags:
+  - hoftedomineret
+  - maskine
 categories:
 training_type: 
 training_focus: 

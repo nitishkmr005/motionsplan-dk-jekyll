@@ -6,6 +6,10 @@ language: da
 header:
   overlay_image: /assets/images/exercises/udstraekning-af-inderlaar-og-lyske-0.JPG
   teaser: /assets/images/exercises/udstraekning-af-inderlaar-og-lyske-0.JPG
+tags:
+  - Parøvelser
+  - Strækøvelser
+  - kropsvægt
 categories:
 training_type: 
   - Parøvelser

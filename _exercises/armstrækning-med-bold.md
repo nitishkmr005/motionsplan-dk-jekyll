@@ -6,6 +6,17 @@ language: da
 header:
   overlay_image: /assets/images/exercises/armstrækning-med-bold-0.jpg
   teaser: /assets/images/exercises/armstrækning-med-bold-0.jpg
+tags:
+  - Pres
+  - Styrketræning
+  - skub vandret
+  - kropsstamme
+  - bold
+  - Medicinbold
+  - Arme
+  - Bryst
+  - Core
+  - Mave
 categories:
   - Pres
 training_type: 

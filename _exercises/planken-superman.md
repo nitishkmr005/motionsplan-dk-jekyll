@@ -6,6 +6,14 @@ language: da
 header:
   overlay_image: /assets/images/exercises/planken-superman-0.jpg
   teaser: /assets/images/exercises/planken-superman-0.jpg
+tags:
+  - Kropsstamme
+  - Styrketræning
+  - kropsstamme
+  - kropsvægt
+  - Baller
+  - Core
+  - Mave
 categories:
   - Kropsstamme
 training_type: 

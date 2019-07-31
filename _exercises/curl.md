@@ -6,6 +6,12 @@ language: da
 header:
   overlay_image: /assets/images/exercises/curl-.jpg
   teaser: /assets/images/exercises/curl-.jpg
+tags:
+  - Kropsstamme
+  - Styrketræning
+  - kropsstamme
+  - kropsvægt
+  - Mave
 categories:
   - Kropsstamme
 training_type: 

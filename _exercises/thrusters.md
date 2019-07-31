@@ -6,6 +6,14 @@ language: da
 header:
   overlay_image: /assets/images/exercises/thrusters-0.jpg
   teaser: /assets/images/exercises/thrusters-0.jpg
+tags:
+  - Helkropsøvelse
+  - Styrketræning
+  - helkropsøvelse
+  - håndvægte
+  - Baller
+  - Forlår
+  - Skuldre
 categories:
   - Helkropsøvelse
 training_type: 

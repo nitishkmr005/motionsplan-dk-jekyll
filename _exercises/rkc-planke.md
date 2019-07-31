@@ -3,6 +3,12 @@ title: "RKC Planke"
 excerpt: ""
 permalink: /oevelse/rkc-planke
 language: da
+tags:
+  - Kropsstamme
+  - Styrketræning
+  - kropsstamme
+  - kropsvægt
+  - Mave
 categories:
   - Kropsstamme
 training_type: 

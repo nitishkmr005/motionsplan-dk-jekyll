@@ -6,6 +6,11 @@ language: da
 header:
   overlay_image: /assets/images/exercises/biceps-kabeltraek-0.JPG
   teaser: /assets/images/exercises/biceps-kabeltraek-0.JPG
+tags:
+  - kabeltræk
+  - 
+  - 
+  - 
 categories:
 training_type: 
 training_focus: 

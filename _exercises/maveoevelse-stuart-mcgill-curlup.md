@@ -6,6 +6,10 @@ language: da
 header:
   overlay_image: /assets/images/exercises/maveoevelse-stuart-mcgill-curlup-0.JPG
   teaser: /assets/images/exercises/maveoevelse-stuart-mcgill-curlup-0.JPG
+tags:
+  - kropsstamme
+  - kropsvægt
+  - 
 categories:
 training_type: 
 training_focus: 

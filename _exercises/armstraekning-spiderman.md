@@ -6,6 +6,9 @@ language: da
 header:
   overlay_image: /assets/images/exercises/armstraekning-spiderman-0.jpg
   teaser: /assets/images/exercises/armstraekning-spiderman-0.jpg
+tags:
+  - kropsstamme
+  - kropsvægt
 categories:
 training_type: 
 training_focus: 

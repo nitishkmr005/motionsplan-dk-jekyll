@@ -6,6 +6,10 @@ language: da
 header:
   overlay_image: /assets/images/exercises/sideloeft-foroverboejet-0.JPG
   teaser: /assets/images/exercises/sideloeft-foroverboejet-0.JPG
+tags:
+  - håndvægte
+  - 
+  - 
 categories:
 training_type: 
 training_focus: 

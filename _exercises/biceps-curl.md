@@ -6,6 +6,9 @@ language: da
 header:
   overlay_image: /assets/images/exercises/biceps-curl-0.jpg
   teaser: /assets/images/exercises/biceps-curl-0.jpg
+tags:
+  - håndvægte
+  - 
 categories:
 training_type: 
 training_focus: 

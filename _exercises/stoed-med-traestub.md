@@ -6,6 +6,12 @@ language: da
 header:
   overlay_image: /assets/images/exercises/stoed-med-traestub-0.jpg
   teaser: /assets/images/exercises/stoed-med-traestub-0.jpg
+tags:
+  - træstub
+  - 
+  - 
+  - 
+  - 
 categories:
 training_type: 
 training_focus: 

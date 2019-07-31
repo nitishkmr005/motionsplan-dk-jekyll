@@ -3,6 +3,12 @@ title: "Supine bridge and reach"
 excerpt: ""
 permalink: /oevelse/supine-bridge-and-reach
 language: da
+tags:
+  - Kropsstamme
+  - Balance
+  - Mobilisering
+  - kropsstamme
+  - kropsvægt
 categories:
   - Kropsstamme
 training_type: 

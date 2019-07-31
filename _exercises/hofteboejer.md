@@ -6,6 +6,10 @@ language: da
 header:
   overlay_image: /assets/images/exercises/hofteboejer-0.JPG
   teaser: /assets/images/exercises/hofteboejer-0.JPG
+tags:
+  - bar
+  - 
+  - 
 categories:
 training_type: 
 training_focus: 

@@ -6,6 +6,10 @@ language: da
 header:
   overlay_image: /assets/images/exercises/touch-toes-0.jpg
   teaser: /assets/images/exercises/touch-toes-0.jpg
+tags:
+  - Strækøvelser
+  - kropsvægt
+  - Baglår
 categories:
 training_type: 
   - Strækøvelser

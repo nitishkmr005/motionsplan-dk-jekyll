@@ -6,9 +6,13 @@ language: da
 header:
   overlay_image: /assets/images/exercises/burpees-0.JPG
   teaser: /assets/images/exercises/burpees-0.JPG
+tags:
+  - Kondition og puls
+  - Kondition
+  - helkropsøvelse
+  - kropsvægt
 categories:
   - Kondition og puls
-  - <p>Primært fokus på kredsløbstræning, som giver høj puls og belaster det aerobe system maksimalt.</p>
 training_type: 
   - Kondition
 training_focus: 

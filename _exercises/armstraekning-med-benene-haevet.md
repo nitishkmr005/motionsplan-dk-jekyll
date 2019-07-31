@@ -6,6 +6,10 @@ language: da
 header:
   overlay_image: /assets/images/exercises/armstraekning-med-benene-haevet-0.JPG
   teaser: /assets/images/exercises/armstraekning-med-benene-haevet-0.JPG
+tags:
+  - kropsvægt
+  - 
+  - 
 categories:
 training_type: 
 training_focus: 

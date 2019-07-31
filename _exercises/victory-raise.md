@@ -3,6 +3,12 @@ title: "Victory raise"
 excerpt: ""
 permalink: /oevelse/victory-raise
 language: da
+tags:
+  - Pres
+  - Styrketræning
+  - elastik
+  - håndvægte
+  - Skuldre
 categories:
   - Pres
 training_type: 

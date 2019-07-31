@@ -6,6 +6,10 @@ language: da
 header:
   overlay_image: /assets/images/exercises/udstraekning-af-saedemusklen-0.JPG
   teaser: /assets/images/exercises/udstraekning-af-saedemusklen-0.JPG
+tags:
+  - Strækøvelser
+  - hoftedomineret
+  - Baller
 categories:
 training_type: 
   - Strækøvelser

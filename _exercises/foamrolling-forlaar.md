@@ -3,6 +3,10 @@ title: "Foamrolling forlår"
 excerpt: ""
 permalink: /oevelse/foamrolling-forlaar
 language: da
+tags:
+  - Self Myofascial Release (SMR)
+  - foamroller
+  - Forlår
 categories:
 training_type: 
   - Self Myofascial Release (SMR)

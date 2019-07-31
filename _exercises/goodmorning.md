@@ -6,6 +6,14 @@ language: da
 header:
   overlay_image: /assets/images/exercises/goodmorning-0.jpg
   teaser: /assets/images/exercises/goodmorning-0.jpg
+tags:
+  - Kropsstamme
+  - Styrketræning
+  - hoftedomineret
+  - vægtstang
+  - Baglår
+  - Baller
+  - Ryg
 categories:
   - Kropsstamme
 training_type: 

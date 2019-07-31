@@ -6,6 +6,9 @@ language: da
 header:
   overlay_image: /assets/images/exercises/udstraekning-af-skulder-0.JPG
   teaser: /assets/images/exercises/udstraekning-af-skulder-0.JPG
+tags:
+  - Parøvelser
+  - Strækøvelser
 categories:
 training_type: 
   - Parøvelser

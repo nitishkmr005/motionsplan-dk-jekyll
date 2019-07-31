@@ -6,6 +6,9 @@ language: da
 header:
   overlay_image: /assets/images/exercises/hofteudstraekning-et-ben-staaende-0.jpg
   teaser: /assets/images/exercises/hofteudstraekning-et-ben-staaende-0.jpg
+tags:
+  - hoftedomineret
+  - kabeltræk
 categories:
 training_type: 
 training_focus: 

@@ -3,6 +3,7 @@ title: "One legged RDL with kettlebells"
 excerpt: ""
 permalink: /oevelse/one-legged-rdl-kettlebells
 language: da
+tags:
 categories:
 training_type: 
 training_focus: 

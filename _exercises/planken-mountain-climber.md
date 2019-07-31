@@ -6,6 +6,14 @@ language: da
 header:
   overlay_image: /assets/images/exercises/planken-mountain-climber-0.jpg
   teaser: /assets/images/exercises/planken-mountain-climber-0.jpg
+tags:
+  - Kropsstamme
+  - Styrketræning
+  - kropsstamme
+  - kropsvægt
+  - Core
+  - Hoftebøjere
+  - Mave
 categories:
   - Kropsstamme
 training_type: 

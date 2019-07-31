@@ -6,6 +6,12 @@ language: da
 header:
   overlay_image: /assets/images/exercises/dead-bug-0.jpeg
   teaser: /assets/images/exercises/dead-bug-0.jpeg
+tags:
+  - Kropsstamme
+  - Mobilisering
+  - kropsstamme
+  - kropsvægt
+  - Mave
 categories:
   - Kropsstamme
 training_type: 

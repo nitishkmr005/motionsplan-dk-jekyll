@@ -6,6 +6,13 @@ language: da
 header:
   overlay_image: /assets/images/exercises/hip-thrusters-leg-lift-0.jpg
   teaser: /assets/images/exercises/hip-thrusters-leg-lift-0.jpg
+tags:
+  - Kropsstamme
+  - Styrketræning
+  - kropsstamme
+  - kropsvægt
+  - Baglår
+  - Baller
 categories:
   - Kropsstamme
 training_type: 

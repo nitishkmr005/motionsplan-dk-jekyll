@@ -6,6 +6,8 @@ language: da
 header:
   overlay_image: /assets/images/exercises/hanging-leg-raise-med-makkere-0.jpg
   teaser: /assets/images/exercises/hanging-leg-raise-med-makkere-0.jpg
+tags:
+  - Kropsstamme
 categories:
   - Kropsstamme
 training_type: 

@@ -3,6 +3,12 @@ title: "Pike and straight arm push back on swissball"
 excerpt: ""
 permalink: /oevelse/pike-and-straight-arm-push-back-swissball
 language: da
+tags:
+  - Kropsstamme
+  - Strækøvelser
+  - kropsstamme
+  - swissball
+  - Mave
 categories:
   - Kropsstamme
 training_type: 

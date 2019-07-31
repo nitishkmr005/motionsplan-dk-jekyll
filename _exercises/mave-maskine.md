@@ -6,6 +6,10 @@ language: da
 header:
   overlay_image: /assets/images/exercises/mave-maskine-0.JPG
   teaser: /assets/images/exercises/mave-maskine-0.JPG
+tags:
+  - kropsstamme
+  - maskine
+  - 
 categories:
 training_type: 
 training_focus: 

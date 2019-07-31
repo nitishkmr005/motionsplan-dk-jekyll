@@ -6,6 +6,9 @@ language: da
 header:
   overlay_image: /assets/images/exercises/fire-hydrant-0.JPG
   teaser: /assets/images/exercises/fire-hydrant-0.JPG
+tags:
+  - kropsstamme
+  - kropsvægt
 categories:
 training_type: 
 training_focus: 

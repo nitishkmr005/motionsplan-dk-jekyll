@@ -3,9 +3,18 @@ title: "Længdespring"
 excerpt: "Spring så langt du kan. Start med armene bag kroppen og før hoften fremad. Sørg for en god landing. "
 permalink: /oevelse/laengdespring
 language: da
+tags:
+  - Hård styrkeøvelse
+  - Eksplosivitet
+  - knædomineret
+  - hoftedomineret
+  - kropsvægt
+  - Baglår
+  - Baller
+  - Forlår
+  - Lægge
 categories:
   - Hård styrkeøvelse
-  - <p>Primært anaerobe styrkeøvelser med maksimal intensitet. Gruppen er hovedsageligt multiledsøvelser, hvor flere muskler udfordres samtidig.</p>
 training_type: 
   - Eksplosivitet
 training_focus: 

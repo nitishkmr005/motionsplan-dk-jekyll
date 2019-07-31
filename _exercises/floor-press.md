@@ -3,6 +3,12 @@ title: "Floor press"
 excerpt: ""
 permalink: /oevelse/floor-press
 language: da
+tags:
+  - Styrketræning
+  - skub vandret
+  - bar
+  - Bryst
+  - Skuldre
 categories:
 training_type: 
   - Styrketræning

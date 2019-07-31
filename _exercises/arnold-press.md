@@ -6,6 +6,8 @@ language: da
 header:
   overlay_image: /assets/images/exercises/arnold-press-0.jpg
   teaser: /assets/images/exercises/arnold-press-0.jpg
+tags:
+  - Pres
 categories:
   - Pres
 training_type: 

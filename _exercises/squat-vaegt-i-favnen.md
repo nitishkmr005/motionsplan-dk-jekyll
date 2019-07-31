@@ -6,6 +6,15 @@ language: da
 header:
   overlay_image: /assets/images/exercises/squat-vaegt-i-favnen-0.jpg
   teaser: /assets/images/exercises/squat-vaegt-i-favnen-0.jpg
+tags:
+  - Ben
+  - Styrketræning
+  - knædomineret
+  - håndvægte
+  - kettlebell
+  - Baller
+  - Core
+  - Forlår
 categories:
   - Ben
 training_type: 

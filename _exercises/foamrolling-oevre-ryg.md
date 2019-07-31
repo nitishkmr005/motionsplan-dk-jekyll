@@ -6,6 +6,10 @@ language: da
 header:
   overlay_image: /assets/images/exercises/foamrolling-oevre-ryg-0.jpg
   teaser: /assets/images/exercises/foamrolling-oevre-ryg-0.jpg
+tags:
+  - Self Myofascial Release (SMR)
+  - foamroller
+  - Øvre ryg
 categories:
 training_type: 
   - Self Myofascial Release (SMR)

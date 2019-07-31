@@ -6,6 +6,8 @@ language: da
 header:
   overlay_image: /assets/images/exercises/pull-med-makkere-0.jpg
   teaser: /assets/images/exercises/pull-med-makkere-0.jpg
+tags:
+  - Træk
 categories:
   - Træk
 training_type: 

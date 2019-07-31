@@ -6,6 +6,12 @@ language: da
 header:
   overlay_image: /assets/images/exercises/hip-thrusters-0.jpg
   teaser: /assets/images/exercises/hip-thrusters-0.jpg
+tags:
+  - Kropsstamme
+  - Styrketræning
+  - hoftedomineret
+  - vægtstang
+  - Baller
 categories:
   - Kropsstamme
 training_type: 

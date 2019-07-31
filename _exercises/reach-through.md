@@ -6,6 +6,11 @@ language: da
 header:
   overlay_image: /assets/images/exercises/reach-through-0.jpg
   teaser: /assets/images/exercises/reach-through-0.jpg
+tags:
+  - Mobilisering
+  - Strækøvelser
+  - kropsvægt
+  - Baglår
 categories:
 training_type: 
   - Mobilisering

@@ -6,6 +6,8 @@ language: da
 header:
   overlay_image: /assets/images/exercises/makkerøvelse-klap-på-fingre-0.jpg
   teaser: /assets/images/exercises/makkerøvelse-klap-på-fingre-0.jpg
+tags:
+  - Kropsstamme
 categories:
   - Kropsstamme
 training_type: 

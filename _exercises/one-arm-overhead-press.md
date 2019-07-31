@@ -6,6 +6,13 @@ language: da
 header:
   overlay_image: /assets/images/exercises/one-arm-overhead-press-0.jpg
   teaser: /assets/images/exercises/one-arm-overhead-press-0.jpg
+tags:
+  - Pres
+  - Styrketræning
+  - skub lodret
+  - kettlebell
+  - Arme
+  - Skuldre
 categories:
   - Pres
 training_type: 

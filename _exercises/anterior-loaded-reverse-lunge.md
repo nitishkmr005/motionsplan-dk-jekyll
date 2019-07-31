@@ -3,6 +3,13 @@ title: "Anterior loaded reverse lunge"
 excerpt: ""
 permalink: /oevelse/anterior-loaded-reverse-lunge
 language: da
+tags:
+  - Ben
+  - Styrketræning
+  - knædomineret
+  - bar
+  - Baller
+  - Forlår
 categories:
   - Ben
 training_type: 

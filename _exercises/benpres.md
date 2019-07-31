@@ -6,6 +6,12 @@ language: da
 header:
   overlay_image: /assets/images/exercises/benpres-0.JPG
   teaser: /assets/images/exercises/benpres-0.JPG
+tags:
+  - Ben
+  - Styrketræning
+  - knædomineret
+  - maskine
+  - Forlår
 categories:
   - Ben
 training_type: 

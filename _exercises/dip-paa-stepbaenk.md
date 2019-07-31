@@ -6,6 +6,12 @@ language: da
 header:
   overlay_image: /assets/images/exercises/dip-paa-stepbaenk-0.JPG
   teaser: /assets/images/exercises/dip-paa-stepbaenk-0.JPG
+tags:
+  - bænk
+  - kropsvægt
+  - 
+  - 
+  - 
 categories:
 training_type: 
 training_focus: 

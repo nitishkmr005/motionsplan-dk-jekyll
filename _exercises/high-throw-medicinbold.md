@@ -6,6 +6,17 @@ language: da
 header:
   overlay_image: /assets/images/exercises/high-throw-medicinbold-0.jpg
   teaser: /assets/images/exercises/high-throw-medicinbold-0.jpg
+tags:
+  - Styrketræning
+  - knædomineret
+  - kropsstamme
+  - Medicinbold
+  - Arme
+  - Baller
+  - Forlår
+  - Mave
+  - Ryg
+  - Skuldre
 categories:
 training_type: 
   - Styrketræning

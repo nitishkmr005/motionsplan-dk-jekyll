@@ -6,6 +6,9 @@ language: da
 header:
   overlay_image: /assets/images/exercises/reb-klatring-0.jpg
   teaser: /assets/images/exercises/reb-klatring-0.jpg
+tags:
+  - Helkropsøvelse
+  - tov
 categories:
   - Helkropsøvelse
 training_type: 

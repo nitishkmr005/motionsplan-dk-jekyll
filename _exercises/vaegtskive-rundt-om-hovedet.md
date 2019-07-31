@@ -6,6 +6,8 @@ language: da
 header:
   overlay_image: /assets/images/exercises/vaegtskive-rundt-om-hovedet-0.jpg
   teaser: /assets/images/exercises/vaegtskive-rundt-om-hovedet-0.jpg
+tags:
+  - vægtskive
 categories:
 training_type: 
 training_focus: 

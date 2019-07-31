@@ -3,6 +3,8 @@ title: "Løb, løbebånd"
 excerpt: "Løb, løbebånd"
 permalink: /oevelse/loeb-loebebaand
 language: da
+tags:
+  - Kondition
 categories:
 training_type: 
   - Kondition

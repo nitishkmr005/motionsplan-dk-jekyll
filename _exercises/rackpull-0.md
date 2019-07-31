@@ -6,6 +6,13 @@ language: da
 header:
   overlay_image: /assets/images/exercises/rackpull-0-0.jpg
   teaser: /assets/images/exercises/rackpull-0-0.jpg
+tags:
+  - Styrketræning
+  - hoftedomineret
+  - vægtstang
+  - Baglår
+  - Baller
+  - Ryg
 categories:
 training_type: 
   - Styrketræning

@@ -6,6 +6,10 @@ language: da
 header:
   overlay_image: /assets/images/exercises/skrogretteren-0.jpg
   teaser: /assets/images/exercises/skrogretteren-0.jpg
+tags:
+  - Mobilisering
+  - helkropsøvelse
+  - kropsvægt
 categories:
 training_type: 
   - Mobilisering

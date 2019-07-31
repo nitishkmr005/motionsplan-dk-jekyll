@@ -6,6 +6,10 @@ language: da
 header:
   overlay_image: /assets/images/exercises/reverse-hyper-0.jpg
   teaser: /assets/images/exercises/reverse-hyper-0.jpg
+tags:
+  - hoftedomineret
+  - kropsvægt
+  - maskine
 categories:
 training_type: 
 training_focus: 

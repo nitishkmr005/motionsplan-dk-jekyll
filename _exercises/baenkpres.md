@@ -6,6 +6,14 @@ language: da
 header:
   overlay_image: /assets/images/exercises/baenkpres-0.jpg
   teaser: /assets/images/exercises/baenkpres-0.jpg
+tags:
+  - Pres
+  - Styrketræning
+  - skub vandret
+  - bænk
+  - vægtstang
+  - Arme
+  - Bryst
 categories:
   - Pres
 training_type: 

@@ -6,9 +6,12 @@ language: da
 header:
   overlay_image: /assets/images/exercises/armstrækning-hindu-0.jpg
   teaser: /assets/images/exercises/armstrækning-hindu-0.jpg
+tags:
+  - Hård styrkeøvelse
+  - kropsstamme
+  - kropsvægt
 categories:
   - Hård styrkeøvelse
-  - <p>Primært anaerobe styrkeøvelser med maksimal intensitet. Gruppen er hovedsageligt multiledsøvelser, hvor flere muskler udfordres samtidig.</p>
 training_type: 
 training_focus: 
   - kropsstamme

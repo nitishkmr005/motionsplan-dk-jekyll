@@ -6,6 +6,9 @@ language: da
 header:
   overlay_image: /assets/images/exercises/traek-enarms-0.jpg
   teaser: /assets/images/exercises/traek-enarms-0.jpg
+tags:
+  - Helkropsøvelse
+  - håndvægte
 categories:
   - Helkropsøvelse
 training_type: 

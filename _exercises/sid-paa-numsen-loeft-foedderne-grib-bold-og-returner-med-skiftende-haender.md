@@ -5,6 +5,10 @@ excerpt: " Sid på numsen, løft fødderne fri af gulvet. En makker kaster en bo
 Den behøver ikke blive kastet til den hånd der skal gribe den. Der må gerne være krydsbevægelser."
 permalink: /oevelse/sid-paa-numsen-loeft-foedderne-grib-bold-og-returner-med-skiftende-haender
 language: da
+tags:
+  - kropsstamme
+  - måtte
+  - bold
 categories:
 training_type: 
 training_focus: 

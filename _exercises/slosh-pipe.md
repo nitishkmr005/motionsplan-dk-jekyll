@@ -6,6 +6,9 @@ language: da
 header:
   overlay_image: /assets/images/exercises/slosh-pipe-0.jpg
   teaser: /assets/images/exercises/slosh-pipe-0.jpg
+tags:
+  - kropsstamme
+  - slosh pipe
 categories:
 training_type: 
 training_focus: 

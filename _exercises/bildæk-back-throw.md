@@ -6,6 +6,8 @@ language: da
 header:
   overlay_image: /assets/images/exercises/bildæk-back-throw-0.jpg
   teaser: /assets/images/exercises/bildæk-back-throw-0.jpg
+tags:
+  - Helkropsøvelse
 categories:
   - Helkropsøvelse
 training_type: 

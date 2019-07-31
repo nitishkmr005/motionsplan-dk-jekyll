@@ -6,6 +6,12 @@ language: da
 header:
   overlay_image: /assets/images/exercises/medicinbold-kastes-0.jpg
   teaser: /assets/images/exercises/medicinbold-kastes-0.jpg
+tags:
+  - Kropsstamme
+  - Styrketræning
+  - kropsstamme
+  - Medicinbold
+  - Core
 categories:
   - Kropsstamme
 training_type: 

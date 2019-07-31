@@ -6,6 +6,9 @@ language: da
 header:
   overlay_image: /assets/images/exercises/armstraekning-superman-0.jpg
   teaser: /assets/images/exercises/armstraekning-superman-0.jpg
+tags:
+  - Pres
+  - kropsvægt
 categories:
   - Pres
 training_type: 

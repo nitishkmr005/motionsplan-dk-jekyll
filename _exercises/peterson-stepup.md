@@ -3,6 +3,7 @@ title: "Peterson stepup"
 excerpt: ""
 permalink: /oevelse/peterson-stepup
 language: da
+tags:
 categories:
 training_type: 
 training_focus: 

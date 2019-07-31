@@ -6,6 +6,13 @@ language: da
 header:
   overlay_image: /assets/images/exercises/wall-hip-flexor-0.jpg
   teaser: /assets/images/exercises/wall-hip-flexor-0.jpg
+tags:
+  - Mobilisering
+  - Strækøvelser
+  - hoftedomineret
+  - kropsvægt
+  - Forlår
+  - Hoftebøjere
 categories:
 training_type: 
   - Mobilisering

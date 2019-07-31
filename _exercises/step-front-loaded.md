@@ -6,6 +6,12 @@ language: da
 header:
   overlay_image: /assets/images/exercises/step-front-loaded-0.jpg
   teaser: /assets/images/exercises/step-front-loaded-0.jpg
+tags:
+  - Styrketræning
+  - knædomineret
+  - vægtstang
+  - Baller
+  - Forlår
 categories:
 training_type: 
   - Styrketræning

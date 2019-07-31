@@ -6,6 +6,7 @@ language: da
 header:
   overlay_image: /assets/images/exercises/rotator-manchet-0.jpg
   teaser: /assets/images/exercises/rotator-manchet-0.jpg
+tags:
 categories:
 training_type: 
 training_focus: 

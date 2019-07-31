@@ -6,6 +6,11 @@ language: da
 header:
   overlay_image: /assets/images/exercises/lateral-squat-0.jpg
   teaser: /assets/images/exercises/lateral-squat-0.jpg
+tags:
+  - Mobilisering
+  - Strækøvelser
+  - Styrketræning
+  - kropsvægt
 categories:
 training_type: 
   - Mobilisering

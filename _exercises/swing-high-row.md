@@ -6,6 +6,15 @@ language: da
 header:
   overlay_image: /assets/images/exercises/swing-high-row-0.jpg
   teaser: /assets/images/exercises/swing-high-row-0.jpg
+tags:
+  - Helkropsøvelse
+  - Styrketræning
+  - helkropsøvelse
+  - kettlebell
+  - Baglår
+  - Baller
+  - Skuldre
+  - Øvre ryg
 categories:
   - Helkropsøvelse
 training_type: 

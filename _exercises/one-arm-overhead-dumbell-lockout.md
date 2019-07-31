@@ -6,6 +6,14 @@ language: da
 header:
   overlay_image: /assets/images/exercises/one-arm-overhead-dumbell-lockout-0.jpg
   teaser: /assets/images/exercises/one-arm-overhead-dumbell-lockout-0.jpg
+tags:
+  - Kropsstamme
+  - Balance
+  - kropsstamme
+  - håndvægte
+  - Core
+  - Mave
+  - Skuldre
 categories:
   - Kropsstamme
 training_type: 

@@ -6,9 +6,15 @@ language: da
 header:
   overlay_image: /assets/images/exercises/military-press-0.jpg
   teaser: /assets/images/exercises/military-press-0.jpg
+tags:
+  - Hård styrkeøvelse
+  - Styrketræning
+  - skub lodret
+  - vægtstang
+  - Bryst
+  - Skuldre
 categories:
   - Hård styrkeøvelse
-  - <p>Primært anaerobe styrkeøvelser med maksimal intensitet. Gruppen er hovedsageligt multiledsøvelser, hvor flere muskler udfordres samtidig.</p>
 training_type: 
   - Styrketræning
 training_focus: 

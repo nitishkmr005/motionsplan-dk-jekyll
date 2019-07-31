@@ -3,6 +3,8 @@ title: "Michael Jackson move"
 excerpt: "Stå primært på den ene hæl, og den anden forfod. Så drejes fødderne omkring det du står på. Derefter bytter du over, så du står på forfod og hæl. Drejer fødderne osv."
 permalink: /oevelse/michael-jackson-move
 language: da
+tags:
+  - måtte
 categories:
 training_type: 
 training_focus: 

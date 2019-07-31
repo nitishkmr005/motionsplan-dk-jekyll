@@ -6,6 +6,8 @@ language: da
 header:
   overlay_image: /assets/images/exercises/maveoevelse-fra-bom-0.jpg
   teaser: /assets/images/exercises/maveoevelse-fra-bom-0.jpg
+tags:
+  - bar
 categories:
 training_type: 
 training_focus: 

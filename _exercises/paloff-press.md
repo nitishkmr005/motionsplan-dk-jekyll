@@ -6,6 +6,14 @@ language: da
 header:
   overlay_image: /assets/images/exercises/paloff-press-0.jpg
   teaser: /assets/images/exercises/paloff-press-0.jpg
+tags:
+  - Kropsstamme
+  - Balance
+  - Styrketræning
+  - kropsstamme
+  - elastik
+  - kabeltræk
+  - Mave
 categories:
   - Kropsstamme
 training_type: 

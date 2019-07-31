@@ -6,6 +6,9 @@ language: da
 header:
   overlay_image: /assets/images/exercises/frivend-fra-hang-position-0.jpg
   teaser: /assets/images/exercises/frivend-fra-hang-position-0.jpg
+tags:
+  - hoftedomineret
+  - vægtstang
 categories:
 training_type: 
 training_focus: 

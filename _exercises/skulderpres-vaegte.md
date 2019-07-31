@@ -6,6 +6,13 @@ language: da
 header:
   overlay_image: /assets/images/exercises/skulderpres-vaegte-0.jpg
   teaser: /assets/images/exercises/skulderpres-vaegte-0.jpg
+tags:
+  - vægtstang
+  - håndvægte
+  - 
+  - 
+  - 
+  - 
 categories:
 training_type: 
 training_focus: 

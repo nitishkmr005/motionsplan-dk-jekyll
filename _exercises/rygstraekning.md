@@ -6,6 +6,14 @@ language: da
 header:
   overlay_image: /assets/images/exercises/rygstraekning-0.JPG
   teaser: /assets/images/exercises/rygstraekning-0.JPG
+tags:
+  - Kropsstamme
+  - Styrketræning
+  - hoftedomineret
+  - skrå bænk
+  - Baglår
+  - Baller
+  - Ryg
 categories:
   - Kropsstamme
 training_type: 

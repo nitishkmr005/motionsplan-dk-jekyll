@@ -6,6 +6,10 @@ language: da
 header:
   overlay_image: /assets/images/exercises/smr-laeg-0.jpg
   teaser: /assets/images/exercises/smr-laeg-0.jpg
+tags:
+  - Self Myofascial Release (SMR)
+  - lacrosse bold
+  - Lægge
 categories:
 training_type: 
   - Self Myofascial Release (SMR)

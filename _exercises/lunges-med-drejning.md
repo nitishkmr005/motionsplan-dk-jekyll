@@ -6,6 +6,9 @@ language: da
 header:
   overlay_image: /assets/images/exercises/lunges-med-drejning-0.jpg
   teaser: /assets/images/exercises/lunges-med-drejning-0.jpg
+tags:
+  - Helkropsøvelse
+  - vægtskive
 categories:
   - Helkropsøvelse
 training_type: 

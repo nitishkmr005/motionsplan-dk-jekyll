@@ -6,9 +6,16 @@ language: da
 header:
   overlay_image: /assets/images/exercises/romanian-deadlift-0.jpg
   teaser: /assets/images/exercises/romanian-deadlift-0.jpg
+tags:
+  - Hård styrkeøvelse
+  - Styrketræning
+  - hoftedomineret
+  - vægtstang
+  - Baglår
+  - Baller
+  - Ryg
 categories:
   - Hård styrkeøvelse
-  - <p>Primært anaerobe styrkeøvelser med maksimal intensitet. Gruppen er hovedsageligt multiledsøvelser, hvor flere muskler udfordres samtidig.</p>
 training_type: 
   - Styrketræning
 training_focus: 

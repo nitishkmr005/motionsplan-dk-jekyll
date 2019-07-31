@@ -6,6 +6,17 @@ language: da
 header:
   overlay_image: /assets/images/exercises/rite-4-table-pose-0.jpg
   teaser: /assets/images/exercises/rite-4-table-pose-0.jpg
+tags:
+  - Kropsstamme
+  - Mobilisering
+  - Strækøvelser
+  - Styrketræning
+  - Yoga
+  - helkropsøvelse
+  - kropsvægt
+  - Baglår
+  - Baller
+  - Skuldre
 categories:
   - Kropsstamme
 training_type: 

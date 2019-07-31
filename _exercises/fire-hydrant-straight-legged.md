@@ -6,6 +6,12 @@ language: da
 header:
   overlay_image: /assets/images/exercises/fire-hydrant-straight-legged-0.jpg
   teaser: /assets/images/exercises/fire-hydrant-straight-legged-0.jpg
+tags:
+  - Kropsstamme
+  - Styrketræning
+  - kropsstamme
+  - kropsvægt
+  - Baller
 categories:
   - Kropsstamme
 training_type: 

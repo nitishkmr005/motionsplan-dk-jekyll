@@ -17,7 +17,6 @@ locale                   : "da"
 title                    : "Motionsplan"
 title_separator          : "-"
 subtitle                 : "Træningsøvelser, træningsprorammer og viden om træning."
-logo                     : "/android-chrome-192x192.png"
 name                     : "Motionsplan"
 description              : "Træningsøvelser, træningsprogrammer og viden om træning."
 url                      : "https://motionsplan.dk" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -85,7 +84,7 @@ analytics:
 author:
   name: "Motionsplan"
   bio: "Viden om træning, træningsøvelser og træningsprogrammer."
-  avatar: "/assets/images/logo.gif"
+  avatar: "/android-chrome-192x192.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -279,6 +278,8 @@ defaults:
       share: true
       related: true
       author: lsolesen
+      tag_archive_path: /category/tags/
+      category_archive_path: /oevelseskategorier/      
 # _redirects
   - scope:
       path: ""

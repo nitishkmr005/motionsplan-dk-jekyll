@@ -6,6 +6,13 @@ language: da
 header:
   overlay_image: /assets/images/exercises/alternating-swiss-ball-step-offs-0.jpg
   teaser: /assets/images/exercises/alternating-swiss-ball-step-offs-0.jpg
+tags:
+  - Kropsstamme
+  - Balance
+  - kropsstamme
+  - swissball
+  - Core
+  - Mave
 categories:
   - Kropsstamme
 training_type: 

@@ -6,6 +6,15 @@ language: da
 header:
   overlay_image: /assets/images/exercises/roning-siddende-0.JPG
   teaser: /assets/images/exercises/roning-siddende-0.JPG
+tags:
+  - Træk
+  - Styrketræning
+  - træk vandret
+  - kabeltræk
+  - maskine
+  - Arme
+  - Skuldre
+  - Øvre ryg
 categories:
   - Træk
 training_type: 

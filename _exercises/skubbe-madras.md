@@ -6,6 +6,8 @@ language: da
 header:
   overlay_image: /assets/images/exercises/skubbe-madras-0.jpg
   teaser: /assets/images/exercises/skubbe-madras-0.jpg
+tags:
+  - madras
 categories:
 training_type: 
 training_focus: 

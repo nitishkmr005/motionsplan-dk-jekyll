@@ -7,6 +7,9 @@ language: da
 header:
   overlay_image: /assets/images/exercises/reaktionsoevelse-0.JPG
   teaser: /assets/images/exercises/reaktionsoevelse-0.JPG
+tags:
+  - Kondition
+  - kropsvægt
 categories:
 training_type: 
   - Kondition

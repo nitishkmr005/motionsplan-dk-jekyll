@@ -6,6 +6,9 @@ language: da
 header:
   overlay_image: /assets/images/exercises/cable-pushdown-0.JPG
   teaser: /assets/images/exercises/cable-pushdown-0.JPG
+tags:
+  - kabeltræk
+  - 
 categories:
 training_type: 
 training_focus: 

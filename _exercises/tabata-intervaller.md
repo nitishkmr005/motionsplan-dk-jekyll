@@ -6,6 +6,8 @@ language: da
 header:
   overlay_image: /assets/images/exercises/tabata-intervaller-0.jpg
   teaser: /assets/images/exercises/tabata-intervaller-0.jpg
+tags:
+  - Kondition
 categories:
 training_type: 
   - Kondition

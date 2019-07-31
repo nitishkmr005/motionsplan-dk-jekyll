@@ -6,6 +6,9 @@ language: da
 header:
   overlay_image: /assets/images/exercises/maverulning-paa-bold-0.jpg
   teaser: /assets/images/exercises/maverulning-paa-bold-0.jpg
+tags:
+  - swissball
+  - Mave
 categories:
 training_type: 
 training_focus: 

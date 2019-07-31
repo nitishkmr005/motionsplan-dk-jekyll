@@ -6,6 +6,10 @@ language: da
 header:
   overlay_image: /assets/images/exercises/knae-extension-0.JPG
   teaser: /assets/images/exercises/knae-extension-0.JPG
+tags:
+  - knædomineret
+  - maskine
+  - 
 categories:
 training_type: 
 training_focus: 

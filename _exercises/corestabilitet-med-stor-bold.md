@@ -6,6 +6,8 @@ language: da
 header:
   overlay_image: /assets/images/exercises/corestabilitet-med-stor-bold-0.jpg
   teaser: /assets/images/exercises/corestabilitet-med-stor-bold-0.jpg
+tags:
+  - swissball
 categories:
 training_type: 
 training_focus: 

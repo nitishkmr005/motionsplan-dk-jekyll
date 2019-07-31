@@ -6,6 +6,11 @@ language: da
 header:
   overlay_image: /assets/images/exercises/one-legged-squat-trx-0.jpg
   teaser: /assets/images/exercises/one-legged-squat-trx-0.jpg
+tags:
+  - Helkropsøvelse
+  - trx
+  - Baller
+  - Forlår
 categories:
   - Helkropsøvelse
 training_type: 

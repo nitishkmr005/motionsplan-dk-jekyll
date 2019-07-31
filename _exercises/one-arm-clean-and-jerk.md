@@ -6,6 +6,14 @@ language: da
 header:
   overlay_image: /assets/images/exercises/one-arm-clean-and-jerk-0.jpg
   teaser: /assets/images/exercises/one-arm-clean-and-jerk-0.jpg
+tags:
+  - Helkropsøvelse
+  - Styrketræning
+  - helkropsøvelse
+  - kettlebell
+  - Baglår
+  - Baller
+  - Skuldre
 categories:
   - Helkropsøvelse
 training_type: 

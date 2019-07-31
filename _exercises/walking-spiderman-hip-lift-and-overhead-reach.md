@@ -6,6 +6,11 @@ language: da
 header:
   overlay_image: /assets/images/exercises/walking-spiderman-hip-lift-and-overhead-reach-0.jpg
   teaser: /assets/images/exercises/walking-spiderman-hip-lift-and-overhead-reach-0.jpg
+tags:
+  - Mobilisering
+  - Strækøvelser
+  - helkropsøvelse
+  - kropsvægt
 categories:
 training_type: 
   - Mobilisering

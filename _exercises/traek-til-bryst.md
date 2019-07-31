@@ -6,6 +6,13 @@ language: da
 header:
   overlay_image: /assets/images/exercises/traek-til-bryst-0.JPG
   teaser: /assets/images/exercises/traek-til-bryst-0.JPG
+tags:
+  - Styrketræning
+  - træk lodret
+  - maskine
+  - Arme
+  - Skuldre
+  - Øvre ryg
 categories:
 training_type: 
   - Styrketræning

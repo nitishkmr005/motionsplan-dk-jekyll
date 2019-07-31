@@ -3,6 +3,7 @@ title: "Suitcase carry"
 excerpt: ""
 permalink: /oevelse/suitcase-carry
 language: da
+tags:
 categories:
 training_type: 
 training_focus: 

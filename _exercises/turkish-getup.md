@@ -6,6 +6,16 @@ language: da
 header:
   overlay_image: /assets/images/exercises/turkish-getup-0.jpg
   teaser: /assets/images/exercises/turkish-getup-0.jpg
+tags:
+  - Helkropsøvelse
+  - Styrketræning
+  - helkropsøvelse
+  - håndvægte
+  - kettlebell
+  - Baller
+  - Core
+  - Mave
+  - Skuldre
 categories:
   - Helkropsøvelse
 training_type: 

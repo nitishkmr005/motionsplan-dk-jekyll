@@ -6,6 +6,14 @@ language: da
 header:
   overlay_image: /assets/images/exercises/armstraekning-easy-spiderman-0.jpg
   teaser: /assets/images/exercises/armstraekning-easy-spiderman-0.jpg
+tags:
+  - Pres
+  - Styrketræning
+  - skub vandret
+  - kropsvægt
+  - Arme
+  - Bryst
+  - Skuldre
 categories:
   - Pres
 training_type: 

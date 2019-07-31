@@ -3,6 +3,14 @@ title: "Tall kneeling one arm press with kettlebell"
 excerpt: ""
 permalink: /oevelse/tall-kneeling-one-arm-press-kettlebell
 language: da
+tags:
+  - Pres
+  - Styrketræning
+  - skub lodret
+  - kettlebell
+  - Arme
+  - Bryst
+  - Skuldre
 categories:
   - Pres
 training_type: 

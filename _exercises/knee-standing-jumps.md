@@ -6,6 +6,14 @@ language: da
 header:
   overlay_image: /assets/images/exercises/knee-standing-jumps-0.jpg
   teaser: /assets/images/exercises/knee-standing-jumps-0.jpg
+tags:
+  - Ben
+  - Styrketræning
+  - helkropsøvelse
+  - kropsvægt
+  - Baglår
+  - Baller
+  - Forlår
 categories:
   - Ben
 training_type: 

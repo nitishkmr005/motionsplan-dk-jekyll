@@ -6,6 +6,9 @@ language: da
 header:
   overlay_image: /assets/images/exercises/balancehop-0.jpg
   teaser: /assets/images/exercises/balancehop-0.jpg
+tags:
+  - træstub
+  - kropsvægt
 categories:
 training_type: 
 training_focus: 

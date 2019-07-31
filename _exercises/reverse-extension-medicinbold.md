@@ -6,6 +6,16 @@ language: da
 header:
   overlay_image: /assets/images/exercises/reverse-extension-medicinbold-0.jpg
   teaser: /assets/images/exercises/reverse-extension-medicinbold-0.jpg
+tags:
+  - Helkropsøvelse
+  - Styrketræning
+  - hoftedomineret
+  - helkropsøvelse
+  - Medicinbold
+  - Arme
+  - Baglår
+  - Baller
+  - Core
 categories:
   - Helkropsøvelse
 training_type: 

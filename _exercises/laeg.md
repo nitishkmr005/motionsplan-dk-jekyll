@@ -6,6 +6,11 @@ language: da
 header:
   overlay_image: /assets/images/exercises/laeg-0.JPG
   teaser: /assets/images/exercises/laeg-0.JPG
+tags:
+  - Ben
+  - Styrketræning
+  - vægtstang
+  - Lægge
 categories:
   - Ben
 training_type: 

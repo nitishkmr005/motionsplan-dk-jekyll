@@ -3,6 +3,9 @@ title: "SMR biceps"
 excerpt: ""
 permalink: /oevelse/smr-biceps
 language: da
+tags:
+  - Self Myofascial Release (SMR)
+  - lacrosse bold
 categories:
 training_type: 
   - Self Myofascial Release (SMR)

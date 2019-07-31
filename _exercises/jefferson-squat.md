@@ -6,6 +6,13 @@ language: da
 header:
   overlay_image: /assets/images/exercises/jefferson-squat-0.JPG
   teaser: /assets/images/exercises/jefferson-squat-0.JPG
+tags:
+  - Ben
+  - Styrketræning
+  - knædomineret
+  - håndvægte
+  - Baller
+  - Forlår
 categories:
   - Ben
 training_type: 

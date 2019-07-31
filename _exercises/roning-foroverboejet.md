@@ -6,6 +6,15 @@ language: da
 header:
   overlay_image: /assets/images/exercises/roning-foroverboejet-0.jpg
   teaser: /assets/images/exercises/roning-foroverboejet-0.jpg
+tags:
+  - Træk
+  - Styrketræning
+  - træk vandret
+  - vægtstang
+  - Arme
+  - Bred ryg
+  - Skuldre
+  - Øvre ryg
 categories:
   - Træk
 training_type: 

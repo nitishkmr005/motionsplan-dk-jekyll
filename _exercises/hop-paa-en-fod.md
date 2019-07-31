@@ -3,6 +3,8 @@ title: "Hop på én fod"
 excerpt: "Du står uden sko på et eftergivende underlag, fx en måtte. Der hoppes på en fod fra side til side."
 permalink: /oevelse/hop-paa-en-fod
 language: da
+tags:
+  - måtte
 categories:
 training_type: 
 training_focus: 

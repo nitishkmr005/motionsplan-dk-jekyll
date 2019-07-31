@@ -6,6 +6,9 @@ language: da
 header:
   overlay_image: /assets/images/exercises/muscle-0.jpg
   teaser: /assets/images/exercises/muscle-0.jpg
+tags:
+  - kropsvægt
+  - bar
 categories:
 training_type: 
 training_focus: 

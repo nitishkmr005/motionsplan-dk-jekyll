@@ -6,6 +6,7 @@ language: da
 header:
   overlay_image: /assets/images/exercises/eye-spirals-0.png
   teaser: /assets/images/exercises/eye-spirals-0.png
+tags:
 categories:
 training_type: 
 training_focus: 

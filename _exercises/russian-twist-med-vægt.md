@@ -6,6 +6,14 @@ language: da
 header:
   overlay_image: /assets/images/exercises/russian-twist-med-vægt-0.jpg
   teaser: /assets/images/exercises/russian-twist-med-vægt-0.jpg
+tags:
+  - Styrketræning
+  - kropsstamme
+  - håndvægte
+  - kettlebell
+  - vægtskive
+  - Core
+  - Mave
 categories:
 training_type: 
   - Styrketræning

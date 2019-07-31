@@ -6,9 +6,13 @@ language: da
 header:
   overlay_image: /assets/images/exercises/skuldermobilisering-0.jpg
   teaser: /assets/images/exercises/skuldermobilisering-0.jpg
+tags:
+  - Koordination og balance
+  - Mobilisering
+  - elastik
+  - Skuldre
 categories:
   - Koordination og balance
-  - <p>Kombinationsøvelser med fokus på stabilitet, koordination og balancetræning. Her vælges gerne teknisk komplicerede øvelser, som udfordrer kropsstammen.</p>
 training_type: 
   - Mobilisering
 training_focus: 

@@ -6,6 +6,7 @@ language: da
 header:
   overlay_image: /assets/images/exercises/grebsstyrke-grib-sten-0.jpg
   teaser: /assets/images/exercises/grebsstyrke-grib-sten-0.jpg
+tags:
 categories:
 training_type: 
 training_focus: 

@@ -6,6 +6,15 @@ language: da
 header:
   overlay_image: /assets/images/exercises/frivend-0.jpg
   teaser: /assets/images/exercises/frivend-0.jpg
+tags:
+  - knædomineret
+  - hoftedomineret
+  - helkropsøvelse
+  - vægtstang
+  - 
+  - 
+  - 
+  - 
 categories:
 training_type: 
 training_focus: 

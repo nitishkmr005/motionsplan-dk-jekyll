@@ -6,6 +6,13 @@ language: da
 header:
   overlay_image: /assets/images/exercises/stepup-dumbbells-0.jpg
   teaser: /assets/images/exercises/stepup-dumbbells-0.jpg
+tags:
+  - Ben
+  - Styrketræning
+  - knædomineret
+  - håndvægte
+  - Baller
+  - Forlår
 categories:
   - Ben
 training_type: 

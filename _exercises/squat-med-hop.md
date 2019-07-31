@@ -6,6 +6,10 @@ language: da
 header:
   overlay_image: /assets/images/exercises/squat-med-hop-0.JPG
   teaser: /assets/images/exercises/squat-med-hop-0.JPG
+tags:
+  - Ben
+  - knædomineret
+  - vægtstang
 categories:
   - Ben
 training_type: 

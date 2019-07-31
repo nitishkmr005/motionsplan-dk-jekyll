@@ -6,6 +6,15 @@ language: da
 header:
   overlay_image: /assets/images/exercises/medicinbold-slams-0.jpg
   teaser: /assets/images/exercises/medicinbold-slams-0.jpg
+tags:
+  - Træk
+  - Styrketræning
+  - træk lodret
+  - kropsstamme
+  - helkropsøvelse
+  - Medicinbold
+  - Core
+  - Mave
 categories:
   - Træk
 training_type: 

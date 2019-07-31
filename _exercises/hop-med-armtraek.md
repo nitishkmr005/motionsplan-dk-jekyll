@@ -3,6 +3,7 @@ title: "Hop med armtræk"
 excerpt: ""
 permalink: /oevelse/hop-med-armtraek
 language: da
+tags:
 categories:
 training_type: 
 training_focus: 

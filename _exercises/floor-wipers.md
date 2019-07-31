@@ -6,6 +6,12 @@ language: da
 header:
   overlay_image: /assets/images/exercises/floor-wipers-0.jpg
   teaser: /assets/images/exercises/floor-wipers-0.jpg
+tags:
+  - Kropsstamme
+  - Styrketræning
+  - kropsstamme
+  - vægtstang
+  - Mave
 categories:
   - Kropsstamme
 training_type: 

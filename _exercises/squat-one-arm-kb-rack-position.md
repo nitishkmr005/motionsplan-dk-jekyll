@@ -6,6 +6,15 @@ language: da
 header:
   overlay_image: /assets/images/exercises/squat-one-arm-kb-rack-position-0.jpg
   teaser: /assets/images/exercises/squat-one-arm-kb-rack-position-0.jpg
+tags:
+  - Kropsstamme
+  - Balance
+  - Styrketræning
+  - knædomineret
+  - kropsstamme
+  - kettlebell
+  - Forlår
+  - Mave
 categories:
   - Kropsstamme
 training_type: 

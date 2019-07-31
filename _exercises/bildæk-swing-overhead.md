@@ -6,6 +6,8 @@ language: da
 header:
   overlay_image: /assets/images/exercises/bildæk-swing-overhead-0.jpg
   teaser: /assets/images/exercises/bildæk-swing-overhead-0.jpg
+tags:
+  - Kropsstamme
 categories:
   - Kropsstamme
 training_type: 

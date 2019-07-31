@@ -6,6 +6,10 @@ language: da
 header:
   overlay_image: /assets/images/exercises/lyset-0.jpg
   teaser: /assets/images/exercises/lyset-0.jpg
+tags:
+  - kropsstamme
+  - bænk
+  - kropsvægt
 categories:
 training_type: 
 training_focus: 

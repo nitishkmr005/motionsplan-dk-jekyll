@@ -6,6 +6,9 @@ language: da
 header:
   overlay_image: /assets/images/exercises/smr-foedder-0.jpg
   teaser: /assets/images/exercises/smr-foedder-0.jpg
+tags:
+  - Self Myofascial Release (SMR)
+  - lacrosse bold
 categories:
 training_type: 
   - Self Myofascial Release (SMR)

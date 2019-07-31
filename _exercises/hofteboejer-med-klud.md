@@ -7,6 +7,9 @@ language: da
 header:
   overlay_image: /assets/images/exercises/hofteboejer-med-klud-0.jpg
   teaser: /assets/images/exercises/hofteboejer-med-klud-0.jpg
+tags:
+  - kropsstamme
+  - klud
 categories:
 training_type: 
 training_focus: 

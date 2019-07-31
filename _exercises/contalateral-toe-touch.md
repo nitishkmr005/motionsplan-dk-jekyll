@@ -6,6 +6,14 @@ language: da
 header:
   overlay_image: /assets/images/exercises/contalateral-toe-touch-0.jpg
   teaser: /assets/images/exercises/contalateral-toe-touch-0.jpg
+tags:
+  - Kropsstamme
+  - Balance
+  - Styrketræning
+  - kropsstamme
+  - kropsvægt
+  - Core
+  - Mave
 categories:
   - Kropsstamme
 training_type: 

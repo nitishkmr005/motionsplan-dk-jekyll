@@ -6,6 +6,8 @@ language: da
 header:
   overlay_image: /assets/images/exercises/cykel-spinning-0.JPG
   teaser: /assets/images/exercises/cykel-spinning-0.JPG
+tags:
+  - Kondition
 categories:
 training_type: 
   - Kondition

@@ -6,6 +6,13 @@ language: da
 header:
   overlay_image: /assets/images/exercises/sakse-hofteloeft-0.jpg
   teaser: /assets/images/exercises/sakse-hofteloeft-0.jpg
+tags:
+  - Kropsstamme
+  - Styrketræning
+  - hoftedomineret
+  - kropsvægt
+  - Baglår
+  - Baller
 categories:
   - Kropsstamme
 training_type: 

@@ -6,6 +6,9 @@ language: da
 header:
   overlay_image: /assets/images/exercises/pencil-pushups-0.jpg
   teaser: /assets/images/exercises/pencil-pushups-0.jpg
+tags:
+  - Balance
+  - Øjne
 categories:
 training_type: 
   - Balance

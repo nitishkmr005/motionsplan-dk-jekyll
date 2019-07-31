@@ -6,6 +6,8 @@ language: da
 header:
   overlay_image: /assets/images/exercises/brettzel-20-0.jpg
   teaser: /assets/images/exercises/brettzel-20-0.jpg
+tags:
+  - Strækøvelser
 categories:
 training_type: 
   - Strækøvelser

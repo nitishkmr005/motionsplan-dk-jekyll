@@ -6,6 +6,14 @@ language: da
 header:
   overlay_image: /assets/images/exercises/chinup-0.jpg
   teaser: /assets/images/exercises/chinup-0.jpg
+tags:
+  - Træk
+  - Styrketræning
+  - træk lodret
+  - bar
+  - Arme
+  - Skuldre
+  - Øvre ryg
 categories:
   - Træk
 training_type: 

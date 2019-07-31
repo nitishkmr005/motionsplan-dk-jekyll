@@ -6,6 +6,12 @@ language: da
 header:
   overlay_image: /assets/images/exercises/albuestraek-0.JPG
   teaser: /assets/images/exercises/albuestraek-0.JPG
+tags:
+  - Pres
+  - Styrketræning
+  - skub lodret
+  - håndvægte
+  - Arme
 categories:
   - Pres
 training_type: 

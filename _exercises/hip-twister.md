@@ -6,6 +6,11 @@ language: da
 header:
   overlay_image: /assets/images/exercises/hip-twister-0.jpg
   teaser: /assets/images/exercises/hip-twister-0.jpg
+tags:
+  - kropsstamme
+  - swissball
+  - 
+  - 
 categories:
 training_type: 
 training_focus: 

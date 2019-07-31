@@ -6,6 +6,14 @@ language: da
 header:
   overlay_image: /assets/images/exercises/sumo-squat-med-klud-0.jpg
   teaser: /assets/images/exercises/sumo-squat-med-klud-0.jpg
+tags:
+  - Ben
+  - Styrketræning
+  - knædomineret
+  - klud
+  - Baller
+  - Core
+  - Forlår
 categories:
   - Ben
 training_type: 

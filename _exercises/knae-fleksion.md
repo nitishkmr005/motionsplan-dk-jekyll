@@ -6,6 +6,12 @@ language: da
 header:
   overlay_image: /assets/images/exercises/knae-fleksion-0.JPG
   teaser: /assets/images/exercises/knae-fleksion-0.JPG
+tags:
+  - Ben
+  - Styrketræning
+  - knædomineret
+  - maskine
+  - Baglår
 categories:
   - Ben
 training_type: 

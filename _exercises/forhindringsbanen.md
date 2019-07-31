@@ -3,9 +3,10 @@ title: "Forhindringsbanen"
 excerpt: "Du skal gennem forhindringsbanen så hurtigt som muligt. Du skal selv bygge forhindringsbanen uden hjælp fra andre. Hvis først du har lagt en forhindring, må du ikke flytte den igen."
 permalink: /oevelse/forhindringsbanen
 language: da
+tags:
+  - Koordination og balance
 categories:
   - Koordination og balance
-  - <p>Kombinationsøvelser med fokus på stabilitet, koordination og balancetræning. Her vælges gerne teknisk komplicerede øvelser, som udfordrer kropsstammen.</p>
 training_type: 
 training_focus: 
 equipment:

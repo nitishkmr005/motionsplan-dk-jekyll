@@ -6,6 +6,12 @@ language: da
 header:
   overlay_image: /assets/images/exercises/sideloeft-siddende-0.JPG
   teaser: /assets/images/exercises/sideloeft-siddende-0.JPG
+tags:
+  - Træk
+  - Styrketræning
+  - træk lodret
+  - håndvægte
+  - Skuldre
 categories:
   - Træk
 training_type: 

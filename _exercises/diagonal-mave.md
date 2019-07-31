@@ -6,6 +6,13 @@ language: da
 header:
   overlay_image: /assets/images/exercises/diagonal-mave-0.jpg
   teaser: /assets/images/exercises/diagonal-mave-0.jpg
+tags:
+  - Styrketræning
+  - kropsstamme
+  - kropsvægt
+  - Core
+  - Hoftebøjere
+  - Mave
 categories:
 training_type: 
   - Styrketræning

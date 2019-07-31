@@ -6,6 +6,14 @@ language: da
 header:
   overlay_image: /assets/images/exercises/lunges-kettlebell-skifter-hånd-0.jpg
   teaser: /assets/images/exercises/lunges-kettlebell-skifter-hånd-0.jpg
+tags:
+  - Kropsstamme
+  - Styrketræning
+  - helkropsøvelse
+  - kettlebell
+  - Baller
+  - Core
+  - Forlår
 categories:
   - Kropsstamme
 training_type: 
