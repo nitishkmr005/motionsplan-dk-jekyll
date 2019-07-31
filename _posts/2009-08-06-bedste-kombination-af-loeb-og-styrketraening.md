@@ -18,7 +18,7 @@ last_modified_at: 2013-02-13T22:09:36Z
 
 Det er genstand for megen debat, hvordan styrketræning og konditionstræning kombineres bedst muligt.
 
-Tidligere har vi skrevet, at [eksplosiv træning gør dig hurtigere på 5 kilometer](/artikel/eksplosiv-styrketraening-goer-dig-hurtigere-paa-5-km), motion-online.dk skriver at [tung styrketræning øger præstationsevnen hos løbere](http://www.motion-online.dk/styrketraening/styrke_-_artikler/tung_styrketraening_oeger_praestationsevnen_hos_loebere/) og [Styrketræning øger udholdenheden](http://www.motion-online.dk/styrketraening/styrke_-_artikler/styrketraening_oeger_udholdenheden/) hos langrendsløbere. Studierne beskriver imidlertid ikke noget om, nøjagtigt hvordan styrketræningen var placeret ift. forsøgspersonernes øvrige træning.
+Tidligere har vi skrevet, at [eksplosiv træning gør dig hurtigere på 5 kilometer](/artikel/eksplosiv-traening-goer-dig-hurtigere-paa-5-km), motion-online.dk skriver at [tung styrketræning øger præstationsevnen hos løbere](http://www.motion-online.dk/styrketraening/styrke_-_artikler/tung_styrketraening_oeger_praestationsevnen_hos_loebere/) og [Styrketræning øger udholdenheden](http://www.motion-online.dk/styrketraening/styrke_-_artikler/styrketraening_oeger_udholdenheden/) hos langrendsløbere. Studierne beskriver imidlertid ikke noget om, nøjagtigt hvordan styrketræningen var placeret ift. forsøgspersonernes øvrige træning.
 
 Hvordan får man den bedste effekt af sine træning, hvis konditions- og styrketræning kombineres i samme træningspas?
 

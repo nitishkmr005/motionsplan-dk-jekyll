@@ -17,7 +17,7 @@ lsolesen:
       url: "https://www.linkedin.com/in/lsolesen/"
 mads.davidsen:
   name             : "Mads Davidsen"
-  avatar           : "https://pbs.twimg.com/profile_images/882833444555902977/hJkESDHO_400x400.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/authors/madsdavidsen.png"
   bio              : "UEFA Pro Football Coach | Owner at Optima Football | Technical Director & Strategic Advisor | Author | Keynote speaker"
   links:
     - label: "Website"
