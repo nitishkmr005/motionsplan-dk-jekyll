@@ -1,14 +1,14 @@
 ---
 title: "Mountainclimber på stepbænk"
 excerpt: ""
-redirect_from: /oevelse/mountainclimber-paa-stepbaenk
+permalink: /oevelse/mountainclimber-paa-stepbaenk
 language: da
 header:
   overlay_image: /assets/images/exercises/mountainclimber-paa-stepbaenk-0.jpg
   teaser: /assets/images/exercises/mountainclimber-paa-stepbaenk-0.jpg
 categories:
   - Kondition og puls
-  - 
+  - <p>Primært fokus på kredsløbstræning, som giver høj puls og belaster det aerobe system maksimalt.</p>
 training_type: 
   - Kondition
 training_focus: 
@@ -21,13 +21,12 @@ muscle_group:
   - Lægge
   - Mave
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/mountainclimber-paa-stepbaenk-0.jpg
+  - url: /assets/images/exercises/mountainclimber-paa-stepbaenk-0.jpg
     image_path: /assets/images/exercises/mountainclimber-paa-stepbaenk-0.jpg
     alt: "Mountainclimber på stepbænk"
     title: "Mountainclimber på stepbænk"
-  - url: /assets/mountainclimber-paa-stepbaenk-1.jpg
+  - url: /assets/images/exercises/mountainclimber-paa-stepbaenk-1.jpg
     image_path: /assets/images/exercises/mountainclimber-paa-stepbaenk-1.jpg
     alt: "Mountainclimber på stepbænk"
     title: "Mountainclimber på stepbænk"

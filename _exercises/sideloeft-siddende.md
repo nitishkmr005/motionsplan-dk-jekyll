@@ -1,7 +1,7 @@
 ---
 title: "Sideløft, siddende"
 excerpt: "Siddende foroverbøjet på en bænk føres vægtene med let bøjede arme ud i til siden og opad. Bevægelsen stoppes, når albuer er på højde med skulderne. Vægtene sænkes kontrolleret tilbage til udgangspositionen."
-redirect_from: /oevelse/sideloeft-siddende
+permalink: /oevelse/sideloeft-siddende
 language: da
 header:
   overlay_image: /assets/images/exercises/sideloeft-siddende-0.JPG
@@ -20,15 +20,15 @@ alternative_titles:
   - Lateral raise
   - Skuldersideløft
 gallery:
-  - url: /assets/sideloeft-siddende-0.JPG
+  - url: /assets/images/exercises/sideloeft-siddende-0.JPG
     image_path: /assets/images/exercises/sideloeft-siddende-0.JPG
     alt: "Sideløft, siddende"
     title: "Sideløft, siddende"
-  - url: /assets/sideloeft-siddende-1.JPG
+  - url: /assets/images/exercises/sideloeft-siddende-1.JPG
     image_path: /assets/images/exercises/sideloeft-siddende-1.JPG
     alt: "Sideløft, siddende"
     title: "Sideløft, siddende"
-  - url: /assets/sideloeft-siddende-2.JPG
+  - url: /assets/images/exercises/sideloeft-siddende-2.JPG
     image_path: /assets/images/exercises/sideloeft-siddende-2.JPG
     alt: "Sideløft, siddende"
     title: "Sideløft, siddende"

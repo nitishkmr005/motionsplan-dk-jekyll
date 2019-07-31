@@ -1,7 +1,7 @@
 ---
 title: "Pullup, kropshævning med overhåndsgreb"
 excerpt: "Hold fast i stangen med hænderne lidt bredere end skulderbreddde og håndfladerne pegende fremad. Træk dig op indtil du kigger over stangen og sænk dig kontrolleret igen."
-redirect_from: /oevelse/pullup
+permalink: /oevelse/pullup
 language: da
 header:
   overlay_image: /assets/images/exercises/pullup-0.jpg
@@ -9,23 +9,21 @@ header:
 categories:
 training_type: 
 training_focus: 
-  - 
-  - 
-  - 
 equipment:
   - bar
 muscle_group:
-alternative_titles:
-  - skulderpres
 gallery:
-  - url: /assets/pullup-0.jpg
+  - url: /assets/images/exercises/pullup-0.jpg
     image_path: /assets/images/exercises/pullup-0.jpg
     alt: "Pullup, kropshævning med overhåndsgreb"
     title: "Pullup, kropshævning med overhåndsgreb"
-  - url: /assets/pullup-1.jpg
+  - url: /assets/images/exercises/pullup-1.jpg
     image_path: /assets/images/exercises/pullup-1.jpg
     alt: "Pullup, kropshævning med overhåndsgreb"
     title: "Pullup, kropshævning med overhåndsgreb"
+video:
+  provider: youtube
+  id: QWQqivQ92dE
 last_modified_at: 2014-10-10T21:19:43Z
 ---
 

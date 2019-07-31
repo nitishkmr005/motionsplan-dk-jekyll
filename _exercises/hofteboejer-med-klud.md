@@ -2,7 +2,7 @@
 title: "Hoftebøjer med klud"
 excerpt: "Støttende på alle hænder og tæer med strakt krop. Vægten frem på armene. Begge fødder placeret på gulvklude. Træk fødderne frem mod hænderne ved at bøje i hoften. Lad derefter fødderne glide tilbage til udgangsposition. Hold kropsspændingen hele vejen til slutposition.
 "
-redirect_from: /oevelse/hofteboejer-med-klud
+permalink: /oevelse/hofteboejer-med-klud
 language: da
 header:
   overlay_image: /assets/images/exercises/hofteboejer-med-klud-0.jpg
@@ -10,23 +10,20 @@ header:
 categories:
 training_type: 
 training_focus: 
-  - 
   - kropsstamme
 equipment:
   - klud
 muscle_group:
-alternative_titles:
-  - goblet squat
 gallery:
-  - url: /assets/hofteboejer-med-klud-0.jpg
+  - url: /assets/images/exercises/hofteboejer-med-klud-0.jpg
     image_path: /assets/images/exercises/hofteboejer-med-klud-0.jpg
     alt: "Hoftebøjer med klud"
     title: "Hoftebøjer med klud"
-  - url: /assets/hofteboejer-med-klud-1.jpg
+  - url: /assets/images/exercises/hofteboejer-med-klud-1.jpg
     image_path: /assets/images/exercises/hofteboejer-med-klud-1.jpg
     alt: "Hoftebøjer med klud"
     title: "Hoftebøjer med klud"
-  - url: /assets/hofteboejer-med-klud-2.jpg
+  - url: /assets/images/exercises/hofteboejer-med-klud-2.jpg
     image_path: /assets/images/exercises/hofteboejer-med-klud-2.jpg
     alt: "Hoftebøjer med klud"
     title: "Hoftebøjer med klud"

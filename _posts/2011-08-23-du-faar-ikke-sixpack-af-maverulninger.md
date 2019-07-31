@@ -1,10 +1,10 @@
 ---
 title: "Du får ikke sixpack af maverulninger"
-redirect_from: /artikel/du-faar-ikke-sixpack-af-maverulninger
+permalink: /artikel/du-faar-ikke-sixpack-af-maverulninger
 language: da
 header:
-  overlay_image: /assets/images/get-six-pack-abs.jpg
-  teaser: /assets/images/get-six-pack-abs.jpg
+  overlay_image: /assets/images/blog/du-faar-ikke-sixpack-af-maverulninger.jpg
+  teaser: /assets/images/blog/du-faar-ikke-sixpack-af-maverulninger.jpg
 tags:
   - maveøvelser
   - flad mave
@@ -29,7 +29,7 @@ Hvis man vil have en sixpack, skal man have styr på søvnrytmen, sin kost og en
 
 **Kost og ernæring**. Der skal luges ud i hvad der er i skabene, og der skal være opbakning fra omgivelserne til projektet. Man kan tabe sig rigtig effektivt på en såkaldt hulemandskost; hovedsageligt kød og grønne grøntsager. Kosten indeholder således masser af protein og fedt og ikke ret mange kulhydrater. Det kan være en ret streng diæt for nogen, og derfor skal man også planlægge nøjagtigt, hvornår man må snyde. 'Cheat meals' er med til at fylde alle cellerne op med energi igen. [Jacob Søndergaard giver et eksempel på, hvad diæten kunne bestå i](http://www.jacobsondergaard.dk/sixpack-pa-6-uger/ernaering/).
 
-**Træning**. Træningen bestod af [20 minutters opvarmning](http://www.jacobsondergaard.dk/sixpack-pa-6-uger/traening/opvarmning/) efterfulgt af 20 minutters intensiv træning hver dag og fri i weekenden. Jacob Søndergaard anbefaler at træningen ligger så tidligt på dagen som muligt for bedst muligt at påvirke den 24 timers-rytme, så fedtforbrændingen om natten optimeres. Træningen bestod af øvelser med [kettlebells](http://motionsplan.dk/artikel/hvordan-traener-man-med-kettlebells) og [kropsvægt](http://motionsplan.dk/artikel/traening-med-kropsvaegt). Øvelserne involverer hele kroppen, og der er et stort element af koordination, stor mængde muskelmasse og de udføres med relativ stor kraft. Følgende øvelser anbefales til træningskomplekset: [swings](http://motionsplan.dk/oevelse/tohaandssving), [turkish getup](http://motionsplan.dk/oevelse/turkish-getup), [bear complex](http://www.jacobsondergaard.dk/2011/07/27/kettlebell-bear-complex-tip-1/), [armstrækninger](http://motionsplan.dk/oevelse/armstraekker) efter ['grease the groove'](http://motionsplan.dk/artikel/jeg-vil-tage-mange-armstraekninger)-princippet og [kropshævning](http://motionsplan.dk/oevelse/pullup). [Jacob Søndergaard giver eksempler på, hvad træningsprogrammet kunne indeholde](http://www.jacobsondergaard.dk/sixpack-pa-6-uger/traening/video-af-getups-swings/).
+**Træning**. Træningen bestod af [20 minutters opvarmning](http://www.jacobsondergaard.dk/sixpack-pa-6-uger/traening/opvarmning/) efterfulgt af 20 minutters intensiv træning hver dag og fri i weekenden. Jacob Søndergaard anbefaler at træningen ligger så tidligt på dagen som muligt for bedst muligt at påvirke den 24 timers-rytme, så fedtforbrændingen om natten optimeres. Træningen bestod af øvelser med [kettlebells](/artikel/hvordan-traener-man-med-kettlebells) og [kropsvægt](/artikel/traening-med-kropsvaegt). Øvelserne involverer hele kroppen, og der er et stort element af koordination, stor mængde muskelmasse og de udføres med relativ stor kraft. Følgende øvelser anbefales til træningskomplekset: [swings](/oevelse/tohaandssving), [turkish getup](/oevelse/turkish-getup), [bear complex](http://www.jacobsondergaard.dk/2011/07/27/kettlebell-bear-complex-tip-1/), [armstrækninger](/oevelse/armstraekker) efter ['grease the groove'](/artikel/jeg-vil-tage-mange-armstraekninger)-princippet og [kropshævning](/oevelse/pullup). [Jacob Søndergaard giver eksempler på, hvad træningsprogrammet kunne indeholde](http://www.jacobsondergaard.dk/sixpack-pa-6-uger/traening/video-af-getups-swings/).
 
 Læg mærke til at der i programmet ikke er valgt nogle af de klassiske maveøvelser. Det skyldes dels at de ikke aktiverer nok muskelmasse, og dels at de ikke nødvendigvis er allerbedst for ryggen. Se fx disse interviews med en af de førende forskere i lænde- og rygsmerter, Stuart McGill: [Is Your Ab Workout Hurting Your Back?](http://well.blogs.nytimes.com/2009/06/17/core-myths/?em) og til [Big Back Attack fra Mens Health](http://www.menshealth.com/cda/article.do?site=menshealth&channel=health&category=back.pain&conitem=c6f999edbbbd201099edbbbd2010cfe793cd____).
 

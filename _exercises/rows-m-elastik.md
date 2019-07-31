@@ -1,7 +1,7 @@
 ---
 title: "Rows m. elastik"
 excerpt: "En funktionel ryg- og bicepsøvelse med elastik."
-redirect_from: /oevelse/rows-m-elastik
+permalink: /oevelse/rows-m-elastik
 language: da
 categories:
 training_type: 
@@ -10,13 +10,6 @@ equipment:
   - elastik
   - 
 muscle_group:
-alternative_titles:
-  - Triceps pushdown
-  - Pushdown
-  - cable pushdown
-  - triceps pulldown
-  - triceps rope extension
-  - albuestræk kabel
 gallery:
 last_modified_at: 2010-03-10T13:58:16Z
 ---

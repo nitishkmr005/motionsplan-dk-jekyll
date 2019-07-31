@@ -1,7 +1,7 @@
 ---
 title: "Makker på slæb"
 excerpt: "Tag et reb om maven. Lad en makker holde fast i det. Nu skal du sprinte fremad."
-redirect_from: /oevelse/makker-paa-slaeb
+permalink: /oevelse/makker-paa-slaeb
 language: da
 header:
   overlay_image: /assets/images/exercises/makker-paa-slaeb-0.jpg
@@ -11,19 +11,16 @@ training_type:
 training_focus: 
 equipment:
 muscle_group:
-alternative_titles:
-  - Farmer's walk
-  - Farmerwalk
 gallery:
-  - url: /assets/makker-paa-slaeb-0.jpg
+  - url: /assets/images/exercises/makker-paa-slaeb-0.jpg
     image_path: /assets/images/exercises/makker-paa-slaeb-0.jpg
     alt: "Makker på slæb"
     title: "Makker på slæb"
-  - url: /assets/makker-paa-slaeb-1.jpg
+  - url: /assets/images/exercises/makker-paa-slaeb-1.jpg
     image_path: /assets/images/exercises/makker-paa-slaeb-1.jpg
     alt: "Makker på slæb"
     title: "Makker på slæb"
-  - url: /assets/makker-paa-slaeb-2.jpg
+  - url: /assets/images/exercises/makker-paa-slaeb-2.jpg
     image_path: /assets/images/exercises/makker-paa-slaeb-2.jpg
     alt: "Makker på slæb"
     title: "Makker på slæb"

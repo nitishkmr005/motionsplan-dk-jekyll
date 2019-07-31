@@ -1,10 +1,10 @@
 ---
 title: "Stærk træningsprogram"
-redirect_from: /artikel/staerk-traeningsprogram
+permalink: /artikel/staerk-traeningsprogram
 language: da
 header:
-  overlay_image: /assets/images/staerk.jpg
-  teaser: /assets/images/staerk.jpg
+  overlay_image: /assets/images/blog/staerk-traeningsprogram.jpg
+  teaser: /assets/images/blog/staerk-traeningsprogram.jpg
 tags:
   - anmeldelse
 category:
@@ -18,4 +18,4 @@ Kunne du godt tænke dig at blive rigtigt stærk? Det kræver den rette hjælp, 
 
 Det er en virkelig god bog til at blive klogere af, hvis du gerne vil blive stærk i de tre store løft.
 
-[Køb Stærk hos Saxo\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/staerk_jacob-beermann_indbundet_9788771801835) eller hos [Bodyman](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=20604&htmlurl=https://www.bodyman.dk/shop/staerk-jacob-beermann-36182p.html)
+[Køb Stærk hos Saxo](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/staerk_jacob-beermann_indbundet_9788771801835) eller hos [Bodyman](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=20604&htmlurl=https://www.bodyman.dk/shop/staerk-jacob-beermann-36182p.html)

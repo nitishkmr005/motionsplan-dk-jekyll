@@ -1,10 +1,10 @@
 ---
 title: "Ropro - træningsprogrammer til ro- og kajaksporten"
-redirect_from: /artikel/ropro-traeningsprogrammer-til-ro-og-kajaksporten
+permalink: /artikel/ropro-traeningsprogrammer-til-ro-og-kajaksporten
 language: da
 header:
-  overlay_image: /assets/images/Verdensrekord - Team Danmark 25 år 05.jpg
-  teaser: /assets/images/Verdensrekord - Team Danmark 25 år 05.jpg
+  overlay_image: /assets/images/blog/ropro-traeningsprogrammer-til-ro-og-kajaksporten.jpg
+  teaser: /assets/images/blog/ropro-traeningsprogrammer-til-ro-og-kajaksporten.jpg
 tags:
   - webclips
   - træning

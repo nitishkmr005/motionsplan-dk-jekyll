@@ -1,7 +1,7 @@
 ---
 title: "Victory raise"
 excerpt: ""
-redirect_from: /oevelse/victory-raise
+permalink: /oevelse/victory-raise
 language: da
 categories:
   - Pres
@@ -14,8 +14,10 @@ equipment:
 muscle_group:
   - Skuldre
 alternative_titles:
-  - 
 gallery:
+video:
+  provider: youtube
+  id: SV5VV9HK2iQ
 last_modified_at: 2016-10-31T21:24:55Z
 ---
 

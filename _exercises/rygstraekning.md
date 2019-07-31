@@ -1,7 +1,7 @@
 ---
 title: "Rygstrækning på skrå bænk"
 excerpt: "Lig på bænken, så du uhindret kan bøje i hoften. Bøj i hoften og hold igen indtil kroppen hænger næsten lodret ned. Bevæg dig tilbage til udgangspunktet. "
-redirect_from: /oevelse/rygstraekning
+permalink: /oevelse/rygstraekning
 language: da
 header:
   overlay_image: /assets/images/exercises/rygstraekning-0.JPG
@@ -22,15 +22,15 @@ alternative_titles:
   - Lænd på bænk
   - Hyper extension
 gallery:
-  - url: /assets/rygstraekning-0.JPG
+  - url: /assets/images/exercises/rygstraekning-0.JPG
     image_path: /assets/images/exercises/rygstraekning-0.JPG
     alt: "Rygstrækning på skrå bænk"
     title: "Rygstrækning på skrå bænk"
-  - url: /assets/rygstraekning-1.JPG
+  - url: /assets/images/exercises/rygstraekning-1.JPG
     image_path: /assets/images/exercises/rygstraekning-1.JPG
     alt: "Rygstrækning på skrå bænk"
     title: "Rygstrækning på skrå bænk"
-  - url: /assets/rygstraekning-2.JPG
+  - url: /assets/images/exercises/rygstraekning-2.JPG
     image_path: /assets/images/exercises/rygstraekning-2.JPG
     alt: "Rygstrækning på skrå bænk"
     title: "Rygstrækning på skrå bænk"

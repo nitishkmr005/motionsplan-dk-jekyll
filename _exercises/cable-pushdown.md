@@ -1,7 +1,7 @@
 ---
 title: "Triceps, kabeltræk"
 excerpt: "Stil dig i god balance. Tag fat i håndtaget med bøjede arme. Derfra presser du håndtaget ned mod gulvet indtil armene er strakte. Kontrolleret tilbage til udgangspunktet."
-redirect_from: /oevelse/cable-pushdown
+permalink: /oevelse/cable-pushdown
 language: da
 header:
   overlay_image: /assets/images/exercises/cable-pushdown-0.JPG
@@ -9,8 +9,6 @@ header:
 categories:
 training_type: 
 training_focus: 
-  - 
-  - 
 equipment:
   - kabeltræk
 muscle_group:
@@ -23,11 +21,11 @@ alternative_titles:
   - triceps rope extension
   - albuestræk kabel
 gallery:
-  - url: /assets/cable-pushdown-0.JPG
+  - url: /assets/images/exercises/cable-pushdown-0.JPG
     image_path: /assets/images/exercises/cable-pushdown-0.JPG
     alt: "Triceps, kabeltræk"
     title: "Triceps, kabeltræk"
-  - url: /assets/cable-pushdown-1.JPG
+  - url: /assets/images/exercises/cable-pushdown-1.JPG
     image_path: /assets/images/exercises/cable-pushdown-1.JPG
     alt: "Triceps, kabeltræk"
     title: "Triceps, kabeltræk"

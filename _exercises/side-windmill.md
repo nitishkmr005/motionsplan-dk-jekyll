@@ -1,7 +1,7 @@
 ---
 title: "Side windmill"
 excerpt: ""
-redirect_from: /oevelse/side-windmill
+permalink: /oevelse/side-windmill
 language: da
 categories:
   - Kropsstamme
@@ -14,8 +14,10 @@ equipment:
 muscle_group:
   - Mave
 alternative_titles:
-  - 
 gallery:
+video:
+  provider: youtube
+  id: ITSmgn_BQgY
 last_modified_at: 2016-11-01T08:43:03Z
 ---
 

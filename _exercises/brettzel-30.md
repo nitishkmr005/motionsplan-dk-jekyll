@@ -1,7 +1,7 @@
 ---
 title: "Brettzel 3.0"
 excerpt: ""
-redirect_from: /oevelse/brettzel-30
+permalink: /oevelse/brettzel-30
 language: da
 header:
   overlay_image: /assets/images/exercises/brettzel-30-0.jpg
@@ -13,12 +13,14 @@ training_focus:
 equipment:
 muscle_group:
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/brettzel-30-0.jpg
+  - url: /assets/images/exercises/brettzel-30-0.jpg
     image_path: /assets/images/exercises/brettzel-30-0.jpg
     alt: "Brettzel 3.0"
     title: "Brettzel 3.0"
+video:
+  provider: youtube
+  id: v8iXtzDW-eU
 last_modified_at: 2015-04-06T10:24:10Z
 ---
 

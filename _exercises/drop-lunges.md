@@ -1,7 +1,7 @@
 ---
 title: "Drop lunges"
 excerpt: "Drop lunges, hvor det ene ben føres bag det forreste bøjede ben."
-redirect_from: /oevelse/drop-lunges
+permalink: /oevelse/drop-lunges
 language: da
 header:
   overlay_image: /assets/images/exercises/drop-lunges-0.jpg
@@ -11,21 +11,16 @@ training_type:
 training_focus: 
 equipment:
 muscle_group:
-alternative_titles:
-  - Skrå bænkpres
-  - Skrå bænk
-  - Brystpres
-  - Brystpres håndvægte lige
 gallery:
-  - url: /assets/drop-lunges-0.jpg
+  - url: /assets/images/exercises/drop-lunges-0.jpg
     image_path: /assets/images/exercises/drop-lunges-0.jpg
     alt: "Drop lunges"
     title: "Drop lunges"
-  - url: /assets/drop-lunges-1.jpg
+  - url: /assets/images/exercises/drop-lunges-1.jpg
     image_path: /assets/images/exercises/drop-lunges-1.jpg
     alt: "Drop lunges"
     title: "Drop lunges"
-  - url: /assets/drop-lunges-2.jpg
+  - url: /assets/images/exercises/drop-lunges-2.jpg
     image_path: /assets/images/exercises/drop-lunges-2.jpg
     alt: "Drop lunges"
     title: "Drop lunges"

@@ -1,10 +1,10 @@
 ---
 title: "Vil du gerne tage en kropshævning?"
-redirect_from: /artikel/vil-du-gerne-tage-en-kropshaevning
+permalink: /artikel/vil-du-gerne-tage-en-kropshaevning
 language: da
 header:
-  overlay_image: /assets/images/chinups.jpg
-  teaser: /assets/images/chinups.jpg
+  overlay_image: /assets/images/blog/vil-du-gerne-tage-en-kropshaevning.jpg
+  teaser: /assets/images/blog/vil-du-gerne-tage-en-kropshaevning.jpg
 tags:
   - styrketræning
   - guide
@@ -15,35 +15,9 @@ last_modified_at: 2013-02-13T22:27:53Z
 
 Kropshævning er en af de absolut bedste overkropsøvelser, så du kan egentlig ikke komme i gang med den hurtigt nok. Øvelsen findes i hvert fald i to variationer - og vi synes du er sej, uanset hvilken du kan udføre.
 
-[Pullup, kropshævning med overhåndsgreb](/oevelse/pullup "Pullup, kropshævning med overhåndsgreb")
-\--------------------------------------------------------------------------------------------------
+{% include exercises exercises="Pullup, kropshævning med overhåndsgreb" match="exact" type="left" %}
 
-Hold fast i stangen med hænderne lidt bredere end skulderbreddde og håndfladerne pegende fremad. Træk dig op indtil du kigger over stangen og sænk dig kontrolleret igen.
-
-
-
-
-
- 
-
-\- [Læs mere om Pullup, kropshævning med overhåndsgreb](/oevelse/pullup "Pullup, kropshævning med overhåndsgreb")
-\- [Tilføj kommentar](/comment/reply/61#comment-form "Tilføj en kommentar til siden.")
-
-
-
-[Chinup, kropshævning med underhåndsgreb](/oevelse/chinup "Chinup, kropshævning med underhåndsgreb")
-\----------------------------------------------------------------------------------------------------
-
-Kropshævning med underhåndsgreb.
-
-
-
-
-
- 
-
-\- [Læs mere om Chinup, kropshævning med underhåndsgreb](/oevelse/chinup "Chinup, kropshævning med underhåndsgreb")
-\- [Tilføj kommentar](/comment/reply/19#comment-form "Tilføj en kommentar til siden.")
+{% include exercises exercises="Chinup, kropshævning med underhåndsgreb" match="exact" type="left" %}
 
 Hvis du også vil være en af de seje, kan følgende træningsprogram måske hjælpe dig til at kunne tage en kropshævning uden hjælp. Programmet er udarbejdet af Nikolaj Lehmann fra [jui.dk](http://jui.dk).
 

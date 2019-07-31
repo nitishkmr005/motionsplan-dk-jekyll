@@ -1,10 +1,10 @@
 ---
 title: "Følg tempoet når du løfter"
-redirect_from: /artikel/foelg-tempoet-naar-du-loefter
+permalink: /artikel/foelg-tempoet-naar-du-loefter
 language: da
 header:
-  overlay_image: /assets/images/push-up.jpg
-  teaser: /assets/images/push-up.jpg
+  overlay_image: /assets/images/blog/foelg-tempoet-naar-du-loefter.jpg
+  teaser: /assets/images/blog/foelg-tempoet-naar-du-loefter.jpg
 tags:
 category:
   - Styrketræning

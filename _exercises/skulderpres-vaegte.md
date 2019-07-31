@@ -1,7 +1,7 @@
 ---
 title: "Skulderpres, vægte"
 excerpt: "Sæt dig på en en skråbænk og start vægtene fra skuldrene. Pres op over hovedet indtil du har strakte arme. Sænk langsomt til udgangspunktet igen."
-redirect_from: /oevelse/skulderpres-vaegte
+permalink: /oevelse/skulderpres-vaegte
 language: da
 header:
   overlay_image: /assets/images/exercises/skulderpres-vaegte-0.jpg
@@ -9,8 +9,6 @@ header:
 categories:
 training_type: 
 training_focus: 
-  - 
-  - 
 equipment:
   - vægtstang
   - håndvægte
@@ -19,18 +17,16 @@ muscle_group:
   - 
   - 
   - 
-alternative_titles:
-  - Albuestræk stang
 gallery:
-  - url: /assets/skulderpres-vaegte-0.jpg
+  - url: /assets/images/exercises/skulderpres-vaegte-0.jpg
     image_path: /assets/images/exercises/skulderpres-vaegte-0.jpg
     alt: "Skulderpres, vægte"
     title: "Skulderpres, vægte"
-  - url: /assets/skulderpres-vaegte-1.jpg
+  - url: /assets/images/exercises/skulderpres-vaegte-1.jpg
     image_path: /assets/images/exercises/skulderpres-vaegte-1.jpg
     alt: "Skulderpres, vægte"
     title: "Skulderpres, vægte"
-  - url: /assets/skulderpres-vaegte-2.jpg
+  - url: /assets/images/exercises/skulderpres-vaegte-2.jpg
     image_path: /assets/images/exercises/skulderpres-vaegte-2.jpg
     alt: "Skulderpres, vægte"
     title: "Skulderpres, vægte"

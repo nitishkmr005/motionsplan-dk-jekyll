@@ -1,7 +1,7 @@
 ---
 title: "Biceps, kabeltræk"
 excerpt: "Stå i god balance og tag fat i håndtaget. Start med strakte arme og bøj dem maksimalt. Sørg for at kroppen ikke hjælper til, men kun armene laver arbejdet."
-redirect_from: /oevelse/biceps-kabeltraek
+permalink: /oevelse/biceps-kabeltraek
 language: da
 header:
   overlay_image: /assets/images/exercises/biceps-kabeltraek-0.JPG
@@ -9,8 +9,6 @@ header:
 categories:
 training_type: 
 training_focus: 
-  - 
-  - 
 equipment:
   - kabeltræk
 muscle_group:
@@ -21,11 +19,11 @@ alternative_titles:
   - Albuebøj i kabel
   - albuebøj
 gallery:
-  - url: /assets/biceps-kabeltraek-0.JPG
+  - url: /assets/images/exercises/biceps-kabeltraek-0.JPG
     image_path: /assets/images/exercises/biceps-kabeltraek-0.JPG
     alt: "Biceps, kabeltræk"
     title: "Biceps, kabeltræk"
-  - url: /assets/biceps-kabeltraek-1.JPG
+  - url: /assets/images/exercises/biceps-kabeltraek-1.JPG
     image_path: /assets/images/exercises/biceps-kabeltraek-1.JPG
     alt: "Biceps, kabeltræk"
     title: "Biceps, kabeltræk"

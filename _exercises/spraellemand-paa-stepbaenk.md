@@ -1,14 +1,14 @@
 ---
 title: "Sprællemand på stepbænk"
 excerpt: ""
-redirect_from: /oevelse/spraellemand-paa-stepbaenk
+permalink: /oevelse/spraellemand-paa-stepbaenk
 language: da
 header:
   overlay_image: /assets/images/exercises/spraellemand-paa-stepbaenk-0.jpg
   teaser: /assets/images/exercises/spraellemand-paa-stepbaenk-0.jpg
 categories:
   - Kondition og puls
-  - 
+  - <p>Primært fokus på kredsløbstræning, som giver høj puls og belaster det aerobe system maksimalt.</p>
 training_type: 
   - Kondition
 training_focus: 
@@ -22,13 +22,12 @@ muscle_group:
   - Forlår
   - Lægge
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/spraellemand-paa-stepbaenk-0.jpg
+  - url: /assets/images/exercises/spraellemand-paa-stepbaenk-0.jpg
     image_path: /assets/images/exercises/spraellemand-paa-stepbaenk-0.jpg
     alt: "Sprællemand på stepbænk"
     title: "Sprællemand på stepbænk"
-  - url: /assets/spraellemand-paa-stepbaenk-1.jpg
+  - url: /assets/images/exercises/spraellemand-paa-stepbaenk-1.jpg
     image_path: /assets/images/exercises/spraellemand-paa-stepbaenk-1.jpg
     alt: "Sprællemand på stepbænk"
     title: "Sprællemand på stepbænk"

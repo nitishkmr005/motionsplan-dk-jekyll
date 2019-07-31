@@ -1,14 +1,14 @@
 ---
 title: "Rite 3: Forlår"
 excerpt: ""
-redirect_from: /oevelse/rite-3-forlaar
+permalink: /oevelse/rite-3-forlaar
 language: da
 header:
   overlay_image: /assets/images/exercises/rite-3-forlaar-0.jpg
   teaser: /assets/images/exercises/rite-3-forlaar-0.jpg
 categories:
   - Koordination og balance
-  - 
+  - <p>Kombinationsøvelser med fokus på stabilitet, koordination og balancetræning. Her vælges gerne teknisk komplicerede øvelser, som udfordrer kropsstammen.</p>
 training_type: 
   - Styrketræning
   - Yoga
@@ -20,17 +20,16 @@ muscle_group:
   - Core
   - Forlår
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/rite-3-forlaar-0.jpg
+  - url: /assets/images/exercises/rite-3-forlaar-0.jpg
     image_path: /assets/images/exercises/rite-3-forlaar-0.jpg
     alt: "Rite 3: Forlår"
     title: "Rite 3: Forlår"
-  - url: /assets/rite-3-forlaar-1.jpg
+  - url: /assets/images/exercises/rite-3-forlaar-1.jpg
     image_path: /assets/images/exercises/rite-3-forlaar-1.jpg
     alt: "Rite 3: Forlår"
     title: "Rite 3: Forlår"
-  - url: /assets/rite-3-forlaar-2.jpg
+  - url: /assets/images/exercises/rite-3-forlaar-2.jpg
     image_path: /assets/images/exercises/rite-3-forlaar-2.jpg
     alt: "Rite 3: Forlår"
     title: "Rite 3: Forlår"

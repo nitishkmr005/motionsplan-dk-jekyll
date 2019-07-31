@@ -1,7 +1,7 @@
 ---
 title: "Squat, rolling to standing"
 excerpt: ""
-redirect_from: /oevelse/squat-rolling-standing
+permalink: /oevelse/squat-rolling-standing
 language: da
 header:
   overlay_image: /assets/images/exercises/squat-rolling-standing-0.jpg
@@ -21,37 +21,36 @@ muscle_group:
   - Core
   - Forlår
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/squat-rolling-standing-0.jpg
+  - url: /assets/images/exercises/squat-rolling-standing-0.jpg
     image_path: /assets/images/exercises/squat-rolling-standing-0.jpg
     alt: "Squat, rolling to standing"
     title: "Squat, rolling to standing"
-  - url: /assets/squat-rolling-standing-1.jpg
+  - url: /assets/images/exercises/squat-rolling-standing-1.jpg
     image_path: /assets/images/exercises/squat-rolling-standing-1.jpg
     alt: "Squat, rolling to standing"
     title: "Squat, rolling to standing"
-  - url: /assets/squat-rolling-standing-2.jpg
+  - url: /assets/images/exercises/squat-rolling-standing-2.jpg
     image_path: /assets/images/exercises/squat-rolling-standing-2.jpg
     alt: "Squat, rolling to standing"
     title: "Squat, rolling to standing"
-  - url: /assets/squat-rolling-standing-3.jpg
+  - url: /assets/images/exercises/squat-rolling-standing-3.jpg
     image_path: /assets/images/exercises/squat-rolling-standing-3.jpg
     alt: "Squat, rolling to standing"
     title: "Squat, rolling to standing"
-  - url: /assets/squat-rolling-standing-4.jpg
+  - url: /assets/images/exercises/squat-rolling-standing-4.jpg
     image_path: /assets/images/exercises/squat-rolling-standing-4.jpg
     alt: "Squat, rolling to standing"
     title: "Squat, rolling to standing"
-  - url: /assets/squat-rolling-standing-5.jpg
+  - url: /assets/images/exercises/squat-rolling-standing-5.jpg
     image_path: /assets/images/exercises/squat-rolling-standing-5.jpg
     alt: "Squat, rolling to standing"
     title: "Squat, rolling to standing"
-  - url: /assets/squat-rolling-standing-6.jpg
+  - url: /assets/images/exercises/squat-rolling-standing-6.jpg
     image_path: /assets/images/exercises/squat-rolling-standing-6.jpg
     alt: "Squat, rolling to standing"
     title: "Squat, rolling to standing"
-  - url: /assets/squat-rolling-standing-7.jpg
+  - url: /assets/images/exercises/squat-rolling-standing-7.jpg
     image_path: /assets/images/exercises/squat-rolling-standing-7.jpg
     alt: "Squat, rolling to standing"
     title: "Squat, rolling to standing"

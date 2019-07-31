@@ -1,7 +1,7 @@
 ---
 title: "Foamrolling skinneben"
 excerpt: ""
-redirect_from: /oevelse/foamrolling-skinneben
+permalink: /oevelse/foamrolling-skinneben
 language: da
 categories:
 training_type: 
@@ -11,7 +11,6 @@ equipment:
   - foamroller
 muscle_group:
 alternative_titles:
-  - 
 gallery:
 last_modified_at: 2016-10-14T11:09:54Z
 ---

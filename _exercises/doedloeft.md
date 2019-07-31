@@ -1,7 +1,7 @@
 ---
 title: "Dødløft"
 excerpt: "Stangen er placeret på gulvet. Tag fat i stangen med hænderne i skulderbredde. Rejs dig ved at skyde hoften frem, mens stangen bare hænger i armene."
-redirect_from: /oevelse/doedloeft
+permalink: /oevelse/doedloeft
 language: da
 header:
   overlay_image: /assets/images/exercises/doedloeft-0.jpg
@@ -17,18 +17,18 @@ equipment:
 muscle_group:
   - Baglår
   - Baller
-alternative_titles:
-  - back squat
-  - backsquat
 gallery:
-  - url: /assets/doedloeft-0.jpg
+  - url: /assets/images/exercises/doedloeft-0.jpg
     image_path: /assets/images/exercises/doedloeft-0.jpg
     alt: "Dødløft"
     title: "Dødløft"
-  - url: /assets/doedloeft-1.jpg
+  - url: /assets/images/exercises/doedloeft-1.jpg
     image_path: /assets/images/exercises/doedloeft-1.jpg
     alt: "Dødløft"
     title: "Dødløft"
+video:
+  provider: youtube
+  id: mJ0OSws9qtE
 last_modified_at: 2015-03-21T16:06:44Z
 ---
 

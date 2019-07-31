@@ -1,7 +1,7 @@
 ---
 title: "Glute ham raises"
 excerpt: "Anklerne placeres mellem de små puder, og det nederste af lårene mod den store pude."
-redirect_from: /oevelse/glute-ham-raises
+permalink: /oevelse/glute-ham-raises
 language: da
 header:
   overlay_image: /assets/images/exercises/glute-ham-raises-0.jpg
@@ -9,16 +9,12 @@ header:
 categories:
 training_type: 
 training_focus: 
-  - 
   - hoftedomineret
 equipment:
   - maskine
 muscle_group:
-alternative_titles:
-  - Albuebøj i kabel
-  - albuebøj
 gallery:
-  - url: /assets/glute-ham-raises-0.jpg
+  - url: /assets/images/exercises/glute-ham-raises-0.jpg
     image_path: /assets/images/exercises/glute-ham-raises-0.jpg
     alt: "Glute ham raises"
     title: "Glute ham raises"

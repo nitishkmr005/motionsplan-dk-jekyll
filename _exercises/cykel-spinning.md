@@ -1,7 +1,7 @@
 ---
 title: "Cykel, spinning"
 excerpt: "Cykel, spinning"
-redirect_from: /oevelse/cykel-spinning
+permalink: /oevelse/cykel-spinning
 language: da
 header:
   overlay_image: /assets/images/exercises/cykel-spinning-0.JPG
@@ -10,14 +10,10 @@ categories:
 training_type: 
   - Kondition
 training_focus: 
-  - 
 equipment:
 muscle_group:
-alternative_titles:
-  - Albuebøj i kabel
-  - albuebøj
 gallery:
-  - url: /assets/cykel-spinning-0.JPG
+  - url: /assets/images/exercises/cykel-spinning-0.JPG
     image_path: /assets/images/exercises/cykel-spinning-0.JPG
     alt: "Cykel, spinning"
     title: "Cykel, spinning"

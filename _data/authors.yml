@@ -15,3 +15,44 @@ lsolesen:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/lsolesen/"
+mads.davidsen:
+  name             : "Mads Davidsen"
+  avatar           : "https://pbs.twimg.com/profile_images/882833444555902977/hJkESDHO_400x400.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "UEFA Pro Football Coach | Owner at Optima Football | Technical Director & Strategic Advisor | Author | Keynote speaker"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://madsdavidsen.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/MadsRDavidsen"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/Mads.Davidsen1982"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://dk.linkedin.com/in/mads-davidsen-9007545"
+kathrine.christensen:
+  name             : "Kathrine Christensen"
+  avatar           : "/assets/images/authors/kathrinechristensen.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Kathrine er en passioneret underviser og udøver af yoga og mindfulness meditation. Hun underviser på hold og workshops i primært i Vejle og Århus. Derudover underviser hun på Vejle Idrætshøjskole, DGI-huset Vejle og Mindfulness akademiet."
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://kathrinechristensen.dk/"
+martin.madsen:
+  name             : "Martin Madsen"
+  avatar           : "/assets/images/authors/martinmadsen.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Martin Madsen er cand.scient fra Syddansk Universitet i Idræt. Til daglig underviser han fitnessinstruktører og politiaspiranter på Vejle Idrætshøjskole. Desuden er han tilknyttet Team Danmark."
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.vih.dk/"
+martin.madsen:
+  name             : "Linda Kruse"
+  avatar           : "/assets/images/authors/lindakruse.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Linda Kruse er bachelor i Idræt og Sundhed fra Syddansk Universitet. Hun arbejder som bevægelseskonsulent og projektleder i sundhedsafdelingen i Vejle Kommune - og driver Kroptimal."
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://www.kroptimal.dk/"

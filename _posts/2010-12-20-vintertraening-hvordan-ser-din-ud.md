@@ -1,10 +1,10 @@
 ---
 title: "Vintertræning - hvordan ser din ud?"
-redirect_from: /artikel/vintertraening-hvordan-ser-din-ud
+permalink: /artikel/vintertraening-hvordan-ser-din-ud
 language: da
 header:
-  overlay_image: /assets/images/womanrunningonsnow.jpg
-  teaser: /assets/images/womanrunningonsnow.jpg
+  overlay_image: /assets/images/blog/vintertraening-hvordan-ser-din-ud.jpg
+  teaser: /assets/images/blog/vintertraening-hvordan-ser-din-ud.jpg
 tags:
   - træning
   - spørgsmål

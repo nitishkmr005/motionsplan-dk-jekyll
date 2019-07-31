@@ -1,7 +1,7 @@
 ---
 title: "Jefferson squat"
 excerpt: "Hold en vægt mellem benene. Ret ryggen ved at skyde brystet frem og skuldrene tilbage. Gå ned i knæ mens du holder spændet i kropsstammen. Rejs dig. Og gentag."
-redirect_from: /oevelse/jefferson-squat
+permalink: /oevelse/jefferson-squat
 language: da
 header:
   overlay_image: /assets/images/exercises/jefferson-squat-0.JPG
@@ -17,22 +17,20 @@ equipment:
 muscle_group:
   - Baller
   - Forlår
-alternative_titles:
-  - goblet squat
 gallery:
-  - url: /assets/jefferson-squat-0.JPG
+  - url: /assets/images/exercises/jefferson-squat-0.JPG
     image_path: /assets/images/exercises/jefferson-squat-0.JPG
     alt: "Jefferson squat"
     title: "Jefferson squat"
-  - url: /assets/jefferson-squat-1.JPG
+  - url: /assets/images/exercises/jefferson-squat-1.JPG
     image_path: /assets/images/exercises/jefferson-squat-1.JPG
     alt: "Jefferson squat"
     title: "Jefferson squat"
-  - url: /assets/jefferson-squat-2.JPG
+  - url: /assets/images/exercises/jefferson-squat-2.JPG
     image_path: /assets/images/exercises/jefferson-squat-2.JPG
     alt: "Jefferson squat"
     title: "Jefferson squat"
-  - url: /assets/jefferson-squat-3.JPG
+  - url: /assets/images/exercises/jefferson-squat-3.JPG
     image_path: /assets/images/exercises/jefferson-squat-3.JPG
     alt: "Jefferson squat"
     title: "Jefferson squat"

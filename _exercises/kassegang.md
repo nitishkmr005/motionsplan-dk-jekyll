@@ -1,34 +1,32 @@
 ---
 title: "Kassegang "
 excerpt: "Med to kasser skal du tilbagelægge en distance. Du står på den ene kasse og flytter den anden fremad."
-redirect_from: /oevelse/kassegang
+permalink: /oevelse/kassegang
 language: da
 header:
   overlay_image: /assets/images/exercises/kassegang-0.jpg
   teaser: /assets/images/exercises/kassegang-0.jpg
 categories:
   - Koordination og balance
-  - 
+  - <p>Kombinationsøvelser med fokus på stabilitet, koordination og balancetræning. Her vælges gerne teknisk komplicerede øvelser, som udfordrer kropsstammen.</p>
 training_type: 
 training_focus: 
 equipment:
 muscle_group:
-alternative_titles:
-  - Knæ til albue 
 gallery:
-  - url: /assets/kassegang-0.jpg
+  - url: /assets/images/exercises/kassegang-0.jpg
     image_path: /assets/images/exercises/kassegang-0.jpg
     alt: "Kassegang "
     title: "Kassegang "
-  - url: /assets/kassegang-1.jpg
+  - url: /assets/images/exercises/kassegang-1.jpg
     image_path: /assets/images/exercises/kassegang-1.jpg
     alt: "Kassegang "
     title: "Kassegang "
-  - url: /assets/kassegang-2.jpg
+  - url: /assets/images/exercises/kassegang-2.jpg
     image_path: /assets/images/exercises/kassegang-2.jpg
     alt: "Kassegang "
     title: "Kassegang "
-  - url: /assets/kassegang-3.jpg
+  - url: /assets/images/exercises/kassegang-3.jpg
     image_path: /assets/images/exercises/kassegang-3.jpg
     alt: "Kassegang "
     title: "Kassegang "

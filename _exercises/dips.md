@@ -1,7 +1,7 @@
 ---
 title: "Dips"
 excerpt: "Spring op i stativet. Sænk dig til overarmen cirka er vandret og pres dig op igen."
-redirect_from: /oevelse/dips
+permalink: /oevelse/dips
 language: da
 header:
   overlay_image: /assets/images/exercises/dips-0.jpg
@@ -17,17 +17,18 @@ equipment:
 muscle_group:
   - Arme
   - Bryst
-alternative_titles:
-  - Goodmorning
 gallery:
-  - url: /assets/dips-0.jpg
+  - url: /assets/images/exercises/dips-0.jpg
     image_path: /assets/images/exercises/dips-0.jpg
     alt: "Dips"
     title: "Dips"
-  - url: /assets/dips-1.jpg
+  - url: /assets/images/exercises/dips-1.jpg
     image_path: /assets/images/exercises/dips-1.jpg
     alt: "Dips"
     title: "Dips"
+video:
+  provider: youtube
+  id: FKc76c5qFHM
 last_modified_at: 2014-10-12T19:03:27Z
 ---
 

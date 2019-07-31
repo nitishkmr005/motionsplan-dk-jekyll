@@ -1,7 +1,7 @@
 ---
 title: "Frivend og stød, alternativ genstand"
 excerpt: "Du tager genstanden fra jorden og får den først op til brystet, inden du støder den op over hovedet i strakte arme. Sørg for at komme godt ned i knæ, spænd i kropsstammen og bevægelsen op skal være hurtig og eksplosiv."
-redirect_from: /oevelse/frivend-og-stoed
+permalink: /oevelse/frivend-og-stoed
 language: da
 header:
   overlay_image: /assets/images/exercises/frivend-og-stoed-0.jpg
@@ -17,15 +17,15 @@ muscle_group:
 alternative_titles:
   - clean and jerk
 gallery:
-  - url: /assets/frivend-og-stoed-0.jpg
+  - url: /assets/images/exercises/frivend-og-stoed-0.jpg
     image_path: /assets/images/exercises/frivend-og-stoed-0.jpg
     alt: "Frivend og stød, alternativ genstand"
     title: "Frivend og stød, alternativ genstand"
-  - url: /assets/frivend-og-stoed-1.jpg
+  - url: /assets/images/exercises/frivend-og-stoed-1.jpg
     image_path: /assets/images/exercises/frivend-og-stoed-1.jpg
     alt: "Frivend og stød, alternativ genstand"
     title: "Frivend og stød, alternativ genstand"
-  - url: /assets/frivend-og-stoed-2.jpg
+  - url: /assets/images/exercises/frivend-og-stoed-2.jpg
     image_path: /assets/images/exercises/frivend-og-stoed-2.jpg
     alt: "Frivend og stød, alternativ genstand"
     title: "Frivend og stød, alternativ genstand"

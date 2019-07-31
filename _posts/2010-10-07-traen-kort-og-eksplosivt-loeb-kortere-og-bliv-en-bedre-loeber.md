@@ -1,15 +1,16 @@
 ---
 title: "Træn kort og eksplosivt - løb kortere og bliv en bedre løber"
-redirect_from: /artikel/traen-kort-og-eksplosivt-loeb-kortere-og-bliv-en-bedre-loeber
+permalink: /artikel/traen-kort-og-eksplosivt-loeb-kortere-og-bliv-en-bedre-loeber
 language: da
 header:
-  overlay_image: /assets/images/running-man.jpg
-  teaser: /assets/images/running-man.jpg
+  overlay_image: /assets/images/blog/traen-kort-og-eksplosivt-loeb-kortere-og-bliv-en-bedre-loeber.jpg
+  teaser: /assets/images/blog/traen-kort-og-eksplosivt-loeb-kortere-og-bliv-en-bedre-loeber.jpg
 tags:
   - løb
   - kondition
 category:
 last_modified_at: 2011-04-14T11:04:07Z
+author: mads.davidsen
 ---
 
 Jeg vil i denne artikel advokere for, hvorfor man bør træne kort og eksplosivt. For der er evidens i videnskaben for, at det i langt højere grad forbedrer din fysiske formåen, hvis du træner kortvarigt og effektivt.

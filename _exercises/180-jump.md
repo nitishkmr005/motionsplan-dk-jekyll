@@ -1,7 +1,7 @@
 ---
 title: "Spring, 180  jump "
 excerpt: "Maksimalt hop samtidig med en 180 graders  rotation af hele kroppen. Ved landing foretages endnu et maksimalt hop samtidigt med en 180 graders rotation den anden vej og tilbage til udgangsposition"
-redirect_from: /oevelse/180-jump
+permalink: /oevelse/180-jump
 language: da
 header:
   overlay_image: /assets/images/exercises/180-jump-0.jpg
@@ -9,34 +9,31 @@ header:
 categories:
 training_type: 
 training_focus: 
-  - 
 equipment:
   - kropsvægt
 muscle_group:
-alternative_titles:
-  - Clean
 gallery:
-  - url: /assets/180-jump-0.jpg
+  - url: /assets/images/exercises/180-jump-0.jpg
     image_path: /assets/images/exercises/180-jump-0.jpg
     alt: "Spring, 180  jump "
     title: "Spring, 180  jump "
-  - url: /assets/180-jump-1.jpg
+  - url: /assets/images/exercises/180-jump-1.jpg
     image_path: /assets/images/exercises/180-jump-1.jpg
     alt: "Spring, 180  jump "
     title: "Spring, 180  jump "
-  - url: /assets/180-jump-2.jpg
+  - url: /assets/images/exercises/180-jump-2.jpg
     image_path: /assets/images/exercises/180-jump-2.jpg
     alt: "Spring, 180  jump "
     title: "Spring, 180  jump "
-  - url: /assets/180-jump-3.jpg
+  - url: /assets/images/exercises/180-jump-3.jpg
     image_path: /assets/images/exercises/180-jump-3.jpg
     alt: "Spring, 180  jump "
     title: "Spring, 180  jump "
-  - url: /assets/180-jump-4.jpg
+  - url: /assets/images/exercises/180-jump-4.jpg
     image_path: /assets/images/exercises/180-jump-4.jpg
     alt: "Spring, 180  jump "
     title: "Spring, 180  jump "
-  - url: /assets/180-jump-5.jpg
+  - url: /assets/images/exercises/180-jump-5.jpg
     image_path: /assets/images/exercises/180-jump-5.jpg
     alt: "Spring, 180  jump "
     title: "Spring, 180  jump "

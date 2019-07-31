@@ -1,7 +1,7 @@
 ---
 title: "Reverse extension medicinbold"
 excerpt: ""
-redirect_from: /oevelse/reverse-extension-medicinbold
+permalink: /oevelse/reverse-extension-medicinbold
 language: da
 header:
   overlay_image: /assets/images/exercises/reverse-extension-medicinbold-0.jpg
@@ -21,25 +21,24 @@ muscle_group:
   - Baller
   - Core
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/reverse-extension-medicinbold-0.jpg
+  - url: /assets/images/exercises/reverse-extension-medicinbold-0.jpg
     image_path: /assets/images/exercises/reverse-extension-medicinbold-0.jpg
     alt: "Reverse extension medicinbold"
     title: "Reverse extension medicinbold"
-  - url: /assets/reverse-extension-medicinbold-1.jpg
+  - url: /assets/images/exercises/reverse-extension-medicinbold-1.jpg
     image_path: /assets/images/exercises/reverse-extension-medicinbold-1.jpg
     alt: "Reverse extension medicinbold"
     title: "Reverse extension medicinbold"
-  - url: /assets/reverse-extension-medicinbold-2.jpg
+  - url: /assets/images/exercises/reverse-extension-medicinbold-2.jpg
     image_path: /assets/images/exercises/reverse-extension-medicinbold-2.jpg
     alt: "Reverse extension medicinbold"
     title: "Reverse extension medicinbold"
-  - url: /assets/reverse-extension-medicinbold-3.jpg
+  - url: /assets/images/exercises/reverse-extension-medicinbold-3.jpg
     image_path: /assets/images/exercises/reverse-extension-medicinbold-3.jpg
     alt: "Reverse extension medicinbold"
     title: "Reverse extension medicinbold"
-  - url: /assets/reverse-extension-medicinbold-4.jpg
+  - url: /assets/images/exercises/reverse-extension-medicinbold-4.jpg
     image_path: /assets/images/exercises/reverse-extension-medicinbold-4.jpg
     alt: "Reverse extension medicinbold"
     title: "Reverse extension medicinbold"

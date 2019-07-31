@@ -1,14 +1,14 @@
 ---
 title: "Dødløft, et ben"
 excerpt: "Stå med en hændvægt i hver hånd. Mens du balancerer på et ben, læner du dig forover samtidig med at det andet ben føres bagud, indtil du står i et T. Rejs dig igen."
-redirect_from: /oevelse/deadlift-one-leg
+permalink: /oevelse/deadlift-one-leg
 language: da
 header:
   overlay_image: /assets/images/exercises/deadlift-one-leg-0.jpg
   teaser: /assets/images/exercises/deadlift-one-leg-0.jpg
 categories:
   - Koordination og balance
-  - 
+  - <p>Kombinationsøvelser med fokus på stabilitet, koordination og balancetræning. Her vælges gerne teknisk komplicerede øvelser, som udfordrer kropsstammen.</p>
 training_type: 
 training_focus: 
   - hoftedomineret
@@ -18,22 +18,25 @@ muscle_group:
 alternative_titles:
   - deadlift
 gallery:
-  - url: /assets/deadlift-one-leg-0.jpg
+  - url: /assets/images/exercises/deadlift-one-leg-0.jpg
     image_path: /assets/images/exercises/deadlift-one-leg-0.jpg
     alt: "Dødløft, et ben"
     title: "Dødløft, et ben"
-  - url: /assets/deadlift-one-leg-1.jpg
+  - url: /assets/images/exercises/deadlift-one-leg-1.jpg
     image_path: /assets/images/exercises/deadlift-one-leg-1.jpg
     alt: "Dødløft, et ben"
     title: "Dødløft, et ben"
-  - url: /assets/deadlift-one-leg-2.jpg
+  - url: /assets/images/exercises/deadlift-one-leg-2.jpg
     image_path: /assets/images/exercises/deadlift-one-leg-2.jpg
     alt: "Dødløft, et ben"
     title: "Dødløft, et ben"
-  - url: /assets/deadlift-one-leg-3.jpg
+  - url: /assets/images/exercises/deadlift-one-leg-3.jpg
     image_path: /assets/images/exercises/deadlift-one-leg-3.jpg
     alt: "Dødløft, et ben"
     title: "Dødløft, et ben"
+video:
+  provider: vimeo
+  id: 5016851
 last_modified_at: 2014-10-10T19:53:49Z
 ---
 

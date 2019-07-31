@@ -1,14 +1,14 @@
 ---
 title: "Omvendt krabbe"
 excerpt: "Øvelsen laves fra liggende strakt stilling til et diagonalt kryds hånd til fod. Hele kroppen løftes fra gulvet. Kan laves ved at gentage bevægelsen på samme diagonal eller ved skift af diagonal."
-redirect_from: /oevelse/omvendt-krabbe
+permalink: /oevelse/omvendt-krabbe
 language: da
 header:
   overlay_image: /assets/images/exercises/omvendt-krabbe-0.jpg
   teaser: /assets/images/exercises/omvendt-krabbe-0.jpg
 categories:
   - Koordination og balance
-  - 
+  - <p>Kombinationsøvelser med fokus på stabilitet, koordination og balancetræning. Her vælges gerne teknisk komplicerede øvelser, som udfordrer kropsstammen.</p>
 training_type: 
   - Styrketræning
 training_focus: 
@@ -19,22 +19,20 @@ equipment:
 muscle_group:
   - Core
   - Mave
-alternative_titles:
-  - tuck jump
 gallery:
-  - url: /assets/omvendt-krabbe-0.jpg
+  - url: /assets/images/exercises/omvendt-krabbe-0.jpg
     image_path: /assets/images/exercises/omvendt-krabbe-0.jpg
     alt: "Omvendt krabbe"
     title: "Omvendt krabbe"
-  - url: /assets/omvendt-krabbe-1.jpg
+  - url: /assets/images/exercises/omvendt-krabbe-1.jpg
     image_path: /assets/images/exercises/omvendt-krabbe-1.jpg
     alt: "Omvendt krabbe"
     title: "Omvendt krabbe"
-  - url: /assets/omvendt-krabbe-2.jpg
+  - url: /assets/images/exercises/omvendt-krabbe-2.jpg
     image_path: /assets/images/exercises/omvendt-krabbe-2.jpg
     alt: "Omvendt krabbe"
     title: "Omvendt krabbe"
-  - url: /assets/omvendt-krabbe-3.jpg
+  - url: /assets/images/exercises/omvendt-krabbe-3.jpg
     image_path: /assets/images/exercises/omvendt-krabbe-3.jpg
     alt: "Omvendt krabbe"
     title: "Omvendt krabbe"

@@ -1,7 +1,7 @@
 ---
 title: "Slosh Pipe"
 excerpt: "Dette 3 meter lange plastikrør er fyldt med vand, så den samlede vægt cirka er 18 kg. Slosh pipen bæres vandret foran på brystet med albuerne under røret fra et punkt til et andet."
-redirect_from: /oevelse/slosh-pipe
+permalink: /oevelse/slosh-pipe
 language: da
 header:
   overlay_image: /assets/images/exercises/slosh-pipe-0.jpg
@@ -13,10 +13,8 @@ training_focus:
 equipment:
   - slosh pipe
 muscle_group:
-alternative_titles:
-  - 
 gallery:
-  - url: /assets/slosh-pipe-0.jpg
+  - url: /assets/images/exercises/slosh-pipe-0.jpg
     image_path: /assets/images/exercises/slosh-pipe-0.jpg
     alt: "Slosh Pipe"
     title: "Slosh Pipe"

@@ -1,7 +1,7 @@
 ---
 title: "Mavebøjning"
 excerpt: "Mavebøjning"
-redirect_from: /oevelse/maveboejning
+permalink: /oevelse/maveboejning
 language: da
 header:
   overlay_image: /assets/images/exercises/maveboejning-0.jpg
@@ -11,20 +11,16 @@ training_type:
 training_focus: 
 equipment:
 muscle_group:
-alternative_titles:
-  - Stående curl
-  - albuebøj håndvægte
-  - albuebøj
 gallery:
-  - url: /assets/maveboejning-0.jpg
+  - url: /assets/images/exercises/maveboejning-0.jpg
     image_path: /assets/images/exercises/maveboejning-0.jpg
     alt: "Mavebøjning"
     title: "Mavebøjning"
-  - url: /assets/maveboejning-1.jpg
+  - url: /assets/images/exercises/maveboejning-1.jpg
     image_path: /assets/images/exercises/maveboejning-1.jpg
     alt: "Mavebøjning"
     title: "Mavebøjning"
-  - url: /assets/maveboejning-2.jpg
+  - url: /assets/images/exercises/maveboejning-2.jpg
     image_path: /assets/images/exercises/maveboejning-2.jpg
     alt: "Mavebøjning"
     title: "Mavebøjning"

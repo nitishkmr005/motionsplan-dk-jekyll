@@ -1,7 +1,7 @@
 ---
 title: "Løbe gennem dæk"
 excerpt: "Løb gennem bildækkene med så hurtige skridt som muligt."
-redirect_from: /oevelse/loebe-gennem-daek
+permalink: /oevelse/loebe-gennem-daek
 language: da
 header:
   overlay_image: /assets/images/exercises/loebe-gennem-daek-0.jpg
@@ -11,19 +11,16 @@ training_type:
 training_focus: 
 equipment:
 muscle_group:
-alternative_titles:
-  - Farmer's walk
-  - Farmerwalk
 gallery:
-  - url: /assets/loebe-gennem-daek-0.jpg
+  - url: /assets/images/exercises/loebe-gennem-daek-0.jpg
     image_path: /assets/images/exercises/loebe-gennem-daek-0.jpg
     alt: "Løbe gennem dæk"
     title: "Løbe gennem dæk"
-  - url: /assets/loebe-gennem-daek-1.jpg
+  - url: /assets/images/exercises/loebe-gennem-daek-1.jpg
     image_path: /assets/images/exercises/loebe-gennem-daek-1.jpg
     alt: "Løbe gennem dæk"
     title: "Løbe gennem dæk"
-  - url: /assets/loebe-gennem-daek-2.jpg
+  - url: /assets/images/exercises/loebe-gennem-daek-2.jpg
     image_path: /assets/images/exercises/loebe-gennem-daek-2.jpg
     alt: "Løbe gennem dæk"
     title: "Løbe gennem dæk"

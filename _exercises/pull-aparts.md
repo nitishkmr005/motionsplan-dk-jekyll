@@ -1,14 +1,14 @@
 ---
 title: "Pull aparts"
 excerpt: "Hold fast i elastikken med tommelfingrene opad. Træk elastikket fra hinanden med strakte arme, mens du lader tommelfingrene pege bagud."
-redirect_from: /oevelse/pull-aparts
+permalink: /oevelse/pull-aparts
 language: da
 header:
   overlay_image: /assets/images/exercises/pull-aparts-0.jpg
   teaser: /assets/images/exercises/pull-aparts-0.jpg
 categories:
   - Koordination og balance
-  - 
+  - <p>Kombinationsøvelser med fokus på stabilitet, koordination og balancetræning. Her vælges gerne teknisk komplicerede øvelser, som udfordrer kropsstammen.</p>
 training_type: 
   - Styrketræning
 training_focus: 
@@ -19,13 +19,12 @@ muscle_group:
   - Skuldre
   - Øvre ryg
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/pull-aparts-0.jpg
+  - url: /assets/images/exercises/pull-aparts-0.jpg
     image_path: /assets/images/exercises/pull-aparts-0.jpg
     alt: "Pull aparts"
     title: "Pull aparts"
-  - url: /assets/pull-aparts-1.jpg
+  - url: /assets/images/exercises/pull-aparts-1.jpg
     image_path: /assets/images/exercises/pull-aparts-1.jpg
     alt: "Pull aparts"
     title: "Pull aparts"

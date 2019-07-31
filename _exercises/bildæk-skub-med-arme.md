@@ -1,7 +1,7 @@
 ---
 title: "Bildæk, skub med arme"
 excerpt: ""
-redirect_from: /oevelse/bildæk-skub-med-arme
+permalink: /oevelse/bildæk-skub-med-arme
 language: da
 header:
   overlay_image: /assets/images/exercises/bildæk-skub-med-arme-0.jpg
@@ -13,13 +13,12 @@ training_focus:
 equipment:
 muscle_group:
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/bildæk-skub-med-arme-0.jpg
+  - url: /assets/images/exercises/bildæk-skub-med-arme-0.jpg
     image_path: /assets/images/exercises/bildæk-skub-med-arme-0.jpg
     alt: "Bildæk, skub med arme"
     title: "Bildæk, skub med arme"
-  - url: /assets/bildæk-skub-med-arme-1.jpg
+  - url: /assets/images/exercises/bildæk-skub-med-arme-1.jpg
     image_path: /assets/images/exercises/bildæk-skub-med-arme-1.jpg
     alt: "Bildæk, skub med arme"
     title: "Bildæk, skub med arme"

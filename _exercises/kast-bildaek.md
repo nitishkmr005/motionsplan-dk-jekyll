@@ -1,7 +1,7 @@
 ---
 title: "Kast, bildæk"
 excerpt: "Tag fat i bildækket med begge hænder og slyng det så langt du kan. Brug hele kroppen."
-redirect_from: /oevelse/kast-bildaek
+permalink: /oevelse/kast-bildaek
 language: da
 header:
   overlay_image: /assets/images/exercises/kast-bildaek-0.jpg
@@ -17,19 +17,19 @@ alternative_titles:
   - Slyng dæk
   - Dæk kast
 gallery:
-  - url: /assets/kast-bildaek-0.jpg
+  - url: /assets/images/exercises/kast-bildaek-0.jpg
     image_path: /assets/images/exercises/kast-bildaek-0.jpg
     alt: "Kast, bildæk"
     title: "Kast, bildæk"
-  - url: /assets/kast-bildaek-1.jpg
+  - url: /assets/images/exercises/kast-bildaek-1.jpg
     image_path: /assets/images/exercises/kast-bildaek-1.jpg
     alt: "Kast, bildæk"
     title: "Kast, bildæk"
-  - url: /assets/kast-bildaek-2.jpg
+  - url: /assets/images/exercises/kast-bildaek-2.jpg
     image_path: /assets/images/exercises/kast-bildaek-2.jpg
     alt: "Kast, bildæk"
     title: "Kast, bildæk"
-  - url: /assets/kast-bildaek-3.jpg
+  - url: /assets/images/exercises/kast-bildaek-3.jpg
     image_path: /assets/images/exercises/kast-bildaek-3.jpg
     alt: "Kast, bildæk"
     title: "Kast, bildæk"

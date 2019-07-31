@@ -1,10 +1,10 @@
 ---
 title: "Løb uden skader"
-redirect_from: /artikel/løb-uden-skader
+permalink: /artikel/løb-uden-skader
 language: da
 header:
-  overlay_image: /assets/images/piernas-legs-trainers-2662178-o.jpg
-  teaser: /assets/images/piernas-legs-trainers-2662178-o.jpg
+  overlay_image: /assets/images/blog/løb-uden-skader.jpg
+  teaser: /assets/images/blog/løb-uden-skader.jpg
 tags:
   - restitution
 category:
@@ -18,7 +18,7 @@ Skader i knæ skyldes ofte, at du løber for langt, mens skader i akillessenen k
 
 Denne viden er baseret på et stort studie med 933 løbere mellem 18 og 65 år, der blev udstyret med GPS, så antallet af skader kunne holdes op mod antallet af skader.
 
-Studiet viste også, at nybegyndere hyppigere får skader, og hvis man tidligere har været skadet er det mere sandsynligt, at man igen får en skade. Løbernes kropsvægt havde også betydning. Det er heller ikke løbeskoene, der forebygger skader. [Hverken støddæmpning i sko](http://www.motion-online.dk/diverse/udstyr/daempning_i_loebesko_forhindrer_ikke_skader/) eller [løbesko med korrektion forebygger skader](http://politiken.dk/tjek/sundhedogmotion/motion/ECE1799105/stabiliserende-loebesko-giver-flere-loebeskader/) og nogle læger [fraråder endda løbeanalyser](http://politiken.dk/tjek/sundhedogmotion/motion/ECE1775368/laege-drop-loebebaandstest-og-vaelg-selv-dine-sko/). Træningsmetoden ser altså ud til at være noget af det vigtigste, og her kommer [restitution](http://motionsplan.dk/artikel/restition-hvordan-bliver-jeg-hurtigst-klar-igen) naturligvis også ind i billedet.
+Studiet viste også, at nybegyndere hyppigere får skader, og hvis man tidligere har været skadet er det mere sandsynligt, at man igen får en skade. Løbernes kropsvægt havde også betydning. Det er heller ikke løbeskoene, der forebygger skader. [Hverken støddæmpning i sko](http://www.motion-online.dk/diverse/udstyr/daempning_i_loebesko_forhindrer_ikke_skader/) eller [løbesko med korrektion forebygger skader](http://politiken.dk/tjek/sundhedogmotion/motion/ECE1799105/stabiliserende-loebesko-giver-flere-loebeskader/) og nogle læger [fraråder endda løbeanalyser](http://politiken.dk/tjek/sundhedogmotion/motion/ECE1775368/laege-drop-loebebaandstest-og-vaelg-selv-dine-sko/). Træningsmetoden ser altså ud til at være noget af det vigtigste, og her kommer [restitution](/artikel/restition-hvordan-bliver-jeg-hurtigst-klar-igen) naturligvis også ind i billedet.
 
 ### Gode råd om løb og skader
 

@@ -1,7 +1,7 @@
 ---
 title: "Armstrækning, hænderne hævet"
 excerpt: "Placer hænderne på en bænk. Sænk brystet ned mod bænken med helt ret krop. Tilbage til udgangsposition. "
-redirect_from: /oevelse/armstraekning-haenderne-haevet
+permalink: /oevelse/armstraekning-haenderne-haevet
 language: da
 header:
   overlay_image: /assets/images/exercises/armstraekning-haenderne-haevet-0.jpg
@@ -18,18 +18,16 @@ equipment:
 muscle_group:
   - Arme
   - Bryst
-alternative_titles:
-  - goblet squat
 gallery:
-  - url: /assets/armstraekning-haenderne-haevet-0.jpg
+  - url: /assets/images/exercises/armstraekning-haenderne-haevet-0.jpg
     image_path: /assets/images/exercises/armstraekning-haenderne-haevet-0.jpg
     alt: "Armstrækning, hænderne hævet"
     title: "Armstrækning, hænderne hævet"
-  - url: /assets/armstraekning-haenderne-haevet-1.jpg
+  - url: /assets/images/exercises/armstraekning-haenderne-haevet-1.jpg
     image_path: /assets/images/exercises/armstraekning-haenderne-haevet-1.jpg
     alt: "Armstrækning, hænderne hævet"
     title: "Armstrækning, hænderne hævet"
-  - url: /assets/armstraekning-haenderne-haevet-2.jpg
+  - url: /assets/images/exercises/armstraekning-haenderne-haevet-2.jpg
     image_path: /assets/images/exercises/armstraekning-haenderne-haevet-2.jpg
     alt: "Armstrækning, hænderne hævet"
     title: "Armstrækning, hænderne hævet"

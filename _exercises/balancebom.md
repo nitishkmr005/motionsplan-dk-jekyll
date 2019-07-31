@@ -1,26 +1,25 @@
 ---
 title: "Balancebom"
 excerpt: ""
-redirect_from: /oevelse/balancebom
+permalink: /oevelse/balancebom
 language: da
 header:
   overlay_image: /assets/images/exercises/balancebom-0.jpg
   teaser: /assets/images/exercises/balancebom-0.jpg
 categories:
   - Koordination og balance
-  - 
+  - <p>Kombinationsøvelser med fokus på stabilitet, koordination og balancetræning. Her vælges gerne teknisk komplicerede øvelser, som udfordrer kropsstammen.</p>
 training_type: 
 training_focus: 
 equipment:
 muscle_group:
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/balancebom-0.jpg
+  - url: /assets/images/exercises/balancebom-0.jpg
     image_path: /assets/images/exercises/balancebom-0.jpg
     alt: "Balancebom"
     title: "Balancebom"
-  - url: /assets/balancebom-1.jpg
+  - url: /assets/images/exercises/balancebom-1.jpg
     image_path: /assets/images/exercises/balancebom-1.jpg
     alt: "Balancebom"
     title: "Balancebom"

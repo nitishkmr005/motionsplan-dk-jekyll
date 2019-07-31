@@ -1,7 +1,7 @@
 ---
 title: "Squat, vægtstangen på nakken"
 excerpt: "Fødderne placeres nogenlunde i skulderbredde med tæerne pegende let udad og knæene skal pege ud over tæerne. Herfra går du så langt ned i knæ, som du kan. Rejs dig igen."
-redirect_from: /oevelse/back-squat
+permalink: /oevelse/back-squat
 language: da
 header:
   overlay_image: /assets/images/exercises/back-squat-0.jpg
@@ -21,18 +21,21 @@ alternative_titles:
   - back squat
   - backsquat
 gallery:
-  - url: /assets/back-squat-0.jpg
+  - url: /assets/images/exercises/back-squat-0.jpg
     image_path: /assets/images/exercises/back-squat-0.jpg
     alt: "Squat, vægtstangen på nakken"
     title: "Squat, vægtstangen på nakken"
-  - url: /assets/back-squat-1.jpg
+  - url: /assets/images/exercises/back-squat-1.jpg
     image_path: /assets/images/exercises/back-squat-1.jpg
     alt: "Squat, vægtstangen på nakken"
     title: "Squat, vægtstangen på nakken"
-  - url: /assets/back-squat-2.jpg
+  - url: /assets/images/exercises/back-squat-2.jpg
     image_path: /assets/images/exercises/back-squat-2.jpg
     alt: "Squat, vægtstangen på nakken"
     title: "Squat, vægtstangen på nakken"
+video:
+  provider: youtube
+  id: bBSKbcIVoew
 last_modified_at: 2015-03-15T19:32:25Z
 ---
 

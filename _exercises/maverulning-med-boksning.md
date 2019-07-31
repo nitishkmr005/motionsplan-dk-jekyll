@@ -1,7 +1,7 @@
 ---
 title: "Maverulning med boksning"
 excerpt: ""
-redirect_from: /oevelse/maverulning-med-boksning
+permalink: /oevelse/maverulning-med-boksning
 language: da
 header:
   overlay_image: /assets/images/exercises/maverulning-med-boksning-0.jpg
@@ -17,21 +17,20 @@ equipment:
 muscle_group:
   - Mave
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/maverulning-med-boksning-0.jpg
+  - url: /assets/images/exercises/maverulning-med-boksning-0.jpg
     image_path: /assets/images/exercises/maverulning-med-boksning-0.jpg
     alt: "Maverulning med boksning"
     title: "Maverulning med boksning"
-  - url: /assets/maverulning-med-boksning-1.jpg
+  - url: /assets/images/exercises/maverulning-med-boksning-1.jpg
     image_path: /assets/images/exercises/maverulning-med-boksning-1.jpg
     alt: "Maverulning med boksning"
     title: "Maverulning med boksning"
-  - url: /assets/maverulning-med-boksning-2.jpg
+  - url: /assets/images/exercises/maverulning-med-boksning-2.jpg
     image_path: /assets/images/exercises/maverulning-med-boksning-2.jpg
     alt: "Maverulning med boksning"
     title: "Maverulning med boksning"
-  - url: /assets/maverulning-med-boksning-3.jpg
+  - url: /assets/images/exercises/maverulning-med-boksning-3.jpg
     image_path: /assets/images/exercises/maverulning-med-boksning-3.jpg
     alt: "Maverulning med boksning"
     title: "Maverulning med boksning"

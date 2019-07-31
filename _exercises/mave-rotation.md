@@ -1,7 +1,7 @@
 ---
 title: "Mave, rotation"
 excerpt: "Mave, rotation"
-redirect_from: /oevelse/mave-rotation
+permalink: /oevelse/mave-rotation
 language: da
 header:
   overlay_image: /assets/images/exercises/mave-rotation-0.JPG
@@ -9,23 +9,20 @@ header:
 categories:
 training_type: 
 training_focus: 
-  - 
   - kropsstamme
 equipment:
   - maskine
 muscle_group:
-alternative_titles:
-  - Leg curl
 gallery:
-  - url: /assets/mave-rotation-0.JPG
+  - url: /assets/images/exercises/mave-rotation-0.JPG
     image_path: /assets/images/exercises/mave-rotation-0.JPG
     alt: "Mave, rotation"
     title: "Mave, rotation"
-  - url: /assets/mave-rotation-1.JPG
+  - url: /assets/images/exercises/mave-rotation-1.JPG
     image_path: /assets/images/exercises/mave-rotation-1.JPG
     alt: "Mave, rotation"
     title: "Mave, rotation"
-  - url: /assets/mave-rotation-2.JPG
+  - url: /assets/images/exercises/mave-rotation-2.JPG
     image_path: /assets/images/exercises/mave-rotation-2.JPG
     alt: "Mave, rotation"
     title: "Mave, rotation"

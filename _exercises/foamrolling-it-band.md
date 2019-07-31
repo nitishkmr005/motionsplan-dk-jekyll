@@ -1,7 +1,7 @@
 ---
 title: "Foamrolling IT-band"
 excerpt: ""
-redirect_from: /oevelse/foamrolling-it-band
+permalink: /oevelse/foamrolling-it-band
 language: da
 header:
   overlay_image: /assets/images/exercises/foamrolling-it-band-0.jpg
@@ -14,17 +14,16 @@ equipment:
   - foamroller
 muscle_group:
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/foamrolling-it-band-0.jpg
+  - url: /assets/images/exercises/foamrolling-it-band-0.jpg
     image_path: /assets/images/exercises/foamrolling-it-band-0.jpg
     alt: "Foamrolling IT-band"
     title: "Foamrolling IT-band"
-  - url: /assets/foamrolling-it-band-1.jpg
+  - url: /assets/images/exercises/foamrolling-it-band-1.jpg
     image_path: /assets/images/exercises/foamrolling-it-band-1.jpg
     alt: "Foamrolling IT-band"
     title: "Foamrolling IT-band"
-  - url: /assets/foamrolling-it-band-2.jpg
+  - url: /assets/images/exercises/foamrolling-it-band-2.jpg
     image_path: /assets/images/exercises/foamrolling-it-band-2.jpg
     alt: "Foamrolling IT-band"
     title: "Foamrolling IT-band"

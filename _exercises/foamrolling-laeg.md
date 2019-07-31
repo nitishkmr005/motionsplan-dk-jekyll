@@ -1,14 +1,14 @@
 ---
 title: "Foamrolling læg"
 excerpt: ""
-redirect_from: /oevelse/foamrolling-laeg
+permalink: /oevelse/foamrolling-laeg
 language: da
 header:
   overlay_image: /assets/images/exercises/foamrolling-laeg-0.jpg
   teaser: /assets/images/exercises/foamrolling-laeg-0.jpg
 categories:
   - Koordination og balance
-  - 
+  - <p>Kombinationsøvelser med fokus på stabilitet, koordination og balancetræning. Her vælges gerne teknisk komplicerede øvelser, som udfordrer kropsstammen.</p>
 training_type: 
   - Self Myofascial Release (SMR)
 training_focus: 
@@ -17,13 +17,12 @@ equipment:
 muscle_group:
   - Lægge
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/foamrolling-laeg-0.jpg
+  - url: /assets/images/exercises/foamrolling-laeg-0.jpg
     image_path: /assets/images/exercises/foamrolling-laeg-0.jpg
     alt: "Foamrolling læg"
     title: "Foamrolling læg"
-  - url: /assets/foamrolling-laeg-1.jpg
+  - url: /assets/images/exercises/foamrolling-laeg-1.jpg
     image_path: /assets/images/exercises/foamrolling-laeg-1.jpg
     alt: "Foamrolling læg"
     title: "Foamrolling læg"

@@ -1,10 +1,10 @@
 ---
 title: "Kompressionsstrømper - virker det?"
-redirect_from: /artikel/kompressionsstroemper-en-god-ide
+permalink: /artikel/kompressionsstroemper-en-god-ide
 language: da
 header:
-  overlay_image: /assets/images/Cep_Running_Sportso_467475a.jpg
-  teaser: /assets/images/Cep_Running_Sportso_467475a.jpg
+  overlay_image: /assets/images/blog/kompressionsstroemper-en-god-ide.jpg
+  teaser: /assets/images/blog/kompressionsstroemper-en-god-ide.jpg
 tags:
   - løb
   - restitution

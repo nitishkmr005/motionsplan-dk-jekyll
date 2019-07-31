@@ -1,7 +1,7 @@
 ---
 title: "Mave, Reverse crunch"
 excerpt: "Lig på ryggen og hold fast med armene. Før derefter knæene op mod skuldrene."
-redirect_from: /oevelse/reverse-crunch
+permalink: /oevelse/reverse-crunch
 language: da
 header:
   overlay_image: /assets/images/exercises/reverse-crunch-0.jpg
@@ -16,16 +16,16 @@ equipment:
   - kropsvægt
 muscle_group:
   - Mave
-alternative_titles:gallery:
-  - url: /assets/reverse-crunch-0.jpg
+gallery:
+  - url: /assets/images/exercises/reverse-crunch-0.jpg
     image_path: /assets/images/exercises/reverse-crunch-0.jpg
     alt: "Mave, Reverse crunch"
     title: "Mave, Reverse crunch"
-  - url: /assets/reverse-crunch-1.jpg
+  - url: /assets/images/exercises/reverse-crunch-1.jpg
     image_path: /assets/images/exercises/reverse-crunch-1.jpg
     alt: "Mave, Reverse crunch"
     title: "Mave, Reverse crunch"
-  - url: /assets/reverse-crunch-2.jpg
+  - url: /assets/images/exercises/reverse-crunch-2.jpg
     image_path: /assets/images/exercises/reverse-crunch-2.jpg
     alt: "Mave, Reverse crunch"
     title: "Mave, Reverse crunch"

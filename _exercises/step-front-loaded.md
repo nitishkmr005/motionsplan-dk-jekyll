@@ -1,7 +1,7 @@
 ---
 title: "Step up, front loaded"
 excerpt: ""
-redirect_from: /oevelse/step-front-loaded
+permalink: /oevelse/step-front-loaded
 language: da
 header:
   overlay_image: /assets/images/exercises/step-front-loaded-0.jpg
@@ -17,25 +17,24 @@ muscle_group:
   - Baller
   - Forlår
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/step-front-loaded-0.jpg
+  - url: /assets/images/exercises/step-front-loaded-0.jpg
     image_path: /assets/images/exercises/step-front-loaded-0.jpg
     alt: "Step up, front loaded"
     title: "Step up, front loaded"
-  - url: /assets/step-front-loaded-1.jpg
+  - url: /assets/images/exercises/step-front-loaded-1.jpg
     image_path: /assets/images/exercises/step-front-loaded-1.jpg
     alt: "Step up, front loaded"
     title: "Step up, front loaded"
-  - url: /assets/step-front-loaded-2.jpg
+  - url: /assets/images/exercises/step-front-loaded-2.jpg
     image_path: /assets/images/exercises/step-front-loaded-2.jpg
     alt: "Step up, front loaded"
     title: "Step up, front loaded"
-  - url: /assets/step-front-loaded-3.jpg
+  - url: /assets/images/exercises/step-front-loaded-3.jpg
     image_path: /assets/images/exercises/step-front-loaded-3.jpg
     alt: "Step up, front loaded"
     title: "Step up, front loaded"
-  - url: /assets/step-front-loaded-4.jpg
+  - url: /assets/images/exercises/step-front-loaded-4.jpg
     image_path: /assets/images/exercises/step-front-loaded-4.jpg
     alt: "Step up, front loaded"
     title: "Step up, front loaded"

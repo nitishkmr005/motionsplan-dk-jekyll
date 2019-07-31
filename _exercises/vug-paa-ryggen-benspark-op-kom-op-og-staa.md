@@ -1,18 +1,15 @@
 ---
 title: "Vug på ryggen, benspark op, kom op og stå"
 excerpt: "Læg dig på ryggen, og løft ben og overkrop fri af gulvet. Vug frem og tilbage. Først et vug med bøjede ben, derefter et vug, hvor du sparker benene op over hovedet hvorefter du umiddelbart rejser dig op uden brug af hænder."
-redirect_from: /oevelse/vug-paa-ryggen-benspark-op-kom-op-og-staa
+permalink: /oevelse/vug-paa-ryggen-benspark-op-kom-op-og-staa
 language: da
 categories:
 training_type: 
 training_focus: 
-  - 
   - kropsstamme
 equipment:
   - måtte
 muscle_group:
-alternative_titles:
-  - Reb
 gallery:
 last_modified_at: 2011-10-31T13:18:40Z
 ---

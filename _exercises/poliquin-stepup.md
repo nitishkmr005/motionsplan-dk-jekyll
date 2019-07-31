@@ -1,14 +1,14 @@
 ---
 title: "Poliquin stepup"
 excerpt: ""
-redirect_from: /oevelse/poliquin-stepup
+permalink: /oevelse/poliquin-stepup
 language: da
 header:
   overlay_image: /assets/images/exercises/poliquin-stepup-0.jpg
   teaser: /assets/images/exercises/poliquin-stepup-0.jpg
 categories:
   - Koordination og balance
-  - 
+  - <p>Kombinationsøvelser med fokus på stabilitet, koordination og balancetræning. Her vælges gerne teknisk komplicerede øvelser, som udfordrer kropsstammen.</p>
 training_type: 
   - Balance
   - Styrketræning
@@ -19,13 +19,12 @@ equipment:
 muscle_group:
   - Forlår
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/poliquin-stepup-0.jpg
+  - url: /assets/images/exercises/poliquin-stepup-0.jpg
     image_path: /assets/images/exercises/poliquin-stepup-0.jpg
     alt: "Poliquin stepup"
     title: "Poliquin stepup"
-  - url: /assets/poliquin-stepup-1.jpg
+  - url: /assets/images/exercises/poliquin-stepup-1.jpg
     image_path: /assets/images/exercises/poliquin-stepup-1.jpg
     alt: "Poliquin stepup"
     title: "Poliquin stepup"

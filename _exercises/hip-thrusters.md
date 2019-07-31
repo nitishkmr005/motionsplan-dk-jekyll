@@ -1,7 +1,7 @@
 ---
 title: "Hip thrusts"
 excerpt: ""
-redirect_from: /oevelse/hip-thrusters
+permalink: /oevelse/hip-thrusters
 language: da
 header:
   overlay_image: /assets/images/exercises/hip-thrusters-0.jpg
@@ -19,15 +19,15 @@ muscle_group:
 alternative_titles:
   - Hip thrusters
 gallery:
-  - url: /assets/hip-thrusters-0.jpg
+  - url: /assets/images/exercises/hip-thrusters-0.jpg
     image_path: /assets/images/exercises/hip-thrusters-0.jpg
     alt: "Hip thrusts"
     title: "Hip thrusts"
-  - url: /assets/hip-thrusters-1.jpg
+  - url: /assets/images/exercises/hip-thrusters-1.jpg
     image_path: /assets/images/exercises/hip-thrusters-1.jpg
     alt: "Hip thrusts"
     title: "Hip thrusts"
-  - url: /assets/hip-thrusters-2.jpg
+  - url: /assets/images/exercises/hip-thrusters-2.jpg
     image_path: /assets/images/exercises/hip-thrusters-2.jpg
     alt: "Hip thrusts"
     title: "Hip thrusts"

@@ -1,7 +1,7 @@
 ---
 title: "Split squat"
 excerpt: "Stangen placeres bag nakken som ved squat. Tag et langt skridt fremad. Bøj ned i knæene, så det bagerste knæ rører jorden. Rejs dig igen."
-redirect_from: /oevelse/split-squat
+permalink: /oevelse/split-squat
 language: da
 header:
   overlay_image: /assets/images/exercises/split-squat-0.jpg
@@ -11,15 +11,12 @@ training_type:
 training_focus: 
 equipment:
 muscle_group:
-alternative_titles:
-  - back squat
-  - backsquat
 gallery:
-  - url: /assets/split-squat-0.jpg
+  - url: /assets/images/exercises/split-squat-0.jpg
     image_path: /assets/images/exercises/split-squat-0.jpg
     alt: "Split squat"
     title: "Split squat"
-  - url: /assets/split-squat-1.jpg
+  - url: /assets/images/exercises/split-squat-1.jpg
     image_path: /assets/images/exercises/split-squat-1.jpg
     alt: "Split squat"
     title: "Split squat"

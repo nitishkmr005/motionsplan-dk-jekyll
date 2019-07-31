@@ -1,10 +1,10 @@
 ---
 title: "Træning med kropsvægt"
-redirect_from: /artikel/traening-med-kropsvaegt
+permalink: /artikel/traening-med-kropsvaegt
 language: da
 header:
-  overlay_image: /assets/images/Body-weight-exercises.jpg
-  teaser: /assets/images/Body-weight-exercises.jpg
+  overlay_image: /assets/images/blog/traening-med-kropsvaegt.jpg
+  teaser: /assets/images/blog/traening-med-kropsvaegt.jpg
 tags:
   - styrketræning
   - webclips
@@ -38,7 +38,7 @@ Man skal altid planlægge sin træning ud fra ens mål. Du kan sagtens få masse
 
 ### Yderligere inspiration
 
-- [Øvelsesforslag med kropsvægt](http://motionsplan.dk/kategori/redskaber/kropsvaegt) fra vores site. Der er en lang række at vælge i mellem.
+- [Øvelsesforslag med kropsvægt](/kategori/redskaber/kropsvaegt) fra vores site. Der er en lang række at vælge i mellem.
 - [Træningskort - egen kropsvægt](http://www.motion-online.dk/styrketraening/styrke_-_oevelser/traeningskort_-_egen_kropsvaegt/). Motion-online.dk har lavet en række træningsøvelser med kropsvægt. Kortene er lette at printe ud.
 - [Linksamling om bodyweight / Kettlebells / alternativ træning](http://www.motion-online.dk/fora/index.php?showtopic=29480&hl=kropsv%E6gt). Samling af links omkring øvelser med kropsvægt, kettlebells og alternativ træning lavet af brugerne af motion-online.dks forum. Posten er temmelig rodet, men der er flere gode links.
 

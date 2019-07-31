@@ -1,7 +1,7 @@
 ---
 title: "Cable cross"
 excerpt: "Cable cross"
-redirect_from: /oevelse/cable-cross
+permalink: /oevelse/cable-cross
 language: da
 header:
   overlay_image: /assets/images/exercises/cable-cross-0.JPG
@@ -11,15 +11,12 @@ training_type:
 training_focus: 
 equipment:
 muscle_group:
-alternative_titles:
-  - Albuebøj i kabel
-  - albuebøj
 gallery:
-  - url: /assets/cable-cross-0.JPG
+  - url: /assets/images/exercises/cable-cross-0.JPG
     image_path: /assets/images/exercises/cable-cross-0.JPG
     alt: "Cable cross"
     title: "Cable cross"
-  - url: /assets/cable-cross-1.JPG
+  - url: /assets/images/exercises/cable-cross-1.JPG
     image_path: /assets/images/exercises/cable-cross-1.JPG
     alt: "Cable cross"
     title: "Cable cross"

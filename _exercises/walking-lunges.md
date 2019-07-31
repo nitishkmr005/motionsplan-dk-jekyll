@@ -1,7 +1,7 @@
 ---
 title: "Walking lunges"
 excerpt: ""
-redirect_from: /oevelse/walking-lunges
+permalink: /oevelse/walking-lunges
 language: da
 header:
   overlay_image: /assets/images/exercises/walking-lunges-0.jpg
@@ -18,21 +18,20 @@ muscle_group:
   - Baller
   - Forlår
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/walking-lunges-0.jpg
+  - url: /assets/images/exercises/walking-lunges-0.jpg
     image_path: /assets/images/exercises/walking-lunges-0.jpg
     alt: "Walking lunges"
     title: "Walking lunges"
-  - url: /assets/walking-lunges-1.jpg
+  - url: /assets/images/exercises/walking-lunges-1.jpg
     image_path: /assets/images/exercises/walking-lunges-1.jpg
     alt: "Walking lunges"
     title: "Walking lunges"
-  - url: /assets/walking-lunges-2.jpg
+  - url: /assets/images/exercises/walking-lunges-2.jpg
     image_path: /assets/images/exercises/walking-lunges-2.jpg
     alt: "Walking lunges"
     title: "Walking lunges"
-  - url: /assets/walking-lunges-3.jpg
+  - url: /assets/images/exercises/walking-lunges-3.jpg
     image_path: /assets/images/exercises/walking-lunges-3.jpg
     alt: "Walking lunges"
     title: "Walking lunges"

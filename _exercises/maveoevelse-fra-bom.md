@@ -1,7 +1,7 @@
 ---
 title: "Maveøvelse fra bom"
 excerpt: "Hæng i armene i en bom. Forsøg at få benene op og røre bommen."
-redirect_from: /oevelse/maveoevelse-fra-bom
+permalink: /oevelse/maveoevelse-fra-bom
 language: da
 header:
   overlay_image: /assets/images/exercises/maveoevelse-fra-bom-0.jpg
@@ -9,18 +9,15 @@ header:
 categories:
 training_type: 
 training_focus: 
-  - 
 equipment:
   - bar
 muscle_group:
-alternative_titles:
-  - ab rotates
 gallery:
-  - url: /assets/maveoevelse-fra-bom-0.jpg
+  - url: /assets/images/exercises/maveoevelse-fra-bom-0.jpg
     image_path: /assets/images/exercises/maveoevelse-fra-bom-0.jpg
     alt: "Maveøvelse fra bom"
     title: "Maveøvelse fra bom"
-  - url: /assets/maveoevelse-fra-bom-1.jpg
+  - url: /assets/images/exercises/maveoevelse-fra-bom-1.jpg
     image_path: /assets/images/exercises/maveoevelse-fra-bom-1.jpg
     alt: "Maveøvelse fra bom"
     title: "Maveøvelse fra bom"

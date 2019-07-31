@@ -1,7 +1,7 @@
 ---
 title: "Foamrolling øvre ryg"
 excerpt: ""
-redirect_from: /oevelse/foamrolling-oevre-ryg
+permalink: /oevelse/foamrolling-oevre-ryg
 language: da
 header:
   overlay_image: /assets/images/exercises/foamrolling-oevre-ryg-0.jpg
@@ -15,17 +15,16 @@ equipment:
 muscle_group:
   - Øvre ryg
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/foamrolling-oevre-ryg-0.jpg
+  - url: /assets/images/exercises/foamrolling-oevre-ryg-0.jpg
     image_path: /assets/images/exercises/foamrolling-oevre-ryg-0.jpg
     alt: "Foamrolling øvre ryg"
     title: "Foamrolling øvre ryg"
-  - url: /assets/foamrolling-oevre-ryg-1.jpg
+  - url: /assets/images/exercises/foamrolling-oevre-ryg-1.jpg
     image_path: /assets/images/exercises/foamrolling-oevre-ryg-1.jpg
     alt: "Foamrolling øvre ryg"
     title: "Foamrolling øvre ryg"
-  - url: /assets/foamrolling-oevre-ryg-2.jpg
+  - url: /assets/images/exercises/foamrolling-oevre-ryg-2.jpg
     image_path: /assets/images/exercises/foamrolling-oevre-ryg-2.jpg
     alt: "Foamrolling øvre ryg"
     title: "Foamrolling øvre ryg"

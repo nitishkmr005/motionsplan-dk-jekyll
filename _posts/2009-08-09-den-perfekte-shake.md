@@ -1,10 +1,10 @@
 ---
 title: "Den perfekte shake?"
-redirect_from: /artikel/den-perfekte-shake
+permalink: /artikel/den-perfekte-shake
 language: da
 header:
-  overlay_image: /assets/images/EI1204_Frothy-Chocolate-Espresso-Shake.jpg
-  teaser: /assets/images/EI1204_Frothy-Chocolate-Espresso-Shake.jpg
+  overlay_image: /assets/images/blog/den-perfekte-shake.jpg
+  teaser: /assets/images/blog/den-perfekte-shake.jpg
 tags:
   - kost
   - ernæring

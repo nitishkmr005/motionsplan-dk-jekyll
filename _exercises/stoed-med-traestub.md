@@ -1,7 +1,7 @@
 ---
 title: "Stød med træstub"
 excerpt: "Stød en træstub så langt du kan. Gentag med den anden arm."
-redirect_from: /oevelse/stoed-med-traestub
+permalink: /oevelse/stoed-med-traestub
 language: da
 header:
   overlay_image: /assets/images/exercises/stoed-med-traestub-0.jpg
@@ -9,9 +9,6 @@ header:
 categories:
 training_type: 
 training_focus: 
-  - 
-  - 
-  - 
 equipment:
   - træstub
 muscle_group:
@@ -22,15 +19,15 @@ muscle_group:
 alternative_titles:
   - træstubbestød
 gallery:
-  - url: /assets/stoed-med-traestub-0.jpg
+  - url: /assets/images/exercises/stoed-med-traestub-0.jpg
     image_path: /assets/images/exercises/stoed-med-traestub-0.jpg
     alt: "Stød med træstub"
     title: "Stød med træstub"
-  - url: /assets/stoed-med-traestub-1.jpg
+  - url: /assets/images/exercises/stoed-med-traestub-1.jpg
     image_path: /assets/images/exercises/stoed-med-traestub-1.jpg
     alt: "Stød med træstub"
     title: "Stød med træstub"
-  - url: /assets/stoed-med-traestub-2.jpg
+  - url: /assets/images/exercises/stoed-med-traestub-2.jpg
     image_path: /assets/images/exercises/stoed-med-traestub-2.jpg
     alt: "Stød med træstub"
     title: "Stød med træstub"

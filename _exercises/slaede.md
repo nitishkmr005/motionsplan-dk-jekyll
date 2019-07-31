@@ -1,7 +1,7 @@
 ---
 title: "Slædetræk"
 excerpt: "Først sprinter du fremad med en slæde spændt om livet. Derefter trækker du den baglæns tilbage til udgangspunktet."
-redirect_from: /oevelse/slaede
+permalink: /oevelse/slaede
 language: da
 header:
   overlay_image: /assets/images/exercises/slaede-0.jpg
@@ -9,18 +9,17 @@ header:
 categories:
 training_type: 
 training_focus: 
-  - 
 equipment:
   - slæde
 muscle_group:
 alternative_titles:
   - sleigh drag
 gallery:
-  - url: /assets/slaede-0.jpg
+  - url: /assets/images/exercises/slaede-0.jpg
     image_path: /assets/images/exercises/slaede-0.jpg
     alt: "Slædetræk"
     title: "Slædetræk"
-  - url: /assets/slaede-1.jpg
+  - url: /assets/images/exercises/slaede-1.jpg
     image_path: /assets/images/exercises/slaede-1.jpg
     alt: "Slædetræk"
     title: "Slædetræk"

@@ -1,7 +1,7 @@
 ---
 title: "Sots press"
 excerpt: "Du starter med stangen på skuldrene. Stangen skal hele tiden blive i samme højde, mens du går ned i knæ."
-redirect_from: /oevelse/sots-press
+permalink: /oevelse/sots-press
 language: da
 header:
   overlay_image: /assets/images/exercises/sots-press-0.jpg
@@ -11,25 +11,20 @@ training_type:
 training_focus: 
 equipment:
 muscle_group:
-alternative_titles:
-  - Skrå bænkpres
-  - Skrå bænk
-  - Brystpres
-  - Brystpres håndvægte lige
 gallery:
-  - url: /assets/sots-press-0.jpg
+  - url: /assets/images/exercises/sots-press-0.jpg
     image_path: /assets/images/exercises/sots-press-0.jpg
     alt: "Sots press"
     title: "Sots press"
-  - url: /assets/sots-press-1.jpg
+  - url: /assets/images/exercises/sots-press-1.jpg
     image_path: /assets/images/exercises/sots-press-1.jpg
     alt: "Sots press"
     title: "Sots press"
-  - url: /assets/sots-press-2.jpg
+  - url: /assets/images/exercises/sots-press-2.jpg
     image_path: /assets/images/exercises/sots-press-2.jpg
     alt: "Sots press"
     title: "Sots press"
-  - url: /assets/sots-press-3.jpg
+  - url: /assets/images/exercises/sots-press-3.jpg
     image_path: /assets/images/exercises/sots-press-3.jpg
     alt: "Sots press"
     title: "Sots press"

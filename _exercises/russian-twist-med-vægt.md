@@ -1,7 +1,7 @@
 ---
 title: "Russian twist med vægt "
 excerpt: "Sid på numsen med bøjede knæ, mens en vægt holdes i favnen med begge hænder. Læn dig tilbage indtil mavemusklerne begynder at stramme. Drej nu overkroppen og vægten skiftevis fra side til side, når overkroppen roterereres,  strækkes benene - uden de har kontakt med underlaget. "
-redirect_from: /oevelse/russian-twist-med-vægt
+permalink: /oevelse/russian-twist-med-vægt
 language: da
 header:
   overlay_image: /assets/images/exercises/russian-twist-med-vægt-0.jpg
@@ -18,22 +18,20 @@ equipment:
 muscle_group:
   - Core
   - Mave
-alternative_titles:
-  - tuck jump
 gallery:
-  - url: /assets/russian-twist-med-vægt-0.jpg
+  - url: /assets/images/exercises/russian-twist-med-vægt-0.jpg
     image_path: /assets/images/exercises/russian-twist-med-vægt-0.jpg
     alt: "Russian twist med vægt "
     title: "Russian twist med vægt "
-  - url: /assets/russian-twist-med-vægt-1.jpg
+  - url: /assets/images/exercises/russian-twist-med-vægt-1.jpg
     image_path: /assets/images/exercises/russian-twist-med-vægt-1.jpg
     alt: "Russian twist med vægt "
     title: "Russian twist med vægt "
-  - url: /assets/russian-twist-med-vægt-2.jpg
+  - url: /assets/images/exercises/russian-twist-med-vægt-2.jpg
     image_path: /assets/images/exercises/russian-twist-med-vægt-2.jpg
     alt: "Russian twist med vægt "
     title: "Russian twist med vægt "
-  - url: /assets/russian-twist-med-vægt-3.jpg
+  - url: /assets/images/exercises/russian-twist-med-vægt-3.jpg
     image_path: /assets/images/exercises/russian-twist-med-vægt-3.jpg
     alt: "Russian twist med vægt "
     title: "Russian twist med vægt "

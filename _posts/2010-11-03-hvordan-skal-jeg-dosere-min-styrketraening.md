@@ -1,10 +1,10 @@
 ---
 title: "Hvordan skal jeg dosere min styrketræning?"
-redirect_from: /artikel/hvordan-skal-jeg-dosere-min-styrketraening
+permalink: /artikel/hvordan-skal-jeg-dosere-min-styrketraening
 language: da
 header:
-  overlay_image: /assets/images/sixpack-abs-pix-020.jpg
-  teaser: /assets/images/sixpack-abs-pix-020.jpg
+  overlay_image: /assets/images/blog/hvordan-skal-jeg-dosere-min-styrketraening.jpg
+  teaser: /assets/images/blog/hvordan-skal-jeg-dosere-min-styrketraening.jpg
 tags:
   - frekvens
   - styrketræning

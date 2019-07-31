@@ -1,7 +1,7 @@
 ---
 title: "Armstrækning, med rows"
 excerpt: "Hold en håndvægt i hver hånd og støt på hænderne og tæerne. Lav en armstrækning. Når du har strakte arme, trækker du en af håndvægtene op fra gulvet. Skift."
-redirect_from: /oevelse/armstraekning-med-rows
+permalink: /oevelse/armstraekning-med-rows
 language: da
 header:
   overlay_image: /assets/images/exercises/armstraekning-med-rows-0.JPG
@@ -10,35 +10,31 @@ categories:
   - Pres
 training_type: 
 training_focus: 
-  - 
-  - 
 equipment:
   - håndvægte
 muscle_group:
-alternative_titles:
-  - birddog
 gallery:
-  - url: /assets/armstraekning-med-rows-0.JPG
+  - url: /assets/images/exercises/armstraekning-med-rows-0.JPG
     image_path: /assets/images/exercises/armstraekning-med-rows-0.JPG
     alt: "Armstrækning, med rows"
     title: "Armstrækning, med rows"
-  - url: /assets/armstraekning-med-rows-1.JPG
+  - url: /assets/images/exercises/armstraekning-med-rows-1.JPG
     image_path: /assets/images/exercises/armstraekning-med-rows-1.JPG
     alt: "Armstrækning, med rows"
     title: "Armstrækning, med rows"
-  - url: /assets/armstraekning-med-rows-2.JPG
+  - url: /assets/images/exercises/armstraekning-med-rows-2.JPG
     image_path: /assets/images/exercises/armstraekning-med-rows-2.JPG
     alt: "Armstrækning, med rows"
     title: "Armstrækning, med rows"
-  - url: /assets/armstraekning-med-rows-3.JPG
+  - url: /assets/images/exercises/armstraekning-med-rows-3.JPG
     image_path: /assets/images/exercises/armstraekning-med-rows-3.JPG
     alt: "Armstrækning, med rows"
     title: "Armstrækning, med rows"
-  - url: /assets/armstraekning-med-rows-4.JPG
+  - url: /assets/images/exercises/armstraekning-med-rows-4.JPG
     image_path: /assets/images/exercises/armstraekning-med-rows-4.JPG
     alt: "Armstrækning, med rows"
     title: "Armstrækning, med rows"
-  - url: /assets/armstraekning-med-rows-5.JPG
+  - url: /assets/images/exercises/armstraekning-med-rows-5.JPG
     image_path: /assets/images/exercises/armstraekning-med-rows-5.JPG
     alt: "Armstrækning, med rows"
     title: "Armstrækning, med rows"

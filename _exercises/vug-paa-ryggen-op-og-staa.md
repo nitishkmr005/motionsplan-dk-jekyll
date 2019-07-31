@@ -1,18 +1,15 @@
 ---
 title: "Vug på ryggen, op og stå"
 excerpt: "Sæt dig ned, vug tilbage, frem igen og stil dig op. Der må ikke bruges hænder på gulvet til at komme op og stå igen."
-redirect_from: /oevelse/vug-paa-ryggen-op-og-staa
+permalink: /oevelse/vug-paa-ryggen-op-og-staa
 language: da
 categories:
 training_type: 
 training_focus: 
-  - 
   - kropsstamme
 equipment:
   - måtte
 muscle_group:
-alternative_titles:
-  - Reb
 gallery:
 last_modified_at: 2011-10-31T13:19:38Z
 ---

@@ -1,14 +1,14 @@
 ---
 title: "Krabbe, skuldermobilisering"
 excerpt: ""
-redirect_from: /oevelse/krabbe-skuldermobilisering
+permalink: /oevelse/krabbe-skuldermobilisering
 language: da
 header:
   overlay_image: /assets/images/exercises/krabbe-skuldermobilisering-0.jpg
   teaser: /assets/images/exercises/krabbe-skuldermobilisering-0.jpg
 categories:
   - Koordination og balance
-  - 
+  - <p>Kombinationsøvelser med fokus på stabilitet, koordination og balancetræning. Her vælges gerne teknisk komplicerede øvelser, som udfordrer kropsstammen.</p>
 training_type: 
   - Mobilisering
 training_focus: 
@@ -19,21 +19,20 @@ muscle_group:
   - Baller
   - Skuldre
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/krabbe-skuldermobilisering-0.jpg
+  - url: /assets/images/exercises/krabbe-skuldermobilisering-0.jpg
     image_path: /assets/images/exercises/krabbe-skuldermobilisering-0.jpg
     alt: "Krabbe, skuldermobilisering"
     title: "Krabbe, skuldermobilisering"
-  - url: /assets/krabbe-skuldermobilisering-1.jpg
+  - url: /assets/images/exercises/krabbe-skuldermobilisering-1.jpg
     image_path: /assets/images/exercises/krabbe-skuldermobilisering-1.jpg
     alt: "Krabbe, skuldermobilisering"
     title: "Krabbe, skuldermobilisering"
-  - url: /assets/krabbe-skuldermobilisering-2.jpg
+  - url: /assets/images/exercises/krabbe-skuldermobilisering-2.jpg
     image_path: /assets/images/exercises/krabbe-skuldermobilisering-2.jpg
     alt: "Krabbe, skuldermobilisering"
     title: "Krabbe, skuldermobilisering"
-  - url: /assets/krabbe-skuldermobilisering-3.jpg
+  - url: /assets/images/exercises/krabbe-skuldermobilisering-3.jpg
     image_path: /assets/images/exercises/krabbe-skuldermobilisering-3.jpg
     alt: "Krabbe, skuldermobilisering"
     title: "Krabbe, skuldermobilisering"

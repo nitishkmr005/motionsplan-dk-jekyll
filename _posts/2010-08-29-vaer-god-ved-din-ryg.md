@@ -1,10 +1,10 @@
 ---
 title: "Vær god ved din ryg"
-redirect_from: /artikel/vaer-god-ved-din-ryg
+permalink: /artikel/vaer-god-ved-din-ryg
 language: da
 header:
-  overlay_image: /assets/images/Back Pain.jpg
-  teaser: /assets/images/Back Pain.jpg
+  overlay_image: /assets/images/blog/vaer-god-ved-din-ryg.jpg
+  teaser: /assets/images/blog/vaer-god-ved-din-ryg.jpg
 tags:
   - træning
   - ryggen
@@ -30,9 +30,9 @@ Noget af det vigtigste for at undgå rygproblemer er ifølge Stuart McGill, at d
 
 For at træne ryggen foreslår Stuart McGill følgende øvelser:
 
-- [Curlup](http://motionsplan.dk/oevelse/maveoevelse-stuart-mcgill-curlup), [planken](http://motionsplan.dk/oevelse/planken) eller for de avancerede [stir the pot](http://motionsplan.dk/oevelse/stir-pot).
-- [Side bridge](http://motionsplan.dk/oevelse/side-bridge)
-- [Birddog](http://motionsplan.dk/oevelse/birddog)
+- [Curlup](/oevelse/maveoevelse-stuart-mcgill-curlup), [planken](/oevelse/planken) eller for de avancerede [stir the pot](/oevelse/stir-pot).
+- [Side bridge](/oevelse/side-bridge)
+- [Birddog](/oevelse/birddog)
 
 Test om du er i farezonen
 -------------------------

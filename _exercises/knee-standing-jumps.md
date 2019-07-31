@@ -1,7 +1,7 @@
 ---
 title: "Hop, fra knæstående"
 excerpt: "Sid på knæene med strakt hofte. Fra denne position skal du uden at støtte med hænderne komme op og stå på fødderne og fra den dybe knæbøjning springer du så højt du kan."
-redirect_from: /oevelse/knee-standing-jumps
+permalink: /oevelse/knee-standing-jumps
 language: da
 header:
   overlay_image: /assets/images/exercises/knee-standing-jumps-0.jpg
@@ -21,30 +21,33 @@ muscle_group:
 alternative_titles:
   - Knee standing jumps
 gallery:
-  - url: /assets/knee-standing-jumps-0.jpg
+  - url: /assets/images/exercises/knee-standing-jumps-0.jpg
     image_path: /assets/images/exercises/knee-standing-jumps-0.jpg
     alt: "Hop, fra knæstående"
     title: "Hop, fra knæstående"
-  - url: /assets/knee-standing-jumps-1.jpg
+  - url: /assets/images/exercises/knee-standing-jumps-1.jpg
     image_path: /assets/images/exercises/knee-standing-jumps-1.jpg
     alt: "Hop, fra knæstående"
     title: "Hop, fra knæstående"
-  - url: /assets/knee-standing-jumps-2.jpg
+  - url: /assets/images/exercises/knee-standing-jumps-2.jpg
     image_path: /assets/images/exercises/knee-standing-jumps-2.jpg
     alt: "Hop, fra knæstående"
     title: "Hop, fra knæstående"
-  - url: /assets/knee-standing-jumps-3.jpg
+  - url: /assets/images/exercises/knee-standing-jumps-3.jpg
     image_path: /assets/images/exercises/knee-standing-jumps-3.jpg
     alt: "Hop, fra knæstående"
     title: "Hop, fra knæstående"
-  - url: /assets/knee-standing-jumps-4.jpg
+  - url: /assets/images/exercises/knee-standing-jumps-4.jpg
     image_path: /assets/images/exercises/knee-standing-jumps-4.jpg
     alt: "Hop, fra knæstående"
     title: "Hop, fra knæstående"
-  - url: /assets/knee-standing-jumps-5.jpg
+  - url: /assets/images/exercises/knee-standing-jumps-5.jpg
     image_path: /assets/images/exercises/knee-standing-jumps-5.jpg
     alt: "Hop, fra knæstående"
     title: "Hop, fra knæstående"
+video:
+  provider: vimeo
+  id: 4976753
 last_modified_at: 2014-10-14T10:50:21Z
 ---
 

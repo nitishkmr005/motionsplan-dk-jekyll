@@ -1,7 +1,7 @@
 ---
 title: "Bildæk, tippe dæk armstrækning"
 excerpt: ""
-redirect_from: /oevelse/bildæk-tippe-dæk-armstrækning
+permalink: /oevelse/bildæk-tippe-dæk-armstrækning
 language: da
 header:
   overlay_image: /assets/images/exercises/bildæk-tippe-dæk-armstrækning-0.jpg
@@ -13,13 +13,12 @@ training_focus:
 equipment:
 muscle_group:
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/bildæk-tippe-dæk-armstrækning-0.jpg
+  - url: /assets/images/exercises/bildæk-tippe-dæk-armstrækning-0.jpg
     image_path: /assets/images/exercises/bildæk-tippe-dæk-armstrækning-0.jpg
     alt: "Bildæk, tippe dæk armstrækning"
     title: "Bildæk, tippe dæk armstrækning"
-  - url: /assets/bildæk-tippe-dæk-armstrækning-1.jpg
+  - url: /assets/images/exercises/bildæk-tippe-dæk-armstrækning-1.jpg
     image_path: /assets/images/exercises/bildæk-tippe-dæk-armstrækning-1.jpg
     alt: "Bildæk, tippe dæk armstrækning"
     title: "Bildæk, tippe dæk armstrækning"

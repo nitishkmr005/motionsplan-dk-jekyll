@@ -1,7 +1,7 @@
 ---
 title: "Step out with high lift in cable"
 excerpt: ""
-redirect_from: /oevelse/step-out-high-lift-cable
+permalink: /oevelse/step-out-high-lift-cable
 language: da
 header:
   overlay_image: /assets/images/exercises/step-out-high-lift-cable-0.jpg
@@ -19,13 +19,12 @@ muscle_group:
   - Core
   - Mave
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/step-out-high-lift-cable-0.jpg
+  - url: /assets/images/exercises/step-out-high-lift-cable-0.jpg
     image_path: /assets/images/exercises/step-out-high-lift-cable-0.jpg
     alt: "Step out with high lift in cable"
     title: "Step out with high lift in cable"
-  - url: /assets/step-out-high-lift-cable-1.jpg
+  - url: /assets/images/exercises/step-out-high-lift-cable-1.jpg
     image_path: /assets/images/exercises/step-out-high-lift-cable-1.jpg
     alt: "Step out with high lift in cable"
     title: "Step out with high lift in cable"

@@ -1,7 +1,7 @@
 ---
 title: "Mave, maskine"
 excerpt: "Hold i håndtagene og bøj forover ved at stramme mavemusklerne. Kontrolleret tilbage til udgangspunktet."
-redirect_from: /oevelse/mave-maskine
+permalink: /oevelse/mave-maskine
 language: da
 header:
   overlay_image: /assets/images/exercises/mave-maskine-0.JPG
@@ -9,7 +9,6 @@ header:
 categories:
 training_type: 
 training_focus: 
-  - 
   - kropsstamme
 equipment:
   - maskine
@@ -18,15 +17,15 @@ muscle_group:
 alternative_titles:
   - mavemaskine
 gallery:
-  - url: /assets/mave-maskine-0.JPG
+  - url: /assets/images/exercises/mave-maskine-0.JPG
     image_path: /assets/images/exercises/mave-maskine-0.JPG
     alt: "Mave, maskine"
     title: "Mave, maskine"
-  - url: /assets/mave-maskine-1.JPG
+  - url: /assets/images/exercises/mave-maskine-1.JPG
     image_path: /assets/images/exercises/mave-maskine-1.JPG
     alt: "Mave, maskine"
     title: "Mave, maskine"
-  - url: /assets/mave-maskine-2.JPG
+  - url: /assets/images/exercises/mave-maskine-2.JPG
     image_path: /assets/images/exercises/mave-maskine-2.JPG
     alt: "Mave, maskine"
     title: "Mave, maskine"

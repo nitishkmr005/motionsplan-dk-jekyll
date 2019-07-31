@@ -1,10 +1,10 @@
 ---
 title: "Ensidige øvelser løfter niveauet"
-redirect_from: /artikel/unilateral-traening
+permalink: /artikel/unilateral-traening
 language: da
 header:
-  overlay_image: /assets/images/FOTO1.jpg
-  teaser: /assets/images/FOTO1.jpg
+  overlay_image: /assets/images/blog/unilateral-traening.jpg
+  teaser: /assets/images/blog/unilateral-traening.jpg
 tags:
   - styrketræning
   - webclips

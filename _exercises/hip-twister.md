@@ -1,7 +1,7 @@
 ---
 title: "Skrå mavemuskler - Hip twister"
 excerpt: "De skrå mavemuskler "
-redirect_from: /oevelse/hip-twister
+permalink: /oevelse/hip-twister
 language: da
 header:
   overlay_image: /assets/images/exercises/hip-twister-0.jpg
@@ -15,18 +15,16 @@ equipment:
 muscle_group:
   - 
   - 
-alternative_titles:
-  - Hoftebøjer i ribbe
 gallery:
-  - url: /assets/hip-twister-0.jpg
+  - url: /assets/images/exercises/hip-twister-0.jpg
     image_path: /assets/images/exercises/hip-twister-0.jpg
     alt: "Skrå mavemuskler - Hip twister"
     title: "Skrå mavemuskler - Hip twister"
-  - url: /assets/hip-twister-1.jpg
+  - url: /assets/images/exercises/hip-twister-1.jpg
     image_path: /assets/images/exercises/hip-twister-1.jpg
     alt: "Skrå mavemuskler - Hip twister"
     title: "Skrå mavemuskler - Hip twister"
-  - url: /assets/hip-twister-2.jpg
+  - url: /assets/images/exercises/hip-twister-2.jpg
     image_path: /assets/images/exercises/hip-twister-2.jpg
     alt: "Skrå mavemuskler - Hip twister"
     title: "Skrå mavemuskler - Hip twister"

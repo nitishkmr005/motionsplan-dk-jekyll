@@ -1,7 +1,7 @@
 ---
 title: "Lunges, dynamisk"
 excerpt: "Træd et skridt frem og gå ned i knæ, indtil det forreste lår er vandret og det andet næsten knæ rører jorden. Bevæg dig dynamisk tilbage til udgangspositionen."
-redirect_from: /oevelse/lunges-dynamisk
+permalink: /oevelse/lunges-dynamisk
 language: da
 header:
   overlay_image: /assets/images/exercises/lunges-dynamisk-0.jpg
@@ -9,35 +9,28 @@ header:
 categories:
 training_type: 
 training_focus: 
-  - 
   - knædomineret
-  - 
 equipment:
   - vægtstang
 muscle_group:
-alternative_titles:
-  - Laterals
-  - Lateral raise
-  - Skuldersideløft
-  - Sideløft håndvægte
 gallery:
-  - url: /assets/lunges-dynamisk-0.jpg
+  - url: /assets/images/exercises/lunges-dynamisk-0.jpg
     image_path: /assets/images/exercises/lunges-dynamisk-0.jpg
     alt: "Lunges, dynamisk"
     title: "Lunges, dynamisk"
-  - url: /assets/lunges-dynamisk-1.jpg
+  - url: /assets/images/exercises/lunges-dynamisk-1.jpg
     image_path: /assets/images/exercises/lunges-dynamisk-1.jpg
     alt: "Lunges, dynamisk"
     title: "Lunges, dynamisk"
-  - url: /assets/lunges-dynamisk-2.jpg
+  - url: /assets/images/exercises/lunges-dynamisk-2.jpg
     image_path: /assets/images/exercises/lunges-dynamisk-2.jpg
     alt: "Lunges, dynamisk"
     title: "Lunges, dynamisk"
-  - url: /assets/lunges-dynamisk-3.jpg
+  - url: /assets/images/exercises/lunges-dynamisk-3.jpg
     image_path: /assets/images/exercises/lunges-dynamisk-3.jpg
     alt: "Lunges, dynamisk"
     title: "Lunges, dynamisk"
-  - url: /assets/lunges-dynamisk-4.jpg
+  - url: /assets/images/exercises/lunges-dynamisk-4.jpg
     image_path: /assets/images/exercises/lunges-dynamisk-4.jpg
     alt: "Lunges, dynamisk"
     title: "Lunges, dynamisk"

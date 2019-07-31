@@ -1,7 +1,7 @@
 ---
 title: "Udstrækning af triceps"
 excerpt: "Originalt stræk"
-redirect_from: /oevelse/udstraekning-af-triceps
+permalink: /oevelse/udstraekning-af-triceps
 language: da
 header:
   overlay_image: /assets/images/exercises/udstraekning-af-triceps-0.JPG
@@ -12,15 +12,8 @@ training_type:
 training_focus: 
 equipment:
 muscle_group:
-alternative_titles:
-  - Triceps pushdown
-  - Pushdown
-  - cable pushdown
-  - triceps pulldown
-  - triceps rope extension
-  - albuestræk kabel
 gallery:
-  - url: /assets/udstraekning-af-triceps-0.JPG
+  - url: /assets/images/exercises/udstraekning-af-triceps-0.JPG
     image_path: /assets/images/exercises/udstraekning-af-triceps-0.JPG
     alt: "Udstrækning af triceps"
     title: "Udstrækning af triceps"

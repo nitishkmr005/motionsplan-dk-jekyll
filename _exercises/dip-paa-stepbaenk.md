@@ -1,7 +1,7 @@
 ---
 title: "Dips med bænk"
 excerpt: "En tricepsøvelse, hvor kropsvægten bruges som belastning."
-redirect_from: /oevelse/dip-paa-stepbaenk
+permalink: /oevelse/dip-paa-stepbaenk
 language: da
 header:
   overlay_image: /assets/images/exercises/dip-paa-stepbaenk-0.JPG
@@ -16,18 +16,16 @@ muscle_group:
   - 
   - 
   - 
-alternative_titles:
-  - clean and jerk
 gallery:
-  - url: /assets/dip-paa-stepbaenk-0.JPG
+  - url: /assets/images/exercises/dip-paa-stepbaenk-0.JPG
     image_path: /assets/images/exercises/dip-paa-stepbaenk-0.JPG
     alt: "Dips med bænk"
     title: "Dips med bænk"
-  - url: /assets/dip-paa-stepbaenk-1.JPG
+  - url: /assets/images/exercises/dip-paa-stepbaenk-1.JPG
     image_path: /assets/images/exercises/dip-paa-stepbaenk-1.JPG
     alt: "Dips med bænk"
     title: "Dips med bænk"
-  - url: /assets/dip-paa-stepbaenk-2.JPG
+  - url: /assets/images/exercises/dip-paa-stepbaenk-2.JPG
     image_path: /assets/images/exercises/dip-paa-stepbaenk-2.JPG
     alt: "Dips med bænk"
     title: "Dips med bænk"

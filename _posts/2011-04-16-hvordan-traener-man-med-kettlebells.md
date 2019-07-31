@@ -1,10 +1,10 @@
 ---
 title: "Hvordan træner man med kettlebells?"
-redirect_from: /artikel/hvordan-traener-man-med-kettlebells
+permalink: /artikel/hvordan-traener-man-med-kettlebells
 language: da
 header:
-  overlay_image: /assets/images/4528470710.jpg
-  teaser: /assets/images/4528470710.jpg
+  overlay_image: /assets/images/blog/hvordan-traener-man-med-kettlebells.jpg
+  teaser: /assets/images/blog/hvordan-traener-man-med-kettlebells.jpg
 tags:
   - styrketræning
   - kettlebell
@@ -33,14 +33,14 @@ Som al anden vægttræning er det vigtigt, at du arbejder med teknik, inden du b
 Klassiske øvelser
 -----------------
 
-- Swings - [se øvelsen](http://motionsplan.dk/oevelse/tohaandssving)
-- Clean and press - [se øvelsen](http://motionsplan.dk/oevelse/one-arm-clean-and-jerk)
-- Turkish getups - [se øvelsen](http://motionsplan.dk/oevelse/turkish-getup)
+- Swings - [se øvelsen](/oevelse/tohaandssving)
+- Clean and press - [se øvelsen](/oevelse/one-arm-clean-and-jerk)
+- Turkish getups - [se øvelsen](/oevelse/turkish-getup)
 
 Forslag til træningsprogram
 ---------------------------
 
-Du kan [sammensætte et træningsprogram til styrketræning](http://motionsplan.dk/artikel/opbygning-af-program) på rigtig mange måder. En meget populær måde at træne på i øjeblikket er at lave så mange runder som muligt på 20 minutter. Runderne kunne fx bestå af 20 swings og 2 turkish getups til hver side. Dette program kører du fx tre gange om ugen. Måske skal du starte med 10 minutter den første dag, da swings sagtens kan mærkes i baglårene.
+Du kan [sammensætte et træningsprogram til styrketræning](/artikel/opbygning-af-program) på rigtig mange måder. En meget populær måde at træne på i øjeblikket er at lave så mange runder som muligt på 20 minutter. Runderne kunne fx bestå af 20 swings og 2 turkish getups til hver side. Dette program kører du fx tre gange om ugen. Måske skal du starte med 10 minutter den første dag, da swings sagtens kan mærkes i baglårene.
 
 Mere inspiration om kettlebells
 -------------------------------
@@ -51,6 +51,6 @@ Hvis du vil læse mere om kettlebells, så har [Liam O'Brien skrevet Kettlebell 
 
 Du kan sikkert finde lidt inspiration i videoerne nedenunder:
 
- Video of 24 Kettlebell Exercises
+{% include video provider="youtube" id="nhZgNKII4rw" %}
 
- Video of Kettlebell training (this is not an instructional video)
+{% include video provider="youtube" id="pR9KNdpen1g" %}

@@ -1,7 +1,7 @@
 ---
 title: "Squat, med stangen over hovedet"
 excerpt: "Lav en dyb knæbøjning, mens du holder en vægtstang med strakte arme over hovedet."
-redirect_from: /oevelse/squat-med-stangen-over-hovedet
+permalink: /oevelse/squat-med-stangen-over-hovedet
 language: da
 header:
   overlay_image: /assets/images/exercises/squat-med-stangen-over-hovedet-0.jpg
@@ -14,23 +14,23 @@ muscle_group:
 alternative_titles:
   - overhead squat
 gallery:
-  - url: /assets/squat-med-stangen-over-hovedet-0.jpg
+  - url: /assets/images/exercises/squat-med-stangen-over-hovedet-0.jpg
     image_path: /assets/images/exercises/squat-med-stangen-over-hovedet-0.jpg
     alt: "Squat, med stangen over hovedet"
     title: "Squat, med stangen over hovedet"
-  - url: /assets/squat-med-stangen-over-hovedet-1.jpg
+  - url: /assets/images/exercises/squat-med-stangen-over-hovedet-1.jpg
     image_path: /assets/images/exercises/squat-med-stangen-over-hovedet-1.jpg
     alt: "Squat, med stangen over hovedet"
     title: "Squat, med stangen over hovedet"
-  - url: /assets/squat-med-stangen-over-hovedet-2.jpg
+  - url: /assets/images/exercises/squat-med-stangen-over-hovedet-2.jpg
     image_path: /assets/images/exercises/squat-med-stangen-over-hovedet-2.jpg
     alt: "Squat, med stangen over hovedet"
     title: "Squat, med stangen over hovedet"
-  - url: /assets/squat-med-stangen-over-hovedet-3.jpg
+  - url: /assets/images/exercises/squat-med-stangen-over-hovedet-3.jpg
     image_path: /assets/images/exercises/squat-med-stangen-over-hovedet-3.jpg
     alt: "Squat, med stangen over hovedet"
     title: "Squat, med stangen over hovedet"
-  - url: /assets/squat-med-stangen-over-hovedet-4.jpg
+  - url: /assets/images/exercises/squat-med-stangen-over-hovedet-4.jpg
     image_path: /assets/images/exercises/squat-med-stangen-over-hovedet-4.jpg
     alt: "Squat, med stangen over hovedet"
     title: "Squat, med stangen over hovedet"

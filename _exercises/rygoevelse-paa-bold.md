@@ -1,7 +1,7 @@
 ---
 title: "Rygøvelse på bold"
 excerpt: "Læg dig på bolden, så benene rører jorden og overkroppen hænger frit. Lad overkroppen falde ned mod gulvet og ret dig derefter op igen, indtil kroppen er lige."
-redirect_from: /oevelse/rygoevelse-paa-bold
+permalink: /oevelse/rygoevelse-paa-bold
 language: da
 header:
   overlay_image: /assets/images/exercises/rygoevelse-paa-bold-0.JPG
@@ -19,14 +19,17 @@ alternative_titles:
   - Rygstræk på bold
   - lænd på bold
 gallery:
-  - url: /assets/rygoevelse-paa-bold-0.JPG
+  - url: /assets/images/exercises/rygoevelse-paa-bold-0.JPG
     image_path: /assets/images/exercises/rygoevelse-paa-bold-0.JPG
     alt: "Rygøvelse på bold"
     title: "Rygøvelse på bold"
-  - url: /assets/rygoevelse-paa-bold-1.JPG
+  - url: /assets/images/exercises/rygoevelse-paa-bold-1.JPG
     image_path: /assets/images/exercises/rygoevelse-paa-bold-1.JPG
     alt: "Rygøvelse på bold"
     title: "Rygøvelse på bold"
+video:
+  provider: vimeo
+  id: 5046213
 last_modified_at: 2014-10-10T21:28:46Z
 ---
 

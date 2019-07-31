@@ -1,30 +1,29 @@
 ---
 title: "Trappeløb"
 excerpt: ""
-redirect_from: /oevelse/trappeløb
+permalink: /oevelse/trappeløb
 language: da
 header:
   overlay_image: /assets/images/exercises/trappeløb-0.jpg
   teaser: /assets/images/exercises/trappeløb-0.jpg
 categories:
   - Kondition og puls
-  - 
+  - <p>Primært fokus på kredsløbstræning, som giver høj puls og belaster det aerobe system maksimalt.</p>
 training_type: 
 training_focus: 
 equipment:
 muscle_group:
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/trappeløb-0.jpg
+  - url: /assets/images/exercises/trappeløb-0.jpg
     image_path: /assets/images/exercises/trappeløb-0.jpg
     alt: "Trappeløb"
     title: "Trappeløb"
-  - url: /assets/trappeløb-1.jpg
+  - url: /assets/images/exercises/trappeløb-1.jpg
     image_path: /assets/images/exercises/trappeløb-1.jpg
     alt: "Trappeløb"
     title: "Trappeløb"
-  - url: /assets/trappeløb-2.jpg
+  - url: /assets/images/exercises/trappeløb-2.jpg
     image_path: /assets/images/exercises/trappeløb-2.jpg
     alt: "Trappeløb"
     title: "Trappeløb"

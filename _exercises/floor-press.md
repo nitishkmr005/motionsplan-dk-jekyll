@@ -1,7 +1,7 @@
 ---
 title: "Floor press"
 excerpt: ""
-redirect_from: /oevelse/floor-press
+permalink: /oevelse/floor-press
 language: da
 categories:
 training_type: 
@@ -14,8 +14,10 @@ muscle_group:
   - Bryst
   - Skuldre
 alternative_titles:
-  - 
 gallery:
+video:
+  provider: youtube
+  id: aM1TYdZaXMk
 last_modified_at: 2016-11-01T08:32:19Z
 ---
 

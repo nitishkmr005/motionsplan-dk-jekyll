@@ -1,10 +1,10 @@
 ---
 title: "Træning med slynger - TRX, PowerSling, Suspension training"
-redirect_from: /artikel/træning-med-slynger-trx-powersling-suspension-training
+permalink: /artikel/træning-med-slynger-trx-powersling-suspension-training
 language: da
 header:
-  overlay_image: /assets/images/diverse-abilica-powersling-slyngetraening_stor-1354.jpg
-  teaser: /assets/images/diverse-abilica-powersling-slyngetraening_stor-1354.jpg
+  overlay_image: /assets/images/blog/træning-med-slynger-trx-powersling-suspension-training.jpg
+  teaser: /assets/images/blog/træning-med-slynger-trx-powersling-suspension-training.jpg
 tags:
 category:
   - Styrketræning

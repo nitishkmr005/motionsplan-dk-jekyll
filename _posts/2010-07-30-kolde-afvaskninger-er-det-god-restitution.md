@@ -1,10 +1,10 @@
 ---
 title: "Kolde afvaskninger - er det god restitution?"
-redirect_from: /artikel/kolde-afvaskninger-er-det-god-restitution
+permalink: /artikel/kolde-afvaskninger-er-det-god-restitution
 language: da
 header:
-  overlay_image: /assets/images/jack-bright.jpg
-  teaser: /assets/images/jack-bright.jpg
+  overlay_image: /assets/images/blog/kolde-afvaskninger-er-det-god-restitution.jpg
+  teaser: /assets/images/blog/kolde-afvaskninger-er-det-god-restitution.jpg
 tags:
   - restitution
 category:

@@ -1,7 +1,7 @@
 ---
 title: "SMR Fødder"
 excerpt: ""
-redirect_from: /oevelse/smr-foedder
+permalink: /oevelse/smr-foedder
 language: da
 header:
   overlay_image: /assets/images/exercises/smr-foedder-0.jpg
@@ -14,13 +14,12 @@ equipment:
   - lacrosse bold
 muscle_group:
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/smr-foedder-0.jpg
+  - url: /assets/images/exercises/smr-foedder-0.jpg
     image_path: /assets/images/exercises/smr-foedder-0.jpg
     alt: "SMR Fødder"
     title: "SMR Fødder"
-  - url: /assets/smr-foedder-1.jpg
+  - url: /assets/images/exercises/smr-foedder-1.jpg
     image_path: /assets/images/exercises/smr-foedder-1.jpg
     alt: "SMR Fødder"
     title: "SMR Fødder"

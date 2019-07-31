@@ -1,7 +1,7 @@
 ---
 title: "Albuestræk"
 excerpt: "Tag en håndvægt i strakt arm over hovedet. Før håndvægten mod skulderen. Stræk armen igen."
-redirect_from: /oevelse/albuestraek
+permalink: /oevelse/albuestraek
 language: da
 header:
   overlay_image: /assets/images/exercises/albuestraek-0.JPG
@@ -16,14 +16,12 @@ equipment:
   - håndvægte
 muscle_group:
   - Arme
-alternative_titles:
-  - goblet squat
 gallery:
-  - url: /assets/albuestraek-0.JPG
+  - url: /assets/images/exercises/albuestraek-0.JPG
     image_path: /assets/images/exercises/albuestraek-0.JPG
     alt: "Albuestræk"
     title: "Albuestræk"
-  - url: /assets/albuestraek-1.JPG
+  - url: /assets/images/exercises/albuestraek-1.JPG
     image_path: /assets/images/exercises/albuestraek-1.JPG
     alt: "Albuestræk"
     title: "Albuestræk"

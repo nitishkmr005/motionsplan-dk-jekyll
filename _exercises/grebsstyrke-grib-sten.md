@@ -1,7 +1,7 @@
 ---
 title: "Grebsstyrke, grib sten"
 excerpt: "En tung genstand holdes i hånden med fingerspidserne nedad. Giv slip på genstanden og grib den med den anden hånd stadig med fingerspidserne nedad."
-redirect_from: /oevelse/grebsstyrke-grib-sten
+permalink: /oevelse/grebsstyrke-grib-sten
 language: da
 header:
   overlay_image: /assets/images/exercises/grebsstyrke-grib-sten-0.jpg
@@ -11,18 +11,16 @@ training_type:
 training_focus: 
 equipment:
 muscle_group:
-alternative_titles:
-  - 
 gallery:
-  - url: /assets/grebsstyrke-grib-sten-0.jpg
+  - url: /assets/images/exercises/grebsstyrke-grib-sten-0.jpg
     image_path: /assets/images/exercises/grebsstyrke-grib-sten-0.jpg
     alt: "Grebsstyrke, grib sten"
     title: "Grebsstyrke, grib sten"
-  - url: /assets/grebsstyrke-grib-sten-1.jpg
+  - url: /assets/images/exercises/grebsstyrke-grib-sten-1.jpg
     image_path: /assets/images/exercises/grebsstyrke-grib-sten-1.jpg
     alt: "Grebsstyrke, grib sten"
     title: "Grebsstyrke, grib sten"
-  - url: /assets/grebsstyrke-grib-sten-2.jpg
+  - url: /assets/images/exercises/grebsstyrke-grib-sten-2.jpg
     image_path: /assets/images/exercises/grebsstyrke-grib-sten-2.jpg
     alt: "Grebsstyrke, grib sten"
     title: "Grebsstyrke, grib sten"

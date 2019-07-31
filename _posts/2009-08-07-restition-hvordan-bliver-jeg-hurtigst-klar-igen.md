@@ -1,10 +1,10 @@
 ---
 title: "Restition - hvordan bliver jeg hurtigst klar igen?"
-redirect_from: /artikel/restition-hvordan-bliver-jeg-hurtigst-klar-igen
+permalink: /artikel/restition-hvordan-bliver-jeg-hurtigst-klar-igen
 language: da
 header:
-  overlay_image: /assets/images/Cute-Sleeping-Baby-1600x1200.jpg
-  teaser: /assets/images/Cute-Sleeping-Baby-1600x1200.jpg
+  overlay_image: /assets/images/blog/restition-hvordan-bliver-jeg-hurtigst-klar-igen.jpg
+  teaser: /assets/images/blog/restition-hvordan-bliver-jeg-hurtigst-klar-igen.jpg
 tags:
   - restitution
 category:
@@ -28,11 +28,11 @@ I Form anbefaler også at spise sig fri af betændelsestilstande i kroppen, som 
 
 Nedvarmning sørger for at affaldsstofferne bliver fjernet fra musklerne. Vi leder i øjeblikket efter studier, der kan dokumentere dette.
 
-Udspænding kan godt være en del af nedvarmningen, men hvis man kun har tid til den ene ting, skal man vælge nedvarmningen. I øvrigt e [udspænding et kontroversielt emne, som vi tidligere har behandlet](http://motionsplan.dk/artikel/du-bliver-smidigere-af-straekke). I Form påstår: "Undersøgelser peger på, at du ved at strække ud et par timer efter træning kan nedsætte muskelstivhed og ømhed." Den undersøgelse vil vi gerne se, så vi kan kvalificere vores gode råd endnu mere. Er der nogen af jer, der har set den?
+Udspænding kan godt være en del af nedvarmningen, men hvis man kun har tid til den ene ting, skal man vælge nedvarmningen. I øvrigt e [udspænding et kontroversielt emne, som vi tidligere har behandlet](/artikel/du-bliver-smidigere-af-straekke). I Form påstår: "Undersøgelser peger på, at du ved at strække ud et par timer efter træning kan nedsætte muskelstivhed og ømhed." Den undersøgelse vil vi gerne se, så vi kan kvalificere vores gode råd endnu mere. Er der nogen af jer, der har set den?
 
 **Brug kompressionsstrømper**
 
-Det ser ud til at [kompressionsstrømper kan være en god ide](http://motionsplan.dk/artikel/kompressionsstroemper-en-god-ide), når du vil forbedre din restitution og undgå anden-dags-ømhed.
+Det ser ud til at [kompressionsstrømper kan være en god ide](/artikel/kompressionsstroemper-en-god-ide), når du vil forbedre din restitution og undgå anden-dags-ømhed.
 
 **Øvrige forslag - kan I hjælpe?**
 

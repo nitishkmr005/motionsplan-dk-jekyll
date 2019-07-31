@@ -1,14 +1,14 @@
 ---
 title: "Skulder, internal rotation"
 excerpt: ""
-redirect_from: /oevelse/skulder-internal-rotation
+permalink: /oevelse/skulder-internal-rotation
 language: da
 header:
   overlay_image: /assets/images/exercises/skulder-internal-rotation-0.jpg
   teaser: /assets/images/exercises/skulder-internal-rotation-0.jpg
 categories:
   - Koordination og balance
-  - 
+  - <p>Kombinationsøvelser med fokus på stabilitet, koordination og balancetræning. Her vælges gerne teknisk komplicerede øvelser, som udfordrer kropsstammen.</p>
 training_type: 
   - Balance
   - Mobilisering
@@ -18,14 +18,12 @@ equipment:
   - kabeltræk
 muscle_group:
   - Skuldre
-alternative_titles:
-  - 
 gallery:
-  - url: /assets/skulder-internal-rotation-0.jpg
+  - url: /assets/images/exercises/skulder-internal-rotation-0.jpg
     image_path: /assets/images/exercises/skulder-internal-rotation-0.jpg
     alt: "Skulder, internal rotation"
     title: "Skulder, internal rotation"
-  - url: /assets/skulder-internal-rotation-1.jpg
+  - url: /assets/images/exercises/skulder-internal-rotation-1.jpg
     image_path: /assets/images/exercises/skulder-internal-rotation-1.jpg
     alt: "Skulder, internal rotation"
     title: "Skulder, internal rotation"

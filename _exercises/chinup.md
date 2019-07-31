@@ -1,7 +1,7 @@
 ---
 title: "Chinup, kropshævning med underhåndsgreb"
 excerpt: "Kropshævning med underhåndsgreb."
-redirect_from: /oevelse/chinup
+permalink: /oevelse/chinup
 language: da
 header:
   overlay_image: /assets/images/exercises/chinup-0.jpg
@@ -21,14 +21,17 @@ muscle_group:
 alternative_titles:
   - chinup
 gallery:
-  - url: /assets/chinup-0.jpg
+  - url: /assets/images/exercises/chinup-0.jpg
     image_path: /assets/images/exercises/chinup-0.jpg
     alt: "Chinup, kropshævning med underhåndsgreb"
     title: "Chinup, kropshævning med underhåndsgreb"
-  - url: /assets/chinup-1.jpg
+  - url: /assets/images/exercises/chinup-1.jpg
     image_path: /assets/images/exercises/chinup-1.jpg
     alt: "Chinup, kropshævning med underhåndsgreb"
     title: "Chinup, kropshævning med underhåndsgreb"
+video:
+  provider: youtube
+  id: QWQqivQ92dE
 last_modified_at: 2014-10-14T10:48:42Z
 ---
 

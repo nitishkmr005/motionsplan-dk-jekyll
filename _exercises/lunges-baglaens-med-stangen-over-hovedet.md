@@ -1,7 +1,7 @@
 ---
 title: "Lunges, baglæns med stangen over hovedet"
 excerpt: "Lunge, hvor benet føres bagud, og vægtstangen holdes over hovedet med strakte arme."
-redirect_from: /oevelse/lunges-baglaens-med-stangen-over-hovedet
+permalink: /oevelse/lunges-baglaens-med-stangen-over-hovedet
 language: da
 header:
   overlay_image: /assets/images/exercises/lunges-baglaens-med-stangen-over-hovedet-0.jpg
@@ -14,19 +14,19 @@ muscle_group:
 alternative_titles:
   - overhead lunges
 gallery:
-  - url: /assets/lunges-baglaens-med-stangen-over-hovedet-0.jpg
+  - url: /assets/images/exercises/lunges-baglaens-med-stangen-over-hovedet-0.jpg
     image_path: /assets/images/exercises/lunges-baglaens-med-stangen-over-hovedet-0.jpg
     alt: "Lunges, baglæns med stangen over hovedet"
     title: "Lunges, baglæns med stangen over hovedet"
-  - url: /assets/lunges-baglaens-med-stangen-over-hovedet-1.jpg
+  - url: /assets/images/exercises/lunges-baglaens-med-stangen-over-hovedet-1.jpg
     image_path: /assets/images/exercises/lunges-baglaens-med-stangen-over-hovedet-1.jpg
     alt: "Lunges, baglæns med stangen over hovedet"
     title: "Lunges, baglæns med stangen over hovedet"
-  - url: /assets/lunges-baglaens-med-stangen-over-hovedet-2.jpg
+  - url: /assets/images/exercises/lunges-baglaens-med-stangen-over-hovedet-2.jpg
     image_path: /assets/images/exercises/lunges-baglaens-med-stangen-over-hovedet-2.jpg
     alt: "Lunges, baglæns med stangen over hovedet"
     title: "Lunges, baglæns med stangen over hovedet"
-  - url: /assets/lunges-baglaens-med-stangen-over-hovedet-3.jpg
+  - url: /assets/images/exercises/lunges-baglaens-med-stangen-over-hovedet-3.jpg
     image_path: /assets/images/exercises/lunges-baglaens-med-stangen-over-hovedet-3.jpg
     alt: "Lunges, baglæns med stangen over hovedet"
     title: "Lunges, baglæns med stangen over hovedet"

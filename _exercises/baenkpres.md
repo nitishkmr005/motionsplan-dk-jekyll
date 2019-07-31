@@ -1,7 +1,7 @@
 ---
 title: "Bænkpres"
 excerpt: "Liggende på en bænk og skub vandret."
-redirect_from: /oevelse/baenkpres
+permalink: /oevelse/baenkpres
 language: da
 header:
   overlay_image: /assets/images/exercises/baenkpres-0.jpg
@@ -18,25 +18,26 @@ equipment:
 muscle_group:
   - Arme
   - Bryst
-alternative_titles:
-  - Goodmorning
 gallery:
-  - url: /assets/baenkpres-0.jpg
+  - url: /assets/images/exercises/baenkpres-0.jpg
     image_path: /assets/images/exercises/baenkpres-0.jpg
     alt: "Bænkpres"
     title: "Bænkpres"
-  - url: /assets/baenkpres-1.jpg
+  - url: /assets/images/exercises/baenkpres-1.jpg
     image_path: /assets/images/exercises/baenkpres-1.jpg
     alt: "Bænkpres"
     title: "Bænkpres"
-  - url: /assets/baenkpres-2.jpg
+  - url: /assets/images/exercises/baenkpres-2.jpg
     image_path: /assets/images/exercises/baenkpres-2.jpg
     alt: "Bænkpres"
     title: "Bænkpres"
-  - url: /assets/baenkpres-3.jpg
+  - url: /assets/images/exercises/baenkpres-3.jpg
     image_path: /assets/images/exercises/baenkpres-3.jpg
     alt: "Bænkpres"
     title: "Bænkpres"
+video:
+  provider: youtube
+  id: tnZ-OmG9PDQ
 last_modified_at: 2014-10-12T19:32:27Z
 ---
 

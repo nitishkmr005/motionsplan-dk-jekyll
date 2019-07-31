@@ -1,14 +1,14 @@
 ---
 title: "Heel touch from stepup"
 excerpt: ""
-redirect_from: /oevelse/heel-touch-stepup
+permalink: /oevelse/heel-touch-stepup
 language: da
 header:
   overlay_image: /assets/images/exercises/heel-touch-stepup-0.jpg
   teaser: /assets/images/exercises/heel-touch-stepup-0.jpg
 categories:
   - Koordination og balance
-  - 
+  - <p>Kombinationsøvelser med fokus på stabilitet, koordination og balancetræning. Her vælges gerne teknisk komplicerede øvelser, som udfordrer kropsstammen.</p>
 training_type: 
   - Styrketræning
 training_focus: 
@@ -19,13 +19,12 @@ muscle_group:
   - Baller
   - Forlår
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/heel-touch-stepup-0.jpg
+  - url: /assets/images/exercises/heel-touch-stepup-0.jpg
     image_path: /assets/images/exercises/heel-touch-stepup-0.jpg
     alt: "Heel touch from stepup"
     title: "Heel touch from stepup"
-  - url: /assets/heel-touch-stepup-1.jpg
+  - url: /assets/images/exercises/heel-touch-stepup-1.jpg
     image_path: /assets/images/exercises/heel-touch-stepup-1.jpg
     alt: "Heel touch from stepup"
     title: "Heel touch from stepup"

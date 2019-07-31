@@ -1,7 +1,7 @@
 ---
 title: "SMR Skulderblad"
 excerpt: ""
-redirect_from: /oevelse/smr-skulderblad
+permalink: /oevelse/smr-skulderblad
 language: da
 header:
   overlay_image: /assets/images/exercises/smr-skulderblad-0.jpg
@@ -14,9 +14,8 @@ equipment:
   - lacrosse bold
 muscle_group:
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/smr-skulderblad-0.jpg
+  - url: /assets/images/exercises/smr-skulderblad-0.jpg
     image_path: /assets/images/exercises/smr-skulderblad-0.jpg
     alt: "SMR Skulderblad"
     title: "SMR Skulderblad"

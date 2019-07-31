@@ -1,7 +1,7 @@
 ---
 title: "Håndstand op ad mur"
 excerpt: "Lav en håndstand op ad en mur."
-redirect_from: /oevelse/haandstand-op-ad-mur
+permalink: /oevelse/haandstand-op-ad-mur
 language: da
 header:
   overlay_image: /assets/images/exercises/haandstand-op-ad-mur-0.jpg
@@ -11,10 +11,8 @@ training_type:
 training_focus: 
 equipment:
 muscle_group:
-alternative_titles:
-  - deadlift
 gallery:
-  - url: /assets/haandstand-op-ad-mur-0.jpg
+  - url: /assets/images/exercises/haandstand-op-ad-mur-0.jpg
     image_path: /assets/images/exercises/haandstand-op-ad-mur-0.jpg
     alt: "Håndstand op ad mur"
     title: "Håndstand op ad mur"

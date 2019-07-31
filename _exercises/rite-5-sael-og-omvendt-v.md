@@ -1,7 +1,7 @@
 ---
 title: "Rite 5: Sæl og omvendt V"
 excerpt: ""
-redirect_from: /oevelse/rite-5-sael-og-omvendt-v
+permalink: /oevelse/rite-5-sael-og-omvendt-v
 language: da
 header:
   overlay_image: /assets/images/exercises/rite-5-sael-og-omvendt-v-0.jpg
@@ -21,13 +21,12 @@ muscle_group:
   - Core
   - Mave
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/rite-5-sael-og-omvendt-v-0.jpg
+  - url: /assets/images/exercises/rite-5-sael-og-omvendt-v-0.jpg
     image_path: /assets/images/exercises/rite-5-sael-og-omvendt-v-0.jpg
     alt: "Rite 5: Sæl og omvendt V"
     title: "Rite 5: Sæl og omvendt V"
-  - url: /assets/rite-5-sael-og-omvendt-v-1.jpg
+  - url: /assets/images/exercises/rite-5-sael-og-omvendt-v-1.jpg
     image_path: /assets/images/exercises/rite-5-sael-og-omvendt-v-1.jpg
     alt: "Rite 5: Sæl og omvendt V"
     title: "Rite 5: Sæl og omvendt V"

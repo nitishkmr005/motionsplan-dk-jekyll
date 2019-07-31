@@ -1,7 +1,7 @@
 ---
 title: "Lateral lunge, bodyweight"
 excerpt: "LLunge til siden."
-redirect_from: /oevelse/lateral-squat
+permalink: /oevelse/lateral-squat
 language: da
 header:
   overlay_image: /assets/images/exercises/lateral-squat-0.jpg
@@ -18,11 +18,11 @@ muscle_group:
 alternative_titles:
   - Lateral Lunge
 gallery:
-  - url: /assets/lateral-squat-0.jpg
+  - url: /assets/images/exercises/lateral-squat-0.jpg
     image_path: /assets/images/exercises/lateral-squat-0.jpg
     alt: "Lateral lunge, bodyweight"
     title: "Lateral lunge, bodyweight"
-  - url: /assets/lateral-squat-1.jpg
+  - url: /assets/images/exercises/lateral-squat-1.jpg
     image_path: /assets/images/exercises/lateral-squat-1.jpg
     alt: "Lateral lunge, bodyweight"
     title: "Lateral lunge, bodyweight"

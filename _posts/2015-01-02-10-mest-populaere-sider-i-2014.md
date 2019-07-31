@@ -1,10 +1,10 @@
 ---
 title: "10 mest populære sider i 2014"
-redirect_from: /artikel/10-mest-populaere-sider-i-2014
+permalink: /artikel/10-mest-populaere-sider-i-2014
 language: da
 header:
-  overlay_image: /assets/images/lead_original.jpg
-  teaser: /assets/images/lead_original.jpg
+  overlay_image: /assets/images/blog/10-mest-populaere-sider-i-2014.jpg
+  teaser: /assets/images/blog/10-mest-populaere-sider-i-2014.jpg
 tags:
 category:
   - Webclips
@@ -15,15 +15,15 @@ Rigtig mange har læst med i 2014. Her er en oversigt over de 10 mest læste art
 
 ### [10. Træner du dine haser?](/artikel/traener-du-dine-haser)
 
-Haserne er ofte en overset muskelgruppe. Få ideer til hvordan du træner dine haser - og hvordan det er mest effektivt? [Se træningsøvelser](http://motionsplan.dk/exercise-search?f[0]=taxonomy_vocabulary_5%3A383).
+Haserne er ofte en overset muskelgruppe. Få ideer til hvordan du træner dine haser - og hvordan det er mest effektivt? [Se træningsøvelser](/exercise-search?f[0]=taxonomy_vocabulary_5%3A383).
 
 ### [9. Træning med slynger - TRX, PowerSling, Suspension training](/artikel/træning-med-slynger-trx-powersling-suspension-training)
 
-Træning med slynger er for alle. Hvordan kommer du i gang med det? [Se øvelser](http://motionsplan.dk/exercise-search?f[0]=taxonomy_vocabulary_3%3A361).
+Træning med slynger er for alle. Hvordan kommer du i gang med det? [Se øvelser](/exercise-search?f[0]=taxonomy_vocabulary_3%3A361).
 
 ### [8. Hvordan træner man med kettlebells?](/artikel/hvordan-traener-man-med-kettlebells)
 
-Kettlebell er et rigtig godt træningsredskab, som man også let kan have derhjemme. Få tips til at komme i gang. [Se øvelser](http://motionsplan.dk/exercise-search?f[0]=taxonomy_vocabulary_3%3A116).
+Kettlebell er et rigtig godt træningsredskab, som man også let kan have derhjemme. Få tips til at komme i gang. [Se øvelser](/exercise-search?f[0]=taxonomy_vocabulary_3%3A116).
 
 ### [7. Du får ikke sixpack af maverulninger](/artikel/du-faar-ikke-sixpack-af-maverulninger)
 
@@ -35,11 +35,11 @@ Få nogle fifs til hvordan du bedst kombinerer løb og styrketræning, så du ik
 
 ### [5. Træning med kropsvægt](/artikel/traening-med-kropsvaegt)
 
-Det er fedt bare at bruge sig selv som træningsredskab. Få nogle fif. [Se øvelser](http://motionsplan.dk/exercise-search?f[0]=taxonomy_vocabulary_3%3A137).
+Det er fedt bare at bruge sig selv som træningsredskab. Få nogle fif. [Se øvelser](/exercise-search?f[0]=taxonomy_vocabulary_3%3A137).
 
 ### [4. Tabata: 4 minutters hård intervaltræning er bedre end en times moderat løb](/artikel/4-minutters-haard-intervaltraening-bedre-end-en-times-moderat-loeb)
 
-En introduktion til Tabata, som er en virkelig effektiv og tidsøkonomisk træningsform. Læs mere om [4 minutter i helvede](http://motionsplan.dk/artikel/4-minutter-i-helvede).
+En introduktion til Tabata, som er en virkelig effektiv og tidsøkonomisk træningsform. Læs mere om [4 minutter i helvede](/artikel/4-minutter-i-helvede).
 
 ### [3. Udregning af fedtprocent](/artikel/udregning-af-fedtprocent)
 

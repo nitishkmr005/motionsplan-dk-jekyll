@@ -1,7 +1,7 @@
 ---
 title: "Foamrolling inderlår"
 excerpt: ""
-redirect_from: /oevelse/foamrolling-inderlaar
+permalink: /oevelse/foamrolling-inderlaar
 language: da
 categories:
 training_type: 
@@ -12,7 +12,6 @@ equipment:
 muscle_group:
   - Forlår
 alternative_titles:
-  - 
 gallery:
 last_modified_at: 2016-10-14T11:08:11Z
 ---

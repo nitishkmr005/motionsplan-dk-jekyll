@@ -1,7 +1,7 @@
 ---
 title: "Slideboard bodysaw pushup"
 excerpt: ""
-redirect_from: /oevelse/slideboard-bodysaw-pushup
+permalink: /oevelse/slideboard-bodysaw-pushup
 language: da
 categories:
   - Kropsstamme
@@ -17,8 +17,10 @@ muscle_group:
   - Arme
   - Bryst
 alternative_titles:
-  - 
 gallery:
+video:
+  provider: youtube
+  id: HFNeMCsSfD0
 last_modified_at: 2016-10-17T21:01:23Z
 ---
 

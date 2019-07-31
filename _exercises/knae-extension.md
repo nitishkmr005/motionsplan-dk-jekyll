@@ -1,7 +1,7 @@
 ---
 title: "Knæstræk"
 excerpt: "Indstil maskinen. Stræk knæene uden at overstrække. "
-redirect_from: /oevelse/knae-extension
+permalink: /oevelse/knae-extension
 language: da
 header:
   overlay_image: /assets/images/exercises/knae-extension-0.JPG
@@ -9,7 +9,6 @@ header:
 categories:
 training_type: 
 training_focus: 
-  - 
   - knædomineret
 equipment:
   - maskine
@@ -18,11 +17,11 @@ muscle_group:
 alternative_titles:
   - Knæ extension
 gallery:
-  - url: /assets/knae-extension-0.JPG
+  - url: /assets/images/exercises/knae-extension-0.JPG
     image_path: /assets/images/exercises/knae-extension-0.JPG
     alt: "Knæstræk"
     title: "Knæstræk"
-  - url: /assets/knae-extension-1.JPG
+  - url: /assets/images/exercises/knae-extension-1.JPG
     image_path: /assets/images/exercises/knae-extension-1.JPG
     alt: "Knæstræk"
     title: "Knæstræk"

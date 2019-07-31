@@ -1,14 +1,14 @@
 ---
 title: "Military press, stang"
 excerpt: "Start med vægten på brystet. Herfra stemmes vægtstangen op til strakte arme."
-redirect_from: /oevelse/military-press
+permalink: /oevelse/military-press
 language: da
 header:
   overlay_image: /assets/images/exercises/military-press-0.jpg
   teaser: /assets/images/exercises/military-press-0.jpg
 categories:
   - Hård styrkeøvelse
-  - 
+  - <p>Primært anaerobe styrkeøvelser med maksimal intensitet. Gruppen er hovedsageligt multiledsøvelser, hvor flere muskler udfordres samtidig.</p>
 training_type: 
   - Styrketræning
 training_focus: 
@@ -21,14 +21,17 @@ muscle_group:
 alternative_titles:
   - skulderpres
 gallery:
-  - url: /assets/military-press-0.jpg
+  - url: /assets/images/exercises/military-press-0.jpg
     image_path: /assets/images/exercises/military-press-0.jpg
     alt: "Military press, stang"
     title: "Military press, stang"
-  - url: /assets/military-press-1.jpg
+  - url: /assets/images/exercises/military-press-1.jpg
     image_path: /assets/images/exercises/military-press-1.jpg
     alt: "Military press, stang"
     title: "Military press, stang"
+video:
+  provider: youtube
+  id: 0LXk_hiyr2w
 last_modified_at: 2016-10-18T07:23:32Z
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "SMR Læg"
 excerpt: ""
-redirect_from: /oevelse/smr-laeg
+permalink: /oevelse/smr-laeg
 language: da
 header:
   overlay_image: /assets/images/exercises/smr-laeg-0.jpg
@@ -14,10 +14,8 @@ equipment:
   - lacrosse bold
 muscle_group:
   - Lægge
-alternative_titles:
-  - 
 gallery:
-  - url: /assets/smr-laeg-0.jpg
+  - url: /assets/images/exercises/smr-laeg-0.jpg
     image_path: /assets/images/exercises/smr-laeg-0.jpg
     alt: "SMR Læg"
     title: "SMR Læg"

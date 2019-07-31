@@ -1,7 +1,7 @@
 ---
 title: "Contalateral toe touch"
 excerpt: ""
-redirect_from: /oevelse/contalateral-toe-touch
+permalink: /oevelse/contalateral-toe-touch
 language: da
 header:
   overlay_image: /assets/images/exercises/contalateral-toe-touch-0.jpg
@@ -19,21 +19,20 @@ muscle_group:
   - Core
   - Mave
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/contalateral-toe-touch-0.jpg
+  - url: /assets/images/exercises/contalateral-toe-touch-0.jpg
     image_path: /assets/images/exercises/contalateral-toe-touch-0.jpg
     alt: "Contalateral toe touch"
     title: "Contalateral toe touch"
-  - url: /assets/contalateral-toe-touch-1.jpg
+  - url: /assets/images/exercises/contalateral-toe-touch-1.jpg
     image_path: /assets/images/exercises/contalateral-toe-touch-1.jpg
     alt: "Contalateral toe touch"
     title: "Contalateral toe touch"
-  - url: /assets/contalateral-toe-touch-2.jpg
+  - url: /assets/images/exercises/contalateral-toe-touch-2.jpg
     image_path: /assets/images/exercises/contalateral-toe-touch-2.jpg
     alt: "Contalateral toe touch"
     title: "Contalateral toe touch"
-  - url: /assets/contalateral-toe-touch-3.jpg
+  - url: /assets/images/exercises/contalateral-toe-touch-3.jpg
     image_path: /assets/images/exercises/contalateral-toe-touch-3.jpg
     alt: "Contalateral toe touch"
     title: "Contalateral toe touch"

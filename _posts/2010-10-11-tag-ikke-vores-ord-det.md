@@ -1,10 +1,10 @@
 ---
 title: "Tag ikke vores ord for det!"
-redirect_from: /artikel/tag-ikke-vores-ord-det
+permalink: /artikel/tag-ikke-vores-ord-det
 language: da
 header:
-  overlay_image: /assets/images/running red rocks.jpg
-  teaser: /assets/images/running red rocks.jpg
+  overlay_image: /assets/images/blog/tag-ikke-vores-ord-det.jpg
+  teaser: /assets/images/blog/tag-ikke-vores-ord-det.jpg
 tags:
   - videnskab
 category:

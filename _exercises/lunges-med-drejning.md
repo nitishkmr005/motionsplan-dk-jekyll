@@ -1,7 +1,7 @@
 ---
 title: "Lunges med drejning"
 excerpt: "Hold en vægt i strakte arme i skulderhøjde. Tag et skridt fremad, mens du fører vægtskiven ud på siden af det knæ, du har længst fremme. Skub fra og før vægtskiven tilbage til udgangsstillingen "
-redirect_from: /oevelse/lunges-med-drejning
+permalink: /oevelse/lunges-med-drejning
 language: da
 header:
   overlay_image: /assets/images/exercises/lunges-med-drejning-0.jpg
@@ -13,20 +13,16 @@ training_focus:
 equipment:
   - vægtskive
 muscle_group:
-alternative_titles:
-  - rows
-  - bor
-  - bent over rows
 gallery:
-  - url: /assets/lunges-med-drejning-0.jpg
+  - url: /assets/images/exercises/lunges-med-drejning-0.jpg
     image_path: /assets/images/exercises/lunges-med-drejning-0.jpg
     alt: "Lunges med drejning"
     title: "Lunges med drejning"
-  - url: /assets/lunges-med-drejning-1.jpg
+  - url: /assets/images/exercises/lunges-med-drejning-1.jpg
     image_path: /assets/images/exercises/lunges-med-drejning-1.jpg
     alt: "Lunges med drejning"
     title: "Lunges med drejning"
-  - url: /assets/lunges-med-drejning-2.jpg
+  - url: /assets/images/exercises/lunges-med-drejning-2.jpg
     image_path: /assets/images/exercises/lunges-med-drejning-2.jpg
     alt: "Lunges med drejning"
     title: "Lunges med drejning"

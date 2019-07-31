@@ -1,7 +1,7 @@
 ---
 title: "Kommandokravl"
 excerpt: "Kommandokravl"
-redirect_from: /oevelse/kommandokravl
+permalink: /oevelse/kommandokravl
 language: da
 header:
   overlay_image: /assets/images/exercises/kommandokravl-0.jpg
@@ -11,15 +11,12 @@ training_type:
 training_focus: 
 equipment:
 muscle_group:
-alternative_titles:
-  - Bear crawl
-  - Kravl som en bjørn
 gallery:
-  - url: /assets/kommandokravl-0.jpg
+  - url: /assets/images/exercises/kommandokravl-0.jpg
     image_path: /assets/images/exercises/kommandokravl-0.jpg
     alt: "Kommandokravl"
     title: "Kommandokravl"
-  - url: /assets/kommandokravl-1.jpg
+  - url: /assets/images/exercises/kommandokravl-1.jpg
     image_path: /assets/images/exercises/kommandokravl-1.jpg
     alt: "Kommandokravl"
     title: "Kommandokravl"

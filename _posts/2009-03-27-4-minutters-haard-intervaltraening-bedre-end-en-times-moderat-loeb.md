@@ -1,10 +1,10 @@
 ---
 title: "Tabata: 4 minutters hård intervaltræning bedre end en times moderat løb"
-redirect_from: /artikel/4-minutters-haard-intervaltraening-bedre-end-en-times-moderat-loeb
+permalink: /artikel/4-minutters-haard-intervaltraening-bedre-end-en-times-moderat-loeb
 language: da
 header:
-  overlay_image: /assets/images/Fitness_Jennifer_Gym-17237 (1).jpg
-  teaser: /assets/images/Fitness_Jennifer_Gym-17237 (1).jpg
+  overlay_image: /assets/images/blog/4-minutters-haard-intervaltraening-bedre-end-en-times-moderat-loeb.jpg
+  teaser: /assets/images/blog/4-minutters-haard-intervaltraening-bedre-end-en-times-moderat-loeb.jpg
 tags:
   - udholdenhed
   - træning
@@ -41,7 +41,7 @@ Man skal være opmærksom på at de største forbedringer skete inden for de fø
 
 Det er tilsyneladende mere effektivt at arbejde med høj intensitet gennem hele træningen. Med Tabatas intervaller kan du nøjes med 14 minutters træning inklusiv opvarmning og nedvarmning og få en bedre effekt en en times træning med moderat intensitet.
 
-Det er gode nyheder for dem der har travlt, og her kan du læse [flere gode råd til, hvordan du kommer i gang med tabata-intervaller](http://motionsplan.dk/artikel/4-minutter-i-helvede).
+Det er gode nyheder for dem der har travlt, og her kan du læse [flere gode råd til, hvordan du kommer i gang med tabata-intervaller](/artikel/4-minutter-i-helvede).
 
 ### Referencer
 

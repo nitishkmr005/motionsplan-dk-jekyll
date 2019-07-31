@@ -1,7 +1,7 @@
 ---
 title: "Benpres"
 excerpt: "Juster maskinen så den passer til dig. Du skal kunne holde hele foden i under hele bevægelsen. Stræk benene uden at overstrække. Bøj langsomt benene igen."
-redirect_from: /oevelse/benpres
+permalink: /oevelse/benpres
 language: da
 header:
   overlay_image: /assets/images/exercises/benpres-0.JPG
@@ -16,19 +16,16 @@ equipment:
   - maskine
 muscle_group:
   - Forlår
-alternative_titles:
-  - Lænd på bænk
-  - Hyper extension
 gallery:
-  - url: /assets/benpres-0.JPG
+  - url: /assets/images/exercises/benpres-0.JPG
     image_path: /assets/images/exercises/benpres-0.JPG
     alt: "Benpres"
     title: "Benpres"
-  - url: /assets/benpres-1.JPG
+  - url: /assets/images/exercises/benpres-1.JPG
     image_path: /assets/images/exercises/benpres-1.JPG
     alt: "Benpres"
     title: "Benpres"
-  - url: /assets/benpres-2.JPG
+  - url: /assets/images/exercises/benpres-2.JPG
     image_path: /assets/images/exercises/benpres-2.JPG
     alt: "Benpres"
     title: "Benpres"

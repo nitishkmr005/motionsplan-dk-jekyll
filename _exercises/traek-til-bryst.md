@@ -1,7 +1,7 @@
 ---
 title: "Træk til bryst"
 excerpt: "Sæt dig i maskinen med et naturligt lændesvaj. Træk stangen ned til brystet. Kontrolleret tilbage til udgangspositionen."
-redirect_from: /oevelse/traek-til-bryst
+permalink: /oevelse/traek-til-bryst
 language: da
 header:
   overlay_image: /assets/images/exercises/traek-til-bryst-0.JPG
@@ -20,14 +20,17 @@ muscle_group:
 alternative_titles:
   - Pull down
 gallery:
-  - url: /assets/traek-til-bryst-0.JPG
+  - url: /assets/images/exercises/traek-til-bryst-0.JPG
     image_path: /assets/images/exercises/traek-til-bryst-0.JPG
     alt: "Træk til bryst"
     title: "Træk til bryst"
-  - url: /assets/traek-til-bryst-1.JPG
+  - url: /assets/images/exercises/traek-til-bryst-1.JPG
     image_path: /assets/images/exercises/traek-til-bryst-1.JPG
     alt: "Træk til bryst"
     title: "Træk til bryst"
+video:
+  provider: vimeo
+  id: 5046208
 last_modified_at: 2014-10-12T19:22:35Z
 ---
 

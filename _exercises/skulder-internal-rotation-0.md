@@ -1,14 +1,14 @@
 ---
 title: "Skulder, internal rotation"
 excerpt: ""
-redirect_from: /oevelse/skulder-internal-rotation-0
+permalink: /oevelse/skulder-internal-rotation-0
 language: da
 header:
   overlay_image: /assets/images/exercises/skulder-internal-rotation-0-0.jpg
   teaser: /assets/images/exercises/skulder-internal-rotation-0-0.jpg
 categories:
   - Koordination og balance
-  - 
+  - <p>Kombinationsøvelser med fokus på stabilitet, koordination og balancetræning. Her vælges gerne teknisk komplicerede øvelser, som udfordrer kropsstammen.</p>
 training_type: 
   - Styrketræning
 training_focus: 
@@ -17,14 +17,12 @@ equipment:
   - kettlebell
 muscle_group:
   - Skuldre
-alternative_titles:
-  - 
 gallery:
-  - url: /assets/skulder-internal-rotation-0-0.jpg
+  - url: /assets/images/exercises/skulder-internal-rotation-0-0.jpg
     image_path: /assets/images/exercises/skulder-internal-rotation-0-0.jpg
     alt: "Skulder, internal rotation"
     title: "Skulder, internal rotation"
-  - url: /assets/skulder-internal-rotation-0-1.jpg
+  - url: /assets/images/exercises/skulder-internal-rotation-0-1.jpg
     image_path: /assets/images/exercises/skulder-internal-rotation-0-1.jpg
     alt: "Skulder, internal rotation"
     title: "Skulder, internal rotation"

@@ -1,33 +1,32 @@
 ---
 title: "Bird dog"
 excerpt: "Start med at hvile på knæ og arme. Løft den ene arm og modsatte fod indtil begge er parallelle med gulvet. Lav bevægelsen uden at vride i hoften. Sænk igen. Gentag med modsatte arm og ben."
-redirect_from: /oevelse/birddog
+permalink: /oevelse/birddog
 language: da
 header:
   overlay_image: /assets/images/exercises/birddog-0.JPG
   teaser: /assets/images/exercises/birddog-0.JPG
 categories:
   - Koordination og balance
-  - 
+  - <p>Kombinationsøvelser med fokus på stabilitet, koordination og balancetræning. Her vælges gerne teknisk komplicerede øvelser, som udfordrer kropsstammen.</p>
 training_type: 
 training_focus: 
   - kropsstamme
-  - 
 equipment:
   - kropsvægt
 muscle_group:
 alternative_titles:
   - birddog
 gallery:
-  - url: /assets/birddog-0.JPG
+  - url: /assets/images/exercises/birddog-0.JPG
     image_path: /assets/images/exercises/birddog-0.JPG
     alt: "Bird dog"
     title: "Bird dog"
-  - url: /assets/birddog-1.JPG
+  - url: /assets/images/exercises/birddog-1.JPG
     image_path: /assets/images/exercises/birddog-1.JPG
     alt: "Bird dog"
     title: "Bird dog"
-  - url: /assets/birddog-2.JPG
+  - url: /assets/images/exercises/birddog-2.JPG
     image_path: /assets/images/exercises/birddog-2.JPG
     alt: "Bird dog"
     title: "Bird dog"

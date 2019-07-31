@@ -1,7 +1,7 @@
 ---
 title: "Thrusters"
 excerpt: "Hold vægtene i hænderne og lad dem hvile i brysthøjde. Lav en dyb benbøjning. Rejs dig igen. Stræk armene op over hovedet."
-redirect_from: /oevelse/thrusters
+permalink: /oevelse/thrusters
 language: da
 header:
   overlay_image: /assets/images/exercises/thrusters-0.jpg
@@ -18,10 +18,8 @@ muscle_group:
   - Baller
   - Forlår
   - Skuldre
-alternative_titles:
-  - Reb
 gallery:
-  - url: /assets/thrusters-0.jpg
+  - url: /assets/images/exercises/thrusters-0.jpg
     image_path: /assets/images/exercises/thrusters-0.jpg
     alt: "Thrusters"
     title: "Thrusters"

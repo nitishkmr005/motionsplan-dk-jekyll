@@ -1,10 +1,10 @@
 ---
 title: "Jeg vil tage mange armstrækninger?"
-redirect_from: /artikel/jeg-vil-tage-mange-armstraekninger
+permalink: /artikel/jeg-vil-tage-mange-armstraekninger
 language: da
 header:
-  overlay_image: /assets/images/pushup.jpg
-  teaser: /assets/images/pushup.jpg
+  overlay_image: /assets/images/blog/jeg-vil-tage-mange-armstraekninger.jpg
+  teaser: /assets/images/blog/jeg-vil-tage-mange-armstraekninger.jpg
 tags:
   - styrketræning
   - udholdenhed

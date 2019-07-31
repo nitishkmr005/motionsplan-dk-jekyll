@@ -1,10 +1,10 @@
 ---
 title: "Træn din alder"
-redirect_from: /artikel/træn-din-alder
+permalink: /artikel/træn-din-alder
 language: da
 header:
-  overlay_image: /assets/images/older-fit-man.jpg
-  teaser: /assets/images/older-fit-man.jpg
+  overlay_image: /assets/images/blog/træn-din-alder.jpg
+  teaser: /assets/images/blog/træn-din-alder.jpg
 tags:
 category:
   - Styrketræning
@@ -15,7 +15,7 @@ Desto ældre man bliver, desto mere brug for træning har man for at holde sin k
 
 ### Hvilke øvelser kan jeg lave?
 
-Du kan vælge de øvelser, du synes bedst om. Det er dog smart at følge vores vejledning til, [hvad der bør være i et træningsprogram, hvor man træner hele kroppen](http://motionsplan.dk/artikel/hvordan-opbygger-jeg-et-helkropsprogram). Vi har lavet et [forslag til et træningsprogram for de stærke](http://motionsplan.dk/program/tr%C3%A6n-din-alder), som du kan træne mindst tre gange om ugen.
+Du kan vælge de øvelser, du synes bedst om. Det er dog smart at følge vores vejledning til, [hvad der bør være i et træningsprogram, hvor man træner hele kroppen](/artikel/hvordan-opbygger-jeg-et-helkropsprogram). Vi har lavet et [forslag til et træningsprogram for de stærke](/program/tr%C3%A6n-din-alder), som du kan træne mindst tre gange om ugen.
 
 Hvad synes du?
 --------------

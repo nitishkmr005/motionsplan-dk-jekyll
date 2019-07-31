@@ -1,10 +1,10 @@
 ---
 title: "Fordele og ulemper ved ens træning"
-redirect_from: /artikel/fordele-og-ulemper-ved-ens-traening
+permalink: /artikel/fordele-og-ulemper-ved-ens-traening
 language: da
 header:
-  overlay_image: /assets/images/2013_Olympia_Pro_Powerlifting.jpg
-  teaser: /assets/images/2013_Olympia_Pro_Powerlifting.jpg
+  overlay_image: /assets/images/blog/fordele-og-ulemper-ved-ens-traening.jpg
+  teaser: /assets/images/blog/fordele-og-ulemper-ved-ens-traening.jpg
 tags:
   - webclips
 category:

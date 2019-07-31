@@ -1,7 +1,7 @@
 ---
 title: "One arm overhead press"
 excerpt: ""
-redirect_from: /oevelse/one-arm-overhead-press
+permalink: /oevelse/one-arm-overhead-press
 language: da
 header:
   overlay_image: /assets/images/exercises/one-arm-overhead-press-0.jpg
@@ -18,13 +18,12 @@ muscle_group:
   - Arme
   - Skuldre
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/one-arm-overhead-press-0.jpg
+  - url: /assets/images/exercises/one-arm-overhead-press-0.jpg
     image_path: /assets/images/exercises/one-arm-overhead-press-0.jpg
     alt: "One arm overhead press"
     title: "One arm overhead press"
-  - url: /assets/one-arm-overhead-press-1.jpg
+  - url: /assets/images/exercises/one-arm-overhead-press-1.jpg
     image_path: /assets/images/exercises/one-arm-overhead-press-1.jpg
     alt: "One arm overhead press"
     title: "One arm overhead press"

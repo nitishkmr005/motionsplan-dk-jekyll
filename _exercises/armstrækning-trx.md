@@ -1,7 +1,7 @@
 ---
 title: "Armstrækning TRX "
 excerpt: "Start med strakt krop og strakte arme i TRX'en. Sænk dig derefter ned mod gulvet og stræk armene igen. Hold kroppen ret gennem hele øvelsen. "
-redirect_from: /oevelse/armstrækning-trx
+permalink: /oevelse/armstrækning-trx
 language: da
 header:
   overlay_image: /assets/images/exercises/armstrækning-trx-0.jpg
@@ -13,14 +13,12 @@ training_focus:
 equipment:
   - trx
 muscle_group:
-alternative_titles:
-  - tuck jump
 gallery:
-  - url: /assets/armstrækning-trx-0.jpg
+  - url: /assets/images/exercises/armstrækning-trx-0.jpg
     image_path: /assets/images/exercises/armstrækning-trx-0.jpg
     alt: "Armstrækning TRX "
     title: "Armstrækning TRX "
-  - url: /assets/armstrækning-trx-1.jpg
+  - url: /assets/images/exercises/armstrækning-trx-1.jpg
     image_path: /assets/images/exercises/armstrækning-trx-1.jpg
     alt: "Armstrækning TRX "
     title: "Armstrækning TRX "

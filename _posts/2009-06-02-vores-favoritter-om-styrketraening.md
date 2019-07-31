@@ -1,10 +1,10 @@
 ---
 title: "Vores favoritter om styrketræning"
-redirect_from: /artikel/vores-favoritter-om-styrketraening
+permalink: /artikel/vores-favoritter-om-styrketraening
 language: da
 header:
-  overlay_image: /assets/images/Screenshot.png
-  teaser: /assets/images/Screenshot.png
+  overlay_image: /assets/images/blog/vores-favoritter-om-styrketraening.png
+  teaser: /assets/images/blog/vores-favoritter-om-styrketraening.png
 tags:
   - webclips
 category:

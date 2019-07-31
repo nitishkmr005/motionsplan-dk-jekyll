@@ -1,7 +1,7 @@
 ---
 title: "Stepup med spring"
 excerpt: "Stepup er, hvor du træder op på en bænk."
-redirect_from: /oevelse/stepup
+permalink: /oevelse/stepup
 language: da
 header:
   overlay_image: /assets/images/exercises/stepup-0.jpg
@@ -11,30 +11,28 @@ training_type:
 training_focus: 
 equipment:
 muscle_group:
-alternative_titles:
-  - deadlift
 gallery:
-  - url: /assets/stepup-0.jpg
+  - url: /assets/images/exercises/stepup-0.jpg
     image_path: /assets/images/exercises/stepup-0.jpg
     alt: "Stepup med spring"
     title: "Stepup med spring"
-  - url: /assets/stepup-1.jpg
+  - url: /assets/images/exercises/stepup-1.jpg
     image_path: /assets/images/exercises/stepup-1.jpg
     alt: "Stepup med spring"
     title: "Stepup med spring"
-  - url: /assets/stepup-2.jpg
+  - url: /assets/images/exercises/stepup-2.jpg
     image_path: /assets/images/exercises/stepup-2.jpg
     alt: "Stepup med spring"
     title: "Stepup med spring"
-  - url: /assets/stepup-3.jpg
+  - url: /assets/images/exercises/stepup-3.jpg
     image_path: /assets/images/exercises/stepup-3.jpg
     alt: "Stepup med spring"
     title: "Stepup med spring"
-  - url: /assets/stepup-4.jpg
+  - url: /assets/images/exercises/stepup-4.jpg
     image_path: /assets/images/exercises/stepup-4.jpg
     alt: "Stepup med spring"
     title: "Stepup med spring"
-  - url: /assets/stepup-5.jpg
+  - url: /assets/images/exercises/stepup-5.jpg
     image_path: /assets/images/exercises/stepup-5.jpg
     alt: "Stepup med spring"
     title: "Stepup med spring"

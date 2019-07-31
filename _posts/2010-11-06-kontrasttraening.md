@@ -1,10 +1,10 @@
 ---
 title: "Kontrasttræning - for eksplosiv power"
-redirect_from: /artikel/kontrasttraening
+permalink: /artikel/kontrasttraening
 language: da
 header:
-  overlay_image: /assets/images/strengthroom2.jpg
-  teaser: /assets/images/strengthroom2.jpg
+  overlay_image: /assets/images/blog/kontrasttraening.jpg
+  teaser: /assets/images/blog/kontrasttraening.jpg
 tags:
   - styrketræning
 category:

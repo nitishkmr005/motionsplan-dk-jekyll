@@ -1,7 +1,7 @@
 ---
 title: "Tabata-intervaller"
 excerpt: "20 sekunders arbejde med 170% VO2max efterfulgt af 10 sekunders pause. Gentag 6-8 gange. I alt 4 minutters træning."
-redirect_from: /oevelse/tabata-intervaller
+permalink: /oevelse/tabata-intervaller
 language: da
 header:
   overlay_image: /assets/images/exercises/tabata-intervaller-0.jpg
@@ -12,10 +12,8 @@ training_type:
 training_focus: 
 equipment:
 muscle_group:
-alternative_titles:
-  - overhead lunges
 gallery:
-  - url: /assets/tabata-intervaller-0.jpg
+  - url: /assets/images/exercises/tabata-intervaller-0.jpg
     image_path: /assets/images/exercises/tabata-intervaller-0.jpg
     alt: "Tabata-intervaller"
     title: "Tabata-intervaller"
@@ -27,4 +25,4 @@ Sørg for at varme grundigt op inden disse intervaller. Intervallerne er korte, 
 - Arbejde i 20 sekunder med en belastning der ligger omkring 170% VO2max
 - Hvile i 10 sekunder Gentag intervallerne 7-8 gange.
 
-Derefter nedvarmer du. Hvis du udfører det træningsprogram 5 gange om ugen, vil du efter seks uger se en signifikant fremgang i både din maksimale iltoptagelse og din sprintudholdenhed i forhold til at løbe en en time på 70% af VO2max. Læs mere under i artiklen [4 minutters hård intervaltræning er bedre end en times moderat løb](http://motionsplan.dk/artikel/4-minutters-h-rd-intervaltr-ning-bedre-end-en-times-moderat-l-b).
+Derefter nedvarmer du. Hvis du udfører det træningsprogram 5 gange om ugen, vil du efter seks uger se en signifikant fremgang i både din maksimale iltoptagelse og din sprintudholdenhed i forhold til at løbe en en time på 70% af VO2max. Læs mere under i artiklen [4 minutters hård intervaltræning er bedre end en times moderat løb](/artikel/4-minutters-h-rd-intervaltr-ning-bedre-end-en-times-moderat-l-b).

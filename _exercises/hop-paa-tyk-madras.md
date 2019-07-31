@@ -1,14 +1,14 @@
 ---
 title: "Hop på tyk madras"
 excerpt: "Stil dig i en madras og hop så højt du kan ved hvert hop."
-redirect_from: /oevelse/hop-paa-tyk-madras
+permalink: /oevelse/hop-paa-tyk-madras
 language: da
 header:
   overlay_image: /assets/images/exercises/hop-paa-tyk-madras-0.jpg
   teaser: /assets/images/exercises/hop-paa-tyk-madras-0.jpg
 categories:
   - Kondition og puls
-  - 
+  - <p>Primært fokus på kredsløbstræning, som giver høj puls og belaster det aerobe system maksimalt.</p>
 training_type: 
   - Kondition
 training_focus: 
@@ -18,15 +18,8 @@ equipment:
 muscle_group:
   - Baller
   - Forlår
-alternative_titles:
-  - Triceps pushdown
-  - Pushdown
-  - cable pushdown
-  - triceps pulldown
-  - triceps rope extension
-  - albuestræk kabel
 gallery:
-  - url: /assets/hop-paa-tyk-madras-0.jpg
+  - url: /assets/images/exercises/hop-paa-tyk-madras-0.jpg
     image_path: /assets/images/exercises/hop-paa-tyk-madras-0.jpg
     alt: "Hop på tyk madras"
     title: "Hop på tyk madras"

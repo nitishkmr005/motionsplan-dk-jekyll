@@ -1,7 +1,7 @@
 ---
 title: "Cykelmaveøvelse"
 excerpt: "Lig på ryggen. Hænderne bag nakken. Kør skiftevis albuen hen til knæet i modsatte side, mens du cykler med benene."
-redirect_from: /oevelse/cykelmaveoevelse
+permalink: /oevelse/cykelmaveoevelse
 language: da
 header:
   overlay_image: /assets/images/exercises/cykelmaveoevelse-0.jpg
@@ -11,17 +11,12 @@ training_type:
 training_focus: 
 equipment:
 muscle_group:
-alternative_titles:
-  - Laterals
-  - Lateral raise
-  - Skuldersideløft
-  - Sideløft håndvægte
 gallery:
-  - url: /assets/cykelmaveoevelse-0.jpg
+  - url: /assets/images/exercises/cykelmaveoevelse-0.jpg
     image_path: /assets/images/exercises/cykelmaveoevelse-0.jpg
     alt: "Cykelmaveøvelse"
     title: "Cykelmaveøvelse"
-  - url: /assets/cykelmaveoevelse-1.jpg
+  - url: /assets/images/exercises/cykelmaveoevelse-1.jpg
     image_path: /assets/images/exercises/cykelmaveoevelse-1.jpg
     alt: "Cykelmaveøvelse"
     title: "Cykelmaveøvelse"

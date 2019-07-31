@@ -2,7 +2,7 @@
 title: "Reaktionsøvelse"
 excerpt: "Lig på maven og kom om på ryggen og tilbage igen ved at føre benene gennem armene.
 "
-redirect_from: /oevelse/reaktionsoevelse
+permalink: /oevelse/reaktionsoevelse
 language: da
 header:
   overlay_image: /assets/images/exercises/reaktionsoevelse-0.JPG
@@ -11,19 +11,15 @@ categories:
 training_type: 
   - Kondition
 training_focus: 
-  - 
 equipment:
   - kropsvægt
 muscle_group:
-alternative_titles:
-  - Albuebøj i kabel
-  - albuebøj
 gallery:
-  - url: /assets/reaktionsoevelse-0.JPG
+  - url: /assets/images/exercises/reaktionsoevelse-0.JPG
     image_path: /assets/images/exercises/reaktionsoevelse-0.JPG
     alt: "Reaktionsøvelse"
     title: "Reaktionsøvelse"
-  - url: /assets/reaktionsoevelse-1.JPG
+  - url: /assets/images/exercises/reaktionsoevelse-1.JPG
     image_path: /assets/images/exercises/reaktionsoevelse-1.JPG
     alt: "Reaktionsøvelse"
     title: "Reaktionsøvelse"

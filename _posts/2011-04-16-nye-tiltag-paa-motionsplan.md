@@ -1,10 +1,10 @@
 ---
 title: "Nye tiltag på motionsplan"
-redirect_from: /artikel/nye-tiltag-paa-motionsplan
+permalink: /artikel/nye-tiltag-paa-motionsplan
 language: da
 header:
-  overlay_image: /assets/images/Screenshot_0.png
-  teaser: /assets/images/Screenshot_0.png
+  overlay_image: /assets/images/blog/nye-tiltag-paa-motionsplan.png
+  teaser: /assets/images/blog/nye-tiltag-paa-motionsplan.png
 tags:
   - website
   - 
@@ -25,9 +25,4 @@ Vi har haft travlt den seneste uges tid på motionsplan.dk. Her er nogle af de t
 Forslag?
 --------
 
-Hvis du har forslag til øvelser eller artikler, så er du meget velkommen til at skrive til os på [info@motionsplan.dk](mailto:info@motionsplan.dk) eller skrive en kommentar til denne artikel.
-
-Vil du give din mening til kende?
----------------------------------
-
-Loading...
+Hvis du har forslag til øvelser eller artikler, så er du meget velkommen til at skrive til os på [{{ site.email }}](mailto:{{ site.email }}) eller skrive en kommentar til denne artikel.

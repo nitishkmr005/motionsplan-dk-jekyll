@@ -1,10 +1,10 @@
 ---
 title: "Low hanging food"
-redirect_from: /artikel/low-hanging-food
+permalink: /artikel/low-hanging-food
 language: da
 header:
-  overlay_image: /assets/images/broccoli-sauteing.jpg
-  teaser: /assets/images/broccoli-sauteing.jpg
+  overlay_image: /assets/images/blog/low-hanging-food.jpg
+  teaser: /assets/images/blog/low-hanging-food.jpg
 tags:
 category:
   - Ernæring

@@ -1,10 +1,10 @@
 ---
 title: "Du bliver smidigere af at strække"
-redirect_from: /artikel/du-bliver-smidigere-af-straekke
+permalink: /artikel/du-bliver-smidigere-af-straekke
 language: da
 header:
-  overlay_image: /assets/images/man-stretching.jpg
-  teaser: /assets/images/man-stretching.jpg
+  overlay_image: /assets/images/blog/du-bliver-smidigere-af-straekke.jpg
+  teaser: /assets/images/blog/du-bliver-smidigere-af-straekke.jpg
 tags:
   - udspænding
   - udstrækning

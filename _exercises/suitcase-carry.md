@@ -1,7 +1,7 @@
 ---
 title: "Suitcase carry"
 excerpt: ""
-redirect_from: /oevelse/suitcase-carry
+permalink: /oevelse/suitcase-carry
 language: da
 categories:
 training_type: 
@@ -9,8 +9,10 @@ training_focus:
 equipment:
 muscle_group:
 alternative_titles:
-  - 
 gallery:
+video:
+  provider: youtube
+  id: FyK-synJ9fs
 last_modified_at: 2016-10-31T09:36:12Z
 ---
 

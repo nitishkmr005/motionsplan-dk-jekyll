@@ -1,14 +1,14 @@
 ---
 title: "Halo med kettlebell"
 excerpt: ""
-redirect_from: /oevelse/halo-med-kettlebell
+permalink: /oevelse/halo-med-kettlebell
 language: da
 header:
   overlay_image: /assets/images/exercises/halo-med-kettlebell-0.jpg
   teaser: /assets/images/exercises/halo-med-kettlebell-0.jpg
 categories:
   - Koordination og balance
-  - 
+  - <p>Kombinationsøvelser med fokus på stabilitet, koordination og balancetræning. Her vælges gerne teknisk komplicerede øvelser, som udfordrer kropsstammen.</p>
 training_type: 
   - Styrketræning
 training_focus: 
@@ -19,25 +19,24 @@ muscle_group:
   - Mave
   - Skuldre
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/halo-med-kettlebell-0.jpg
+  - url: /assets/images/exercises/halo-med-kettlebell-0.jpg
     image_path: /assets/images/exercises/halo-med-kettlebell-0.jpg
     alt: "Halo med kettlebell"
     title: "Halo med kettlebell"
-  - url: /assets/halo-med-kettlebell-1.jpg
+  - url: /assets/images/exercises/halo-med-kettlebell-1.jpg
     image_path: /assets/images/exercises/halo-med-kettlebell-1.jpg
     alt: "Halo med kettlebell"
     title: "Halo med kettlebell"
-  - url: /assets/halo-med-kettlebell-2.jpg
+  - url: /assets/images/exercises/halo-med-kettlebell-2.jpg
     image_path: /assets/images/exercises/halo-med-kettlebell-2.jpg
     alt: "Halo med kettlebell"
     title: "Halo med kettlebell"
-  - url: /assets/halo-med-kettlebell-3.jpg
+  - url: /assets/images/exercises/halo-med-kettlebell-3.jpg
     image_path: /assets/images/exercises/halo-med-kettlebell-3.jpg
     alt: "Halo med kettlebell"
     title: "Halo med kettlebell"
-  - url: /assets/halo-med-kettlebell-4.jpg
+  - url: /assets/images/exercises/halo-med-kettlebell-4.jpg
     image_path: /assets/images/exercises/halo-med-kettlebell-4.jpg
     alt: "Halo med kettlebell"
     title: "Halo med kettlebell"

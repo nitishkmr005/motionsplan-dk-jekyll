@@ -1,10 +1,10 @@
 ---
 title: "Endomondo - din motivation?"
-redirect_from: /artikel/endomondo-din-motivation
+permalink: /artikel/endomondo-din-motivation
 language: da
 header:
-  overlay_image: /assets/images/endomondo_website.jpg
-  teaser: /assets/images/endomondo_website.jpg
+  overlay_image: /assets/images/blog/endomondo-din-motivation.jpg
+  teaser: /assets/images/blog/endomondo-din-motivation.jpg
 tags:
   - webclips
   - website

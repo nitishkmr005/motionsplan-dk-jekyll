@@ -1,7 +1,7 @@
 ---
 title: "Medicinbold slams"
 excerpt: ""
-redirect_from: /oevelse/medicinbold-slams
+permalink: /oevelse/medicinbold-slams
 language: da
 header:
   overlay_image: /assets/images/exercises/medicinbold-slams-0.jpg
@@ -20,21 +20,20 @@ muscle_group:
   - Core
   - Mave
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/medicinbold-slams-0.jpg
+  - url: /assets/images/exercises/medicinbold-slams-0.jpg
     image_path: /assets/images/exercises/medicinbold-slams-0.jpg
     alt: "Medicinbold slams"
     title: "Medicinbold slams"
-  - url: /assets/medicinbold-slams-1.jpg
+  - url: /assets/images/exercises/medicinbold-slams-1.jpg
     image_path: /assets/images/exercises/medicinbold-slams-1.jpg
     alt: "Medicinbold slams"
     title: "Medicinbold slams"
-  - url: /assets/medicinbold-slams-2.jpg
+  - url: /assets/images/exercises/medicinbold-slams-2.jpg
     image_path: /assets/images/exercises/medicinbold-slams-2.jpg
     alt: "Medicinbold slams"
     title: "Medicinbold slams"
-  - url: /assets/medicinbold-slams-3.jpg
+  - url: /assets/images/exercises/medicinbold-slams-3.jpg
     image_path: /assets/images/exercises/medicinbold-slams-3.jpg
     alt: "Medicinbold slams"
     title: "Medicinbold slams"

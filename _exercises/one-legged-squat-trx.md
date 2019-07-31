@@ -1,7 +1,7 @@
 ---
 title: "One-legged squat in TRX"
 excerpt: ""
-redirect_from: /oevelse/one-legged-squat-trx
+permalink: /oevelse/one-legged-squat-trx
 language: da
 header:
   overlay_image: /assets/images/exercises/one-legged-squat-trx-0.jpg
@@ -15,22 +15,20 @@ equipment:
 muscle_group:
   - Baller
   - Forlår
-alternative_titles:
-  - 
 gallery:
-  - url: /assets/one-legged-squat-trx-0.jpg
+  - url: /assets/images/exercises/one-legged-squat-trx-0.jpg
     image_path: /assets/images/exercises/one-legged-squat-trx-0.jpg
     alt: "One-legged squat in TRX"
     title: "One-legged squat in TRX"
-  - url: /assets/one-legged-squat-trx-1.jpg
+  - url: /assets/images/exercises/one-legged-squat-trx-1.jpg
     image_path: /assets/images/exercises/one-legged-squat-trx-1.jpg
     alt: "One-legged squat in TRX"
     title: "One-legged squat in TRX"
-  - url: /assets/one-legged-squat-trx-2.jpg
+  - url: /assets/images/exercises/one-legged-squat-trx-2.jpg
     image_path: /assets/images/exercises/one-legged-squat-trx-2.jpg
     alt: "One-legged squat in TRX"
     title: "One-legged squat in TRX"
-  - url: /assets/one-legged-squat-trx-3.jpg
+  - url: /assets/images/exercises/one-legged-squat-trx-3.jpg
     image_path: /assets/images/exercises/one-legged-squat-trx-3.jpg
     alt: "One-legged squat in TRX"
     title: "One-legged squat in TRX"

@@ -1,7 +1,7 @@
 ---
 title: "Turkish getup"
 excerpt: "Lig på ryggen. Hold en vægt i strakt arm. Herfra skal du rejse dig op, mens du holder vægten over hovedet i strakt arm hele tiden. Læg dig ned igen."
-redirect_from: /oevelse/turkish-getup
+permalink: /oevelse/turkish-getup
 language: da
 header:
   overlay_image: /assets/images/exercises/turkish-getup-0.jpg
@@ -23,42 +23,45 @@ muscle_group:
 alternative_titles:
   - Turkish delight
 gallery:
-  - url: /assets/turkish-getup-0.jpg
+  - url: /assets/images/exercises/turkish-getup-0.jpg
     image_path: /assets/images/exercises/turkish-getup-0.jpg
     alt: "Turkish getup"
     title: "Turkish getup"
-  - url: /assets/turkish-getup-1.jpg
+  - url: /assets/images/exercises/turkish-getup-1.jpg
     image_path: /assets/images/exercises/turkish-getup-1.jpg
     alt: "Turkish getup"
     title: "Turkish getup"
-  - url: /assets/turkish-getup-2.jpg
+  - url: /assets/images/exercises/turkish-getup-2.jpg
     image_path: /assets/images/exercises/turkish-getup-2.jpg
     alt: "Turkish getup"
     title: "Turkish getup"
-  - url: /assets/turkish-getup-3.jpg
+  - url: /assets/images/exercises/turkish-getup-3.jpg
     image_path: /assets/images/exercises/turkish-getup-3.jpg
     alt: "Turkish getup"
     title: "Turkish getup"
-  - url: /assets/turkish-getup-4.jpg
+  - url: /assets/images/exercises/turkish-getup-4.jpg
     image_path: /assets/images/exercises/turkish-getup-4.jpg
     alt: "Turkish getup"
     title: "Turkish getup"
-  - url: /assets/turkish-getup-5.jpg
+  - url: /assets/images/exercises/turkish-getup-5.jpg
     image_path: /assets/images/exercises/turkish-getup-5.jpg
     alt: "Turkish getup"
     title: "Turkish getup"
-  - url: /assets/turkish-getup-6.jpg
+  - url: /assets/images/exercises/turkish-getup-6.jpg
     image_path: /assets/images/exercises/turkish-getup-6.jpg
     alt: "Turkish getup"
     title: "Turkish getup"
-  - url: /assets/turkish-getup-7.jpg
+  - url: /assets/images/exercises/turkish-getup-7.jpg
     image_path: /assets/images/exercises/turkish-getup-7.jpg
     alt: "Turkish getup"
     title: "Turkish getup"
-  - url: /assets/turkish-getup-8.jpg
+  - url: /assets/images/exercises/turkish-getup-8.jpg
     image_path: /assets/images/exercises/turkish-getup-8.jpg
     alt: "Turkish getup"
     title: "Turkish getup"
+video:
+  provider: youtube
+  id: B4Q9mxjhMy8
 last_modified_at: 2015-03-09T15:28:11Z
 ---
 

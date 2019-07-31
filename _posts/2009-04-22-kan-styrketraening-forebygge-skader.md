@@ -1,10 +1,10 @@
 ---
 title: "Kan styrketræning forebygge skader? "
-redirect_from: /artikel/kan-styrketraening-forebygge-skader
+permalink: /artikel/kan-styrketraening-forebygge-skader
 language: da
 header:
-  overlay_image: /assets/images/SB_hamstring_curl.jpg
-  teaser: /assets/images/SB_hamstring_curl.jpg
+  overlay_image: /assets/images/blog/kan-styrketraening-forebygge-skader.jpg
+  teaser: /assets/images/blog/kan-styrketraening-forebygge-skader.jpg
 tags:
   - styrketræning
   - skadesforebyggelse
@@ -14,6 +14,7 @@ tags:
 category:
   - Styrketræning
 last_modified_at: 2013-02-13T22:23:01Z
+author: martin.madsen
 ---
 
 Træningsmængden er i mange sportsgrene steget markant i de sidste årtier. Det er ikke unormalt, at piger og drenge træner 4-5 gange i ugen i eksempelvis håndbold og fodbold. Denne træningsmængde og antallet af konkurrencer øges yderligere, når spillerne rykker op på seniorplan. Målet er at forbedre præstationen, men den megen træning har også en negativ konsekvens. Antallet af skader er steget og især de alvorligere skader som overrevet korsbånd og kroniske skulderproblemer har gennemgået en uheldig udvikling.

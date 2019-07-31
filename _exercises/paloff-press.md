@@ -1,7 +1,7 @@
 ---
 title: "Paloff Press"
 excerpt: ""
-redirect_from: /oevelse/paloff-press
+permalink: /oevelse/paloff-press
 language: da
 header:
   overlay_image: /assets/images/exercises/paloff-press-0.jpg
@@ -18,21 +18,22 @@ equipment:
   - kabeltræk
 muscle_group:
   - Mave
-alternative_titles:
-  - 
 gallery:
-  - url: /assets/paloff-press-0.jpg
+  - url: /assets/images/exercises/paloff-press-0.jpg
     image_path: /assets/images/exercises/paloff-press-0.jpg
     alt: "Paloff Press"
     title: "Paloff Press"
-  - url: /assets/paloff-press-1.jpg
+  - url: /assets/images/exercises/paloff-press-1.jpg
     image_path: /assets/images/exercises/paloff-press-1.jpg
     alt: "Paloff Press"
     title: "Paloff Press"
-  - url: /assets/paloff-press-2.jpg
+  - url: /assets/images/exercises/paloff-press-2.jpg
     image_path: /assets/images/exercises/paloff-press-2.jpg
     alt: "Paloff Press"
     title: "Paloff Press"
+video:
+  provider: youtube
+  id: BA-P6E6Faj8
 last_modified_at: 2015-04-10T11:53:58Z
 ---
 

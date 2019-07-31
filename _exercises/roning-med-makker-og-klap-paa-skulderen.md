@@ -1,7 +1,7 @@
 ---
 title: "Roning med makker og klap på skulderen"
 excerpt: "Den arbejdende ligger sig på ryggen, mens makkeren står oprejst ved siden af og tager fat i hans arm. Makkeren skal sørge for at stramme op i kropsstammen. Den liggende skal trække sig op og klappe den anden på skulderen."
-redirect_from: /oevelse/roning-med-makker-og-klap-paa-skulderen
+permalink: /oevelse/roning-med-makker-og-klap-paa-skulderen
 language: da
 header:
   overlay_image: /assets/images/exercises/roning-med-makker-og-klap-paa-skulderen-0.jpg
@@ -11,18 +11,18 @@ training_type:
 training_focus: 
 equipment:
 muscle_group:
-alternative_titles:
-  - Rygstræk på bold
-  - lænd på bold
 gallery:
-  - url: /assets/roning-med-makker-og-klap-paa-skulderen-0.jpg
+  - url: /assets/images/exercises/roning-med-makker-og-klap-paa-skulderen-0.jpg
     image_path: /assets/images/exercises/roning-med-makker-og-klap-paa-skulderen-0.jpg
     alt: "Roning med makker og klap på skulderen"
     title: "Roning med makker og klap på skulderen"
-  - url: /assets/roning-med-makker-og-klap-paa-skulderen-1.jpg
+  - url: /assets/images/exercises/roning-med-makker-og-klap-paa-skulderen-1.jpg
     image_path: /assets/images/exercises/roning-med-makker-og-klap-paa-skulderen-1.jpg
     alt: "Roning med makker og klap på skulderen"
     title: "Roning med makker og klap på skulderen"
+video:
+  provider: vimeo
+  id: 5072411
 last_modified_at: 2011-05-02T16:08:06Z
 ---
 

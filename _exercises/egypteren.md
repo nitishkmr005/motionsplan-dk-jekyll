@@ -1,14 +1,14 @@
 ---
 title: "Egypteren"
 excerpt: ""
-redirect_from: /oevelse/egypteren
+permalink: /oevelse/egypteren
 language: da
 header:
   overlay_image: /assets/images/exercises/egypteren-0.jpg
   teaser: /assets/images/exercises/egypteren-0.jpg
 categories:
   - Koordination og balance
-  - 
+  - <p>Kombinationsøvelser med fokus på stabilitet, koordination og balancetræning. Her vælges gerne teknisk komplicerede øvelser, som udfordrer kropsstammen.</p>
 training_type: 
   - Mobilisering
 training_focus: 
@@ -17,13 +17,12 @@ equipment:
 muscle_group:
   - Skuldre
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/egypteren-0.jpg
+  - url: /assets/images/exercises/egypteren-0.jpg
     image_path: /assets/images/exercises/egypteren-0.jpg
     alt: "Egypteren"
     title: "Egypteren"
-  - url: /assets/egypteren-1.jpg
+  - url: /assets/images/exercises/egypteren-1.jpg
     image_path: /assets/images/exercises/egypteren-1.jpg
     alt: "Egypteren"
     title: "Egypteren"

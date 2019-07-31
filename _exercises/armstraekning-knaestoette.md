@@ -1,7 +1,7 @@
 ---
 title: "Armstrækning, knæstøtte"
 excerpt: "Støt på hænder og knæ. Hold kroppen helt ret. Lav en armstrækning."
-redirect_from: /oevelse/armstraekning-knaestoette
+permalink: /oevelse/armstraekning-knaestoette
 language: da
 header:
   overlay_image: /assets/images/exercises/armstraekning-knaestoette-0.jpg
@@ -9,25 +9,21 @@ header:
 categories:
 training_type: 
 training_focus: 
-  - 
-  - 
 equipment:
   - kropsvægt
 muscle_group:
   - 
   - 
-alternative_titles:
-  - Albuestræk stang
 gallery:
-  - url: /assets/armstraekning-knaestoette-0.jpg
+  - url: /assets/images/exercises/armstraekning-knaestoette-0.jpg
     image_path: /assets/images/exercises/armstraekning-knaestoette-0.jpg
     alt: "Armstrækning, knæstøtte"
     title: "Armstrækning, knæstøtte"
-  - url: /assets/armstraekning-knaestoette-1.jpg
+  - url: /assets/images/exercises/armstraekning-knaestoette-1.jpg
     image_path: /assets/images/exercises/armstraekning-knaestoette-1.jpg
     alt: "Armstrækning, knæstøtte"
     title: "Armstrækning, knæstøtte"
-  - url: /assets/armstraekning-knaestoette-2.jpg
+  - url: /assets/images/exercises/armstraekning-knaestoette-2.jpg
     image_path: /assets/images/exercises/armstraekning-knaestoette-2.jpg
     alt: "Armstrækning, knæstøtte"
     title: "Armstrækning, knæstøtte"

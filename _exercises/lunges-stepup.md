@@ -1,7 +1,7 @@
 ---
 title: "Stepup, lunge"
 excerpt: "Stå foran bænken med skulderbreddes afstand mellem fødderne. Træd op på bænken uden at sætte af på det bagerste ben. Træd langsomt ned igen og gentag med det andet ben."
-redirect_from: /oevelse/lunges-stepup
+permalink: /oevelse/lunges-stepup
 language: da
 header:
   overlay_image: /assets/images/exercises/lunges-stepup-0.jpg
@@ -20,25 +20,20 @@ equipment:
 muscle_group:
   - Baller
   - Forlår
-alternative_titles:
-  - Laterals
-  - Lateral raise
-  - Skuldersideløft
-  - Sideløft håndvægte
 gallery:
-  - url: /assets/lunges-stepup-0.jpg
+  - url: /assets/images/exercises/lunges-stepup-0.jpg
     image_path: /assets/images/exercises/lunges-stepup-0.jpg
     alt: "Stepup, lunge"
     title: "Stepup, lunge"
-  - url: /assets/lunges-stepup-1.jpg
+  - url: /assets/images/exercises/lunges-stepup-1.jpg
     image_path: /assets/images/exercises/lunges-stepup-1.jpg
     alt: "Stepup, lunge"
     title: "Stepup, lunge"
-  - url: /assets/lunges-stepup-2.jpg
+  - url: /assets/images/exercises/lunges-stepup-2.jpg
     image_path: /assets/images/exercises/lunges-stepup-2.jpg
     alt: "Stepup, lunge"
     title: "Stepup, lunge"
-  - url: /assets/lunges-stepup-3.jpg
+  - url: /assets/images/exercises/lunges-stepup-3.jpg
     image_path: /assets/images/exercises/lunges-stepup-3.jpg
     alt: "Stepup, lunge"
     title: "Stepup, lunge"

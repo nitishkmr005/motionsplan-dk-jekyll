@@ -1,10 +1,10 @@
 ---
 title: "De fem tibetanere"
-redirect_from: /artikel/de-fem-tibetanere
+permalink: /artikel/de-fem-tibetanere
 language: da
 header:
-  overlay_image: /assets/images/The_Dalai_Lama_at_Prayer_Wallpaper__yvt2.jpg
-  teaser: /assets/images/The_Dalai_Lama_at_Prayer_Wallpaper__yvt2.jpg
+  overlay_image: /assets/images/blog/de-fem-tibetanere.jpg
+  teaser: /assets/images/blog/de-fem-tibetanere.jpg
 tags:
   - yoga
   - træning
@@ -32,11 +32,13 @@ Hvordan ser øvelserne ud til de fem riter?
 
 Der er jo ikke noget bedre end en video til at illustrere hvordan tibetanerne ser ud.
 
- Video of De 5 Tibetanere - Helle &quot;Dayal Kaur&quot; Nissen Yoga ( The 5 Tibetans use as Kundalini Yoga Warmup )
+{% include video provider="youtube" id="LWA5WHLdaaA" %}
 
 Der er også en lidt længere video her:
 
- Video of De 5 tibetanere kropsoevelser 20000508
+{% include video provider="youtube" id="x2lOypwVfKo" %}
+
+{% include video provider="youtube" id="qDAsEM1VLNk" %}
 
 Hvis du erfaringer med de fem tibetanere eller andere styrke- og smidighedsgørende øvelser, så skriv det i kommentarerne.
 

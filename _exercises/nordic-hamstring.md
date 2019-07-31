@@ -1,7 +1,7 @@
 ---
 title: "Baglår, Nordic hamstring"
 excerpt: "Sid på knæene. Fiksér underbenene. Læn dig langsomt fremover med strakt hofte. Tag fra med armene og skub dig tilbage igen, så du kan bruge haserne til at trække dig selv op igen."
-redirect_from: /oevelse/nordic-hamstring
+permalink: /oevelse/nordic-hamstring
 language: da
 header:
   overlay_image: /assets/images/exercises/nordic-hamstring-0.jpg
@@ -20,15 +20,15 @@ muscle_group:
 alternative_titles:
   - Natural glute ham
 gallery:
-  - url: /assets/nordic-hamstring-0.jpg
+  - url: /assets/images/exercises/nordic-hamstring-0.jpg
     image_path: /assets/images/exercises/nordic-hamstring-0.jpg
     alt: "Baglår, Nordic hamstring"
     title: "Baglår, Nordic hamstring"
-  - url: /assets/nordic-hamstring-1.jpg
+  - url: /assets/images/exercises/nordic-hamstring-1.jpg
     image_path: /assets/images/exercises/nordic-hamstring-1.jpg
     alt: "Baglår, Nordic hamstring"
     title: "Baglår, Nordic hamstring"
-  - url: /assets/nordic-hamstring-2.jpg
+  - url: /assets/images/exercises/nordic-hamstring-2.jpg
     image_path: /assets/images/exercises/nordic-hamstring-2.jpg
     alt: "Baglår, Nordic hamstring"
     title: "Baglår, Nordic hamstring"

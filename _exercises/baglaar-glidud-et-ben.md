@@ -1,37 +1,31 @@
 ---
 title: "Baglår, glidud et ben"
 excerpt: "Lig på ryggen. Skyd hoften op og stræk det ene ben. Med en klud under den anden fod lader du fødderne glide udad indtil kroppen er så ret som muligt. Træk dig tilbage til udgangspunktet."
-redirect_from: /oevelse/baglaar-glidud-et-ben
+permalink: /oevelse/baglaar-glidud-et-ben
 language: da
 header:
   overlay_image: /assets/images/exercises/baglaar-glidud-et-ben-0.jpg
   teaser: /assets/images/exercises/baglaar-glidud-et-ben-0.jpg
 categories:
   - Koordination og balance
-  - 
+  - <p>Kombinationsøvelser med fokus på stabilitet, koordination og balancetræning. Her vælges gerne teknisk komplicerede øvelser, som udfordrer kropsstammen.</p>
 training_type: 
 training_focus: 
-  - 
   - hoftedomineret
-  - 
 equipment:
   - kropsvægt
   - klud
 muscle_group:
-alternative_titles:
-  - Stående curl
-  - albuebøj håndvægte
-  - albuebøj
 gallery:
-  - url: /assets/baglaar-glidud-et-ben-0.jpg
+  - url: /assets/images/exercises/baglaar-glidud-et-ben-0.jpg
     image_path: /assets/images/exercises/baglaar-glidud-et-ben-0.jpg
     alt: "Baglår, glidud et ben"
     title: "Baglår, glidud et ben"
-  - url: /assets/baglaar-glidud-et-ben-1.jpg
+  - url: /assets/images/exercises/baglaar-glidud-et-ben-1.jpg
     image_path: /assets/images/exercises/baglaar-glidud-et-ben-1.jpg
     alt: "Baglår, glidud et ben"
     title: "Baglår, glidud et ben"
-  - url: /assets/baglaar-glidud-et-ben-2.jpg
+  - url: /assets/images/exercises/baglaar-glidud-et-ben-2.jpg
     image_path: /assets/images/exercises/baglaar-glidud-et-ben-2.jpg
     alt: "Baglår, glidud et ben"
     title: "Baglår, glidud et ben"

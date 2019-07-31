@@ -1,26 +1,25 @@
 ---
 title: "Armgang"
 excerpt: ""
-redirect_from: /oevelse/armgang
+permalink: /oevelse/armgang
 language: da
 header:
   overlay_image: /assets/images/exercises/armgang-0.jpg
   teaser: /assets/images/exercises/armgang-0.jpg
 categories:
   - Hård styrkeøvelse
-  - 
+  - <p>Primært anaerobe styrkeøvelser med maksimal intensitet. Gruppen er hovedsageligt multiledsøvelser, hvor flere muskler udfordres samtidig.</p>
 training_type: 
 training_focus: 
 equipment:
 muscle_group:
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/armgang-0.jpg
+  - url: /assets/images/exercises/armgang-0.jpg
     image_path: /assets/images/exercises/armgang-0.jpg
     alt: "Armgang"
     title: "Armgang"
-  - url: /assets/armgang-1.jpg
+  - url: /assets/images/exercises/armgang-1.jpg
     image_path: /assets/images/exercises/armgang-1.jpg
     alt: "Armgang"
     title: "Armgang"

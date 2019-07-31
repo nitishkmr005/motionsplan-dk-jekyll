@@ -1,7 +1,7 @@
 ---
 title: "Frivend, olympisk"
 excerpt: "Vægten skal fra jorden med en eksplosiv bevægelse løftes op, så den kommer til at hvile på brystkassen."
-redirect_from: /oevelse/frivend
+permalink: /oevelse/frivend
 language: da
 header:
   overlay_image: /assets/images/exercises/frivend-0.jpg
@@ -9,10 +9,8 @@ header:
 categories:
 training_type: 
 training_focus: 
-  - 
   - knædomineret
   - hoftedomineret
-  - 
   - helkropsøvelse
 equipment:
   - vægtstang
@@ -24,26 +22,29 @@ muscle_group:
 alternative_titles:
   - Clean
 gallery:
-  - url: /assets/frivend-0.jpg
+  - url: /assets/images/exercises/frivend-0.jpg
     image_path: /assets/images/exercises/frivend-0.jpg
     alt: "Frivend, olympisk"
     title: "Frivend, olympisk"
-  - url: /assets/frivend-1.jpg
+  - url: /assets/images/exercises/frivend-1.jpg
     image_path: /assets/images/exercises/frivend-1.jpg
     alt: "Frivend, olympisk"
     title: "Frivend, olympisk"
-  - url: /assets/frivend-2.jpg
+  - url: /assets/images/exercises/frivend-2.jpg
     image_path: /assets/images/exercises/frivend-2.jpg
     alt: "Frivend, olympisk"
     title: "Frivend, olympisk"
-  - url: /assets/frivend-3.jpg
+  - url: /assets/images/exercises/frivend-3.jpg
     image_path: /assets/images/exercises/frivend-3.jpg
     alt: "Frivend, olympisk"
     title: "Frivend, olympisk"
-  - url: /assets/frivend-4.jpg
+  - url: /assets/images/exercises/frivend-4.jpg
     image_path: /assets/images/exercises/frivend-4.jpg
     alt: "Frivend, olympisk"
     title: "Frivend, olympisk"
+video:
+  provider: youtube
+  id: 3wxpHF6N6qk
 last_modified_at: 2013-04-21T18:06:14Z
 ---
 

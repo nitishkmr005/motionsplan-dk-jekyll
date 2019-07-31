@@ -1,7 +1,7 @@
 ---
 title: "Balance på et ben"
 excerpt: "Stå på et ben, mens du løfter det andet ben op bagud i en 90 graders vinkel. Det løftede ben må ikke røre det andet ben. Når du har balancen, lukker du øjnene."
-redirect_from: /oevelse/balance-paa-et-ben
+permalink: /oevelse/balance-paa-et-ben
 language: da
 header:
   overlay_image: /assets/images/exercises/balance-paa-et-ben-0.JPG
@@ -12,10 +12,8 @@ training_focus:
 equipment:
   - kropsvægt
 muscle_group:
-alternative_titles:
-  - clean and jerk
 gallery:
-  - url: /assets/balance-paa-et-ben-0.JPG
+  - url: /assets/images/exercises/balance-paa-et-ben-0.JPG
     image_path: /assets/images/exercises/balance-paa-et-ben-0.JPG
     alt: "Balance på et ben"
     title: "Balance på et ben"

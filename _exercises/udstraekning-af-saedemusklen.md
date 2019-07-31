@@ -1,7 +1,7 @@
 ---
 title: "Udstrækning af sædemusklen"
 excerpt: "Udstrækning af sædemusklen siddende på gulvet. "
-redirect_from: /oevelse/udstraekning-af-saedemusklen
+permalink: /oevelse/udstraekning-af-saedemusklen
 language: da
 header:
   overlay_image: /assets/images/exercises/udstraekning-af-saedemusklen-0.JPG
@@ -14,10 +14,8 @@ training_focus:
 equipment:
 muscle_group:
   - Baller
-alternative_titles:
-  - clean and jerk
 gallery:
-  - url: /assets/udstraekning-af-saedemusklen-0.JPG
+  - url: /assets/images/exercises/udstraekning-af-saedemusklen-0.JPG
     image_path: /assets/images/exercises/udstraekning-af-saedemusklen-0.JPG
     alt: "Udstrækning af sædemusklen"
     title: "Udstrækning af sædemusklen"

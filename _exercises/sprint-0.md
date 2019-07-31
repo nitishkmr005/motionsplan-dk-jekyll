@@ -1,14 +1,14 @@
 ---
 title: "Sprint"
 excerpt: ""
-redirect_from: /oevelse/sprint-0
+permalink: /oevelse/sprint-0
 language: da
 header:
   overlay_image: /assets/images/exercises/sprint-0-0.jpg
   teaser: /assets/images/exercises/sprint-0-0.jpg
 categories:
   - Hård styrkeøvelse
-  - 
+  - <p>Primært anaerobe styrkeøvelser med maksimal intensitet. Gruppen er hovedsageligt multiledsøvelser, hvor flere muskler udfordres samtidig.</p>
 training_type: 
   - Kondition
 training_focus: 
@@ -23,9 +23,8 @@ muscle_group:
   - Hoftebøjere
   - Lægge
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/sprint-0-0.jpg
+  - url: /assets/images/exercises/sprint-0-0.jpg
     image_path: /assets/images/exercises/sprint-0-0.jpg
     alt: "Sprint"
     title: "Sprint"

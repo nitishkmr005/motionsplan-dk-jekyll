@@ -1,7 +1,7 @@
 ---
 title: "Balancekrabbe"
 excerpt: " Stil dig i ”krabbestilling”. Løft nu højre ben og venstre arm op i luften og balancér på venstre ben og højre arm. Hold balancen i 5 sek. og skift arm/ben."
-redirect_from: /oevelse/balancekrabbe
+permalink: /oevelse/balancekrabbe
 language: da
 header:
   overlay_image: /assets/images/exercises/balancekrabbe-0.gif
@@ -9,16 +9,12 @@ header:
 categories:
 training_type: 
 training_focus: 
-  - 
-  - 
   - kropsstamme
 equipment:
   - kropsvægt
 muscle_group:
-alternative_titles:
-  - goblet squat
 gallery:
-  - url: /assets/balancekrabbe-0.gif
+  - url: /assets/images/exercises/balancekrabbe-0.gif
     image_path: /assets/images/exercises/balancekrabbe-0.gif
     alt: "Balancekrabbe"
     title: "Balancekrabbe"

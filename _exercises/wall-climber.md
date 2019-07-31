@@ -1,7 +1,7 @@
 ---
 title: "Wall climber"
 excerpt: "Fra armstrækningsstand med fødderne på det nederste af væggen, går man længere og længere op ad væggen med fødderne og tættere på væggen med armene. Gå derefter tilbage til udgangsposition."
-redirect_from: /oevelse/wall-climber
+permalink: /oevelse/wall-climber
 language: da
 header:
   overlay_image: /assets/images/exercises/wall-climber-0.jpg
@@ -11,18 +11,16 @@ training_type:
 training_focus: 
 equipment:
 muscle_group:
-alternative_titles:
-  - Standing ab wheel rollout
 gallery:
-  - url: /assets/wall-climber-0.jpg
+  - url: /assets/images/exercises/wall-climber-0.jpg
     image_path: /assets/images/exercises/wall-climber-0.jpg
     alt: "Wall climber"
     title: "Wall climber"
-  - url: /assets/wall-climber-1.jpg
+  - url: /assets/images/exercises/wall-climber-1.jpg
     image_path: /assets/images/exercises/wall-climber-1.jpg
     alt: "Wall climber"
     title: "Wall climber"
-  - url: /assets/wall-climber-2.jpg
+  - url: /assets/images/exercises/wall-climber-2.jpg
     image_path: /assets/images/exercises/wall-climber-2.jpg
     alt: "Wall climber"
     title: "Wall climber"

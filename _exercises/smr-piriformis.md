@@ -1,7 +1,7 @@
 ---
 title: "SMR piriformis"
 excerpt: ""
-redirect_from: /oevelse/smr-piriformis
+permalink: /oevelse/smr-piriformis
 language: da
 header:
   overlay_image: /assets/images/exercises/smr-piriformis-0.jpg
@@ -14,10 +14,8 @@ equipment:
   - lacrosse bold
 muscle_group:
   - Baller
-alternative_titles:
-  - 
 gallery:
-  - url: /assets/smr-piriformis-0.jpg
+  - url: /assets/images/exercises/smr-piriformis-0.jpg
     image_path: /assets/images/exercises/smr-piriformis-0.jpg
     alt: "SMR piriformis"
     title: "SMR piriformis"

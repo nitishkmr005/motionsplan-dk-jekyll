@@ -1,7 +1,7 @@
 ---
 title: "Squat med hop"
 excerpt: "Gå kontrolleret ned i knæ. Med så kort pause i benbøjningen laver du et eksplosivt spring."
-redirect_from: /oevelse/squat-med-hop
+permalink: /oevelse/squat-med-hop
 language: da
 header:
   overlay_image: /assets/images/exercises/squat-med-hop-0.JPG
@@ -10,30 +10,30 @@ categories:
   - Ben
 training_type: 
 training_focus: 
-  - 
   - knædomineret
 equipment:
   - vægtstang
 muscle_group:
-alternative_titles:
-  - birddog
 gallery:
-  - url: /assets/squat-med-hop-0.JPG
+  - url: /assets/images/exercises/squat-med-hop-0.JPG
     image_path: /assets/images/exercises/squat-med-hop-0.JPG
     alt: "Squat med hop"
     title: "Squat med hop"
-  - url: /assets/squat-med-hop-1.JPG
+  - url: /assets/images/exercises/squat-med-hop-1.JPG
     image_path: /assets/images/exercises/squat-med-hop-1.JPG
     alt: "Squat med hop"
     title: "Squat med hop"
-  - url: /assets/squat-med-hop-2.JPG
+  - url: /assets/images/exercises/squat-med-hop-2.JPG
     image_path: /assets/images/exercises/squat-med-hop-2.JPG
     alt: "Squat med hop"
     title: "Squat med hop"
-  - url: /assets/squat-med-hop-3.JPG
+  - url: /assets/images/exercises/squat-med-hop-3.JPG
     image_path: /assets/images/exercises/squat-med-hop-3.JPG
     alt: "Squat med hop"
     title: "Squat med hop"
+video:
+  provider: youtube
+  id: L-5hLCHyIEk
 last_modified_at: 2013-10-04T13:46:14Z
 ---
 

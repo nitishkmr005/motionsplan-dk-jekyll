@@ -1,7 +1,7 @@
 ---
 title: "Wall slides"
 excerpt: "Stå med ryggen op ad væggen. Pres underarmene og hænderne hårdt ind mod væggen. Lad armene glide op og ned ad væggen."
-redirect_from: /oevelse/wall-slides
+permalink: /oevelse/wall-slides
 language: da
 header:
   overlay_image: /assets/images/exercises/wall-slides-0.JPG
@@ -9,22 +9,22 @@ header:
 categories:
 training_type: 
 training_focus: 
-  - 
 equipment:
   - kropsvægt
   - mur
 muscle_group:
-alternative_titles:
-  - L lateral raise
 gallery:
-  - url: /assets/wall-slides-0.JPG
+  - url: /assets/images/exercises/wall-slides-0.JPG
     image_path: /assets/images/exercises/wall-slides-0.JPG
     alt: "Wall slides"
     title: "Wall slides"
-  - url: /assets/wall-slides-1.JPG
+  - url: /assets/images/exercises/wall-slides-1.JPG
     image_path: /assets/images/exercises/wall-slides-1.JPG
     alt: "Wall slides"
     title: "Wall slides"
+video:
+  provider: vimeo
+  id: 4976461
 last_modified_at: 2011-04-16T07:05:20Z
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Brettzel 2.0"
 excerpt: ""
-redirect_from: /oevelse/brettzel-20
+permalink: /oevelse/brettzel-20
 language: da
 header:
   overlay_image: /assets/images/exercises/brettzel-20-0.jpg
@@ -13,16 +13,18 @@ training_focus:
 equipment:
 muscle_group:
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/brettzel-20-0.jpg
+  - url: /assets/images/exercises/brettzel-20-0.jpg
     image_path: /assets/images/exercises/brettzel-20-0.jpg
     alt: "Brettzel 2.0"
     title: "Brettzel 2.0"
-  - url: /assets/brettzel-20-1.jpg
+  - url: /assets/images/exercises/brettzel-20-1.jpg
     image_path: /assets/images/exercises/brettzel-20-1.jpg
     alt: "Brettzel 2.0"
     title: "Brettzel 2.0"
+video:
+  provider: youtube
+  id: SfGV-65GaPg
 last_modified_at: 2015-04-06T09:58:17Z
 ---
 

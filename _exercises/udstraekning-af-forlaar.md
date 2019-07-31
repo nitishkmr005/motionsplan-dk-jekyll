@@ -1,7 +1,7 @@
 ---
 title: "Udstrækning af forlår"
 excerpt: "Original udstrækning"
-redirect_from: /oevelse/udstraekning-af-forlaar
+permalink: /oevelse/udstraekning-af-forlaar
 language: da
 header:
   overlay_image: /assets/images/exercises/udstraekning-af-forlaar-0.JPG
@@ -12,15 +12,8 @@ training_type:
 training_focus: 
 equipment:
 muscle_group:
-alternative_titles:
-  - Triceps pushdown
-  - Pushdown
-  - cable pushdown
-  - triceps pulldown
-  - triceps rope extension
-  - albuestræk kabel
 gallery:
-  - url: /assets/udstraekning-af-forlaar-0.JPG
+  - url: /assets/images/exercises/udstraekning-af-forlaar-0.JPG
     image_path: /assets/images/exercises/udstraekning-af-forlaar-0.JPG
     alt: "Udstrækning af forlår"
     title: "Udstrækning af forlår"

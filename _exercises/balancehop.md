@@ -1,7 +1,7 @@
 ---
 title: "Balancehop"
 excerpt: "Stil dig op på en træstub. Hold balancen. Når du har balancen, hopper du op og ned fra træstubben."
-redirect_from: /oevelse/balancehop
+permalink: /oevelse/balancehop
 language: da
 header:
   overlay_image: /assets/images/exercises/balancehop-0.jpg
@@ -13,18 +13,16 @@ equipment:
   - træstub
   - kropsvægt
 muscle_group:
-alternative_titles:
-  - Træk i tov
 gallery:
-  - url: /assets/balancehop-0.jpg
+  - url: /assets/images/exercises/balancehop-0.jpg
     image_path: /assets/images/exercises/balancehop-0.jpg
     alt: "Balancehop"
     title: "Balancehop"
-  - url: /assets/balancehop-1.jpg
+  - url: /assets/images/exercises/balancehop-1.jpg
     image_path: /assets/images/exercises/balancehop-1.jpg
     alt: "Balancehop"
     title: "Balancehop"
-  - url: /assets/balancehop-2.jpg
+  - url: /assets/images/exercises/balancehop-2.jpg
     image_path: /assets/images/exercises/balancehop-2.jpg
     alt: "Balancehop"
     title: "Balancehop"

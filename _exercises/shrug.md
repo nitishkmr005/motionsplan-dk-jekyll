@@ -1,7 +1,7 @@
 ---
 title: "Shrug"
 excerpt: "Stå med vægtstangen i strakte arme. Uden at bøje armene hæves vægtstangen kun ved bevægelse i skuldrene."
-redirect_from: /oevelse/shrug
+permalink: /oevelse/shrug
 language: da
 header:
   overlay_image: /assets/images/exercises/shrug-0.JPG
@@ -16,14 +16,12 @@ equipment:
   - vægtstang
 muscle_group:
   - Øvre ryg
-alternative_titles:
-  - calf raise
 gallery:
-  - url: /assets/shrug-0.JPG
+  - url: /assets/images/exercises/shrug-0.JPG
     image_path: /assets/images/exercises/shrug-0.JPG
     alt: "Shrug"
     title: "Shrug"
-  - url: /assets/shrug-1.JPG
+  - url: /assets/images/exercises/shrug-1.JPG
     image_path: /assets/images/exercises/shrug-1.JPG
     alt: "Shrug"
     title: "Shrug"

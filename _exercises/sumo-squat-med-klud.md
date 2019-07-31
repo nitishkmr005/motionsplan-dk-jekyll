@@ -1,7 +1,7 @@
 ---
 title: "Sumo squat med klud"
 excerpt: ""
-redirect_from: /oevelse/sumo-squat-med-klud
+permalink: /oevelse/sumo-squat-med-klud
 language: da
 header:
   overlay_image: /assets/images/exercises/sumo-squat-med-klud-0.jpg
@@ -19,13 +19,12 @@ muscle_group:
   - Core
   - Forlår
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/sumo-squat-med-klud-0.jpg
+  - url: /assets/images/exercises/sumo-squat-med-klud-0.jpg
     image_path: /assets/images/exercises/sumo-squat-med-klud-0.jpg
     alt: "Sumo squat med klud"
     title: "Sumo squat med klud"
-  - url: /assets/sumo-squat-med-klud-1.jpg
+  - url: /assets/images/exercises/sumo-squat-med-klud-1.jpg
     image_path: /assets/images/exercises/sumo-squat-med-klud-1.jpg
     alt: "Sumo squat med klud"
     title: "Sumo squat med klud"

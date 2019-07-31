@@ -1,7 +1,7 @@
 ---
 title: "Triceps liggende"
 excerpt: "Liggende på en bænk og sænk armene bag hovedet til vandret."
-redirect_from: /oevelse/triceps-liggende
+permalink: /oevelse/triceps-liggende
 language: da
 header:
   overlay_image: /assets/images/exercises/triceps-liggende-0.jpg
@@ -18,25 +18,22 @@ muscle_group:
   - Arme
   - Bryst
   - Skuldre
-alternative_titles:
-  - Lunges spring
-  - Englehop
-  - Dynamisk lunges
-  - Lunges plyo
-  - Lunges plyometrisk
 gallery:
-  - url: /assets/triceps-liggende-0.jpg
+  - url: /assets/images/exercises/triceps-liggende-0.jpg
     image_path: /assets/images/exercises/triceps-liggende-0.jpg
     alt: "Triceps liggende"
     title: "Triceps liggende"
-  - url: /assets/triceps-liggende-1.jpg
+  - url: /assets/images/exercises/triceps-liggende-1.jpg
     image_path: /assets/images/exercises/triceps-liggende-1.jpg
     alt: "Triceps liggende"
     title: "Triceps liggende"
-  - url: /assets/triceps-liggende-2.jpg
+  - url: /assets/images/exercises/triceps-liggende-2.jpg
     image_path: /assets/images/exercises/triceps-liggende-2.jpg
     alt: "Triceps liggende"
     title: "Triceps liggende"
+video:
+  provider: vimeo
+  id: 5016519
 last_modified_at: 2014-10-14T10:51:30Z
 ---
 

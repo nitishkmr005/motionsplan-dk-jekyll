@@ -1,7 +1,7 @@
 ---
 title: "Lunges, med en håndvægt over hovedet "
 excerpt: "Hold en håndvægt i strakt arm over hovedet. Med vægten i hånden laver du gående lunges."
-redirect_from: /oevelse/lunges-med-en-haandvaegt-over-hovedet
+permalink: /oevelse/lunges-med-en-haandvaegt-over-hovedet
 language: da
 header:
   overlay_image: /assets/images/exercises/lunges-med-en-haandvaegt-over-hovedet-0.JPG
@@ -20,22 +20,20 @@ muscle_group:
   - Baller
   - Core
   - Forlår
-alternative_titles:
-  - overhead lunges
 gallery:
-  - url: /assets/lunges-med-en-haandvaegt-over-hovedet-0.JPG
+  - url: /assets/images/exercises/lunges-med-en-haandvaegt-over-hovedet-0.JPG
     image_path: /assets/images/exercises/lunges-med-en-haandvaegt-over-hovedet-0.JPG
     alt: "Lunges, med en håndvægt over hovedet "
     title: "Lunges, med en håndvægt over hovedet "
-  - url: /assets/lunges-med-en-haandvaegt-over-hovedet-1.JPG
+  - url: /assets/images/exercises/lunges-med-en-haandvaegt-over-hovedet-1.JPG
     image_path: /assets/images/exercises/lunges-med-en-haandvaegt-over-hovedet-1.JPG
     alt: "Lunges, med en håndvægt over hovedet "
     title: "Lunges, med en håndvægt over hovedet "
-  - url: /assets/lunges-med-en-haandvaegt-over-hovedet-2.JPG
+  - url: /assets/images/exercises/lunges-med-en-haandvaegt-over-hovedet-2.JPG
     image_path: /assets/images/exercises/lunges-med-en-haandvaegt-over-hovedet-2.JPG
     alt: "Lunges, med en håndvægt over hovedet "
     title: "Lunges, med en håndvægt over hovedet "
-  - url: /assets/lunges-med-en-haandvaegt-over-hovedet-3.JPG
+  - url: /assets/images/exercises/lunges-med-en-haandvaegt-over-hovedet-3.JPG
     image_path: /assets/images/exercises/lunges-med-en-haandvaegt-over-hovedet-3.JPG
     alt: "Lunges, med en håndvægt over hovedet "
     title: "Lunges, med en håndvægt over hovedet "

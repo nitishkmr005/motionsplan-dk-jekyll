@@ -1,7 +1,7 @@
 ---
 title: "Squat med press"
 excerpt: ""
-redirect_from: /oevelse/squat-med-press
+permalink: /oevelse/squat-med-press
 language: da
 header:
   overlay_image: /assets/images/exercises/squat-med-press-0.jpg
@@ -20,21 +20,20 @@ muscle_group:
   - Forlår
   - Skuldre
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/squat-med-press-0.jpg
+  - url: /assets/images/exercises/squat-med-press-0.jpg
     image_path: /assets/images/exercises/squat-med-press-0.jpg
     alt: "Squat med press"
     title: "Squat med press"
-  - url: /assets/squat-med-press-1.jpg
+  - url: /assets/images/exercises/squat-med-press-1.jpg
     image_path: /assets/images/exercises/squat-med-press-1.jpg
     alt: "Squat med press"
     title: "Squat med press"
-  - url: /assets/squat-med-press-2.jpg
+  - url: /assets/images/exercises/squat-med-press-2.jpg
     image_path: /assets/images/exercises/squat-med-press-2.jpg
     alt: "Squat med press"
     title: "Squat med press"
-  - url: /assets/squat-med-press-3.jpg
+  - url: /assets/images/exercises/squat-med-press-3.jpg
     image_path: /assets/images/exercises/squat-med-press-3.jpg
     alt: "Squat med press"
     title: "Squat med press"

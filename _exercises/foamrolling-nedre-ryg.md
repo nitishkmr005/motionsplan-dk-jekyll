@@ -1,7 +1,7 @@
 ---
 title: "Foamrolling nedre ryg"
 excerpt: ""
-redirect_from: /oevelse/foamrolling-nedre-ryg
+permalink: /oevelse/foamrolling-nedre-ryg
 language: da
 header:
   overlay_image: /assets/images/exercises/foamrolling-nedre-ryg-0.jpg
@@ -14,13 +14,12 @@ equipment:
   - foamroller
 muscle_group:
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/foamrolling-nedre-ryg-0.jpg
+  - url: /assets/images/exercises/foamrolling-nedre-ryg-0.jpg
     image_path: /assets/images/exercises/foamrolling-nedre-ryg-0.jpg
     alt: "Foamrolling nedre ryg"
     title: "Foamrolling nedre ryg"
-  - url: /assets/foamrolling-nedre-ryg-1.jpg
+  - url: /assets/images/exercises/foamrolling-nedre-ryg-1.jpg
     image_path: /assets/images/exercises/foamrolling-nedre-ryg-1.jpg
     alt: "Foamrolling nedre ryg"
     title: "Foamrolling nedre ryg"

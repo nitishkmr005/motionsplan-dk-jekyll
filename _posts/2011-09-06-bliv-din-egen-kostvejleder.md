@@ -1,10 +1,10 @@
 ---
 title: "Bliv din egen kostvejleder"
-redirect_from: /artikel/bliv-din-egen-kostvejleder
+permalink: /artikel/bliv-din-egen-kostvejleder
 language: da
 header:
-  overlay_image: /assets/images/FoodWeek.jpg
-  teaser: /assets/images/FoodWeek.jpg
+  overlay_image: /assets/images/blog/bliv-din-egen-kostvejleder.jpg
+  teaser: /assets/images/blog/bliv-din-egen-kostvejleder.jpg
 tags:
   - ernæring
 category:

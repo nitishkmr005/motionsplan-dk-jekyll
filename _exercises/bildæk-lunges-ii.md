@@ -1,7 +1,7 @@
 ---
 title: "Bildæk, lunges II"
 excerpt: ""
-redirect_from: /oevelse/bildæk-lunges-ii
+permalink: /oevelse/bildæk-lunges-ii
 language: da
 header:
   overlay_image: /assets/images/exercises/bildæk-lunges-ii-0.jpg
@@ -13,29 +13,28 @@ training_focus:
 equipment:
 muscle_group:
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/bildæk-lunges-ii-0.jpg
+  - url: /assets/images/exercises/bildæk-lunges-ii-0.jpg
     image_path: /assets/images/exercises/bildæk-lunges-ii-0.jpg
     alt: "Bildæk, lunges II"
     title: "Bildæk, lunges II"
-  - url: /assets/bildæk-lunges-ii-1.jpg
+  - url: /assets/images/exercises/bildæk-lunges-ii-1.jpg
     image_path: /assets/images/exercises/bildæk-lunges-ii-1.jpg
     alt: "Bildæk, lunges II"
     title: "Bildæk, lunges II"
-  - url: /assets/bildæk-lunges-ii-2.jpg
+  - url: /assets/images/exercises/bildæk-lunges-ii-2.jpg
     image_path: /assets/images/exercises/bildæk-lunges-ii-2.jpg
     alt: "Bildæk, lunges II"
     title: "Bildæk, lunges II"
-  - url: /assets/bildæk-lunges-ii-3.jpg
+  - url: /assets/images/exercises/bildæk-lunges-ii-3.jpg
     image_path: /assets/images/exercises/bildæk-lunges-ii-3.jpg
     alt: "Bildæk, lunges II"
     title: "Bildæk, lunges II"
-  - url: /assets/bildæk-lunges-ii-4.jpg
+  - url: /assets/images/exercises/bildæk-lunges-ii-4.jpg
     image_path: /assets/images/exercises/bildæk-lunges-ii-4.jpg
     alt: "Bildæk, lunges II"
     title: "Bildæk, lunges II"
-  - url: /assets/bildæk-lunges-ii-5.jpg
+  - url: /assets/images/exercises/bildæk-lunges-ii-5.jpg
     image_path: /assets/images/exercises/bildæk-lunges-ii-5.jpg
     alt: "Bildæk, lunges II"
     title: "Bildæk, lunges II"

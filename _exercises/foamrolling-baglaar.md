@@ -1,7 +1,7 @@
 ---
 title: "Foamrolling baglår"
 excerpt: ""
-redirect_from: /oevelse/foamrolling-baglaar
+permalink: /oevelse/foamrolling-baglaar
 language: da
 header:
   overlay_image: /assets/images/exercises/foamrolling-baglaar-0.jpg
@@ -14,13 +14,12 @@ equipment:
   - foamroller
 muscle_group:
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/foamrolling-baglaar-0.jpg
+  - url: /assets/images/exercises/foamrolling-baglaar-0.jpg
     image_path: /assets/images/exercises/foamrolling-baglaar-0.jpg
     alt: "Foamrolling baglår"
     title: "Foamrolling baglår"
-  - url: /assets/foamrolling-baglaar-1.jpg
+  - url: /assets/images/exercises/foamrolling-baglaar-1.jpg
     image_path: /assets/images/exercises/foamrolling-baglaar-1.jpg
     alt: "Foamrolling baglår"
     title: "Foamrolling baglår"

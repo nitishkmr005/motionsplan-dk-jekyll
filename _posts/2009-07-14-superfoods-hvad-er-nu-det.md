@@ -1,10 +1,10 @@
 ---
 title: "Superfoods - hvad er nu det?"
-redirect_from: /artikel/superfoods-hvad-er-nu-det
+permalink: /artikel/superfoods-hvad-er-nu-det
 language: da
 header:
-  overlay_image: /assets/images/blueberries.jpg
-  teaser: /assets/images/blueberries.jpg
+  overlay_image: /assets/images/blog/superfoods-hvad-er-nu-det.jpg
+  teaser: /assets/images/blog/superfoods-hvad-er-nu-det.jpg
 tags:
   - webclips
   - kost

@@ -1,14 +1,14 @@
 ---
 title: "Vende håndfladerne"
 excerpt: "Stil dig med armene ud til siden. Den ene håndflade vender opad, mens den anden vender nedad. Kig efter håndfladen, som vender opad. Vend håndfladerne ved at dreje i skuldrene. Skift stille og roligt og mærk efter om der er nogle spring i bevægelsen nogen steder."
-redirect_from: /oevelse/vende-håndfladerne
+permalink: /oevelse/vende-håndfladerne
 language: da
 header:
   overlay_image: /assets/images/exercises/vende-håndfladerne-0.jpg
   teaser: /assets/images/exercises/vende-håndfladerne-0.jpg
 categories:
   - Koordination og balance
-  - 
+  - <p>Kombinationsøvelser med fokus på stabilitet, koordination og balancetræning. Her vælges gerne teknisk komplicerede øvelser, som udfordrer kropsstammen.</p>
 training_type: 
   - Mobilisering
 training_focus: 
@@ -17,14 +17,12 @@ equipment:
 muscle_group:
   - Skuldre
   - Øvre ryg
-alternative_titles:
-  - 
 gallery:
-  - url: /assets/vende-håndfladerne-0.jpg
+  - url: /assets/images/exercises/vende-håndfladerne-0.jpg
     image_path: /assets/images/exercises/vende-håndfladerne-0.jpg
     alt: "Vende håndfladerne"
     title: "Vende håndfladerne"
-  - url: /assets/vende-håndfladerne-1.jpg
+  - url: /assets/images/exercises/vende-håndfladerne-1.jpg
     image_path: /assets/images/exercises/vende-håndfladerne-1.jpg
     alt: "Vende håndfladerne"
     title: "Vende håndfladerne"

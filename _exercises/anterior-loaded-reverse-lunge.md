@@ -1,7 +1,7 @@
 ---
 title: "Anterior loaded reverse lunge"
 excerpt: ""
-redirect_from: /oevelse/anterior-loaded-reverse-lunge
+permalink: /oevelse/anterior-loaded-reverse-lunge
 language: da
 categories:
   - Ben
@@ -15,8 +15,10 @@ muscle_group:
   - Baller
   - Forlår
 alternative_titles:
-  - 
 gallery:
+video:
+  provider: youtube
+  id: gSn3cQl6s88
 last_modified_at: 2016-10-31T09:35:23Z
 ---
 

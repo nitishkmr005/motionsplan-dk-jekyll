@@ -1,10 +1,10 @@
 ---
 title: "Udnyt det åbne vindue og restituér hurtigere"
-redirect_from: /artikel/udnyt-det-aabne-vindue-og-restituer-hurtigere
+permalink: /artikel/udnyt-det-aabne-vindue-og-restituer-hurtigere
 language: da
 header:
-  overlay_image: /assets/images/Romania_Brasov_window_open_glass.jpg
-  teaser: /assets/images/Romania_Brasov_window_open_glass.jpg
+  overlay_image: /assets/images/blog/udnyt-det-aabne-vindue-og-restituer-hurtigere.jpg
+  teaser: /assets/images/blog/udnyt-det-aabne-vindue-og-restituer-hurtigere.jpg
 tags:
   - træning
   - ernæring

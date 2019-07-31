@@ -1,14 +1,14 @@
 ---
 title: "Dødløft, Romanian"
 excerpt: "Løftet starter oprejst hvor du holder stangen med cirka skulderafstand mellem hænderne. Stå med benene i skulderbredde. Sænk stangen mod gulvet med så strakte ben som muligt og mens du holder ryggen ret. Når du ikke kan komme længere uden at kompensere i ryggen, rejser du dig igen."
-redirect_from: /oevelse/romanian-deadlift
+permalink: /oevelse/romanian-deadlift
 language: da
 header:
   overlay_image: /assets/images/exercises/romanian-deadlift-0.jpg
   teaser: /assets/images/exercises/romanian-deadlift-0.jpg
 categories:
   - Hård styrkeøvelse
-  - 
+  - <p>Primært anaerobe styrkeøvelser med maksimal intensitet. Gruppen er hovedsageligt multiledsøvelser, hvor flere muskler udfordres samtidig.</p>
 training_type: 
   - Styrketræning
 training_focus: 
@@ -19,18 +19,16 @@ muscle_group:
   - Baglår
   - Baller
   - Ryg
-alternative_titles:
-  - deadlift
 gallery:
-  - url: /assets/romanian-deadlift-0.jpg
+  - url: /assets/images/exercises/romanian-deadlift-0.jpg
     image_path: /assets/images/exercises/romanian-deadlift-0.jpg
     alt: "Dødløft, Romanian"
     title: "Dødløft, Romanian"
-  - url: /assets/romanian-deadlift-1.jpg
+  - url: /assets/images/exercises/romanian-deadlift-1.jpg
     image_path: /assets/images/exercises/romanian-deadlift-1.jpg
     alt: "Dødløft, Romanian"
     title: "Dødløft, Romanian"
-  - url: /assets/romanian-deadlift-2.jpg
+  - url: /assets/images/exercises/romanian-deadlift-2.jpg
     image_path: /assets/images/exercises/romanian-deadlift-2.jpg
     alt: "Dødløft, Romanian"
     title: "Dødløft, Romanian"

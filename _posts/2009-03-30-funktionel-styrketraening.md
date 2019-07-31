@@ -1,14 +1,15 @@
 ---
 title: "Funktionel styrketræning"
-redirect_from: /artikel/funktionel-styrketraening
+permalink: /artikel/funktionel-styrketraening
 language: da
 header:
-  overlay_image: /assets/images/cable-wood-chop-version-2_-_step_3_max_v1.png
-  teaser: /assets/images/cable-wood-chop-version-2_-_step_3_max_v1.png
+  overlay_image: /assets/images/blog/funktionel-styrketraening.png
+  teaser: /assets/images/blog/funktionel-styrketraening.png
 tags:
 category:
   - Styrketræning
 last_modified_at: 2013-02-13T22:24:48Z
+author: linda.kruse
 ---
 
 **Funktionel træning er trenden og det blivende indenfor fitness. Hvad er det, og hvorfor kan du drage nytte deraf? Her får du svar på, hvordan du kan optimere din træning, så du hurtigere og lettere får en stærkere, slankere og sundere krop.**Som mennesker og især som idrætsudøvere udfører vi mange forskellige bevægelser. Vi går, jogger, løber, sprinter, hopper, løfter, skubber, trækker, bøjer, roterer, står, starter, stopper og klatrer. Alle de bevægelser involverer glidende, rytmiske bevægelser i forskellige planer.

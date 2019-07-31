@@ -1,26 +1,24 @@
 ---
 title: "Løb med sandsæk"
 excerpt: "Løb en forudbestemt distance med en vægt (fx en sandsæk) på skulderen."
-redirect_from: /oevelse/løb-med-sandsæk
+permalink: /oevelse/løb-med-sandsæk
 language: da
 header:
   overlay_image: /assets/images/exercises/løb-med-sandsæk-0.jpg
   teaser: /assets/images/exercises/løb-med-sandsæk-0.jpg
 categories:
   - Kondition og puls
-  - 
+  - <p>Primært fokus på kredsløbstræning, som giver høj puls og belaster det aerobe system maksimalt.</p>
 training_type: 
 training_focus: 
 equipment:
 muscle_group:
-alternative_titles:
-  - Knæ til albue 
 gallery:
-  - url: /assets/løb-med-sandsæk-0.jpg
+  - url: /assets/images/exercises/løb-med-sandsæk-0.jpg
     image_path: /assets/images/exercises/løb-med-sandsæk-0.jpg
     alt: "Løb med sandsæk"
     title: "Løb med sandsæk"
-  - url: /assets/løb-med-sandsæk-1.jpg
+  - url: /assets/images/exercises/løb-med-sandsæk-1.jpg
     image_path: /assets/images/exercises/løb-med-sandsæk-1.jpg
     alt: "Løb med sandsæk"
     title: "Løb med sandsæk"

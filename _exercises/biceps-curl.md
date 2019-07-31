@@ -1,7 +1,7 @@
 ---
 title: "Biceps curl"
 excerpt: "Hold håndvægtene i strakte arme langs kroppen med håndryggen væk fra kroppen. Før vægten op mod skulderen, mens du laver en rotation i underarmen."
-redirect_from: /oevelse/biceps-curl
+permalink: /oevelse/biceps-curl
 language: da
 header:
   overlay_image: /assets/images/exercises/biceps-curl-0.jpg
@@ -9,7 +9,6 @@ header:
 categories:
 training_type: 
 training_focus: 
-  - 
 equipment:
   - håndvægte
 muscle_group:
@@ -19,19 +18,19 @@ alternative_titles:
   - albuebøj håndvægte
   - albuebøj
 gallery:
-  - url: /assets/biceps-curl-0.jpg
+  - url: /assets/images/exercises/biceps-curl-0.jpg
     image_path: /assets/images/exercises/biceps-curl-0.jpg
     alt: "Biceps curl"
     title: "Biceps curl"
-  - url: /assets/biceps-curl-1.jpg
+  - url: /assets/images/exercises/biceps-curl-1.jpg
     image_path: /assets/images/exercises/biceps-curl-1.jpg
     alt: "Biceps curl"
     title: "Biceps curl"
-  - url: /assets/biceps-curl-2.jpg
+  - url: /assets/images/exercises/biceps-curl-2.jpg
     image_path: /assets/images/exercises/biceps-curl-2.jpg
     alt: "Biceps curl"
     title: "Biceps curl"
-  - url: /assets/biceps-curl-3.jpg
+  - url: /assets/images/exercises/biceps-curl-3.jpg
     image_path: /assets/images/exercises/biceps-curl-3.jpg
     alt: "Biceps curl"
     title: "Biceps curl"

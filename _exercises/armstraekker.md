@@ -1,7 +1,7 @@
 ---
 title: "Armstrækning, på tæerne"
 excerpt: "Start med strakt krop og strakte arme. Sænk dig derefter ned mod gulvet og stræk armene igen. Hold kroppen ret gennem hele øvelsen."
-redirect_from: /oevelse/armstraekker
+permalink: /oevelse/armstraekker
 language: da
 header:
   overlay_image: /assets/images/exercises/armstraekker-0.jpg
@@ -9,31 +9,21 @@ header:
 categories:
 training_type: 
 training_focus: 
-  - 
-  - 
-  - 
 equipment:
   - kropsvægt
 muscle_group:
   - 
   - 
-alternative_titles:
-  - Triceps pushdown
-  - Pushdown
-  - cable pushdown
-  - triceps pulldown
-  - triceps rope extension
-  - albuestræk kabel
 gallery:
-  - url: /assets/armstraekker-0.jpg
+  - url: /assets/images/exercises/armstraekker-0.jpg
     image_path: /assets/images/exercises/armstraekker-0.jpg
     alt: "Armstrækning, på tæerne"
     title: "Armstrækning, på tæerne"
-  - url: /assets/armstraekker-1.jpg
+  - url: /assets/images/exercises/armstraekker-1.jpg
     image_path: /assets/images/exercises/armstraekker-1.jpg
     alt: "Armstrækning, på tæerne"
     title: "Armstrækning, på tæerne"
-  - url: /assets/armstraekker-2.jpg
+  - url: /assets/images/exercises/armstraekker-2.jpg
     image_path: /assets/images/exercises/armstraekker-2.jpg
     alt: "Armstrækning, på tæerne"
     title: "Armstrækning, på tæerne"

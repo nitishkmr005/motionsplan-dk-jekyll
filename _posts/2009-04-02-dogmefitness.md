@@ -1,10 +1,10 @@
 ---
 title: "Dogmefitness - gratis træning i naturen"
-redirect_from: /artikel/dogmefitness
+permalink: /artikel/dogmefitness
 language: da
 header:
-  overlay_image: /assets/images/strength-training-by-slagheap.jpg
-  teaser: /assets/images/strength-training-by-slagheap.jpg
+  overlay_image: /assets/images/blog/dogmefitness.jpg
+  teaser: /assets/images/blog/dogmefitness.jpg
 tags:
   - dogmefitness
   - styrketræning

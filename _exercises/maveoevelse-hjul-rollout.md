@@ -1,7 +1,7 @@
 ---
 title: "Maveøvelse, rollout med hjul"
 excerpt: "Start på knæene med strakt overkrop. Rul langsomt så langt ud du kan og træk derefter hjulet tilbage igen indtil du er oprejst på knæene. Gentag."
-redirect_from: /oevelse/maveoevelse-hjul-rollout
+permalink: /oevelse/maveoevelse-hjul-rollout
 language: da
 header:
   overlay_image: /assets/images/exercises/maveoevelse-hjul-rollout-0.jpg
@@ -9,26 +9,21 @@ header:
 categories:
 training_type: 
 training_focus: 
-  - 
   - kropsstamme
 equipment:
   - hjul
 muscle_group:
   - 
-alternative_titles:
-  - Stående curl
-  - albuebøj håndvægte
-  - albuebøj
 gallery:
-  - url: /assets/maveoevelse-hjul-rollout-0.jpg
+  - url: /assets/images/exercises/maveoevelse-hjul-rollout-0.jpg
     image_path: /assets/images/exercises/maveoevelse-hjul-rollout-0.jpg
     alt: "Maveøvelse, rollout med hjul"
     title: "Maveøvelse, rollout med hjul"
-  - url: /assets/maveoevelse-hjul-rollout-1.jpg
+  - url: /assets/images/exercises/maveoevelse-hjul-rollout-1.jpg
     image_path: /assets/images/exercises/maveoevelse-hjul-rollout-1.jpg
     alt: "Maveøvelse, rollout med hjul"
     title: "Maveøvelse, rollout med hjul"
-  - url: /assets/maveoevelse-hjul-rollout-2.jpg
+  - url: /assets/images/exercises/maveoevelse-hjul-rollout-2.jpg
     image_path: /assets/images/exercises/maveoevelse-hjul-rollout-2.jpg
     alt: "Maveøvelse, rollout med hjul"
     title: "Maveøvelse, rollout med hjul"

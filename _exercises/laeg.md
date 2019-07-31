@@ -1,7 +1,7 @@
 ---
 title: "Læg"
 excerpt: "Læg"
-redirect_from: /oevelse/laeg
+permalink: /oevelse/laeg
 language: da
 header:
   overlay_image: /assets/images/exercises/laeg-0.JPG
@@ -18,11 +18,11 @@ muscle_group:
 alternative_titles:
   - calf raise
 gallery:
-  - url: /assets/laeg-0.JPG
+  - url: /assets/images/exercises/laeg-0.JPG
     image_path: /assets/images/exercises/laeg-0.JPG
     alt: "Læg"
     title: "Læg"
-  - url: /assets/laeg-1.JPG
+  - url: /assets/images/exercises/laeg-1.JPG
     image_path: /assets/images/exercises/laeg-1.JPG
     alt: "Læg"
     title: "Læg"

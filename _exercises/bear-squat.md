@@ -1,7 +1,7 @@
 ---
 title: "Bear squat"
 excerpt: ""
-redirect_from: /oevelse/bear-squat
+permalink: /oevelse/bear-squat
 language: da
 header:
   overlay_image: /assets/images/exercises/bear-squat-0.jpg
@@ -21,17 +21,16 @@ muscle_group:
   - Forlår
   - Mave
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/bear-squat-0.jpg
+  - url: /assets/images/exercises/bear-squat-0.jpg
     image_path: /assets/images/exercises/bear-squat-0.jpg
     alt: "Bear squat"
     title: "Bear squat"
-  - url: /assets/bear-squat-1.jpg
+  - url: /assets/images/exercises/bear-squat-1.jpg
     image_path: /assets/images/exercises/bear-squat-1.jpg
     alt: "Bear squat"
     title: "Bear squat"
-  - url: /assets/bear-squat-2.jpg
+  - url: /assets/images/exercises/bear-squat-2.jpg
     image_path: /assets/images/exercises/bear-squat-2.jpg
     alt: "Bear squat"
     title: "Bear squat"

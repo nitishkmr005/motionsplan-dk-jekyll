@@ -1,7 +1,7 @@
 ---
 title: "Anti-rotation in cable, wide stance"
 excerpt: ""
-redirect_from: /oevelse/anti-rotation-cable-wide-stance
+permalink: /oevelse/anti-rotation-cable-wide-stance
 language: da
 header:
   overlay_image: /assets/images/exercises/anti-rotation-cable-wide-stance-0.jpg
@@ -19,13 +19,12 @@ muscle_group:
   - Core
   - Mave
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/anti-rotation-cable-wide-stance-0.jpg
+  - url: /assets/images/exercises/anti-rotation-cable-wide-stance-0.jpg
     image_path: /assets/images/exercises/anti-rotation-cable-wide-stance-0.jpg
     alt: "Anti-rotation in cable, wide stance"
     title: "Anti-rotation in cable, wide stance"
-  - url: /assets/anti-rotation-cable-wide-stance-1.jpg
+  - url: /assets/images/exercises/anti-rotation-cable-wide-stance-1.jpg
     image_path: /assets/images/exercises/anti-rotation-cable-wide-stance-1.jpg
     alt: "Anti-rotation in cable, wide stance"
     title: "Anti-rotation in cable, wide stance"

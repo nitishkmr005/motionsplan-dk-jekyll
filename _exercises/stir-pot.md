@@ -1,7 +1,7 @@
 ---
 title: "Stir the pot"
 excerpt: "Du skal have albuerne på en stor træningsbold og fødderne på jorden. Kroppen skal være strakt. Spænd i mave og baller. Herfra laver du små cirkler med underarmene på bolden. Først den ene vej, så den anden vej."
-redirect_from: /oevelse/stir-pot
+permalink: /oevelse/stir-pot
 language: da
 header:
   overlay_image: /assets/images/exercises/stir-pot-0.JPG
@@ -9,18 +9,15 @@ header:
 categories:
 training_type: 
 training_focus: 
-  - 
 equipment:
   - swissball
 muscle_group:
-alternative_titles:
-  - Hoftebøjer i ribbe
 gallery:
-  - url: /assets/stir-pot-0.JPG
+  - url: /assets/images/exercises/stir-pot-0.JPG
     image_path: /assets/images/exercises/stir-pot-0.JPG
     alt: "Stir the pot"
     title: "Stir the pot"
-  - url: /assets/stir-pot-1.JPG
+  - url: /assets/images/exercises/stir-pot-1.JPG
     image_path: /assets/images/exercises/stir-pot-1.JPG
     alt: "Stir the pot"
     title: "Stir the pot"
@@ -31,6 +28,6 @@ Placér albuerne på en stor træningsbold. Hold kroppen helt strakt ved at spæ
 
 Lav cirklerne i begge retninger. Når du bliver bedre, kan du samle fødderne mere og mere.
 
-Inden du begynder på denne øvelse, så kan det være en god ide at have trænet [planken](http://motionsplan.dk/oevelse/planken) mange gange først.
+Inden du begynder på denne øvelse, så kan det være en god ide at have trænet [planken](/oevelse/planken) mange gange først.
 
 Via [fixyourownback.com](http://fixyourownback.com/blog/?p=86).

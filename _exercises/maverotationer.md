@@ -1,7 +1,7 @@
 ---
 title: "Maverotationer"
 excerpt: "Hold en træstub ud i strakte arme foran dig. Sving den kraftigt fra side til side, mens du går fremad. Vægten skal svinges den vej, hvor benet er fremme."
-redirect_from: /oevelse/maverotationer
+permalink: /oevelse/maverotationer
 language: da
 header:
   overlay_image: /assets/images/exercises/maverotationer-0.jpg
@@ -9,22 +9,21 @@ header:
 categories:
 training_type: 
 training_focus: 
-  - 
 equipment:
   - træstub
 muscle_group:
 alternative_titles:
   - ab rotates
 gallery:
-  - url: /assets/maverotationer-0.jpg
+  - url: /assets/images/exercises/maverotationer-0.jpg
     image_path: /assets/images/exercises/maverotationer-0.jpg
     alt: "Maverotationer"
     title: "Maverotationer"
-  - url: /assets/maverotationer-1.jpg
+  - url: /assets/images/exercises/maverotationer-1.jpg
     image_path: /assets/images/exercises/maverotationer-1.jpg
     alt: "Maverotationer"
     title: "Maverotationer"
-  - url: /assets/maverotationer-2.jpg
+  - url: /assets/images/exercises/maverotationer-2.jpg
     image_path: /assets/images/exercises/maverotationer-2.jpg
     alt: "Maverotationer"
     title: "Maverotationer"

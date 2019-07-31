@@ -1,7 +1,7 @@
 ---
 title: "Slalomhop"
 excerpt: "Stå med samlede ben. Hop til højre ved at sætte af på venstre ben og løfte højre samtidig. Du lander på højre ben og bøjer let ned i knæet for at give efter. Bliv stående på højre ben i 1-2 sek. Hop så tilbage til venstre ben med afsæt med højre ben. Gentag øvelsen 10-15 gange for hvert ben. "
-redirect_from: /oevelse/slalomhop
+permalink: /oevelse/slalomhop
 language: da
 header:
   overlay_image: /assets/images/exercises/slalomhop-0.gif
@@ -10,16 +10,11 @@ categories:
 training_type: 
 training_focus: 
   - knædomineret
-  - 
-  - 
-  - 
 equipment:
   - kropsvægt
 muscle_group:
-alternative_titles:
-  - goblet squat
 gallery:
-  - url: /assets/slalomhop-0.gif
+  - url: /assets/images/exercises/slalomhop-0.gif
     image_path: /assets/images/exercises/slalomhop-0.gif
     alt: "Slalomhop"
     title: "Slalomhop"

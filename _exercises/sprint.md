@@ -1,14 +1,14 @@
 ---
 title: "Sprint med vægt"
 excerpt: "Sprint så hurtigt du kan frem og tilbage mellem to markeringer. Du starter med en vægt i hånden. Læg vægten ved markeringen. Sprint tomhændet tilbage. Saml vægten op igen næste gang du kommer forbi."
-redirect_from: /oevelse/sprint
+permalink: /oevelse/sprint
 language: da
 header:
   overlay_image: /assets/images/exercises/sprint-0.jpg
   teaser: /assets/images/exercises/sprint-0.jpg
 categories:
   - Kondition og puls
-  - 
+  - <p>Primært fokus på kredsløbstræning, som giver høj puls og belaster det aerobe system maksimalt.</p>
 training_type: 
 training_focus: 
   - helkropsøvelse
@@ -19,19 +19,19 @@ alternative_titles:
   - Sprint med medicinbold
   - spurt
 gallery:
-  - url: /assets/sprint-0.jpg
+  - url: /assets/images/exercises/sprint-0.jpg
     image_path: /assets/images/exercises/sprint-0.jpg
     alt: "Sprint med vægt"
     title: "Sprint med vægt"
-  - url: /assets/sprint-1.jpg
+  - url: /assets/images/exercises/sprint-1.jpg
     image_path: /assets/images/exercises/sprint-1.jpg
     alt: "Sprint med vægt"
     title: "Sprint med vægt"
-  - url: /assets/sprint-2.jpg
+  - url: /assets/images/exercises/sprint-2.jpg
     image_path: /assets/images/exercises/sprint-2.jpg
     alt: "Sprint med vægt"
     title: "Sprint med vægt"
-  - url: /assets/sprint-3.jpg
+  - url: /assets/images/exercises/sprint-3.jpg
     image_path: /assets/images/exercises/sprint-3.jpg
     alt: "Sprint med vægt"
     title: "Sprint med vægt"

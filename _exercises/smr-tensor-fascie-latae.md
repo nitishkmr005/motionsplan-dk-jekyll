@@ -1,7 +1,7 @@
 ---
 title: "SMR Tensor Fascie Latae"
 excerpt: ""
-redirect_from: /oevelse/smr-tensor-fascie-latae
+permalink: /oevelse/smr-tensor-fascie-latae
 language: da
 header:
   overlay_image: /assets/images/exercises/smr-tensor-fascie-latae-0.jpg
@@ -14,9 +14,8 @@ equipment:
   - lacrosse bold
 muscle_group:
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/smr-tensor-fascie-latae-0.jpg
+  - url: /assets/images/exercises/smr-tensor-fascie-latae-0.jpg
     image_path: /assets/images/exercises/smr-tensor-fascie-latae-0.jpg
     alt: "SMR Tensor Fascie Latae"
     title: "SMR Tensor Fascie Latae"

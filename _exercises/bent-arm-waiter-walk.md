@@ -1,14 +1,14 @@
 ---
 title: "Bent arm waiter walk"
 excerpt: ""
-redirect_from: /oevelse/bent-arm-waiter-walk
+permalink: /oevelse/bent-arm-waiter-walk
 language: da
 header:
   overlay_image: /assets/images/exercises/bent-arm-waiter-walk-0.jpg
   teaser: /assets/images/exercises/bent-arm-waiter-walk-0.jpg
 categories:
   - Koordination og balance
-  - 
+  - <p>Kombinationsøvelser med fokus på stabilitet, koordination og balancetræning. Her vælges gerne teknisk komplicerede øvelser, som udfordrer kropsstammen.</p>
 training_type: 
   - Balance
   - Styrketræning
@@ -18,9 +18,8 @@ equipment:
 muscle_group:
   - Skuldre
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/bent-arm-waiter-walk-0.jpg
+  - url: /assets/images/exercises/bent-arm-waiter-walk-0.jpg
     image_path: /assets/images/exercises/bent-arm-waiter-walk-0.jpg
     alt: "Bent arm waiter walk"
     title: "Bent arm waiter walk"

@@ -1,10 +1,10 @@
 ---
 title: "Hvad skal der til for at tabe sig?"
-redirect_from: /artikel/hvad-skal-der-til-tabe-sig
+permalink: /artikel/hvad-skal-der-til-tabe-sig
 language: da
 header:
-  overlay_image: /assets/images/iStock_000004747472Medium.jpg
-  teaser: /assets/images/iStock_000004747472Medium.jpg
+  overlay_image: /assets/images/blog/hvad-skal-der-til-tabe-sig.jpg
+  teaser: /assets/images/blog/hvad-skal-der-til-tabe-sig.jpg
 tags:
   - webclips
   - kost

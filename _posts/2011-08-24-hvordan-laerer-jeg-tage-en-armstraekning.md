@@ -1,10 +1,10 @@
 ---
 title: "Hvordan lærer jeg at tage en armstrækning?"
-redirect_from: /artikel/hvordan-laerer-jeg-tage-en-armstraekning
+permalink: /artikel/hvordan-laerer-jeg-tage-en-armstraekning
 language: da
 header:
-  overlay_image: /assets/images/Push Up.jpg
-  teaser: /assets/images/Push Up.jpg
+  overlay_image: /assets/images/blog/hvordan-laerer-jeg-tage-en-armstraekning.jpg
+  teaser: /assets/images/blog/hvordan-laerer-jeg-tage-en-armstraekning.jpg
 tags:
   - styrketræning
   - guide
@@ -17,19 +17,7 @@ Alle raske mennesker bør kunne tage mindst fem armstrækninger, hvor man kun r�
 
 For os er en armstrækning en armstrækning. Vi skelner ikke mellem forskellige variationer med hvor bredt man holder hænderne. Vi synes bare du er sej, hvis du træner dig op til at kunne tage fem armstrækninger. Du kan læse i øvelsesbeskrivelsen nedenunder, hvordan den ser ud.
 
-[Armstrækning, på tæerne](/oevelse/armstraekker "Armstrækning, på tæerne")
-\--------------------------------------------------------------------------
-
-Start med strakt krop og strakte arme. Sænk dig derefter ned mod gulvet og stræk armene igen. Hold kroppen ret gennem hele øvelsen.
-
-
-
-
-
- 
-
-\- [Læs mere om Armstrækning, på tæerne](/oevelse/armstraekker "Armstrækning, på tæerne")
-\- [Tilføj kommentar](/comment/reply/170#comment-form "Tilføj en kommentar til siden.")
+{% include exercises exercises="Armstrækning, på tæerne" match="exact" type="left" %}
 
 ### Hvordan træner jeg så?
 
@@ -41,19 +29,9 @@ Vi foreslår, at du træner tre gange om ugen. For hver træningsgang skal du la
 
 **2. dag. Lav armstrækning med forhøjning.** Start med en gentagelse. Hold en kort pause. Lav derefter to gentagelser. Kort pause. Dernæst tre gentagelser. Fortsæt indtil du ikke kan tage flere. Lav derefter pyramiden forfra. Undervejs i træningsforløbet kan du lave forhøjningen mindre og mindre.
 
-[Armstrækning, hænderne hævet](/oevelse/armstraekning-haenderne-haevet "Armstrækning, hænderne hævet")
-\------------------------------------------------------------------------------------------------------
+{% include exercises exercises="Armstrækning, hænderne hævet" match="exact" type="left" %}
 
 Placer hænderne på en bænk. Sænk brystet ned mod bænken med helt ret krop. Tilbage til udgangsposition. 
-
-
-
-
-
- 
-
-\- [Læs mere om Armstrækning, hænderne hævet](/oevelse/armstraekning-haenderne-haevet "Armstrækning, hænderne hævet")
-\- [Tilføj kommentar](/comment/reply/427#comment-form "Tilføj en kommentar til siden.")
 
 **3. dag. Excentrisk arbejde.** Stil dig i armstrækningsstillingen. Sænk dig så langsomt som du overhovedet kan med kroppen helt ret. Stil dig derefter op i armstrækningsstillingen igen. Gentag 10 gange.
 

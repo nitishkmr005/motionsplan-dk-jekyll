@@ -1,22 +1,21 @@
 ---
 title: "Koneløb"
 excerpt: ""
-redirect_from: /oevelse/koneløb
+permalink: /oevelse/koneløb
 language: da
 header:
   overlay_image: /assets/images/exercises/koneløb-0.jpg
   teaser: /assets/images/exercises/koneløb-0.jpg
 categories:
   - Kondition og puls
-  - 
+  - <p>Primært fokus på kredsløbstræning, som giver høj puls og belaster det aerobe system maksimalt.</p>
 training_type: 
 training_focus: 
 equipment:
 muscle_group:
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/koneløb-0.jpg
+  - url: /assets/images/exercises/koneløb-0.jpg
     image_path: /assets/images/exercises/koneløb-0.jpg
     alt: "Koneløb"
     title: "Koneløb"

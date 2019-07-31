@@ -1,7 +1,7 @@
 ---
 title: "Dips, med coretræning"
 excerpt: "To sammen. En gør klar til at lave almindelige dips, mens den anden holder benene. En gang imellem slipper den stående benet på den arbejdende. Den arbejdende skal samtidig med at vedkommende laver dips holde benet oppe."
-redirect_from: /oevelse/dips-med-coretraening
+permalink: /oevelse/dips-med-coretraening
 language: da
 header:
   overlay_image: /assets/images/exercises/dips-med-coretraening-0.jpg
@@ -12,22 +12,20 @@ training_focus:
 equipment:
   - træstub
 muscle_group:
-alternative_titles:
-  - Træk i tov
 gallery:
-  - url: /assets/dips-med-coretraening-0.jpg
+  - url: /assets/images/exercises/dips-med-coretraening-0.jpg
     image_path: /assets/images/exercises/dips-med-coretraening-0.jpg
     alt: "Dips, med coretræning"
     title: "Dips, med coretræning"
-  - url: /assets/dips-med-coretraening-1.jpg
+  - url: /assets/images/exercises/dips-med-coretraening-1.jpg
     image_path: /assets/images/exercises/dips-med-coretraening-1.jpg
     alt: "Dips, med coretræning"
     title: "Dips, med coretræning"
-  - url: /assets/dips-med-coretraening-2.jpg
+  - url: /assets/images/exercises/dips-med-coretraening-2.jpg
     image_path: /assets/images/exercises/dips-med-coretraening-2.jpg
     alt: "Dips, med coretræning"
     title: "Dips, med coretræning"
-  - url: /assets/dips-med-coretraening-3.jpg
+  - url: /assets/images/exercises/dips-med-coretraening-3.jpg
     image_path: /assets/images/exercises/dips-med-coretraening-3.jpg
     alt: "Dips, med coretræning"
     title: "Dips, med coretræning"

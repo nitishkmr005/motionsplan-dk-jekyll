@@ -1,10 +1,10 @@
 ---
 title: "Gode råd til eget garagegym"
-redirect_from: /artikel/gode-raad-til-eget-garagegym
+permalink: /artikel/gode-raad-til-eget-garagegym
 language: da
 header:
-  overlay_image: /assets/images/Garage-gym.jpg
-  teaser: /assets/images/Garage-gym.jpg
+  overlay_image: /assets/images/blog/gode-raad-til-eget-garagegym.jpg
+  teaser: /assets/images/blog/gode-raad-til-eget-garagegym.jpg
 tags:
   - garagegym
   - gør-det-selv

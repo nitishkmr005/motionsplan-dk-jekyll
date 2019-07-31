@@ -1,7 +1,7 @@
 ---
 title: "Prowler"
 excerpt: ""
-redirect_from: /oevelse/prowler
+permalink: /oevelse/prowler
 language: da
 header:
   overlay_image: /assets/images/exercises/prowler-0.jpg
@@ -21,14 +21,12 @@ muscle_group:
   - Forlår
   - Hoftebøjere
   - Lægge
-alternative_titles:
-  - 
 gallery:
-  - url: /assets/prowler-0.jpg
+  - url: /assets/images/exercises/prowler-0.jpg
     image_path: /assets/images/exercises/prowler-0.jpg
     alt: "Prowler"
     title: "Prowler"
-  - url: /assets/prowler-1.jpg
+  - url: /assets/images/exercises/prowler-1.jpg
     image_path: /assets/images/exercises/prowler-1.jpg
     alt: "Prowler"
     title: "Prowler"

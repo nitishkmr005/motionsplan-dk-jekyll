@@ -1,27 +1,25 @@
 ---
 title: "Sjipning"
 excerpt: "Du sjipper i den afsatte tid. Hold hænderne nogenlunde tæt til hoften og sørg for at sjippetovet primært svinges i håndleddene."
-redirect_from: /oevelse/sjipning
+permalink: /oevelse/sjipning
 language: da
 header:
   overlay_image: /assets/images/exercises/sjipning-0.jpg
   teaser: /assets/images/exercises/sjipning-0.jpg
 categories:
   - Kondition og puls
-  - 
+  - <p>Primært fokus på kredsløbstræning, som giver høj puls og belaster det aerobe system maksimalt.</p>
 training_type: 
 training_focus: 
 equipment:
   - sjippetov
 muscle_group:
-alternative_titles:
-  - birddog
 gallery:
-  - url: /assets/sjipning-0.jpg
+  - url: /assets/images/exercises/sjipning-0.jpg
     image_path: /assets/images/exercises/sjipning-0.jpg
     alt: "Sjipning"
     title: "Sjipning"
-  - url: /assets/sjipning-1.jpg
+  - url: /assets/images/exercises/sjipning-1.jpg
     image_path: /assets/images/exercises/sjipning-1.jpg
     alt: "Sjipning"
     title: "Sjipning"

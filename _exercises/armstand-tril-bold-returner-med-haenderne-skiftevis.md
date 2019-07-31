@@ -1,7 +1,7 @@
 ---
 title: "Armstand, modtag trillende bold og returner "
 excerpt: "Stil dig i udgangsposition til en armstrækning med samlede fødder. Få en makker til at trille en bold til dig. Du fanger den og returnerer den igen. Der kan laves en regel om at det skal være med skiftevis højre og venstre hånd. Den behøver ikke blive trillet til den hånd der skal returnere. Det er fint med krydsbevægelser i kroppen."
-redirect_from: /oevelse/armstand-tril-bold-returner-med-haenderne-skiftevis
+permalink: /oevelse/armstand-tril-bold-returner-med-haenderne-skiftevis
 language: da
 categories:
 training_type: 
@@ -11,8 +11,6 @@ equipment:
   - måtte
   - bold
 muscle_group:
-alternative_titles:
-  - Reb
 gallery:
 last_modified_at: 2011-10-31T13:08:58Z
 ---

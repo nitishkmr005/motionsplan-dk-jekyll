@@ -1,7 +1,7 @@
 ---
 title: "Squat med vægtstang foran"
 excerpt: "Lav en squat med stangen liggende på brystet. Vægt på hele foden. Hold ryggen ret. Gå så langt ned i knæ som du kan."
-redirect_from: /oevelse/squat-med-vaegtstang-foran
+permalink: /oevelse/squat-med-vaegtstang-foran
 language: da
 header:
   overlay_image: /assets/images/exercises/squat-med-vaegtstang-foran-0.jpg
@@ -21,14 +21,17 @@ alternative_titles:
   - front squat
   - frontsquat
 gallery:
-  - url: /assets/squat-med-vaegtstang-foran-0.jpg
+  - url: /assets/images/exercises/squat-med-vaegtstang-foran-0.jpg
     image_path: /assets/images/exercises/squat-med-vaegtstang-foran-0.jpg
     alt: "Squat med vægtstang foran"
     title: "Squat med vægtstang foran"
-  - url: /assets/squat-med-vaegtstang-foran-1.jpg
+  - url: /assets/images/exercises/squat-med-vaegtstang-foran-1.jpg
     image_path: /assets/images/exercises/squat-med-vaegtstang-foran-1.jpg
     alt: "Squat med vægtstang foran"
     title: "Squat med vægtstang foran"
+video:
+  provider: youtube
+  id: fmJ8MsVoZ58
 last_modified_at: 2014-10-13T22:12:28Z
 ---
 

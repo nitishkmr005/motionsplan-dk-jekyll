@@ -1,10 +1,10 @@
 ---
 title: "Træn eksplosivitet"
-redirect_from: /artikel/traen-eksplosivitet
+permalink: /artikel/traen-eksplosivitet
 language: da
 header:
-  overlay_image: /assets/images/dsc_0681.jpg
-  teaser: /assets/images/dsc_0681.jpg
+  overlay_image: /assets/images/blog/traen-eksplosivitet.jpg
+  teaser: /assets/images/blog/traen-eksplosivitet.jpg
 tags:
   - webclips
   - træning

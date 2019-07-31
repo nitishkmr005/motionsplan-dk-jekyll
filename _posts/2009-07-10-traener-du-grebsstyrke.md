@@ -1,10 +1,10 @@
 ---
 title: "Træner du grebsstyrke?"
-redirect_from: /artikel/traener-du-grebsstyrke
+permalink: /artikel/traener-du-grebsstyrke
 language: da
 header:
-  overlay_image: /assets/images/DSC_0698.jpg
-  teaser: /assets/images/DSC_0698.jpg
+  overlay_image: /assets/images/blog/traener-du-grebsstyrke.jpg
+  teaser: /assets/images/blog/traener-du-grebsstyrke.jpg
 tags:
   - webclips
   - grebsstyrke
@@ -15,12 +15,12 @@ last_modified_at: 2013-05-07T11:25:36Z
 
 Vi kiggede lidt rundt på nettet i dag, og vi faldt over følgende ret hardcore video:
 
- Video of Shaolin finger hand functional grip strength
+{% include video provider="youtube" id="j26rnqGvtMk" %}
 
- Video of Grip Exercises: Improve your grip strength
+{% include video provider="youtube" id="dhOoiAMHp00" %}
 
- Video of Travis Bagent On Grip Strength
+{% include video provider="youtube" id="R9235-tIBkA" %}
 
- Video of Creative Grip Strength - Keg + Chain Lifting
+{% include video provider="youtube" id="ZCe5ORYsAt4" %}
 
 Vi er imidlertid interesseret i, om du træner din grebsstyrke - og hvordan du gør det?

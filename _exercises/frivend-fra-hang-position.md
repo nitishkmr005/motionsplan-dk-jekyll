@@ -1,7 +1,7 @@
 ---
 title: "Frivend, fra hang position"
 excerpt: "Start med vægten let foroverbøjet. Fra denne position skal du med en eksplosiv udstrækning i hoften sætte fart i vægtstangen, så du kan gå under vægten og gribe den på brystkassen med albuerne pegende frem. "
-redirect_from: /oevelse/frivend-fra-hang-position
+permalink: /oevelse/frivend-fra-hang-position
 language: da
 header:
   overlay_image: /assets/images/exercises/frivend-fra-hang-position-0.jpg
@@ -9,7 +9,6 @@ header:
 categories:
 training_type: 
 training_focus: 
-  - 
   - hoftedomineret
 equipment:
   - vægtstang
@@ -17,19 +16,19 @@ muscle_group:
 alternative_titles:
   - Power clean from hang position
 gallery:
-  - url: /assets/frivend-fra-hang-position-0.jpg
+  - url: /assets/images/exercises/frivend-fra-hang-position-0.jpg
     image_path: /assets/images/exercises/frivend-fra-hang-position-0.jpg
     alt: "Frivend, fra hang position"
     title: "Frivend, fra hang position"
-  - url: /assets/frivend-fra-hang-position-1.jpg
+  - url: /assets/images/exercises/frivend-fra-hang-position-1.jpg
     image_path: /assets/images/exercises/frivend-fra-hang-position-1.jpg
     alt: "Frivend, fra hang position"
     title: "Frivend, fra hang position"
-  - url: /assets/frivend-fra-hang-position-2.jpg
+  - url: /assets/images/exercises/frivend-fra-hang-position-2.jpg
     image_path: /assets/images/exercises/frivend-fra-hang-position-2.jpg
     alt: "Frivend, fra hang position"
     title: "Frivend, fra hang position"
-  - url: /assets/frivend-fra-hang-position-3.jpg
+  - url: /assets/images/exercises/frivend-fra-hang-position-3.jpg
     image_path: /assets/images/exercises/frivend-fra-hang-position-3.jpg
     alt: "Frivend, fra hang position"
     title: "Frivend, fra hang position"

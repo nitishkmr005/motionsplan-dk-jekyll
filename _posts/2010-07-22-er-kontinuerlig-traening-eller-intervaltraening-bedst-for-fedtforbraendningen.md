@@ -1,10 +1,10 @@
 ---
 title: "Er kontinuerlig træning eller intervaltræning bedst for fedtforbrændingen?"
-redirect_from: /artikel/er-kontinuerlig-traening-eller-intervaltraening-bedst-for-fedtforbraendningen
+permalink: /artikel/er-kontinuerlig-traening-eller-intervaltraening-bedst-for-fedtforbraendningen
 language: da
 header:
-  overlay_image: /assets/images/runninglegsmarathontraining.jpg
-  teaser: /assets/images/runninglegsmarathontraining.jpg
+  overlay_image: /assets/images/blog/er-kontinuerlig-traening-eller-intervaltraening-bedst-for-fedtforbraendningen.jpg
+  teaser: /assets/images/blog/er-kontinuerlig-traening-eller-intervaltraening-bedst-for-fedtforbraendningen.jpg
 tags:
   - intervaltræning
   - fedtforbrænding
@@ -16,7 +16,7 @@ last_modified_at: 2013-02-13T21:34:44Z
 
 Vi har lært, at vi skal [glemme fedtforbrændingszonen](http://www.motion-online.dk/sundhed_og_vaegt/vaegt_og_fedtprocent/glem_fedtforbraendingszonen/) og holde en så høj intensitet, som vi kan holde til under træningen. Det gælder om at finde et passende forhold mellem træningstid og intensitet, så man kan nå at restitutere, men man skal ikke lægge bånd på sig selv for at ramme en bestemt intensitet, fordi den giver en større fedtforbrænding.
 
-Vi har tidligere [advokeret for at intervaltræning giver en bedre træningseffekt end kontinuerlig træning på mindre tid](http://motionsplan.dk/artikel/4-minutters-haard-intervaltraening-bedre-end-en-times-moderat-loeb). Flere steder foreslår man, at [intervaltræning også er overlegent ift. fedtforbrænding](http://www.alun.dk/traening/high-intensity-interval-training.html), men er det korrekt?
+Vi har tidligere [advokeret for at intervaltræning giver en bedre træningseffekt end kontinuerlig træning på mindre tid](/artikel/4-minutters-haard-intervaltraening-bedre-end-en-times-moderat-loeb). Flere steder foreslår man, at [intervaltræning også er overlegent ift. fedtforbrænding](http://www.alun.dk/traening/high-intensity-interval-training.html), men er det korrekt?
 
 **Er intervaltræning mere effektiv end kontinuerlig træning, når man skal tabe sig og lave sin kropskomposition om?** (via [Young](http://www.tmuscle.com/free_online_article_issue/issue_636?s=indexTitle#interval-training-doesn-t-work))
 
@@ -24,7 +24,7 @@ Studier har vist forbedringer i forbrændingen i mitochondrierne og forøget sto
 
 Faktisk er der tilsyneladende ikke noget belæg for at fremhæve intervaltræning i forhold til kontinuerlig træning, når man kigger for fedtforbrændingen, når man kigger på hele kroppen. Der er ikke lavet særlig mange studier, der i randomiserede, kontrollerede forsøg undersøger sammensætningen efter træning. Her er hvad vi har kunnet finde.
 
-**Tabata** (1996) viste [store træningsmæssige forbedringer ved intervaltræning](http://motionsplan.dk/artikel/4-minutters-haard-intervaltraening-bedre-end-en-times-moderat-loeb). Flere [internationale websites om træning anbefaler Tabata-interavaller, når man vil tabe fedt](http://www.squidoo.com/tabatatraining). Tabata har imidlertid aldrig undersøgt træningsformens betydning for kropssammensætning. Det kunne være interessant at teste det i et kontrolleret, randomiseret træningsforløb, om denne træningsform kan bruges til at ændre kropskompositionen.
+**Tabata** (1996) viste [store træningsmæssige forbedringer ved intervaltræning](/artikel/4-minutters-haard-intervaltraening-bedre-end-en-times-moderat-loeb). Flere [internationale websites om træning anbefaler Tabata-interavaller, når man vil tabe fedt](http://www.squidoo.com/tabatatraining). Tabata har imidlertid aldrig undersøgt træningsformens betydning for kropssammensætning. Det kunne være interessant at teste det i et kontrolleret, randomiseret træningsforløb, om denne træningsform kan bruges til at ændre kropskompositionen.
 
 **Tremblay** **et al** (1994) undersøgte netop kropssammensætningen, men der er flere ting man skal være opmærksomme på ved studiet. De sammenligende steady-state og intervaltræning i et 15 ugers studium. Intervaltræningen begyndte imidlertid først senere i studiet. Steady-state gruppen tabte lidt over et halvt kilo, mens intervalgruppen tabte mindre end 250 gram. Det samlede vægttab efter 15 ugers træning er altså meget minimalt, men derfor kan kropskompositionen jo sagtens være ændret. Dette fortæller naturligvis også, at hvis man vil tage sig, så skal man også holde styr på sin diæt.
 

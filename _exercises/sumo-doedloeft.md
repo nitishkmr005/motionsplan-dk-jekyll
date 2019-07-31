@@ -1,7 +1,7 @@
 ---
 title: "Dødløft, sumo"
 excerpt: "Stå med bredstående og tæerne pegende lidt udad. Tag fat i stangen mellem dine ben. Rejs dig op ved at rette knæene og hoften ud og sænk stangen igen."
-redirect_from: /oevelse/sumo-doedloeft
+permalink: /oevelse/sumo-doedloeft
 language: da
 header:
   overlay_image: /assets/images/exercises/sumo-doedloeft-0.jpg
@@ -12,24 +12,22 @@ training_type:
 training_focus: 
 equipment:
 muscle_group:
-alternative_titles:
-  - Skrå bænkpres
-  - Skrå bænk
-  - Brystpres
-  - Brystpres håndvægte lige
 gallery:
-  - url: /assets/sumo-doedloeft-0.jpg
+  - url: /assets/images/exercises/sumo-doedloeft-0.jpg
     image_path: /assets/images/exercises/sumo-doedloeft-0.jpg
     alt: "Dødløft, sumo"
     title: "Dødløft, sumo"
-  - url: /assets/sumo-doedloeft-1.jpg
+  - url: /assets/images/exercises/sumo-doedloeft-1.jpg
     image_path: /assets/images/exercises/sumo-doedloeft-1.jpg
     alt: "Dødløft, sumo"
     title: "Dødløft, sumo"
-  - url: /assets/sumo-doedloeft-2.jpg
+  - url: /assets/images/exercises/sumo-doedloeft-2.jpg
     image_path: /assets/images/exercises/sumo-doedloeft-2.jpg
     alt: "Dødløft, sumo"
     title: "Dødløft, sumo"
+video:
+  provider: youtube
+  id: 0g4p0uvnO2k
 last_modified_at: 2013-11-19T13:15:12Z
 ---
 

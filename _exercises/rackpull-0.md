@@ -1,7 +1,7 @@
 ---
 title: "Rackpull"
 excerpt: "Start med stangen ved knæene og bøj dig forover uden at bøje alt for meget i knæene. Hold ved stangen i skulderbredde og med modsatrettede hænder. Rejs dig ved at strække i hoften. Træner øverste del af dødløftet."
-redirect_from: /oevelse/rackpull-0
+permalink: /oevelse/rackpull-0
 language: da
 header:
   overlay_image: /assets/images/exercises/rackpull-0-0.jpg
@@ -17,18 +17,16 @@ muscle_group:
   - Baglår
   - Baller
   - Ryg
-alternative_titles:
-  - Albuestræk stang
 gallery:
-  - url: /assets/rackpull-0-0.jpg
+  - url: /assets/images/exercises/rackpull-0-0.jpg
     image_path: /assets/images/exercises/rackpull-0-0.jpg
     alt: "Rackpull"
     title: "Rackpull"
-  - url: /assets/rackpull-0-1.jpg
+  - url: /assets/images/exercises/rackpull-0-1.jpg
     image_path: /assets/images/exercises/rackpull-0-1.jpg
     alt: "Rackpull"
     title: "Rackpull"
-  - url: /assets/rackpull-0-2.jpg
+  - url: /assets/images/exercises/rackpull-0-2.jpg
     image_path: /assets/images/exercises/rackpull-0-2.jpg
     alt: "Rackpull"
     title: "Rackpull"

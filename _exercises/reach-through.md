@@ -1,7 +1,7 @@
 ---
 title: "Reach through"
 excerpt: ""
-redirect_from: /oevelse/reach-through
+permalink: /oevelse/reach-through
 language: da
 header:
   overlay_image: /assets/images/exercises/reach-through-0.jpg
@@ -16,13 +16,12 @@ equipment:
 muscle_group:
   - Baglår
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/reach-through-0.jpg
+  - url: /assets/images/exercises/reach-through-0.jpg
     image_path: /assets/images/exercises/reach-through-0.jpg
     alt: "Reach through"
     title: "Reach through"
-  - url: /assets/reach-through-1.jpg
+  - url: /assets/images/exercises/reach-through-1.jpg
     image_path: /assets/images/exercises/reach-through-1.jpg
     alt: "Reach through"
     title: "Reach through"

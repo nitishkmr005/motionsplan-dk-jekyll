@@ -1,7 +1,7 @@
 ---
 title: "Armstrækning, Spiderman"
 excerpt: "Armstrækning hvor knæet føres på siden af kroppen og op mod albuen, mens du sænker dig ned mod gulvet, og hvor benet strækkes mens du går op. Skift."
-redirect_from: /oevelse/armstraekning-spiderman
+permalink: /oevelse/armstraekning-spiderman
 language: da
 header:
   overlay_image: /assets/images/exercises/armstraekning-spiderman-0.jpg
@@ -9,27 +9,26 @@ header:
 categories:
 training_type: 
 training_focus: 
-  - 
-  - 
   - kropsstamme
 equipment:
   - kropsvægt
 muscle_group:
-alternative_titles:
-  - skulderpres
 gallery:
-  - url: /assets/armstraekning-spiderman-0.jpg
+  - url: /assets/images/exercises/armstraekning-spiderman-0.jpg
     image_path: /assets/images/exercises/armstraekning-spiderman-0.jpg
     alt: "Armstrækning, Spiderman"
     title: "Armstrækning, Spiderman"
-  - url: /assets/armstraekning-spiderman-1.jpg
+  - url: /assets/images/exercises/armstraekning-spiderman-1.jpg
     image_path: /assets/images/exercises/armstraekning-spiderman-1.jpg
     alt: "Armstrækning, Spiderman"
     title: "Armstrækning, Spiderman"
-  - url: /assets/armstraekning-spiderman-2.jpg
+  - url: /assets/images/exercises/armstraekning-spiderman-2.jpg
     image_path: /assets/images/exercises/armstraekning-spiderman-2.jpg
     alt: "Armstrækning, Spiderman"
     title: "Armstrækning, Spiderman"
+video:
+  provider: vimeo
+  id: 3945184
 last_modified_at: 2013-04-09T09:31:13Z
 ---
 

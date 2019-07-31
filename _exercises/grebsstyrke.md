@@ -1,7 +1,7 @@
 ---
 title: "Grebsstyrke"
 excerpt: "Grib fat om stangen med strakte arme. Ved at roterer stangen inden i hænderne ruller man snoren omkring stangen. Minimér bevægelsen i håndleddet."
-redirect_from: /oevelse/grebsstyrke
+permalink: /oevelse/grebsstyrke
 language: da
 header:
   overlay_image: /assets/images/exercises/grebsstyrke-0.jpg
@@ -11,15 +11,12 @@ training_type:
 training_focus: 
 equipment:
 muscle_group:
-alternative_titles:
-  - Farmer's walk
-  - Farmerwalk
 gallery:
-  - url: /assets/grebsstyrke-0.jpg
+  - url: /assets/images/exercises/grebsstyrke-0.jpg
     image_path: /assets/images/exercises/grebsstyrke-0.jpg
     alt: "Grebsstyrke"
     title: "Grebsstyrke"
-  - url: /assets/grebsstyrke-1.jpg
+  - url: /assets/images/exercises/grebsstyrke-1.jpg
     image_path: /assets/images/exercises/grebsstyrke-1.jpg
     alt: "Grebsstyrke"
     title: "Grebsstyrke"

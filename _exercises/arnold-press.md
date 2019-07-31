@@ -1,7 +1,7 @@
 ---
 title: "Arnold press"
 excerpt: "Start med håndvægtene foran brystet, hvor du holder knoerne ind mod brystet. Før albuerne udad, så hænderne kommer til at vende modsat. Stræk armene op over hovedet så langt du kan. På toppen skal håndfladerne også vende fremad."
-redirect_from: /oevelse/arnold-press
+permalink: /oevelse/arnold-press
 language: da
 header:
   overlay_image: /assets/images/exercises/arnold-press-0.jpg
@@ -12,21 +12,22 @@ training_type:
 training_focus: 
 equipment:
 muscle_group:
-alternative_titles:
-  - skulderpres
 gallery:
-  - url: /assets/arnold-press-0.jpg
+  - url: /assets/images/exercises/arnold-press-0.jpg
     image_path: /assets/images/exercises/arnold-press-0.jpg
     alt: "Arnold press"
     title: "Arnold press"
-  - url: /assets/arnold-press-1.jpg
+  - url: /assets/images/exercises/arnold-press-1.jpg
     image_path: /assets/images/exercises/arnold-press-1.jpg
     alt: "Arnold press"
     title: "Arnold press"
-  - url: /assets/arnold-press-2.jpg
+  - url: /assets/images/exercises/arnold-press-2.jpg
     image_path: /assets/images/exercises/arnold-press-2.jpg
     alt: "Arnold press"
     title: "Arnold press"
+video:
+  provider: vimeo
+  id: 4706193
 last_modified_at: 2013-10-04T13:44:52Z
 ---
 

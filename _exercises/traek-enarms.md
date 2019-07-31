@@ -1,7 +1,7 @@
 ---
 title: "Træk, enarms"
 excerpt: "Tag fat i vægten på gulvet. Bøj i knæ- og hofteled og hold ryggen ret. Herfra skal du accellere håndvægten, så du kan gribe den i strakt arm over hovedet."
-redirect_from: /oevelse/traek-enarms
+permalink: /oevelse/traek-enarms
 language: da
 header:
   overlay_image: /assets/images/exercises/traek-enarms-0.jpg
@@ -13,21 +13,22 @@ training_focus:
 equipment:
   - håndvægte
 muscle_group:
-alternative_titles:
-  - Turkish delight
 gallery:
-  - url: /assets/traek-enarms-0.jpg
+  - url: /assets/images/exercises/traek-enarms-0.jpg
     image_path: /assets/images/exercises/traek-enarms-0.jpg
     alt: "Træk, enarms"
     title: "Træk, enarms"
-  - url: /assets/traek-enarms-1.jpg
+  - url: /assets/images/exercises/traek-enarms-1.jpg
     image_path: /assets/images/exercises/traek-enarms-1.jpg
     alt: "Træk, enarms"
     title: "Træk, enarms"
-  - url: /assets/traek-enarms-2.jpg
+  - url: /assets/images/exercises/traek-enarms-2.jpg
     image_path: /assets/images/exercises/traek-enarms-2.jpg
     alt: "Træk, enarms"
     title: "Træk, enarms"
+video:
+  provider: vimeo
+  id: 4715429
 last_modified_at: 2014-10-10T19:54:39Z
 ---
 

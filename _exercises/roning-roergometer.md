@@ -1,7 +1,7 @@
 ---
 title: "Roning, roergometer"
 excerpt: "Ro på et roergometer."
-redirect_from: /oevelse/roning-roergometer
+permalink: /oevelse/roning-roergometer
 language: da
 header:
   overlay_image: /assets/images/exercises/roning-roergometer-0.JPG
@@ -10,22 +10,19 @@ categories:
 training_type: 
   - Kondition
 training_focus: 
-  - 
 equipment:
   - roergometer
 muscle_group:
-alternative_titles:
-  - burpee
 gallery:
-  - url: /assets/roning-roergometer-0.JPG
+  - url: /assets/images/exercises/roning-roergometer-0.JPG
     image_path: /assets/images/exercises/roning-roergometer-0.JPG
     alt: "Roning, roergometer"
     title: "Roning, roergometer"
-  - url: /assets/roning-roergometer-1.JPG
+  - url: /assets/images/exercises/roning-roergometer-1.JPG
     image_path: /assets/images/exercises/roning-roergometer-1.JPG
     alt: "Roning, roergometer"
     title: "Roning, roergometer"
-  - url: /assets/roning-roergometer-2.JPG
+  - url: /assets/images/exercises/roning-roergometer-2.JPG
     image_path: /assets/images/exercises/roning-roergometer-2.JPG
     alt: "Roning, roergometer"
     title: "Roning, roergometer"

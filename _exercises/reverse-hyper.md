@@ -1,7 +1,7 @@
 ---
 title: "Reverse hyper"
 excerpt: "Læg dig til rette på en bænk med benene hængende ud over. Bænken skal være så høj, at du kan have strakte ben, når hoften er bøjet. Start med bøjet hofte og stræk hoften ud. Langsomt tilbage til udgangspunktet."
-redirect_from: /oevelse/reverse-hyper
+permalink: /oevelse/reverse-hyper
 language: da
 header:
   overlay_image: /assets/images/exercises/reverse-hyper-0.jpg
@@ -9,22 +9,17 @@ header:
 categories:
 training_type: 
 training_focus: 
-  - 
   - hoftedomineret
 equipment:
   - kropsvægt
   - maskine
 muscle_group:
-alternative_titles:
-  - Stående curl
-  - albuebøj håndvægte
-  - albuebøj
 gallery:
-  - url: /assets/reverse-hyper-0.jpg
+  - url: /assets/images/exercises/reverse-hyper-0.jpg
     image_path: /assets/images/exercises/reverse-hyper-0.jpg
     alt: "Reverse hyper"
     title: "Reverse hyper"
-  - url: /assets/reverse-hyper-1.jpg
+  - url: /assets/images/exercises/reverse-hyper-1.jpg
     image_path: /assets/images/exercises/reverse-hyper-1.jpg
     alt: "Reverse hyper"
     title: "Reverse hyper"

@@ -1,7 +1,7 @@
 ---
 title: "Bildæk, side slams"
 excerpt: ""
-redirect_from: /oevelse/bildæk-side-slams
+permalink: /oevelse/bildæk-side-slams
 language: da
 header:
   overlay_image: /assets/images/exercises/bildæk-side-slams-0.jpg
@@ -13,25 +13,24 @@ training_focus:
 equipment:
 muscle_group:
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/bildæk-side-slams-0.jpg
+  - url: /assets/images/exercises/bildæk-side-slams-0.jpg
     image_path: /assets/images/exercises/bildæk-side-slams-0.jpg
     alt: "Bildæk, side slams"
     title: "Bildæk, side slams"
-  - url: /assets/bildæk-side-slams-1.jpg
+  - url: /assets/images/exercises/bildæk-side-slams-1.jpg
     image_path: /assets/images/exercises/bildæk-side-slams-1.jpg
     alt: "Bildæk, side slams"
     title: "Bildæk, side slams"
-  - url: /assets/bildæk-side-slams-2.jpg
+  - url: /assets/images/exercises/bildæk-side-slams-2.jpg
     image_path: /assets/images/exercises/bildæk-side-slams-2.jpg
     alt: "Bildæk, side slams"
     title: "Bildæk, side slams"
-  - url: /assets/bildæk-side-slams-3.jpg
+  - url: /assets/images/exercises/bildæk-side-slams-3.jpg
     image_path: /assets/images/exercises/bildæk-side-slams-3.jpg
     alt: "Bildæk, side slams"
     title: "Bildæk, side slams"
-  - url: /assets/bildæk-side-slams-4.jpg
+  - url: /assets/images/exercises/bildæk-side-slams-4.jpg
     image_path: /assets/images/exercises/bildæk-side-slams-4.jpg
     alt: "Bildæk, side slams"
     title: "Bildæk, side slams"

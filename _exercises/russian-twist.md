@@ -1,7 +1,7 @@
 ---
 title: "Russian twist"
 excerpt: "Sid på numsen med bøjede knæ. Læn dig tilbage indtil mavemusklerne begynder at stramme. Med håndfladerne sammen roterer du skiftevis fra den ene side og til den anden side."
-redirect_from: /oevelse/russian-twist
+permalink: /oevelse/russian-twist
 language: da
 header:
   overlay_image: /assets/images/exercises/russian-twist-0.jpg
@@ -17,16 +17,16 @@ equipment:
   - kropsvægt
 muscle_group:
   - Mave
-alternative_titles:gallery:
-  - url: /assets/russian-twist-0.jpg
+gallery:
+  - url: /assets/images/exercises/russian-twist-0.jpg
     image_path: /assets/images/exercises/russian-twist-0.jpg
     alt: "Russian twist"
     title: "Russian twist"
-  - url: /assets/russian-twist-1.jpg
+  - url: /assets/images/exercises/russian-twist-1.jpg
     image_path: /assets/images/exercises/russian-twist-1.jpg
     alt: "Russian twist"
     title: "Russian twist"
-  - url: /assets/russian-twist-2.jpg
+  - url: /assets/images/exercises/russian-twist-2.jpg
     image_path: /assets/images/exercises/russian-twist-2.jpg
     alt: "Russian twist"
     title: "Russian twist"

@@ -1,10 +1,10 @@
 ---
 title: "Det mest effektive løbeprogram til at forbedre din præstation"
-redirect_from: /artikel/det-mest-effektive-loebeprogram-til-forbedre-din-praestation
+permalink: /artikel/det-mest-effektive-loebeprogram-til-forbedre-din-praestation
 language: da
 header:
-  overlay_image: /assets/images/girl_running_on_beach.jpg
-  teaser: /assets/images/girl_running_on_beach.jpg
+  overlay_image: /assets/images/blog/det-mest-effektive-loebeprogram-til-forbedre-din-praestation.jpg
+  teaser: /assets/images/blog/det-mest-effektive-loebeprogram-til-forbedre-din-praestation.jpg
 tags:
   - løb
   - kondition

@@ -1,7 +1,7 @@
 ---
 title: "Brettzel"
 excerpt: ""
-redirect_from: /oevelse/brettzel
+permalink: /oevelse/brettzel
 language: da
 header:
   overlay_image: /assets/images/exercises/brettzel-0.jpg
@@ -15,17 +15,18 @@ muscle_group:
   - Baller
   - Forlår
   - Øvre ryg
-alternative_titles:
-  - 
 gallery:
-  - url: /assets/brettzel-0.jpg
+  - url: /assets/images/exercises/brettzel-0.jpg
     image_path: /assets/images/exercises/brettzel-0.jpg
     alt: "Brettzel"
     title: "Brettzel"
-  - url: /assets/brettzel-1.jpg
+  - url: /assets/images/exercises/brettzel-1.jpg
     image_path: /assets/images/exercises/brettzel-1.jpg
     alt: "Brettzel"
     title: "Brettzel"
+video:
+  provider: youtube
+  id: SfGV-65GaPg
 last_modified_at: 2015-04-10T13:53:54Z
 ---
 

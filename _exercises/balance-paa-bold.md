@@ -1,7 +1,7 @@
 ---
 title: "Balance på bold"
 excerpt: "Prøv at holde balancen siddende på knæene på en stor træningsbold."
-redirect_from: /oevelse/balance-paa-bold
+permalink: /oevelse/balance-paa-bold
 language: da
 header:
   overlay_image: /assets/images/exercises/balance-paa-bold-0.JPG
@@ -13,10 +13,8 @@ training_focus:
 equipment:
   - swissball
 muscle_group:
-alternative_titles:
-  - Træk i tov
 gallery:
-  - url: /assets/balance-paa-bold-0.JPG
+  - url: /assets/images/exercises/balance-paa-bold-0.JPG
     image_path: /assets/images/exercises/balance-paa-bold-0.JPG
     alt: "Balance på bold"
     title: "Balance på bold"

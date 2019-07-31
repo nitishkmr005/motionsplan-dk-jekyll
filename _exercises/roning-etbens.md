@@ -1,7 +1,7 @@
 ---
 title: "Roning, etbens"
 excerpt: "Stræk det ene ben bagud og bøj forover i overkroppen, indtil din krop danner et t. Lad armene hænge forover. Træk vægtene op så de ender ud for kroppen ved navlen."
-redirect_from: /oevelse/roning-etbens
+permalink: /oevelse/roning-etbens
 language: da
 header:
   overlay_image: /assets/images/exercises/roning-etbens-0.jpg
@@ -18,19 +18,18 @@ muscle_group:
   - Arme
   - Skuldre
   - Øvre ryg
-alternative_titles:
-  - cheat
-  - One arm rows
-  - one arm row
 gallery:
-  - url: /assets/roning-etbens-0.jpg
+  - url: /assets/images/exercises/roning-etbens-0.jpg
     image_path: /assets/images/exercises/roning-etbens-0.jpg
     alt: "Roning, etbens"
     title: "Roning, etbens"
-  - url: /assets/roning-etbens-1.jpg
+  - url: /assets/images/exercises/roning-etbens-1.jpg
     image_path: /assets/images/exercises/roning-etbens-1.jpg
     alt: "Roning, etbens"
     title: "Roning, etbens"
+video:
+  provider: vimeo
+  id: 4715369
 last_modified_at: 2014-10-14T10:49:45Z
 ---
 

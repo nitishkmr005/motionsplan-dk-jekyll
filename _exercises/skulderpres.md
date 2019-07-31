@@ -1,7 +1,7 @@
 ---
 title: "Skulderpres, maskine"
 excerpt: "Sæt dig med ryggen mod sædet og tag fat i håndtagene. Løft vægten op i strakte arme og sænk kontrolleret igen."
-redirect_from: /oevelse/skulderpres
+permalink: /oevelse/skulderpres
 language: da
 header:
   overlay_image: /assets/images/exercises/skulderpres-0.JPG
@@ -9,8 +9,6 @@ header:
 categories:
 training_type: 
 training_focus: 
-  - 
-  - 
 equipment:
   - maskine
 muscle_group:
@@ -18,18 +16,16 @@ muscle_group:
   - 
   - 
   - 
-alternative_titles:
-  - Leg curl
 gallery:
-  - url: /assets/skulderpres-0.JPG
+  - url: /assets/images/exercises/skulderpres-0.JPG
     image_path: /assets/images/exercises/skulderpres-0.JPG
     alt: "Skulderpres, maskine"
     title: "Skulderpres, maskine"
-  - url: /assets/skulderpres-1.JPG
+  - url: /assets/images/exercises/skulderpres-1.JPG
     image_path: /assets/images/exercises/skulderpres-1.JPG
     alt: "Skulderpres, maskine"
     title: "Skulderpres, maskine"
-  - url: /assets/skulderpres-2.JPG
+  - url: /assets/images/exercises/skulderpres-2.JPG
     image_path: /assets/images/exercises/skulderpres-2.JPG
     alt: "Skulderpres, maskine"
     title: "Skulderpres, maskine"

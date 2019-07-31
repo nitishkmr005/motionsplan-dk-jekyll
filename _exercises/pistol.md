@@ -1,14 +1,14 @@
 ---
 title: "Pistol"
 excerpt: "Stå på et ben. Løft det andet ben frem foran dig så det ikke rører jorden. Herfra laver du en dyb knæbøjning uden at røre med benet i luften. Rejs dig igen."
-redirect_from: /oevelse/pistol
+permalink: /oevelse/pistol
 language: da
 header:
   overlay_image: /assets/images/exercises/pistol-0.JPG
   teaser: /assets/images/exercises/pistol-0.JPG
 categories:
   - Hård styrkeøvelse
-  - 
+  - <p>Primært anaerobe styrkeøvelser med maksimal intensitet. Gruppen er hovedsageligt multiledsøvelser, hvor flere muskler udfordres samtidig.</p>
 training_type: 
   - Styrketræning
 training_focus: 
@@ -22,14 +22,17 @@ muscle_group:
 alternative_titles:
   - Pistols
 gallery:
-  - url: /assets/pistol-0.JPG
+  - url: /assets/images/exercises/pistol-0.JPG
     image_path: /assets/images/exercises/pistol-0.JPG
     alt: "Pistol"
     title: "Pistol"
-  - url: /assets/pistol-1.JPG
+  - url: /assets/images/exercises/pistol-1.JPG
     image_path: /assets/images/exercises/pistol-1.JPG
     alt: "Pistol"
     title: "Pistol"
+video:
+  provider: vimeo
+  id: 4976744
 last_modified_at: 2014-10-13T22:11:39Z
 ---
 

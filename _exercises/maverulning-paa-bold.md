@@ -1,7 +1,7 @@
 ---
 title: "Maverulning på bold"
 excerpt: "Liggende på en stor bold i lænden og armene bag nakken laver du almindelige maverulninger."
-redirect_from: /oevelse/maverulning-paa-bold
+permalink: /oevelse/maverulning-paa-bold
 language: da
 header:
   overlay_image: /assets/images/exercises/maverulning-paa-bold-0.jpg
@@ -9,23 +9,20 @@ header:
 categories:
 training_type: 
 training_focus: 
-  - 
 equipment:
   - swissball
 muscle_group:
   - Mave
-alternative_titles:
-  - Clean
 gallery:
-  - url: /assets/maverulning-paa-bold-0.jpg
+  - url: /assets/images/exercises/maverulning-paa-bold-0.jpg
     image_path: /assets/images/exercises/maverulning-paa-bold-0.jpg
     alt: "Maverulning på bold"
     title: "Maverulning på bold"
-  - url: /assets/maverulning-paa-bold-1.jpg
+  - url: /assets/images/exercises/maverulning-paa-bold-1.jpg
     image_path: /assets/images/exercises/maverulning-paa-bold-1.jpg
     alt: "Maverulning på bold"
     title: "Maverulning på bold"
-  - url: /assets/maverulning-paa-bold-2.jpg
+  - url: /assets/images/exercises/maverulning-paa-bold-2.jpg
     image_path: /assets/images/exercises/maverulning-paa-bold-2.jpg
     alt: "Maverulning på bold"
     title: "Maverulning på bold"

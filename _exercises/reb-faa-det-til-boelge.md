@@ -1,30 +1,28 @@
 ---
 title: "Tov, få det til at bølge"
 excerpt: "Tag fat i enden af et kraftigt reb. Med store kraftige bevægelser, får du rebet til at bølge."
-redirect_from: /oevelse/reb-faa-det-til-boelge
+permalink: /oevelse/reb-faa-det-til-boelge
 language: da
 header:
   overlay_image: /assets/images/exercises/reb-faa-det-til-boelge-0.jpg
   teaser: /assets/images/exercises/reb-faa-det-til-boelge-0.jpg
 categories:
   - Koordination og balance
-  - 
+  - <p>Kombinationsøvelser med fokus på stabilitet, koordination og balancetræning. Her vælges gerne teknisk komplicerede øvelser, som udfordrer kropsstammen.</p>
 training_type: 
 training_focus: 
-  - 
   - kropsstamme
-  - 
 equipment:
   - tov
 muscle_group:
 alternative_titles:
   - Reb
 gallery:
-  - url: /assets/reb-faa-det-til-boelge-0.jpg
+  - url: /assets/images/exercises/reb-faa-det-til-boelge-0.jpg
     image_path: /assets/images/exercises/reb-faa-det-til-boelge-0.jpg
     alt: "Tov, få det til at bølge"
     title: "Tov, få det til at bølge"
-  - url: /assets/reb-faa-det-til-boelge-1.jpg
+  - url: /assets/images/exercises/reb-faa-det-til-boelge-1.jpg
     image_path: /assets/images/exercises/reb-faa-det-til-boelge-1.jpg
     alt: "Tov, få det til at bølge"
     title: "Tov, få det til at bølge"

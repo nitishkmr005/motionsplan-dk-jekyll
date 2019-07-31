@@ -1,18 +1,17 @@
 ---
 title: "Side bridge"
 excerpt: "Lig på siden. Skub dig op ved at hvile på underarmen og overamen ud til siden. Hold kroppen helt ret. Kig fremad. Hold positionen i 10-20 sekunder. Gentag. Kan også laves på strakt arm."
-redirect_from: /oevelse/side-bridge
+permalink: /oevelse/side-bridge
 language: da
 header:
   overlay_image: /assets/images/exercises/side-bridge-0.jpg
   teaser: /assets/images/exercises/side-bridge-0.jpg
 categories:
   - Koordination og balance
-  - 
+  - <p>Kombinationsøvelser med fokus på stabilitet, koordination og balancetræning. Her vælges gerne teknisk komplicerede øvelser, som udfordrer kropsstammen.</p>
 training_type: 
 training_focus: 
   - kropsstamme
-  - 
 equipment:
   - kropsvægt
 muscle_group:
@@ -21,7 +20,7 @@ alternative_titles:
   - sideplanke
   - sideplanken
 gallery:
-  - url: /assets/side-bridge-0.jpg
+  - url: /assets/images/exercises/side-bridge-0.jpg
     image_path: /assets/images/exercises/side-bridge-0.jpg
     alt: "Side bridge"
     title: "Side bridge"

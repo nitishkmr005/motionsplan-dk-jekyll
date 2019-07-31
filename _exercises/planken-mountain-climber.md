@@ -1,7 +1,7 @@
 ---
 title: "Planken, mountain climber"
 excerpt: ""
-redirect_from: /oevelse/planken-mountain-climber
+permalink: /oevelse/planken-mountain-climber
 language: da
 header:
   overlay_image: /assets/images/exercises/planken-mountain-climber-0.jpg
@@ -19,21 +19,20 @@ muscle_group:
   - Hoftebøjere
   - Mave
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/planken-mountain-climber-0.jpg
+  - url: /assets/images/exercises/planken-mountain-climber-0.jpg
     image_path: /assets/images/exercises/planken-mountain-climber-0.jpg
     alt: "Planken, mountain climber"
     title: "Planken, mountain climber"
-  - url: /assets/planken-mountain-climber-1.jpg
+  - url: /assets/images/exercises/planken-mountain-climber-1.jpg
     image_path: /assets/images/exercises/planken-mountain-climber-1.jpg
     alt: "Planken, mountain climber"
     title: "Planken, mountain climber"
-  - url: /assets/planken-mountain-climber-2.jpg
+  - url: /assets/images/exercises/planken-mountain-climber-2.jpg
     image_path: /assets/images/exercises/planken-mountain-climber-2.jpg
     alt: "Planken, mountain climber"
     title: "Planken, mountain climber"
-  - url: /assets/planken-mountain-climber-3.jpg
+  - url: /assets/images/exercises/planken-mountain-climber-3.jpg
     image_path: /assets/images/exercises/planken-mountain-climber-3.jpg
     alt: "Planken, mountain climber"
     title: "Planken, mountain climber"

@@ -1,7 +1,7 @@
 ---
 title: "Sideløft, skulder"
 excerpt: "Med let bøjede arme føres vægtene ud i til siden og opad. Fortsæt gerne bevægelsen, indtil vægtene møder hinanden over hovedet. Vægtene sænkes kontrolleret tilbage til udgangspositionen."
-redirect_from: /oevelse/skuldersideloeft
+permalink: /oevelse/skuldersideloeft
 language: da
 header:
   overlay_image: /assets/images/exercises/skuldersideloeft-0.jpg
@@ -23,15 +23,15 @@ alternative_titles:
   - Skuldersideløft
   - Sideløft håndvægte
 gallery:
-  - url: /assets/skuldersideloeft-0.jpg
+  - url: /assets/images/exercises/skuldersideloeft-0.jpg
     image_path: /assets/images/exercises/skuldersideloeft-0.jpg
     alt: "Sideløft, skulder"
     title: "Sideløft, skulder"
-  - url: /assets/skuldersideloeft-1.jpg
+  - url: /assets/images/exercises/skuldersideloeft-1.jpg
     image_path: /assets/images/exercises/skuldersideloeft-1.jpg
     alt: "Sideløft, skulder"
     title: "Sideløft, skulder"
-  - url: /assets/skuldersideloeft-2.jpg
+  - url: /assets/images/exercises/skuldersideloeft-2.jpg
     image_path: /assets/images/exercises/skuldersideloeft-2.jpg
     alt: "Sideløft, skulder"
     title: "Sideløft, skulder"

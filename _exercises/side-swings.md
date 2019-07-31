@@ -1,7 +1,7 @@
 ---
 title: "Side swings"
 excerpt: "Hold en vægt i begge hænder ude til siden. Sving den op over hovedet og sænk den til den anden side. Gentag øvelsen."
-redirect_from: /oevelse/side-swings
+permalink: /oevelse/side-swings
 language: da
 header:
   overlay_image: /assets/images/exercises/side-swings-0.jpg
@@ -9,29 +9,26 @@ header:
 categories:
 training_type: 
 training_focus: 
-  - 
   - kropsstamme
 equipment:
   - træstub
   - vægtskive
   - sten
 muscle_group:
-alternative_titles:
-  - Træk i tov
 gallery:
-  - url: /assets/side-swings-0.jpg
+  - url: /assets/images/exercises/side-swings-0.jpg
     image_path: /assets/images/exercises/side-swings-0.jpg
     alt: "Side swings"
     title: "Side swings"
-  - url: /assets/side-swings-1.jpg
+  - url: /assets/images/exercises/side-swings-1.jpg
     image_path: /assets/images/exercises/side-swings-1.jpg
     alt: "Side swings"
     title: "Side swings"
-  - url: /assets/side-swings-2.jpg
+  - url: /assets/images/exercises/side-swings-2.jpg
     image_path: /assets/images/exercises/side-swings-2.jpg
     alt: "Side swings"
     title: "Side swings"
-  - url: /assets/side-swings-3.jpg
+  - url: /assets/images/exercises/side-swings-3.jpg
     image_path: /assets/images/exercises/side-swings-3.jpg
     alt: "Side swings"
     title: "Side swings"

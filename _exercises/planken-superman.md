@@ -1,7 +1,7 @@
 ---
 title: "Planken, superman"
 excerpt: ""
-redirect_from: /oevelse/planken-superman
+permalink: /oevelse/planken-superman
 language: da
 header:
   overlay_image: /assets/images/exercises/planken-superman-0.jpg
@@ -19,21 +19,20 @@ muscle_group:
   - Core
   - Mave
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/planken-superman-0.jpg
+  - url: /assets/images/exercises/planken-superman-0.jpg
     image_path: /assets/images/exercises/planken-superman-0.jpg
     alt: "Planken, superman"
     title: "Planken, superman"
-  - url: /assets/planken-superman-1.jpg
+  - url: /assets/images/exercises/planken-superman-1.jpg
     image_path: /assets/images/exercises/planken-superman-1.jpg
     alt: "Planken, superman"
     title: "Planken, superman"
-  - url: /assets/planken-superman-2.jpg
+  - url: /assets/images/exercises/planken-superman-2.jpg
     image_path: /assets/images/exercises/planken-superman-2.jpg
     alt: "Planken, superman"
     title: "Planken, superman"
-  - url: /assets/planken-superman-3.jpg
+  - url: /assets/images/exercises/planken-superman-3.jpg
     image_path: /assets/images/exercises/planken-superman-3.jpg
     alt: "Planken, superman"
     title: "Planken, superman"

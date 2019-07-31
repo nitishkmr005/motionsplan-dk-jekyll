@@ -1,10 +1,10 @@
 ---
 title: "Hvordan kan du læse en videnskabelig artikel?"
-redirect_from: /artikel/hvordan-kan-du-laese-en-videnskabelig-artikel
+permalink: /artikel/hvordan-kan-du-laese-en-videnskabelig-artikel
 language: da
 header:
-  overlay_image: /assets/images/push-up.jpg
-  teaser: /assets/images/push-up.jpg
+  overlay_image: /assets/images/blog/foelg-tempoet-naar-du-loefter.jpg
+  teaser: /assets/images/blog/foelg-tempoet-naar-du-loefter.jpg
 tags:
   - videnskab
 category:

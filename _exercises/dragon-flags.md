@@ -1,7 +1,7 @@
 ---
 title: "Dragon flags"
 excerpt: "Læg dig på ryggen på en (brystpres) bænk så bagdelen er lige ved kanten og så ryg, skuldre og hoved ligger fladt på polstringen. Grib fat i under bænken på hver side lige omkring dit hoved. Stræk dine ben så din krop er lige eller svagt nedadgående (bagdelen må ikke røre bænken). Hold kroppen stiv og hæv din stive krop gennem 90 grader fra vandret til lodret (ruller over skuldre og nakke). Udfør øvelsen langsomt da man ellers kan have problemer med at holde kroppen stiv når man når bunden (vandret). "
-redirect_from: /oevelse/dragon-flags
+permalink: /oevelse/dragon-flags
 language: da
 categories:
 training_type: 
@@ -11,8 +11,6 @@ equipment:
   - bænk
   - kropsvægt
 muscle_group:
-alternative_titles:
-  - Reb
 gallery:
 last_modified_at: 2011-06-11T16:35:42Z
 ---

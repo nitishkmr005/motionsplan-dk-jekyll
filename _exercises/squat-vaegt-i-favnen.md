@@ -1,7 +1,7 @@
 ---
 title: "Squat, vægt i favnen"
 excerpt: "Hold en vægt ved brystet, fx en kettlebell. Lav en dyb benbøjning. Hold ryggen ret. Sørg for at knæene går samme vej som tæerne. Stå på flad fod gennem hele bevægelsen."
-redirect_from: /oevelse/squat-vaegt-i-favnen
+permalink: /oevelse/squat-vaegt-i-favnen
 language: da
 header:
   overlay_image: /assets/images/exercises/squat-vaegt-i-favnen-0.jpg
@@ -22,18 +22,21 @@ muscle_group:
 alternative_titles:
   - goblet squat
 gallery:
-  - url: /assets/squat-vaegt-i-favnen-0.jpg
+  - url: /assets/images/exercises/squat-vaegt-i-favnen-0.jpg
     image_path: /assets/images/exercises/squat-vaegt-i-favnen-0.jpg
     alt: "Squat, vægt i favnen"
     title: "Squat, vægt i favnen"
-  - url: /assets/squat-vaegt-i-favnen-1.jpg
+  - url: /assets/images/exercises/squat-vaegt-i-favnen-1.jpg
     image_path: /assets/images/exercises/squat-vaegt-i-favnen-1.jpg
     alt: "Squat, vægt i favnen"
     title: "Squat, vægt i favnen"
-  - url: /assets/squat-vaegt-i-favnen-2.jpg
+  - url: /assets/images/exercises/squat-vaegt-i-favnen-2.jpg
     image_path: /assets/images/exercises/squat-vaegt-i-favnen-2.jpg
     alt: "Squat, vægt i favnen"
     title: "Squat, vægt i favnen"
+video:
+  provider: youtube
+  id: PKmrXTx6jZs
 last_modified_at: 2014-10-13T19:29:15Z
 ---
 

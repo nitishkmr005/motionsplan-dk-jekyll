@@ -1,10 +1,10 @@
 ---
 title: "Musik til træningen"
-redirect_from: /artikel/musik-til-træningen
+permalink: /artikel/musik-til-træningen
 language: da
 header:
-  overlay_image: /assets/images/social-media-timing1.jpg
-  teaser: /assets/images/social-media-timing1.jpg
+  overlay_image: /assets/images/blog/musik-til-træningen.jpg
+  teaser: /assets/images/blog/musik-til-træningen.jpg
 tags:
   - gode råd
   - træningsplanlægning

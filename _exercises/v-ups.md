@@ -1,7 +1,7 @@
 ---
 title: "V-ups"
 excerpt: ""
-redirect_from: /oevelse/v-ups
+permalink: /oevelse/v-ups
 language: da
 header:
   overlay_image: /assets/images/exercises/v-ups-0.jpg
@@ -17,13 +17,12 @@ equipment:
 muscle_group:
   - Mave
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/v-ups-0.jpg
+  - url: /assets/images/exercises/v-ups-0.jpg
     image_path: /assets/images/exercises/v-ups-0.jpg
     alt: "V-ups"
     title: "V-ups"
-  - url: /assets/v-ups-1.jpg
+  - url: /assets/images/exercises/v-ups-1.jpg
     image_path: /assets/images/exercises/v-ups-1.jpg
     alt: "V-ups"
     title: "V-ups"

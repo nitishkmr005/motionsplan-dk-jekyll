@@ -1,7 +1,7 @@
 ---
 title: "Skubbe madras"
 excerpt: "En madras skubbes hen over gulvet."
-redirect_from: /oevelse/skubbe-madras
+permalink: /oevelse/skubbe-madras
 language: da
 header:
   overlay_image: /assets/images/exercises/skubbe-madras-0.jpg
@@ -12,18 +12,16 @@ training_focus:
 equipment:
   - madras
 muscle_group:
-alternative_titles:
-  - Standing ab wheel rollout
 gallery:
-  - url: /assets/skubbe-madras-0.jpg
+  - url: /assets/images/exercises/skubbe-madras-0.jpg
     image_path: /assets/images/exercises/skubbe-madras-0.jpg
     alt: "Skubbe madras"
     title: "Skubbe madras"
-  - url: /assets/skubbe-madras-1.jpg
+  - url: /assets/images/exercises/skubbe-madras-1.jpg
     image_path: /assets/images/exercises/skubbe-madras-1.jpg
     alt: "Skubbe madras"
     title: "Skubbe madras"
-  - url: /assets/skubbe-madras-2.jpg
+  - url: /assets/images/exercises/skubbe-madras-2.jpg
     image_path: /assets/images/exercises/skubbe-madras-2.jpg
     alt: "Skubbe madras"
     title: "Skubbe madras"

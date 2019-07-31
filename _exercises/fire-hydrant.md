@@ -1,7 +1,7 @@
 ---
 title: "Fire hydrant"
 excerpt: "Støt på hænder og knæ og tæer. Løft langsomt det ene knæ ud til siden, indtil underbenet er parallelt med jorden. Sænk det langsomt igen."
-redirect_from: /oevelse/fire-hydrant
+permalink: /oevelse/fire-hydrant
 language: da
 header:
   overlay_image: /assets/images/exercises/fire-hydrant-0.JPG
@@ -9,28 +9,24 @@ header:
 categories:
 training_type: 
 training_focus: 
-  - 
-  - 
   - kropsstamme
 equipment:
   - kropsvægt
 muscle_group:
-alternative_titles:
-  - birddog
 gallery:
-  - url: /assets/fire-hydrant-0.JPG
+  - url: /assets/images/exercises/fire-hydrant-0.JPG
     image_path: /assets/images/exercises/fire-hydrant-0.JPG
     alt: "Fire hydrant"
     title: "Fire hydrant"
-  - url: /assets/fire-hydrant-1.JPG
+  - url: /assets/images/exercises/fire-hydrant-1.JPG
     image_path: /assets/images/exercises/fire-hydrant-1.JPG
     alt: "Fire hydrant"
     title: "Fire hydrant"
-  - url: /assets/fire-hydrant-2.JPG
+  - url: /assets/images/exercises/fire-hydrant-2.JPG
     image_path: /assets/images/exercises/fire-hydrant-2.JPG
     alt: "Fire hydrant"
     title: "Fire hydrant"
-  - url: /assets/fire-hydrant-3.JPG
+  - url: /assets/images/exercises/fire-hydrant-3.JPG
     image_path: /assets/images/exercises/fire-hydrant-3.JPG
     alt: "Fire hydrant"
     title: "Fire hydrant"

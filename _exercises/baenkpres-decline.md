@@ -1,7 +1,7 @@
 ---
 title: "Bænkpres, decline"
 excerpt: "Liggende på en skrå bænk bruger du enten håndvægte eller en vægtstang. Bevægelsen starter med strakte arme og vægten føres ned indtil albuerne er omkring 90 grader. Tilbage til udgangspunktet."
-redirect_from: /oevelse/baenkpres-decline
+permalink: /oevelse/baenkpres-decline
 language: da
 header:
   overlay_image: /assets/images/exercises/baenkpres-decline-0.jpg
@@ -11,19 +11,16 @@ training_type:
 training_focus: 
 equipment:
 muscle_group:
-alternative_titles:
-  - Albuebøj i kabel
-  - albuebøj
 gallery:
-  - url: /assets/baenkpres-decline-0.jpg
+  - url: /assets/images/exercises/baenkpres-decline-0.jpg
     image_path: /assets/images/exercises/baenkpres-decline-0.jpg
     alt: "Bænkpres, decline"
     title: "Bænkpres, decline"
-  - url: /assets/baenkpres-decline-1.jpg
+  - url: /assets/images/exercises/baenkpres-decline-1.jpg
     image_path: /assets/images/exercises/baenkpres-decline-1.jpg
     alt: "Bænkpres, decline"
     title: "Bænkpres, decline"
-  - url: /assets/baenkpres-decline-2.jpg
+  - url: /assets/images/exercises/baenkpres-decline-2.jpg
     image_path: /assets/images/exercises/baenkpres-decline-2.jpg
     alt: "Bænkpres, decline"
     title: "Bænkpres, decline"

@@ -1,7 +1,7 @@
 ---
 title: "Overhead dumbell lockout"
 excerpt: ""
-redirect_from: /oevelse/overhead-dumbell-lockout
+permalink: /oevelse/overhead-dumbell-lockout
 language: da
 header:
   overlay_image: /assets/images/exercises/overhead-dumbell-lockout-0.jpg
@@ -19,9 +19,8 @@ muscle_group:
   - Mave
   - Skuldre
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/overhead-dumbell-lockout-0.jpg
+  - url: /assets/images/exercises/overhead-dumbell-lockout-0.jpg
     image_path: /assets/images/exercises/overhead-dumbell-lockout-0.jpg
     alt: "Overhead dumbell lockout"
     title: "Overhead dumbell lockout"

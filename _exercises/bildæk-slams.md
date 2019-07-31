@@ -1,42 +1,41 @@
 ---
 title: "Bildæk, slams"
 excerpt: ""
-redirect_from: /oevelse/bildæk-slams
+permalink: /oevelse/bildæk-slams
 language: da
 header:
   overlay_image: /assets/images/exercises/bildæk-slams-0.jpg
   teaser: /assets/images/exercises/bildæk-slams-0.jpg
 categories:
   - Kondition og puls
-  - 
+  - <p>Primært fokus på kredsløbstræning, som giver høj puls og belaster det aerobe system maksimalt.</p>
 training_type: 
 training_focus: 
 equipment:
 muscle_group:
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/bildæk-slams-0.jpg
+  - url: /assets/images/exercises/bildæk-slams-0.jpg
     image_path: /assets/images/exercises/bildæk-slams-0.jpg
     alt: "Bildæk, slams"
     title: "Bildæk, slams"
-  - url: /assets/bildæk-slams-1.jpg
+  - url: /assets/images/exercises/bildæk-slams-1.jpg
     image_path: /assets/images/exercises/bildæk-slams-1.jpg
     alt: "Bildæk, slams"
     title: "Bildæk, slams"
-  - url: /assets/bildæk-slams-2.jpg
+  - url: /assets/images/exercises/bildæk-slams-2.jpg
     image_path: /assets/images/exercises/bildæk-slams-2.jpg
     alt: "Bildæk, slams"
     title: "Bildæk, slams"
-  - url: /assets/bildæk-slams-3.jpg
+  - url: /assets/images/exercises/bildæk-slams-3.jpg
     image_path: /assets/images/exercises/bildæk-slams-3.jpg
     alt: "Bildæk, slams"
     title: "Bildæk, slams"
-  - url: /assets/bildæk-slams-4.jpg
+  - url: /assets/images/exercises/bildæk-slams-4.jpg
     image_path: /assets/images/exercises/bildæk-slams-4.jpg
     alt: "Bildæk, slams"
     title: "Bildæk, slams"
-  - url: /assets/bildæk-slams-5.jpg
+  - url: /assets/images/exercises/bildæk-slams-5.jpg
     image_path: /assets/images/exercises/bildæk-slams-5.jpg
     alt: "Bildæk, slams"
     title: "Bildæk, slams"

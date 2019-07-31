@@ -1,7 +1,7 @@
 ---
 title: "Over og under hæk"
 excerpt: "Hop over den første hæk og kravl under den næste hæk på skift."
-redirect_from: /oevelse/over-og-under-haek
+permalink: /oevelse/over-og-under-haek
 language: da
 header:
   overlay_image: /assets/images/exercises/over-og-under-haek-0.jpg
@@ -14,15 +14,15 @@ muscle_group:
 alternative_titles:
   - Op og ned under hæk
 gallery:
-  - url: /assets/over-og-under-haek-0.jpg
+  - url: /assets/images/exercises/over-og-under-haek-0.jpg
     image_path: /assets/images/exercises/over-og-under-haek-0.jpg
     alt: "Over og under hæk"
     title: "Over og under hæk"
-  - url: /assets/over-og-under-haek-1.jpg
+  - url: /assets/images/exercises/over-og-under-haek-1.jpg
     image_path: /assets/images/exercises/over-og-under-haek-1.jpg
     alt: "Over og under hæk"
     title: "Over og under hæk"
-  - url: /assets/over-og-under-haek-2.jpg
+  - url: /assets/images/exercises/over-og-under-haek-2.jpg
     image_path: /assets/images/exercises/over-og-under-haek-2.jpg
     alt: "Over og under hæk"
     title: "Over og under hæk"

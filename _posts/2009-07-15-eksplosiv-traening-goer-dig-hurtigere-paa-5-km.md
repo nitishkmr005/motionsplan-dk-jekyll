@@ -1,10 +1,10 @@
 ---
 title: "Eksplosiv træning gør dig hurtigere på 5 km"
-redirect_from: /artikel/eksplosiv-traening-goer-dig-hurtigere-paa-5-km
+permalink: /artikel/eksplosiv-traening-goer-dig-hurtigere-paa-5-km
 language: da
 header:
-  overlay_image: /assets/images/RunningCheeta.jpg
-  teaser: /assets/images/RunningCheeta.jpg
+  overlay_image: /assets/images/blog/eksplosiv-traening-goer-dig-hurtigere-paa-5-km.jpg
+  teaser: /assets/images/blog/eksplosiv-traening-goer-dig-hurtigere-paa-5-km.jpg
 tags:
   - styrketræning
   - webclips

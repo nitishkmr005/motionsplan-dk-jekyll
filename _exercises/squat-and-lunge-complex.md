@@ -1,7 +1,7 @@
 ---
 title: "Squat and lunge complex"
 excerpt: ""
-redirect_from: /oevelse/squat-and-lunge-complex
+permalink: /oevelse/squat-and-lunge-complex
 language: da
 header:
   overlay_image: /assets/images/exercises/squat-and-lunge-complex-0.jpg
@@ -20,29 +20,28 @@ muscle_group:
   - Forlår
   - Lægge
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/squat-and-lunge-complex-0.jpg
+  - url: /assets/images/exercises/squat-and-lunge-complex-0.jpg
     image_path: /assets/images/exercises/squat-and-lunge-complex-0.jpg
     alt: "Squat and lunge complex"
     title: "Squat and lunge complex"
-  - url: /assets/squat-and-lunge-complex-1.jpg
+  - url: /assets/images/exercises/squat-and-lunge-complex-1.jpg
     image_path: /assets/images/exercises/squat-and-lunge-complex-1.jpg
     alt: "Squat and lunge complex"
     title: "Squat and lunge complex"
-  - url: /assets/squat-and-lunge-complex-2.jpg
+  - url: /assets/images/exercises/squat-and-lunge-complex-2.jpg
     image_path: /assets/images/exercises/squat-and-lunge-complex-2.jpg
     alt: "Squat and lunge complex"
     title: "Squat and lunge complex"
-  - url: /assets/squat-and-lunge-complex-3.jpg
+  - url: /assets/images/exercises/squat-and-lunge-complex-3.jpg
     image_path: /assets/images/exercises/squat-and-lunge-complex-3.jpg
     alt: "Squat and lunge complex"
     title: "Squat and lunge complex"
-  - url: /assets/squat-and-lunge-complex-4.jpg
+  - url: /assets/images/exercises/squat-and-lunge-complex-4.jpg
     image_path: /assets/images/exercises/squat-and-lunge-complex-4.jpg
     alt: "Squat and lunge complex"
     title: "Squat and lunge complex"
-  - url: /assets/squat-and-lunge-complex-5.jpg
+  - url: /assets/images/exercises/squat-and-lunge-complex-5.jpg
     image_path: /assets/images/exercises/squat-and-lunge-complex-5.jpg
     alt: "Squat and lunge complex"
     title: "Squat and lunge complex"

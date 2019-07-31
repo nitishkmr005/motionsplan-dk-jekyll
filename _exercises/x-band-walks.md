@@ -1,7 +1,7 @@
 ---
 title: "X-band walks"
 excerpt: "Stil dig på elastikken så der er cirka 20 cm mellem fødderne. Hold elastikken i hænderne, sådan at det former et X foran dine ben. Stå rank med skulderne nede. Gå sidelæns."
-redirect_from: /oevelse/x-band-walks
+permalink: /oevelse/x-band-walks
 language: da
 header:
   overlay_image: /assets/images/exercises/x-band-walks-0.jpg
@@ -9,15 +9,12 @@ header:
 categories:
 training_type: 
 training_focus: 
-  - 
   - kropsstamme
 equipment:
   - elastik
 muscle_group:
-alternative_titles:
-  - birddog
 gallery:
-  - url: /assets/x-band-walks-0.jpg
+  - url: /assets/images/exercises/x-band-walks-0.jpg
     image_path: /assets/images/exercises/x-band-walks-0.jpg
     alt: "X-band walks"
     title: "X-band walks"

@@ -1,7 +1,7 @@
 ---
 title: "Mobilisering ankel"
 excerpt: ""
-redirect_from: /oevelse/mobilisering-ankel
+permalink: /oevelse/mobilisering-ankel
 language: da
 header:
   overlay_image: /assets/images/exercises/mobilisering-ankel-0.jpg
@@ -14,9 +14,8 @@ equipment:
   - kropsvægt
 muscle_group:
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/mobilisering-ankel-0.jpg
+  - url: /assets/images/exercises/mobilisering-ankel-0.jpg
     image_path: /assets/images/exercises/mobilisering-ankel-0.jpg
     alt: "Mobilisering ankel"
     title: "Mobilisering ankel"

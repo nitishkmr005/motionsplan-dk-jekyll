@@ -1,34 +1,33 @@
 ---
 title: "Bildæk, armstrækning med spring"
 excerpt: ""
-redirect_from: /oevelse/bildæk-armstrækning-med-spring
+permalink: /oevelse/bildæk-armstrækning-med-spring
 language: da
 header:
   overlay_image: /assets/images/exercises/bildæk-armstrækning-med-spring-0.jpg
   teaser: /assets/images/exercises/bildæk-armstrækning-med-spring-0.jpg
 categories:
   - Hård styrkeøvelse
-  - 
+  - <p>Primært anaerobe styrkeøvelser med maksimal intensitet. Gruppen er hovedsageligt multiledsøvelser, hvor flere muskler udfordres samtidig.</p>
 training_type: 
 training_focus: 
 equipment:
 muscle_group:
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/bildæk-armstrækning-med-spring-0.jpg
+  - url: /assets/images/exercises/bildæk-armstrækning-med-spring-0.jpg
     image_path: /assets/images/exercises/bildæk-armstrækning-med-spring-0.jpg
     alt: "Bildæk, armstrækning med spring"
     title: "Bildæk, armstrækning med spring"
-  - url: /assets/bildæk-armstrækning-med-spring-1.jpg
+  - url: /assets/images/exercises/bildæk-armstrækning-med-spring-1.jpg
     image_path: /assets/images/exercises/bildæk-armstrækning-med-spring-1.jpg
     alt: "Bildæk, armstrækning med spring"
     title: "Bildæk, armstrækning med spring"
-  - url: /assets/bildæk-armstrækning-med-spring-2.jpg
+  - url: /assets/images/exercises/bildæk-armstrækning-med-spring-2.jpg
     image_path: /assets/images/exercises/bildæk-armstrækning-med-spring-2.jpg
     alt: "Bildæk, armstrækning med spring"
     title: "Bildæk, armstrækning med spring"
-  - url: /assets/bildæk-armstrækning-med-spring-3.jpg
+  - url: /assets/images/exercises/bildæk-armstrækning-med-spring-3.jpg
     image_path: /assets/images/exercises/bildæk-armstrækning-med-spring-3.jpg
     alt: "Bildæk, armstrækning med spring"
     title: "Bildæk, armstrækning med spring"

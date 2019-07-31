@@ -1,7 +1,7 @@
 ---
 title: "Træk med tæerne"
 excerpt: "Stil dig på en madras uden sko på. Du skal komme frem ved kun at trække dig frem med tæerne. Hvor hurtigt kan du egentlig gøre det?"
-redirect_from: /oevelse/traek-med-taeerne
+permalink: /oevelse/traek-med-taeerne
 language: da
 header:
   overlay_image: /assets/images/exercises/traek-med-taeerne-0.jpeg
@@ -12,10 +12,8 @@ training_focus:
 equipment:
   - måtte
 muscle_group:
-alternative_titles:
-  - Reb
 gallery:
-  - url: /assets/traek-med-taeerne-0.jpeg
+  - url: /assets/images/exercises/traek-med-taeerne-0.jpeg
     image_path: /assets/images/exercises/traek-med-taeerne-0.jpeg
     alt: "Træk med tæerne"
     title: "Træk med tæerne"

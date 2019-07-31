@@ -1,43 +1,41 @@
 ---
 title: "Burpees"
 excerpt: "Sæt hænderne ned til fødderne. Spring tilbage med fødderne. Lig dig fladt ned på gulvet. Spring igen frem med fødderne, så du står på hele fodsålen. Herfra springer du op i luften og klapper over hovedet og bag ved ørelinjen. Start forfra."
-redirect_from: /oevelse/burpees
+permalink: /oevelse/burpees
 language: da
 header:
   overlay_image: /assets/images/exercises/burpees-0.JPG
   teaser: /assets/images/exercises/burpees-0.JPG
 categories:
   - Kondition og puls
-  - 
+  - <p>Primært fokus på kredsløbstræning, som giver høj puls og belaster det aerobe system maksimalt.</p>
 training_type: 
   - Kondition
 training_focus: 
-  - 
   - helkropsøvelse
-  - 
 equipment:
   - kropsvægt
 muscle_group:
 alternative_titles:
   - burpee
 gallery:
-  - url: /assets/burpees-0.JPG
+  - url: /assets/images/exercises/burpees-0.JPG
     image_path: /assets/images/exercises/burpees-0.JPG
     alt: "Burpees"
     title: "Burpees"
-  - url: /assets/burpees-1.JPG
+  - url: /assets/images/exercises/burpees-1.JPG
     image_path: /assets/images/exercises/burpees-1.JPG
     alt: "Burpees"
     title: "Burpees"
-  - url: /assets/burpees-2.JPG
+  - url: /assets/images/exercises/burpees-2.JPG
     image_path: /assets/images/exercises/burpees-2.JPG
     alt: "Burpees"
     title: "Burpees"
-  - url: /assets/burpees-3.JPG
+  - url: /assets/images/exercises/burpees-3.JPG
     image_path: /assets/images/exercises/burpees-3.JPG
     alt: "Burpees"
     title: "Burpees"
-  - url: /assets/burpees-4.JPG
+  - url: /assets/images/exercises/burpees-4.JPG
     image_path: /assets/images/exercises/burpees-4.JPG
     alt: "Burpees"
     title: "Burpees"

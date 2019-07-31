@@ -1,7 +1,7 @@
 ---
 title: "Udstrækning af skulder"
 excerpt: "Udstrækning af skulder. Man er sammen i par og trækker skulderbladene fra hinanden. "
-redirect_from: /oevelse/udstraekning-af-skulder
+permalink: /oevelse/udstraekning-af-skulder
 language: da
 header:
   overlay_image: /assets/images/exercises/udstraekning-af-skulder-0.JPG
@@ -13,10 +13,8 @@ training_type:
 training_focus: 
 equipment:
 muscle_group:
-alternative_titles:
-  - clean and jerk
 gallery:
-  - url: /assets/udstraekning-af-skulder-0.JPG
+  - url: /assets/images/exercises/udstraekning-af-skulder-0.JPG
     image_path: /assets/images/exercises/udstraekning-af-skulder-0.JPG
     alt: "Udstrækning af skulder"
     title: "Udstrækning af skulder"

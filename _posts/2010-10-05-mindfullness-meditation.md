@@ -1,10 +1,11 @@
 ---
 title: "Mindfulness meditation"
-redirect_from: /artikel/mindfullness-meditation
+permalink: /artikel/mindfullness-meditation
 language: da
+author: kathrine.christensen
 header:
-  overlay_image: /assets/images/shutterstock_31695-1.jpg
-  teaser: /assets/images/shutterstock_31695-1.jpg
+  overlay_image: /assets/images/blog/mindfullness-meditation.jpg
+  teaser: /assets/images/blog/mindfullness-meditation.jpg
 tags:
   - yoga
   - meditation

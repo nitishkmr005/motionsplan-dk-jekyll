@@ -1,7 +1,7 @@
 ---
 title: "Good morning"
 excerpt: "Stangen på skuldrene. Hold hovedet oppe og ryggen helt rank. Bøj dig forover, indtil din overkrop er parallel med jorden. Vend tilbage til samme stilling igen."
-redirect_from: /oevelse/goodmorning
+permalink: /oevelse/goodmorning
 language: da
 header:
   overlay_image: /assets/images/exercises/goodmorning-0.jpg
@@ -21,14 +21,17 @@ muscle_group:
 alternative_titles:
   - Goodmorning
 gallery:
-  - url: /assets/goodmorning-0.jpg
+  - url: /assets/images/exercises/goodmorning-0.jpg
     image_path: /assets/images/exercises/goodmorning-0.jpg
     alt: "Good morning"
     title: "Good morning"
-  - url: /assets/goodmorning-1.jpg
+  - url: /assets/images/exercises/goodmorning-1.jpg
     image_path: /assets/images/exercises/goodmorning-1.jpg
     alt: "Good morning"
     title: "Good morning"
+video:
+  provider: vimeo
+  id: 4705899
 last_modified_at: 2014-10-13T22:13:12Z
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Løb"
 excerpt: "Løb"
-redirect_from: /oevelse/loeb
+permalink: /oevelse/loeb
 language: da
 header:
   overlay_image: /assets/images/exercises/loeb-0.jpg
@@ -12,10 +12,8 @@ training_type:
 training_focus: 
 equipment:
 muscle_group:
-alternative_titles:
-  - burpee
 gallery:
-  - url: /assets/loeb-0.jpg
+  - url: /assets/images/exercises/loeb-0.jpg
     image_path: /assets/images/exercises/loeb-0.jpg
     alt: "Løb"
     title: "Løb"

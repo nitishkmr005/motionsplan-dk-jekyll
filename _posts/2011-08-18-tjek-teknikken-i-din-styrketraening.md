@@ -1,10 +1,10 @@
 ---
 title: "Tjek teknikken i din styrketræning"
-redirect_from: /artikel/tjek-teknikken-i-din-styrketraening
+permalink: /artikel/tjek-teknikken-i-din-styrketraening
 language: da
 header:
-  overlay_image: /assets/images/33-4-1_05082009101551.jpg
-  teaser: /assets/images/33-4-1_05082009101551.jpg
+  overlay_image: /assets/images/blog/tjek-teknikken-i-din-styrketraening.jpg
+  teaser: /assets/images/blog/tjek-teknikken-i-din-styrketraening.jpg
 tags:
   - styrketræning
 category:

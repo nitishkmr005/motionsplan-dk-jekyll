@@ -1,10 +1,10 @@
 ---
 title: "Kom i gang med løbetræningen"
-redirect_from: /artikel/kom-i-gang-med-loebetraeningen
+permalink: /artikel/kom-i-gang-med-loebetraeningen
 language: da
 header:
-  overlay_image: /assets/images/942138_42006736.jpg
-  teaser: /assets/images/942138_42006736.jpg
+  overlay_image: /assets/images/blog/kom-i-gang-med-loebetraeningen.jpg
+  teaser: /assets/images/blog/kom-i-gang-med-loebetraeningen.jpg
 tags:
   - webclips
   - løb

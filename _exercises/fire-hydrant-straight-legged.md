@@ -1,7 +1,7 @@
 ---
 title: "Fire hydrant - straight legged"
 excerpt: ""
-redirect_from: /oevelse/fire-hydrant-straight-legged
+permalink: /oevelse/fire-hydrant-straight-legged
 language: da
 header:
   overlay_image: /assets/images/exercises/fire-hydrant-straight-legged-0.jpg
@@ -16,14 +16,12 @@ equipment:
   - kropsvægt
 muscle_group:
   - Baller
-alternative_titles:
-  - 
 gallery:
-  - url: /assets/fire-hydrant-straight-legged-0.jpg
+  - url: /assets/images/exercises/fire-hydrant-straight-legged-0.jpg
     image_path: /assets/images/exercises/fire-hydrant-straight-legged-0.jpg
     alt: "Fire hydrant - straight legged"
     title: "Fire hydrant - straight legged"
-  - url: /assets/fire-hydrant-straight-legged-1.jpg
+  - url: /assets/images/exercises/fire-hydrant-straight-legged-1.jpg
     image_path: /assets/images/exercises/fire-hydrant-straight-legged-1.jpg
     alt: "Fire hydrant - straight legged"
     title: "Fire hydrant - straight legged"

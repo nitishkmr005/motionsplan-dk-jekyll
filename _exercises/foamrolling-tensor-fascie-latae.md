@@ -1,7 +1,7 @@
 ---
 title: "Foamrolling Tensor Fascie Latae"
 excerpt: ""
-redirect_from: /oevelse/foamrolling-tensor-fascie-latae
+permalink: /oevelse/foamrolling-tensor-fascie-latae
 language: da
 header:
   overlay_image: /assets/images/exercises/foamrolling-tensor-fascie-latae-0.jpg
@@ -14,9 +14,8 @@ equipment:
   - foamroller
 muscle_group:
 alternative_titles:
-  - 
 gallery:
-  - url: /assets/foamrolling-tensor-fascie-latae-0.jpg
+  - url: /assets/images/exercises/foamrolling-tensor-fascie-latae-0.jpg
     image_path: /assets/images/exercises/foamrolling-tensor-fascie-latae-0.jpg
     alt: "Foamrolling Tensor Fascie Latae"
     title: "Foamrolling Tensor Fascie Latae"

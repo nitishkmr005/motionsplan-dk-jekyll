@@ -1,10 +1,10 @@
 ---
 title: "Brug tests og få fremgang"
-redirect_from: /artikel/brug-tests-og-faa-fremgang
+permalink: /artikel/brug-tests-og-faa-fremgang
 language: da
 header:
-  overlay_image: /assets/images/Arthur-Jones-testing-a-prototype-delt-machine-at-the-Colorado-Experiment.jpg
-  teaser: /assets/images/Arthur-Jones-testing-a-prototype-delt-machine-at-the-Colorado-Experiment.jpg
+  overlay_image: /assets/images/blog/brug-tests-og-faa-fremgang.jpg
+  teaser: /assets/images/blog/brug-tests-og-faa-fremgang.jpg
 tags:
   - styrketræning
 category:
