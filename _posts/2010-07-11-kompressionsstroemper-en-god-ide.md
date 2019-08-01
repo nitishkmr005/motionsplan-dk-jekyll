@@ -1,6 +1,7 @@
 ---
 title: "Kompressionsstrømper - virker det?"
 permalink: /artikel/kompressionsstroemper-en-god-ide
+excerpt: "Kompressionsstrømper foretrækkes af flere og flere løbere, men virker kompressionsstrømper?"
 language: da
 header:
   overlay_image: /assets/images/blog/kompressionsstroemper-en-god-ide.jpg
@@ -9,6 +10,7 @@ tags:
   - løb
   - restitution
   - tøj
+  - kompressionstøj
 category:
   - Konditionstræning
   - Løb
@@ -27,23 +29,23 @@ Kompressionsstrømper har vundet størst indpas. Flere og flere løbere er begyn
 
 Så det er interessant at undersøge om de overhovedet har nogen effekt?
 
-**Kan kompressionsstrømper forbedre ens præstation under udførelsen, og er der nogen grund til at have dem på før og efter træningen hos raske mennesker?**
+Kan kompressionsstrømper forbedre ens præstation under udførelsen, og er der nogen grund til at have dem på før og efter træningen hos raske mennesker?
 
-### Hvad siger videnskaben?
+## Hvad siger videnskaben om kompressionsstrømper?
 
 Denne artikel koncentrerer sig om kompressionsstrømperne. Rigtig mange af studierne er lavet på folk, der har problemer med blodomløbet i benene, men enkelte studier er også lavet på raske mennesker. Nyere studier har fokuseret på raske mennesker.
 
 Flere studier har fokuseret på, om folk med trombose eller varicose vener kan forbedre deres træningspræstation ved at bruge kompressionsstrømper. Resultaterne er ikke helt klare.
 
-**Resultater for folk med blodomløb-problemer**
+### Resultater for folk med blodomløb-problemer
 
 De fleste studier på kompressionsstrømper er lavet på folk, der har været syge. Der er ikke lavet ret mange studier, hvor effekten er blevet belyst for trænende. Det er vigtigt at skrive, at effekten for folk med sygdomme ikke behøver at være de samme som for folk uden problemer med benene.
 
 Kahn (2003) fandt ikke nogen forbedringer i folks evne til at træne hos folk med trombose i benene, når de havde kompressionsstrømper på (se også Jones 1980).
 
-Zajkowski (2002) rapporterede at kompressionsstrømper er mere effektive til at kontrollere, at blodet ikke flyder itlbage i venerne, end de var til at effektivere venepumpen ved folk med trombose og varicose vener. Ibegbuna (2003) viste dog et signifikant forbedret venøst returløb hos folk med kronisk venøs insufficiency uanset hvilken ganghastighed forsøgspersonerne havde.
+Zajkowski (2002) rapporterede, at kompressionsstrømper er mere effektive til at kontrollere, at blodet ikke flyder itlbage i venerne, end de var til at effektivere venepumpen ved folk med trombose og varicose vener. Ibegbuna (2003) viste dog et signifikant forbedret venøst returløb hos folk med kronisk venøs insufficiency uanset hvilken ganghastighed forsøgspersonerne havde.
 
-**Resultater for raske mennesker**
+### Resultater for raske mennesker
 
 Jeg har kun kunnet finde tre studier af raske mennesker og kompressionsstrømper. Berry og McMurray (1987) viste, at kompressionsstrømper ikke forbedrer den maskimale iltoptagelse (VO2-max), men resultererede i at mælkesyren i blodet efter træningen var lavere, end kontrolgruppen uden strømper.
 
@@ -51,13 +53,13 @@ Ali et al (2007) demonstrerede at efter 10 km løb hos let trænede (recreationa
 
 Kemmler et al (2009) undersøgte 21 moderat trænede mænd, som løb på et løbebånd til der selvvalgte maksimale ydeevne. De lavede en test med kompressionsstrømper og en uden kompressionsstrømper. Løbepræstationen på anaerobe grænse blev forbedret med 1,5% og på deres aerobe grænse på 2,1%.
 
-**Opsamling**
+## Opsamling
 
 Det er tydeligt, at der stadig mangler mere forskning for at kunne give et helt præcist svar. Der mangler studier der kan belyse det venøse returløb, træningspræstationerne, muskeltræthed og DOMS, før vi kan sige noget endeligt. Det skal også understreges, at resultaterne for folk med problemer ikke direkte kan overføres til raske mennesker.
 
 Det ser dog ud til, at strømperne er en fordel ift. restitutionsfasen. Selvom Perrey et al (2009) ikke kunne finde forbedret restitution på de funktionelle parametre, så har flere studier vist, at ømheden kan være nedsat. Der er ingen studier der viser, at det er en ulempe at bruge strømperne.
 
-### Kan det betale sig at købe et par?
+## Kan det betale sig at købe et par kompressionsstrømper?
 
 Hvis man synes, at man har råd til strømperne, ser det ud til, at det kan være en fordel at bruge strømperne - især i restitutionsfasen.
 
@@ -65,11 +67,11 @@ Hvis man synes, at man har råd til strømperne, ser det ud til, at det kan vær
 
 Strømperne skal købes efter størrelse på læggen, ikke skostørrelsen. Du bør derfor købe dem et sted, hvor de ved dette og ikke bare kigger efter din skostørrelse. Det første de skal tænke er: hvor er målebåndet, så jeg kan måle din læg.
 
-**Hvad er det mest effektive pres?**
+## Hvad er det mest effektive pres?
 
 Det mest typiske pres i de forskellige studier ser ud til at være 30-40 mmHg. Der er imidlertid ikke noget forskning, der fortæller hvad det mest effektive pres er på et par kompressionsstrømper til folk der træner. Her venter vi også på mere forskning.
 
-### Hvad mangler vi svar på?
+## Hvad mangler vi svar på?
 
 Hvis du kender mere forskning, så skiv gerne, hvad du ved i kommentarerne. Vi savner stadig noget i den eksisterende litteratur:
 
