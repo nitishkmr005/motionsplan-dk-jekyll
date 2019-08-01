@@ -55,18 +55,20 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "lsolesen"
+  username               : "motionsplan"
 facebook:
-  username               : "lsolesen"
+  username               : "motionsplan"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : "Person" # Person or Organization (defaults to Person)
+  type                   : "Organization" # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "http://www.facebook.com/motionsplan"
+    - "https://twitter.com/lsolesen"
 
 
 # Site search
@@ -78,6 +80,19 @@ analytics:
   provider               : "google" # false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-3551451-2"
+
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/motionsplan"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/motionsplan"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/motionsplan"
 
 
 # Site Author
@@ -103,10 +118,10 @@ author:
 #      url: "http://www.pinterest.com/legestue"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/lsolesen/"
+      url: "https://github.com/motionsplan/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://motionsplan.dk"
+      url: "https://www.motionsplan.dk"
 
 
 # Reading Files

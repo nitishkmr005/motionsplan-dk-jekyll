@@ -1,6 +1,7 @@
 ---
-title: "Restition - hvordan bliver jeg hurtigst klar igen?"
-permalink: /artikel/restition-hvordan-bliver-jeg-hurtigst-klar-igen
+title: "Restitution - hvordan bliver jeg hurtigst klar igen?"
+permalink: /artikel/restitution-hvordan-bliver-jeg-hurtigst-klar-igen
+redirect_from: /artikel/restition-hvordan-bliver-jeg-hurtigst-klar-igen
 language: da
 header:
   overlay_image: /assets/images/blog/restition-hvordan-bliver-jeg-hurtigst-klar-igen.jpg
@@ -43,3 +44,5 @@ Vi har brug for flere studier til helt at dokumentere en effektiv restitution. K
 [![](https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=55589)](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=55589)
 
 [![](https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=61735)](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=61735)
+
+<a href="https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=55254" target="_blank" rel="nofollow noopener"> <img src="https://www.partner-ads.com/dk/visbanner.php?partnerid=28187&bannerid=55254" border="0"></a>
