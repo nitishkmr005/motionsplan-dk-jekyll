@@ -261,6 +261,9 @@ collections:
   exercises:
     output: true
     permalink: /oevelse/:path/
+  programs:
+    output: true
+    permalink: /program/:path/
   redirects:
     output: true
     permalink: /go/:path/
@@ -295,6 +298,20 @@ defaults:
       author: lsolesen
       tag_archive_path: /category/tags/
       category_archive_path: /oevelseskategorier/      
+# _programs
+  - scope:
+      path: ""
+      type: programs
+    values:
+      layout: program
+      author_profile: true
+      read_time: false
+      comments: true
+      share: true
+      related: true
+      author: lsolesen
+      tag_archive_path: /category/tags/
+      category_archive_path: /oevelseskategorier/
 # _redirects
   - scope:
       path: ""
