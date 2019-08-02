@@ -23,6 +23,4 @@ For at opbygge et godt styrketræningsprogram, er der en række faktorer du skal
 - **Skal jeg periodisere min træning?** Ja, det er en rigtig god ide. I første omgang handler det dog om at komme i gang med at styrketræning. Når du er i gang, kan du fx køre i en cyklus, hvor du træner relativt hårdt i tre uger og i en uge træner lettere, fx færre træningspas eller bare færre sæt og gentagelser.
 - **Betyder det noget, at jeg holder en pause?** Ja, det betyder meget. Allerede efter 14 dage uden træning går din muskelstyrke væsentligt ned. Men hvis du alligevel holder 14 dage, så betyder det ikke så meget mere, om du holder en måneds pause. Til gengæld kan du fastholde din nyvundne styrke ved bare et træningspas om ugen i flere måneder.
 
-Vi har lavet et slideshow, hvor du kan se en del af referencerne bag ovenstående påstande:
-
 Hvad tænker du på, når du laver dine programmer?

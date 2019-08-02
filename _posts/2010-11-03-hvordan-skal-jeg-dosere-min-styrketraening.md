@@ -19,7 +19,17 @@ Som med al mulig andet træning, skal man huske på, at det er i pauserne, at kr
 
 Nedenstående tabel viser studiets konklusioner:
 
-Konklusioner fra metaanalyse af 140 styrketræningsstudier (Rhea et al 2003) BegynderTrænetErfaringMindre end et årMere end et årBelastning60% 1RM80% 1RMSæt44Pr. uge32TypeHelkropHelkrop eller split### Referencer
+Konklusioner fra metaanalyse af 140 styrketræningsstudier (Rhea et al 2003) 
+
+|            | Begynder         | Trænet              |
+|------------|------------------|---------------------|
+| Erfaring   | Mindre end et år | Mere end et år      |
+| Belastning | 60% 1RM          | 80% 1RM             | 
+| Sæt        | 4                | 4                   |
+| Pr. uge    | 3                | 2                   |
+| Type       | Helkrop          | Helkrop eller split |
+
+## Referencer
 
 - [A meta-analysis to determine the dose response for strength development.](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=12618576&dopt=Abstract)[Rhea MR, Alvar BA, Burkett LN, Ball SD. Med Sci Sports Exerc. 2003 Mar;35(3):456-64.](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=12618576&dopt=Abstract)
 - [Styrketræning: Optimal træningsdosering for begyndere og trænede](http://www.motion-online.dk/styrketraening/styrke_-_artikler/styrketraening:_optimal_traeningsdosering_for_begyndere_og_traenede/)

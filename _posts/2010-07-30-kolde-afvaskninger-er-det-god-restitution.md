@@ -24,13 +24,13 @@ I sammenligninger mellem forskellige restitutionstyper, så har det kolde bad ik
 
 Nogle har foreslået, at nedkøling med koldt vand kan forbedre restitutionen efter aktivitet, der ødelægger muskelfibrene, men de efterlyser flere studier (Wilcock 2006), og nyere studier har ikke kunne vise at de kolde bade skulle forbedre resitutionen efter muskelødelæggende aktivitet (Jakeman et al 2009)
 
-### Konklusion
+## Konklusion
 
 Et koldt bad forbedrer tilsyneladende ikke restitutionstiden, så man kan udføre en bedre præstation dagen efter. Det er dog værd at tage med, at man op til 24 timer vil føle, at man har bedre ben (Kinugasa og Kilding 2009). Det betød dog ikke noget for de enkeltes præstation, men at opleve at tingene føles lettere, er også værd at tage med.
 
 Hvilke erfaringer har du med kolde bade?
 
-### Referencer
+## Referencer
 
 - [Crowe MJ](http://www.ncbi.nlm.nih.gov/pubmed?term=%22Crowe%20MJ%22%5BAuthor%5D), [O'Connor D](http://www.ncbi.nlm.nih.gov/pubmed?term=%22O%27Connor%20D%22%5BAuthor%5D), [Rudd D](http://www.ncbi.nlm.nih.gov/pubmed?term=%22Rudd%20D%22%5BAuthor%5D).: [Cold water recovery reduces anaerobic performance](http://www.ncbi.nlm.nih.gov/pubmed/17534786). International journal of sports medicine. 2007 Dec;28(12):994-8. Epub 2007 May 29.
 - [Morton RH](http://www.ncbi.nlm.nih.gov/pubmed?term=%22Morton%20RH%22%5BAuthor%5D).: [Contrast water immersion hastens plasma lactate decrease after intense anaerobic exercise](http://www.ncbi.nlm.nih.gov/pubmed/17118706), Journal of science and medicine in sport / Sports Medicine Australia. 2007 Dec;10(6):467-70. Epub 2006 Nov 22.

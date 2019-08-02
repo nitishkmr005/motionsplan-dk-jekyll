@@ -1,5 +1,6 @@
 ---
 title: "Du bliver smidigere af at strække"
+excerpt: "Udspænding og udstrækning er forbundet med mange myter. Men du bliver smidigere af at strække ud!"
 permalink: /artikel/du-bliver-smidigere-af-straekke
 language: da
 header:
@@ -11,27 +12,33 @@ tags:
 category:
   - Webclips
   - Yoga
-last_modified_at: 2013-04-22T23:01:14Z
+last_modified_at: 2019-08-02T11:45:14Z
 ---
 
-Du bliver smidigere af at strække, den maksimale styrke kan være nedsat lige efter udspændingsøvelser og utrænede får tilsyneladende præstationsfremgang efter længerevarende smidighedstræning.
+*[DOMS]: Delayed Onset Muscle Soreness
 
-### Udspænding forbedrer tilsyneladende:
+## TLDR;
 
-- den funktionelle smidighed eller "range of motion", hvilket måske skyldes en øget stræktolerance (Magnusson 1998; Schrier og Gossal 2000; Knudson, Magnusson og McHugh 2000)
+**Du bliver smidigere af at strække, den maksimale styrke kan være nedsat lige efter udspændingsøvelser og utrænede får tilsyneladende præstationsfremgang efter længerevarende smidighedstræning.**
+
+Udstrækning og udspænding er forbundet med mange myter. Nogen siger, at det ikke hjælper, mens andre oplever en stor effekt. Men hvad siger videnskaben egentlig om det at strække ud?
+
+## Udspænding forbedrer tilsyneladende:
+
+- den _funktionelle smidighed_ eller _"range of motion"_, hvilket måske skyldes en øget stræktolerance (Magnusson 1998; Schrier og Gossal 2000; Knudson, Magnusson og McHugh 2000)
 - præstationen både for styrke og udholdenhed for utrænede efter længerevarende træning (Kokkonen 2007)
 
-### Det kan ikke påvises, at udspænding:
+## Det kan ikke påvises, at udspænding:
 
 - har en skadesforebyggende effekt (Schrier og Gossal 2000; Knudson, Magnusson og McHugh 2000)
-- forhindrer anden-dags-ømhed (Schrier og Gossal 2000; Knudson, Magnusson og McHugh 2000, Herbert og Gabriel 2002)
+- forhindrer _anden-dags-ømhed (DOMS)_ (Schrier og Gossal 2000; Knudson, Magnusson og McHugh 2000, Herbert og Gabriel 2002)
 - ændrer musklens mekaniske egenskaber (Magnusson 1998)
 
-### Noget tyder på, at udspænding hæmmer:
+## Noget tyder på, at udspænding hæmmer:
 
 - maksimale kraft og hastigheden for kraftudvikling (rate of force development) (Critchell 2002, Rosenbaum og Hennig 1995) og den excentriske styrke (Bennett 1999), i op til en time efter udspænding.
 
-### Diskussion
+## Diskussion om effekten af udspænding
 
 Der findes ingen sandheder om udspænding, men forskerne bliver efterhånden klogere. Man har i flere år været relativt sikker på, at man bliver mere smidig af at strække, mens det er under stadig debat hvordan udspænding påvirker præstationen.
 
@@ -45,11 +52,11 @@ Der er så vidt vi ved ikke lavet deciderede undersøgelser af, om smidighed i s
 
 De fleste forsøgsprotokoller er lavet med statisk udspænding. Det kunne være interessant at undersøge om smidighed opnået med statisk udspænding kan overføres til idræt, som består mere af ballistiske bevægelser.
 
-### Konklusion
+## Konklusion om udstrækning
 
 Efter vores mening skal man hverken bare strække ud eller undlade det. Man skal gøre det på et kvalificeret grundlag. Hvis man skal lave maksimale præstationer, bør man ikke lave lange stræk på sine muskler i timen op til ens præstation. Til gengæld vil vi anbefale at strække ud efter træning for at gøre musklerne mere afspændte (hvilket sammen med nedvarmning kan gøre restitutionen hurtigere). Dels bliver man mere smidig, dels kan der være en chance for, at tilbagevendende udspænding over længere tid forbedrer ens præstationsevne.
 
-### Referencer
+## Referencer til udspænding og udstrækning
 
 - [Udstrækning eller ej?](http://www.helseform.dk/index.php?option=com_content&view=article&id=85:udstraekning-eller-ej&catid=57:traening)
 - [Knudson, Duane V., Peter Magnusson, Malachy McHugh (2000): "Current Issues In Flexibility Fitness", i: President s Council on Physcial Fitness and Sports. Research Digest, Series 3, No. 10, June 2000.](http://www.presidentschallenge.org/misc/news_research/research_digests/59131a.pdf)

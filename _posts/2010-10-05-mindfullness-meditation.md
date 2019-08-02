@@ -24,7 +24,7 @@ Du accepterer, at tankerne ”snyder” og fører opmærksomheden væk fra opgav
 
 Måske sker dette op til 100 gange for dig under en meditation - at du opdager tankerne går på flugt, og du vender derefter igen tilbage til at fokusere på åndedrættet. Igen og igen. Dette er at meditere. Du lærer at registrere, hvad det er for nogle automatiske tankemønstre og vaner, du har. Så der er tale om en helt vågen tilstand af total tilstedeværelse, hvor du forbliver bevidst, registrerende og observerende frem for at lade dig rive med af eksempelvis bekymringer og tanker om fortid og fremtid. Det handler ikke om at fortrænge, tværtimod, men i stedet om at mærke en følelse af accept og afklarethed. Meditation er et redskab til at stilne sindet for en stund- og tage en velfortjent pause.
 
-### Eksempler på mindfulness øvelser
+## Eksempler på mindfulness øvelser
 
 - **Yoga**: Dyrk yoga med fuld opmærksomhed på åndedræt og de fysiske øvelser
 - **Gående meditation**: Gå en tur, f.eks. i naturen, med fuld opmærksomhed på balance, fodsåler, ryg, hastighed samt på farver, dufte og alle de sanselige indtryk du oplever undervejs

@@ -14,7 +14,7 @@ category:
 last_modified_at: 2013-04-03T11:44:17Z
 ---
 
-**Hvordan laver man et program, hvor man træner hele kroppen på et træningspas? For dig der gerne vil træne mellem en og tre gange om ugen og vil bruge omkring en time på hver træning.**
+**Hvordan laver man et styrketræningsprogram, hvor man træner hele kroppen på et træningspas? For dig der gerne vil træne mellem en og tre gange om ugen og vil bruge omkring en time på hver træning.**
 
 Hvilke øvelser skal jeg vælge?
 ------------------------------

@@ -40,9 +40,9 @@ Hvordan implementerer jeg det så i min træning?
 - Brug en lavere vægt.
 - Hold øje med din teknik. Det stiller store krav til balancen og stabiliteten i kroppens kerne.
 
-### **Eksempler på unilateral træning**
+### Eksempler på unilateral træning
 
- Video of Sample of Unilateral Strength Exercises
+{% include video provider="video" id="Eh60H4J_bqw" %}
 
 Hvad gør du selv?
 -----------------

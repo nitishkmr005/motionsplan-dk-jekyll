@@ -21,7 +21,7 @@ På August Krogh Institut i København, hvor der forskes i idræt, blev jeg en d
 
 Og resultatet er imponerende og overraskende. Jeg løb seks minutter hurtigere til Copenhagen Maraton end de tidligere år, og jeg har sat markante personlige rekorder på både 5 og 10km. Jeg løb nogle tider, som jeg aldrig havde troet kunne lade sig gøre for mig.
 
-**Sæt det i system**
+## Sæt løbetræningen i system
 
 Det gælder overordnet om at systematisere og periodisere din træning. Vælg med omhu i hvilke perioder af året, du vil være i topform. Der skal være perioder, hvor det er ’off season’, og du ikke er konkurrenceklar. Husk på, at kroppen har brug for det.
 

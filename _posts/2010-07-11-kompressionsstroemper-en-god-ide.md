@@ -82,7 +82,7 @@ Hvis du kender mere forskning, så skiv gerne, hvad du ved i kommentarerne. Vi s
 
 Vi glæder os til at se mere forskning om kompressionsstrømper.
 
-### Referencer
+## Referencer om kompressionsstrømper
 
 - Kahn SR, et al. 2003. Effect of graduated elastic compression stockings on leg symptoms and signs during exercise in patients with deep venous thrombosis: a randomized crossover trial. J Thromb Haemost 1(3): 494-499.
 - Jones NA, et al. 1980. A physiological study of elastic compression stockings in venous disorders of the leg. Br J Surg 67(8): 569-572.
