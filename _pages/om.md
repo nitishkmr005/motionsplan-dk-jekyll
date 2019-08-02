@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "Om Motionsplan"
+title: "Om Motionsplans formål og tilblivelse"
 permalink: /om/
-excerpt: ""
+excerpt: "Motionsplan er skrevet for at formidle træningsøvelser, træningsprogrammer og viden om træning."
 author_profile: true
 author: lsolesen
 ---
