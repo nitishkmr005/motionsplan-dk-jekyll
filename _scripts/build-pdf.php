@@ -99,7 +99,11 @@ foreach ($fileList as $filename){
     $pdf->setTemporaryDirectory(__DIR__);
     $pdf->setLogo(new ExerciseImage(__DIR__ . '/../assets/images/mp-logo.png'), 'http://www.motionsplan.dk');
     $pdf->setContribLogo(new ExerciseImage(__DIR__ . '/../assets/images/vih_logo.jpg'), 'http://www.vih.dk');
-    $pdf->addNewPage(new ExerciseAdapter($document));
+    $adapter = new ExerciseAdapter($document);
+    $pdf->addNewPage($adapter);
+    
+    echo "Written " . $adapter->getTitle() . "\n";
+    
     // This is not really testing the library - just to see whether functions works.
     $pdf->Output($filename, 'F');
     
