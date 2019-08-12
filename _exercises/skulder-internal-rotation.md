@@ -1,5 +1,5 @@
 ---
-title: "Skulder, internal rotation"
+title: "Skulder, internal rotation from pullback"
 excerpt: ""
 instructions: ""
 permalink: /oevelse/skulder-internal-rotation
@@ -38,5 +38,3 @@ gallery:
     title: "Skulder, internal rotation"
 last_modified_at: 2015-04-10T13:27:17Z
 ---
-
-
