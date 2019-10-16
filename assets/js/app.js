@@ -44,6 +44,9 @@
      return false;
  }
 
+/**
+ * Calculate Cooper Clinic Mortality Risk Index for Men
+ */
  function CalculateBDD(thisform) {
      Alder = thisform.Alder.value * 1;
      Hvilepuls = thisform.Hvilepuls.value * 1;

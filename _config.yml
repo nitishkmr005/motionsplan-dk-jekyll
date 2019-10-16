@@ -39,6 +39,7 @@ atom_feed:
 after_footer_scripts:
   - /assets/js/plcal.js
   - /assets/js/mxcal.js
+  - /assets/js/app.js
 
 # reCaptcha
 # Register your domain at https://www.google.com/recaptcha/ and choose reCAPTCHA V2
