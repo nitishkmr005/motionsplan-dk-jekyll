@@ -43,6 +43,10 @@ På [Vejle Idrætshøjskole](http://www.vih.dk/) har vi adgang til en [InBody 57
 >
 > [Validating InBody® 570 Multi-frequency Bioelectrical Impedance Analyzer versus DXA for Body Fat Percentage Analysis](https://www.researchgate.net/profile/Ryan_Miller37/publication/318348260_Validating_InBody_R_570_Multi-frequency_Bioelectrical_Impedance_Analyzer_versus_DXA_for_Body_Fat_Percentage_Analysis/links/5964e3da458515183cfaaced/Validating-InBody-R-570-Multi-frequency-Bioelectrical-Impedance-Analyzer-versus-DXA-for-Body-Fat-Percentage-Analysis.pdf?origin=publication_detail)
 
+Dog skal du være opmærksom på, at fedtprocenten målt med DEXA-scanneren var omkring 5%-point højere både for mænd og kvinder. De bruger ikke meget tid i studiet til at diskutere det.
+
+> Mean  body  fat  percentage  for  DXA  was  25.61  ±  10.56%  across genders,  32.92  ±  7.74%  women,  and  21.77  ±  9.82%  men, respectively. Mean body fat percentage for MfBIA was 20.99 ± 9.34% across genders, 27.72 ± 7.27% women, and 17.46 ± 8.33% men.
+
 ### Hvordan udføres testen med InBody 570
 
 Det er ret enkelt at tage selve testen. Du følger bare instruktionerne på skærmen. Det besværlige er, at du møder op til testen under de rigtige forudsætninger, som beskrevet ovenfor.

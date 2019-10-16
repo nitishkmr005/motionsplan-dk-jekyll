@@ -68,7 +68,7 @@ Normalværdierne for WHR er følgende. Hvis du har højere værdier, så kan du 
 | Mænd    | > 1,0   |
 | Kvinder | > 0,8   |
 
-[Udregn talje-hofte-ratio](https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/undersoegelser-og-proever/kalkulatorer/th-talje-hofte-ratio/){: .btn .btn-success }
+[Udregn talje-hofte-ratio](https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/undersoegelser-og-proever/kalkulatorer/th-talje-hofte-ratio/){: .btn .btn--success }
 
 ## Opsamling
 

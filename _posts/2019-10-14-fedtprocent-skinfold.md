@@ -34,7 +34,7 @@ Formlen tager hensyn til alderen, da der typisk med alderen vil komme mere fedt 
 
 {% include video id="VBJuVfiKrbY" provider="youtube" %}
 
-[Fedtmåling med Durnin og Womersley](http://www.health-calc.com/body-composition/skinfold-d-and-w)
+[Fedtmåling med Durnin og Womersley](http://www.health-calc.com/body-composition/skinfold-d-and-w){: .btn .btn--info }
 
 ## Referencer
 
