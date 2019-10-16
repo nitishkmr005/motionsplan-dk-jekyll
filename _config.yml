@@ -36,6 +36,10 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 
+after_footer_scripts:
+  - /assets/js/plcal.js
+  - /assets/js/mxcal.js
+
 # reCaptcha
 # Register your domain at https://www.google.com/recaptcha/ and choose reCAPTCHA V2
 # reCaptcha:
