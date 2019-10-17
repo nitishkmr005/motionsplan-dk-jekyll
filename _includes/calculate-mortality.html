@@ -1,0 +1,123 @@
+<form name="test" onsubmit="return CalculateBDD(this);">
+    <table border="0" width="90%" cellspacing="1" cellpadding="4" align="center" bgcolor="#990000">
+        <tbody>
+            <tr bgcolor="#ccffcc">
+                <td colspan="2" bgcolor="#ffffff"><span style="font-size: small;">Vælg de værdier der passer på dig og tryk på Beregn.</span></td>
+            </tr>
+            <tr bgcolor="#f3f3eb">
+                <td>
+                    <div align="right"><span style="font-size: small;">Alder</span><span style="font-size: small;">:</span></div>
+                </td>
+                <td>
+                    <select name="Alder" size="1">
+                        <option selected="selected" value="-1">20-34</option>
+                        <option value="0">35-39</option>
+                        <option value="0">40-44</option>
+                        <option value="3">45-49</option>
+                        <option value="6">50-54</option>
+                        <option value="8">55-59</option>
+                        <option value="9">60-64</option>
+                        <option value="10">65-69</option>
+                    </select>
+                </td>
+            </tr>
+            <tr bgcolor="#f3f3eb">
+                <td>
+                    <div align="right"><span style="font-size: small;">Hvilepuls:</span></div>
+                </td>
+                <td>
+                    <select name="Hvilepuls" size="1">
+                        <option selected="selected" value="0">Under 80</option>
+                        <option value="2">Over 80</option>
+                    </select>
+                </td>
+            </tr>
+            <tr bgcolor="#f3f3eb">
+                <td>
+                    <div align="right"><span style="font-size: small;">Blodtryk:</span></div>
+                </td>
+                <td>
+                    <select name="Blodtryk" size="1">
+                        <option selected="selected" value="0">Under 140/90</option>
+                        <option value="2">Over 140/90</option>
+                    </select>
+                </td>
+            </tr>
+            <tr bgcolor="#f3f3eb">
+                <td>
+                    <div align="right"><span style="font-size: small;">Sukkersyge:</span></div>
+                </td>
+                <td>
+                    <select name="Sukkersyge" size="1">
+                        <option selected="selected" value="0">Nej</option>
+                        <option value="4">Ja</option>
+                    </select>
+                </td>
+            </tr>
+            <tr bgcolor="#f3f3eb">
+                <td>
+                    <div align="right"><span style="font-size: small;">Ryger:</span></div>
+                </td>
+                <td>
+                    <select name="Ryger" size="1">
+                        <option selected="selected" value="0">Aldrig</option>
+                        <option value="1">Tidligere</option>
+                        <option value="4">Nuværende</option>
+                    </select>
+                </td>
+            </tr>
+            <tr bgcolor="#f3f3eb">
+                <td>
+                    <div align="right"><span style="font-size: small;">BMI:</span></div>
+                </td>
+                <td>
+                    <select name="Bmi" size="1">
+                        <option selected="selected" value="0">Under 35</option>
+                        <option value="3">Over 35</option>
+                    </select>
+                </td>
+            </tr>
+            <tr bgcolor="#f3f3eb">
+                <td>
+                    <div align="right"><span style="font-size: small;">Meget lavt kondital (<35):</span></div>
+                </td>
+                <td>
+                    <select name="Kondital" size="1">
+                        <option selected="selected" value="0">Nej</option>
+                        <option value="2">Ja</option>
+                    </select>
+                </td>
+            </tr>
+            <tr bgcolor="#f3f3eb">
+                <td></td>
+                <td>
+                    <input name="submit" type="submit" value="Beregn" />
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor="#648cb4">
+                    <div align="right"><span style="color: #ffffff; font-size: small;"><b>Risiko-score</b></span></div>
+                </td>
+                <td bgcolor="#648cb4">
+                    <input id="Risikopoint" maxlength="5" name="Risikopoint" size="7" type="text" /><b> point</b>
+                </td>
+            </tr>
+            <tr bgcolor="#990000">
+                <td bgcolor="#648cb4">
+                    <div align="right"><b>Absolut risiko</b></div>
+                </td>
+                <td bgcolor="#648cb4">
+                    <input id="Risiko1" maxlength="5" name="Risiko1" size="7" type="text" /><b>%</b>
+                </td>
+            </tr>
+            <tr bgcolor="#990000">
+                <td bgcolor="#648cb4">
+                    <div align="right"><b>Relativ risiko </b></div>
+                </td>
+                <td bgcolor="#648cb4">
+                    <input id="Risiko2" maxlength="5" name="Risiko2" size="7" type="text" /><b>gange så stor risiko som gennemsnitlig jævnaldrende</b>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</form>
