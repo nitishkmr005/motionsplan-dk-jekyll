@@ -26,7 +26,7 @@ Muskelvækst er en kompliceret størrelse. Hvis musklerne skal vokse kræver det
 
 Hvorfor er det interessant at kigge på hypertrofi?
 
-1. **Muskeltværsnit øger potentialet for at udvikle kraft.**
+1. **Øget muskeltværsnit øger potentialet for at udvikle kraft.** Desto større musklen er, desto større er potentialet for at udvikle kraft.
 2. **Æstetik.** For nogen mennesker er større muskler et mål for at blive mere attraktiv.
 
 Træningen påvirker ikke bare de enkelte muskler, men kroppen som helhed. Træningen skal altså være tilrettelagt, så de opbyggende (anabolske) hormoner bliver opregulerede og de nedbrydende (katabolske) hormoner bliver holdt nede. Det kan man sikre gennem fornuftig træningsplanlægning, restitution og kost.
@@ -99,17 +99,20 @@ Din krop kan kun restituere fra en bestemt mængde arbejde.
 
 ### Tabel med angivelser
 
-|                     | MV  | MEV | MAV   | MRV  | Frequency | Intensity | Variation           |
-|---------------------|-----|-----|-------|------|-----------|-----------|---------------------|
-| Triceps[^triceps]   | 4   | 6   | 10-14 | >18  | 2-4/uge   | 8-20      | 2-3 vinkler         | 
-| Biceps[^biceps]     | 4-6 | 8   | 14-20 | >26  | 2-6/uge   | 8-15      | Fornuftigt          |
-| Abs[^abs]           | 0   | 0   | 16-20 | >25  | 3-5/uge   | 8-20      | Planer og reps      |
-| Trap[^trap]         | 0   | 0   | 12-20 | >26  | 2-6/uge   | 10-20     | None                |
-| Delts[^side-delts]  | 6   | 6-8 | 16-22 | >26  | 2-6/uge   | 10-20     | Planer og reps      |
-| Delts[^front-delts] | 0   | 0   | 6-8   | >12  | 1-2/uge   | 6-10      | 1-2 øvelser         |
-| Quads[^quads]       | 6   | 8   | 12-18 | >20  | 1-3/uge   | 8-20      | 2-3 øvelser         |
-| Chest[^chest]       | 8   | 10  | 12-20 | >22  | 1-3/uge   | 5-12      | Planer og isolation |
-| Back[^back]         | 8   | 10  | 14-22 | >25  | 2-4/uge   | 6-20      | Planer og isolation |
+|                           | MV  | MEV | MAV   | MRV  | Frequency | Intensity | Variation           |
+|---------------------------|-----|-----|-------|------|-----------|-----------|---------------------|
+| Triceps[^triceps]         | 4   | 6   | 10-14 | >18  | 2-4/uge   | 8-20      | 2-3 vinkler         | 
+| Biceps[^biceps]           | 4-6 | 8   | 14-20 | >26  | 2-6/uge   | 8-15      | Fornuftigt          |
+| Abs[^abs]                 | 0   | 0   | 16-20 | >25  | 3-5/uge   | 8-20      | Planer og reps      |
+| Trap[^trap]               | 0   | 0   | 12-20 | >26  | 2-6/uge   | 10-20     | None                |
+| Side Delts[^side-delts]   | 6   | 6-8 | 16-22 | >26  | 2-6/uge   | 10-20     | Planer og reps      |
+| Front Delts[^front-delts] | 0   | 0   | 6-8   | >12  | 1-2/uge   | 6-10      | 1-2 øvelser         |
+| Quads[^quads]             | 6   | 8   | 12-18 | >20  | 1-3/uge   | 8-20      | 2-3 øvelser         |
+| Chest[^chest]             | 8   | 10  | 12-20 | >22  | 1-3/uge   | 5-12      | Planer og isolation |
+| Back[^back]               | 8   | 10  | 14-22 | >25  | 2-4/uge   | 6-20      | Planer og isolation |
+| Hamstrings[^hamstrings]   | 4   | 6   | 10-16 | >20  | 2-3/uge   | 6-15      | Reps                |
+| Glutes[^glutes]           | 0   | 0   | 4-12  | >16  | 2-3/uge   | 6-20      | Reps                |
+| Calves[^calves]           | 6   | 8   | 12-16 | >20  | 2-4/uge   | 8-20      | Reps                |
 
 [^triceps]: [Triceps hypertrophy training](https://renaissanceperiodization.com/expert-advice/triceps-hypertrophy-training-tips)
 [^biceps]: [Biceps hypertrophy training](https://renaissanceperiodization.com/expert-advice/bicep-training-tips-hypertrophy)
@@ -120,6 +123,9 @@ Din krop kan kun restituere fra en bestemt mængde arbejde.
 [^quads]: [Quads hypertrophy training](https://renaissanceperiodization.com/expert-advice/quad-training-tips-hypertrophy)
 [^chest]: [Chest hypertrophy training](https://renaissanceperiodization.com/expert-advice/chest-training-tips-hypertrophy)
 [^back]: [Back Training Tips for hypertrophy](https://renaissanceperiodization.com/expert-advice/back-training-tips-hypertrophy)
+[^hamstring]: [Hamstring Training Tips for Hypertrophy](https://renaissanceperiodization.com/expert-advice/hamstring-training-tips-hyprtrophy)
+[^glutes]: [Glute Training Tips for Hypertrophy](https://renaissanceperiodization.com/expert-advice/glute-training-tips-hypertrophy)
+[^calves]: [Calves Training Tips for Hypertrophy](https://renaissanceperiodization.com/expert-advice/calves-training-tips-hypertrophy)
 
 ## Ledvinkler og variationer
 
