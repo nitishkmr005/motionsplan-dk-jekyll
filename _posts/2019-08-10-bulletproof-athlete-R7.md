@@ -11,6 +11,7 @@ category:
   - Styrketræning
   - Program
 last_modified_at: 2019-03-10T08:39:32Z
+excerpt: "Mike Robertson har udviklet programmet Bulletproof Athlete, som er bygget op efter princippet R7"
 ---
 
 Mike Robertson er en af de online trænere, jeg synes er mest spændende. Han har udviklet programmet Bulletproof Athlete, som er bygget op efter princippet R7. Egentlig udviklede de metoden for bedre at kunne forklare træning til klienterne, men nu bygger de træningsprogrammerne op efter det.[^alwyn]

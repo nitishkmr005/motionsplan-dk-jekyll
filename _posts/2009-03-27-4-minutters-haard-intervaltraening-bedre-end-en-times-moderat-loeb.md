@@ -1,6 +1,7 @@
 ---
 title: "Tabata: 4 minutters hård intervaltræning bedre end en times moderat løb"
 permalink: /artikel/4-minutters-haard-intervaltraening-bedre-end-en-times-moderat-loeb
+redirect_from: /artikel/4-minutters-h-rd-intervaltr-ning-bedre-end-en-times-moderat-l-b
 language: da
 header:
   overlay_image: /assets/images/blog/4-minutters-haard-intervaltraening-bedre-end-en-times-moderat-loeb.jpg

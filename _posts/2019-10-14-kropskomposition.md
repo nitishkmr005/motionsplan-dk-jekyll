@@ -90,7 +90,7 @@ Hydrostatisk vejning (vandvejning) er meget præcis, og det har tidligere været
 
 Det er ikke så let at få lavet en vandvejning.
 
-{% include figure image_path="https://www.southwales.ac.uk/media/images/SE6-USW_SPORTPARK048.height-400.jpg" caption="Hydrostatic Weighing. Image Credit: [University of South Wales](https://www.southwales.ac.uk/story/2202/)" alt="Hydrostatic Weighing" %}
+{% include figure image_path="https://www.verywellfit.com/thmb/3b3BZdCKjz9ankRyoZdRJ9clznE=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/underwater-hydrostatic-body-fat-weighing-453131436-5ad4f5c2642dca0036367079.jpg" caption="Hydrostatic Weighing. Image Credit: [Very Well Fit](https://www.verywellfit.com)" alt="Hydrostatic Weighing" %}
 
 ### Dual Energy X-Ray Absorptiometry (DEXA)
 
