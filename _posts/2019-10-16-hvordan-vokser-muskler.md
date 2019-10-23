@@ -111,7 +111,7 @@ Din krop kan kun restituere fra en bestemt mængde arbejde.
 | Chest[^chest]       | 8   | 10  | 12-20 | >22  | 1-3/uge   | 5-12      | Planer og isolation |
 | Back[^back]         | 8   | 10  | 14-22 | >25  | 2-4/uge   | 6-20      | Planer og isolation |
 
-[^triceps]: [Triceps hypertrophy training]](https://renaissanceperiodization.com/expert-advice/triceps-hypertrophy-training-tips)
+[^triceps]: [Triceps hypertrophy training](https://renaissanceperiodization.com/expert-advice/triceps-hypertrophy-training-tips)
 [^biceps]: [Biceps hypertrophy training](https://renaissanceperiodization.com/expert-advice/bicep-training-tips-hypertrophy)
 [^abs]: [Abs hypertrophy training](https://renaissanceperiodization.com/expert-advice/ab-training)
 [^trap]: [Trap hypertrophy training](https://renaissanceperiodization.com/expert-advice/trap-training-tips-hypertrophy)
@@ -135,3 +135,5 @@ Følger senere.
 
 - [Physiology of muscle hypertrophy](https://renaissanceperiodization.com/expert-advice/physiology-of-muscle-hypertrophy)
 - [Training Volume Landmarks for Muscle Growth](https://renaissanceperiodization.com/training-volume-landmarks-muscle-growth/)
+
+## Noter
