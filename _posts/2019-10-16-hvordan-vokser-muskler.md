@@ -82,7 +82,11 @@ Forudsætningerne for angivelserne af antallet af arbejdssæt er:
 
 For at et sæt tæller i forhold til en muskelgruppe, så skal muskelgruppen være den primære bevæger i øvelsen. I Mike Israetels angivelser er der indregnet, at fx triceps også arbejder med i en chinup og pullup, men det tæller ikke som et triceps-sæt, fordi den ikke er den primære bevægelsesmuskel.
 
-Angivelserne er naturligvis individuelle, og du kan læse mere om, [hvordan du kan finde dine egne værdier i Mike Israetels artikel](https://renaissanceperiodization.com/training-volume-landmarks-muscle-growth/).
+Mike Israetel forklarer lidt om de optimale rep-ranges i denne video:
+
+{% include video provider="youtube" id="p9xP8P-LhOs" %}
+
+Angivelserne for de ugentlige sæt er naturligvis individuelle, og du kan læse mere om, [hvordan du kan finde dine egne værdier i Mike Israetels artikel](https://renaissanceperiodization.com/training-volume-landmarks-muscle-growth/).
 
 ### MV = Maintenance Volume
 
@@ -105,6 +109,10 @@ Her får du de bedste _gains_. Men MAV vil skifte i løbet af træningen - måsk
 Din krop kan kun restituere fra en bestemt mængde arbejde.
 
 > Once all of your body’s recovery systems are in full use, any more disruption to the system (training being a big one) will cause incomplete recovery during that time. Yes, training hard is great, but if you train harder than your body can recover from, you can forget about growing because your body won’t grow any muscle if it can’t recover on a regular basis.
+
+Hør Mike Israetel selv forklare begreberne.
+
+{% include video id="p9xP8P-LhOs" provider="youtube" %}
 
 ### Tabel med angivelser
 
