@@ -22,7 +22,18 @@ toc: true
 [MAV]: Maximum Adaptive Volume
 [MRV]: Maximum Recoverable Volume
 
-Muskelvækst er en kompliceret størrelse, men meget tyder på, at den væsentligste _driver_ til hypertrofi er træningsvolumen og den mekaniske spænding i musklerne og -fibrene. Muskelskade er en biprodukt af den mekaniske spænding, men ikke i sig selv nødvendig for muskelvækst.
+Muskelvækst er en kompliceret størrelse. Hvis musklerne skal vokse kræver det først og fremmest, at kroppen er i **overskud**. Det betyder, at træningen skal være planlagt, så man også når at **restituere**, og at kroppen er i **energioverskud** gennem kosten. Den enkeltes genetik spiller naturligvis også kraftigt ind i evnen til at vokse - og et er klart lettere for mænd end kvinder pga. den hormonelle sammensætning.
+
+Hvorfor er det interessant at kigge på hypertrofi?
+
+1. **Muskeltværsnit øger potentialet for at udvikle kraft.**
+2. **Æstetik.** For nogen mennesker er større muskler et mål for at blive mere attraktiv.
+
+Træningen påvirker ikke bare de enkelte muskler, men kroppen som helhed. Træningen skal altså være tilrettelagt, så de opbyggende (anabolske) hormoner bliver opregulerede og de nedbrydende (katabolske) hormoner bliver holdt nede. Det kan man sikre gennem fornuftig træningsplanlægning, restitution og kost.
+
+## Fysiologiske drivere ved muskelvækst
+
+I **forhold til træning** tyder meget på, at den væsentligste _driver_ til hypertrofi er træningsvolumen og den mekaniske spænding i musklerne og -fibrene. Muskelskade er en biprodukt af den mekaniske spænding, men ikke i sig selv nødvendig for muskelvækst.
 
 På muskelcelleniveauer den _mekaniske spænding_ sandsynligvis den afgørende faktor for, om en muskelcelle vil vokse sig større. En muskelcelle er enten slukket eller tændt; enten rekrutteres den, eller også gør den ikke. 
 
@@ -35,7 +46,7 @@ Træning til udmattelse er mest relevant ved relativt lave eksterne belastninger
 
 ## RPE ved hypertrofi træning
 
-Typisk skal RPE ved hypertrofitræning formentlig ligge i den tungere ende. 
+Typisk skal RPE ved hypertrofitræning formentlig ligge i den højere ende. Hovedparten af sættene skal formentlig ligge mellem 8 og 9,5 RPE.
 
 ## Pauser ved træning for hypertrofi
 
@@ -105,7 +116,7 @@ Din krop kan kun restituere fra en bestemt mængde arbejde.
 [^abs]: [Abs hypertrophy training](https://renaissanceperiodization.com/expert-advice/ab-training)
 [^trap]: [Trap hypertrophy training](https://renaissanceperiodization.com/expert-advice/trap-training-tips-hypertrophy)
 [^side-delts]: [Rear and side Delts hypertrophy training](https://renaissanceperiodization.com/expert-advice/rearside-delt-tips-hypertrophy)
-[^front-side-delts]: [Front Delt hypertrophy training](https://renaissanceperiodization.com/expert-advice/front-delt-training-tips-hypertrophy)
+[^front-delts]: [Front Delt hypertrophy training](https://renaissanceperiodization.com/expert-advice/front-delt-training-tips-hypertrophy)
 [^quads]: [Quads hypertrophy training](https://renaissanceperiodization.com/expert-advice/quad-training-tips-hypertrophy)
 [^chest]: [Chest hypertrophy training](https://renaissanceperiodization.com/expert-advice/chest-training-tips-hypertrophy)
 [^back]: [Back Training Tips for hypertrophy](https://renaissanceperiodization.com/expert-advice/back-training-tips-hypertrophy)
@@ -116,48 +127,9 @@ Jeg tror, der er noget om det er udføre en øvelse ved forskellige ledvinkler, 
 
 Det samme med muskler over et led, hvor forløbet af deres udspring gør, at de breder sig over et relativt bredt område. Her er pectoralis major nok det bedste eksempel ift. incline og decline bænkpres.
 
-## Fysiologien bag muskelvækst
+## Fysiologiske betragtninger om muskelvækst
 
-Denne artikel fortæller dig ikke direkte, hvordan du får store muskler, men den forklarer hvilke fysiologiske mekanismer der ligger bagved og hvorfor det er så kompliceret at sige præcist, hvad der skal til.Muskelvækst kaldes også for hypertrofi. Fænomenet er interessant udfra 3 perspektiver:
-
-1. Evnen til at udvikle kraft er proportional med det fysiologiske muskeltværsnit. Dette har betydning i forbindelse med idræt og dagligdags muskelfunktion.
-2. Æstetikken. For mange mennesker er det et middel til at sælge sig selv som et biologisk attraktivt væsen.
-3. Forskningsmæssigt. Skeletmuskulaturens utrolige plasticitet (tilpasningsevne) er et spændende biologisk fænomen.Der er forskellige faktorer, der påvirker muskelvæksten. Først og fremmest træningen man laver og kosten man indtager. Det enkelte individs genetiske disponering er imidlertid også ekstrem vigtig.
-Træningen påvirker ikke bare de enkelte muskler, men også kroppen som helhed. Det er f.eks. vigtigt, at man træner således, at de anabolske (opbyggende) hormoner bliver opregulerede og de katabolske (nedbrydende) bliver holdt nede.
-
-Når man laver styrketræning (stimulus) sker der en masse ting i muskelcellerne som giver anledning til at der bliver frigivet vækstfaktorer (angivet med “?”). (Hvad der udløser vækstfaktorer, kan du læse om her)
-
-Vækstfaktorerne går ind og aktiverer generne (DNA) direkte eller indirekte.
-
-En opskrift (mRNA) bliver sendt ud fra cellekernen. Denne opskrift fortæller hvordan cellen skal sammensætte aminosyrer, så der bliver dannet lige det protein, der er brug for. Proteinerne bliver brugt til at danne ny muskelmasse.
-
-Vækstfaktorerne kan påvirke både hvor meget mRNA der skal laves, samt hvor effektivt mRNA skal oversættes.
-
-Vækstfaktorerne er også proteiner, som også er af hængige af, at deres mRNA bliver lavet og oversat. Der er derfor taler om en slags kaskade af begivenheder:
-
-Stimulus => mRNA for primære vækstfaktorer => primære vækstfaktorer => mRNA for sekundære vækstfaktorer => sekundære vækstfaktorer => mRNA for muskelprotein => muskelprotein
-
-Ovenstående figur illustrerer, hvordan de forskellige ting opreguleres og nedreguleres i en kæde af begivenheder. Man skal forestille sig at “grøn” udløser “rød”, som igen udløser “blå”. Inde i cellen foregår foregår der en masse af sådanne sekvenser samtidigt. Hvis man venter for kort tid inden man træner igen, risikerer man at bryde kæden inden den er løbet til ende og man derfor ikke får opreguleret de endelige stoffer (blå).
-
-Generelt kan man sige, at hvis man kun træner med moderat træningsindsats hver gang behøver man kortere restitutionstid (få dage). Træner man hårdt hver gang behøver længere restitutionstid (flere dage).
-
-Afsluttende kommentar : Som ovenstående figurer antyder, er der næsten flere ubesvarede spørgsmål end svar mht. hvad der styrer musklernes vækst. Der er masser af kulørte magasiner “derude”, der vil påstå at de kender svarene. Her på Motion-online accepterer vi begrænsninger i den eksisterende viden. Til gengæld skriver vi om det, ligeså snart den seriøse forskning kommer med nye spændende resultater
-
-## Kommentar
-
-Hypertrofi sker kun i meget lille grad fra et oeget fiberantal. Ydermere har nyeste forsking vist at det ogsaa er yderst sjaeldent at man faar en aendring af fibertyper. Dvs. at tesen om at man via styrketraening kan aendre type 1 fibre til type 2 fibre ikke holder.
-
-Det som reelt faar musklen til at vokse er man, som hjemmesiden ogsaa indikerer, generelt ikke 100% sikker paa. Og der er givetvis flere faktorer som spiller ind.
-
-En faktor man dog er rimelig sikker paa i forskerverdenen er en oeget myofibril taethed (flere sarkomerer) og dermed et oeget areal pr. fiber. Dette betyder i simpel forstand, at en muskelfiber (muskelcelle) kan vokse, ud fra proteinsyntesen (DNA-mRNA) som bliver paavirket af et stimulus (traening.)
-
-For ikke at blive for videnskabelig, kan det altsaa konkluderes at effekten af traeningen (i dette tilfaelde hypertrofi), ofte er genetisk bestemt. Dette er pga. af at type type 2a og 2x har en langt stoerre tendens til at fremprovokorere et oeget myofribil antal, og dermed faa et stoerre fysiologisk tvaersnit. Er man typen med mange type 1 fibre, vil man altsaa have en mindre tendens til hypertrofi.
-
-Dette betyder dog ikke at man ikke ville kunne udvikle samme kraft eller power. Dette har noget med neural tilpasning at goere.
-
-I praksis betyder dette, at person A og person B, vil med samme traening, ikke faa samme hypertrofi udbytte.
-
-Man kan dog goere flere ting for at fremme hypertrofi, selvom man ikke er foedt med de optimale fibre. Bla. er det muligt fremme (naturlig) vaeksthormon i kroppen. Dette har igen betydning fra insulin indholdet i kroppen, men dette vil jeg ikke komme ind paa, medmindre folk braender for naermere information?
+Følger senere.
 
 ## Referencer
 
