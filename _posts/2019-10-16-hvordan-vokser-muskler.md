@@ -21,6 +21,7 @@ toc: true
 [MEV]: Minimum Effective Volume
 [MAV]: Maximum Adaptive Volume
 [MRV]: Maximum Recoverable Volume
+[DOMS]: Delayed Onset Muscle Soreness
 
 Muskelvækst er en kompliceret størrelse. Hvis musklerne skal vokse kræver det først og fremmest, at kroppen er i **overskud**. Det betyder, at træningen skal være planlagt, så man også når at **restituere**, og at kroppen er i **energioverskud** gennem kosten. Den enkeltes genetik spiller naturligvis også kraftigt ind i evnen til at vokse - og et er klart lettere for mænd end kvinder pga. den hormonelle sammensætning.
 
@@ -33,16 +34,24 @@ Træningen påvirker ikke bare de enkelte muskler, men kroppen som helhed. Træn
 
 ## Fysiologiske drivere ved muskelvækst
 
-I **forhold til træning** tyder meget på, at den væsentligste _driver_ til hypertrofi er træningsvolumen og den mekaniske spænding i musklerne og -fibrene. Muskelskade er en biprodukt af den mekaniske spænding, men ikke i sig selv nødvendig for muskelvækst.
+Det er interessant, hvad der sker i kroppen på celleniveau, der får muskelcellerne til at vokse, men det er også ret kompliceret at forklare. Du kan læse mere om [i denne glimrende artikel om fysiologien bag muskelvækst ](https://renaissanceperiodization.com/expert-advice/physiology-of-muscle-hypertrophy)
 
-På muskelcelleniveauer den _mekaniske spænding_ sandsynligvis den afgørende faktor for, om en muskelcelle vil vokse sig større. En muskelcelle er enten slukket eller tændt; enten rekrutteres den, eller også gør den ikke. 
+I korte træk kræver muskelvækst et _stimulus_ og en efterfølgende _genopbygnings- og reperations_-fase.
 
-En muskelcelle skal være _tændt_ for at opleve en betydelig mekanisk spænding. Det er der groft sagt to strategier til opnå. 
+I forhold til **træning som stimulus** tyder meget på, at den væsentligste _driver_ til hypertrofi er træningsvolumen og den mekaniske spænding i musklerne og -fibrene og følsomheden over for strækket og kraften genereret i musklen (Damas, Libardi og Ugrinowitch 2017; Schoenfeld 2010). Muskelskade er en biprodukt af den mekaniske spænding, men måske ikke i sig selv nødvendig for muskelvækst, selvom nedbrydningen formentlig igangsætter reperationen, der er nødvendig for at få styrken tilbage (Kwon n.d.; Hernandez n.d.; Schoenfeld 2010).
+
+Grundlæggende kan man dog sige at musklen kan gå i gennem disse tre stadier for at få muskelvækst.
+
+- **Følsomhed over for spænding.** Det stress træning placerer på muskelfibrene fordi flere kontraktile proteiner linker, signalerne kommer hurtigere fra _motor units_, og strækket på fiberen fra bevægelsen forårsager en øget aktivering af proteinsyntesen gennem nogle komplicerede modeller, som . Det ser også ud til at cellehævelsen måske har effekt på muskelvæksten.
+- **Metabolit ophobning forårsaget af udtrætning.** Ophobning af lactat, hydrogen ioner (sænker pH) og phosphat-molekyler i cellerne kan også være med til at øge aktiveringen af proteinsyntesen gennem andre komplicerede processer.
+- **Muskelskade**. Når cellerne tager skade under træningen, vil de aktivere et immun respons, rydde op i cellerne og begynde reperationsprocessen, og derved stimuleres proteinsyntesen. I denne proces ser det ud til, at der også skabes satellitceller, som er med til at gøre musklerne stærkere. 
+
+På muskelcelleniveauet er den _mekaniske spænding_ sandsynligvis den afgørende faktor for, om en muskelcelle vil vokse sig større. En muskelcelle er enten slukket eller tændt; enten rekrutteres den, eller også gør den ikke. En muskelcelle skal være _tændt_ for at opleve en betydelig mekanisk spænding. Det er der groft sagt to strategier til opnå. 
 
 - **Høj ekstern belastning**. Enten kan den eksterne belastning være tilpas nok høj til, at vi rekrutterer en betydelig mængde fibre i den arbejdende muskel. 
 - **Udtrætning og metabolisk stress.** Eller kan vi løfte en relativ lav vægt mange gange nok til, at musklen udtrættes (metabolisk stress), og musklen tvinges til at rekruttere flere og flere af sine fibre for at kunne opretholde arbejdet. Derfor er metabolisk stress et værktøj til at skabe mekanisk spænding i flest mulige fibre i en given muskel. Udtrætning af musklerne til nær-udmattelse er sandsynligvis et vigtigt parameter - især ved træning med lavere belastning (mindre end 60-70% af 1RM).
  
-Træning til udmattelse er mest relevant ved relativt lave eksterne belastninger (mindre end 60-70% af 1RM), mens høje(re) eksterne belastninger burde være nok til at skabe mekanisk spænding i en tilpas stor mængde af fibre for at lave et signal til muskeltilvækst.
+Træning til udmattelse er formentlig mest relevant ved relativt lave eksterne belastninger (mindre end 60-70% af 1RM), mens høje(re) eksterne belastninger burde være nok til at skabe mekanisk spænding i en tilpas stor mængde af fibre for at lave et signal til muskeltilvækst.
 
 ## RPE ved hypertrofi træning
 
@@ -123,23 +132,33 @@ Din krop kan kun restituere fra en bestemt mængde arbejde.
 [^quads]: [Quads hypertrophy training](https://renaissanceperiodization.com/expert-advice/quad-training-tips-hypertrophy)
 [^chest]: [Chest hypertrophy training](https://renaissanceperiodization.com/expert-advice/chest-training-tips-hypertrophy)
 [^back]: [Back Training Tips for hypertrophy](https://renaissanceperiodization.com/expert-advice/back-training-tips-hypertrophy)
-[^hamstring]: [Hamstring Training Tips for Hypertrophy](https://renaissanceperiodization.com/expert-advice/hamstring-training-tips-hyprtrophy)
+[^hamstrings]: [Hamstring Training Tips for Hypertrophy](https://renaissanceperiodization.com/expert-advice/hamstring-training-tips-hyprtrophy)
 [^glutes]: [Glute Training Tips for Hypertrophy](https://renaissanceperiodization.com/expert-advice/glute-training-tips-hypertrophy)
 [^calves]: [Calves Training Tips for Hypertrophy](https://renaissanceperiodization.com/expert-advice/calves-training-tips-hypertrophy)
 
 ## Ledvinkler og variationer
 
-Jeg tror, der er noget om det er udføre en øvelse ved forskellige ledvinkler, når det drejer sig om muskler, der løber over to led. Eks. med det lange hoved af triceps. Der har jeg set data fra et endnu-ikke udgivet studie, der viser at det lange hoved vokser signifikant mere, når der laves triceps extensions med stor skulder fleksion (albuerne over hovedet) end sammenlignet med albuerne nede langs siden. Dette kan sandsynligvis forklares ved, at det lange hoved af triceps udsættes for spænding under et større stræk, når albuerne er over hovedet, hvorfor den derved også oplever en generelt større mekanisk spænding.
+Hvis man gerne vil have muskler til at vokse, så kan det have betydning at ramme musklerne fra forskellige ledvinkler. F løber triceps over to led, og det lange hoved af triceps kan rammes bedre af nogle øvelser end af andre. Det samme er tilfældet med brystmusklen. 
 
-Det samme med muskler over et led, hvor forløbet af deres udspring gør, at de breder sig over et relativt bredt område. Her er pectoralis major nok det bedste eksempel ift. incline og decline bænkpres.
+Det handler altså om, at musklen kan opleve mere eller mindre stræk og mekanisk belastning i forhold til arbejdsvinklerne.
 
-## Fysiologiske betragtninger om muskelvækst
+## Opsamling
 
-Følger senere.
+At få større muskler handler altså først og fremmest om at skabe mekanisk spænding, at ophobe metabolitter og muskelskade er formentlig et biprodukt, men kan muskelskaderne kan også være vækstsignaler ift. proteinsyntesen.
+
+Formentlig skal rep-range ligge mellem 8-20 og RPE skal ligge omkring 8.5 - 9 i de enkelte sæt. Man kan bruge Mike Israetels tabel til at finde ud af, hvor mange sæt, man skal lave ugentligt.
 
 ## Referencer
 
 - [Physiology of muscle hypertrophy](https://renaissanceperiodization.com/expert-advice/physiology-of-muscle-hypertrophy)
 - [Training Volume Landmarks for Muscle Growth](https://renaissanceperiodization.com/training-volume-landmarks-muscle-growth/)
+
+Damas, F., Libardi, C. A., & Ugrinowitsch, C. (2017). The development of skeletal muscle hypertrophy through resistance training: the role of muscle damage and muscle protein synthesis. European Journal of Applied Physiology, 118(3), 485-500. doi:10.1007/s00421-017-3792-9
+
+Schoenfeld, B. J. (2010). The Mechanisms of Muscle Hypertrophy and Their Application to Resistance Training. Journal of Strength and Conditioning Research, 24(10), 2857-2872. doi:10.1519/jsc.0b013e3181e840f3
+
+Kwon, Y. S. (n.d.). How Do Muscles Grow? Retrieved from https://www.unm.edu/~lkravitz/Article%20folder/musclesgrowLK.html
+
+Hernandez, R. J. (n.d.). Skeletal muscle hypertrophy. Retrieved from https://www.unm.edu/~lkravitz/Article%20folder/hypertrophy.html
 
 ## Noter
