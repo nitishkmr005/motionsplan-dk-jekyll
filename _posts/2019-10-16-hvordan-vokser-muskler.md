@@ -15,13 +15,13 @@ last_modified_at: 2019-10-16T23:14:14Z
 toc: true
 ---
 
-[RM]: Repetition Maximum
-[RPE]: Rate of Perceived Exertion
-[MV]: Maintenance Volume
-[MEV]: Minimum Effective Volume
-[MAV]: Maximum Adaptive Volume
-[MRV]: Maximum Recoverable Volume
-[DOMS]: Delayed Onset Muscle Soreness
+*[RM]: Repetition Maximum
+*[RPE]: Rate of Perceived Exertion
+*[MV]: Maintenance Volume
+*[MEV]: Minimum Effective Volume
+*[MAV]: Maximum Adaptive Volume
+*[MRV]: Maximum Recoverable Volume
+*[DOMS]: Delayed Onset Muscle Soreness
 
 Muskelvækst er en kompliceret størrelse. Hvis musklerne skal vokse kræver det først og fremmest, at kroppen er i **overskud**. Det betyder, at træningen skal være planlagt, så man også når at **restituere**, og at kroppen er i **energioverskud** gennem kosten. Den enkeltes genetik spiller naturligvis også kraftigt ind i evnen til at vokse - og et er klart lettere for mænd end kvinder pga. den hormonelle sammensætning.
 
