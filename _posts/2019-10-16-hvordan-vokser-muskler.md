@@ -112,7 +112,7 @@ Din krop kan kun restituere fra en bestemt mængde arbejde.
 
 Hør Mike Israetel selv forklare begreberne.
 
-{% include video id="p9xP8P-LhOs" provider="youtube" %}
+{% include video id="zBBYOc7M02o" provider="youtube" %}
 
 ### Tabel med angivelser
 
