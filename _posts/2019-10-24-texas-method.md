@@ -1,6 +1,6 @@
 ---
 title: "Texas Method"
-permalink: /maksimal-styrke/
+permalink: /texas-method/
 excerpt: "Texas Method er et styrketræningsprogram, som er gjort populært af Glenn Pendlay og Mark Rippetoe. Programmet er målrettet folk, der har løftet før."
 language: da
 header:
@@ -12,6 +12,14 @@ tags:
   - program
 last_modified_at: 2019-03-06T23:14:14Z
 toc: true
+feature_row:
+  - image_path: https://imgcdn.saxo.com/_9788771801835/0x500
+    alt: "Stærk"
+    title: "Stærk - Jacob Beermann"
+    excerpt: "Kunne du godt tænke dig at blive rigtigt stærk? Det kræver den rette hjælp, og den kan du heldigvis få af Jacob Beermann med bogen \"Stærk\". Her får du en god og grundig introduktion til hvordan man styrketræner bedst."
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/staerk_jacob-beermann_haeftet_9788771801835"
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
 ---
 
 *[AMRAP]: As many reps as possible
@@ -23,13 +31,9 @@ En af fordelene ved Texas Method er, at den i en meso-cyklus (en uge) både tage
 
 Sørg for at læse instruktionerne grundigt, inden du går i gang med at bruge programmet.
 
-Her er en hurtig oversigt over programmet:
-
-{% include figure image_path="https://www.powerliftingtowin.com/wp-content/uploads/2014/04/The-Texas-Method-Program.jpg" caption="Billede fra [Powerlifting To Win](https://www.powerliftingtowin.com/texas-method/)" alt="Oversigt over Texas Method" %}
-
 [Hent et Google Sheet](https://docs.google.com/spreadsheets/d/1otHqC33cBT2TB9RIRrXXyRLqZ3BN1-RZkIhtQPEe7DQ/edit#gid=0){: .btn .btn--large .btn--success }
 
-## Mandag: Volumen dag
+## Mandag: Volumendag
 
 A. **Squat** 5 x 5 @ 90% of 5RM
 B. **Bench Press or Overhead Press** 5 x 5 @ 90% 5RM
@@ -56,7 +60,7 @@ Squat er omkring 80% af mandagens vægt, men kun to sæt. Bænk eller _military 
 
 Træningen slutter med _chinups_ og arbejde med bagkæden, fx _back extensions_ eller _glute ham raise_. Rippetoe kan godt lide at man kører AMRAP for _chinups_, hvor man holder 5 minutters pause mellem sættene.
 
-## Friday: Intensitesdag
+## Friday: Intensitetsdag
 
 A. **Squat:** warm-up, then work up to one single, new 5RM
 B. **Bench Press, (if you bench pressed Monday)** or **Overhead Press (if OHP on Monday)**: work up to one single, new 5RM
@@ -76,7 +80,7 @@ Hvis du vil se Mark Rippetoe selv forklare _power cleans_, så se denne video:
 
 ## Vær opmærksom på
 
-Texas Method er et meget brugt program. Når vægtene begynder at blive rigtig tunge, så er pausetiderne i programmet meget vigtige. 
+Texas Method er et meget brugt program. Når vægtene begynder at blive rigtig tunge, så er pausetiderne i programmet meget vigtige. Det betyder at mandagens preogram godt kan tage et stykke tid at udføre.
 
 Texas Method kan varieres på mange forskellige måder, så du kan bruge det som et overordnet skabelon for din træning. Hvis du fx vil bruge det specifikt i forhold til _powerlifting_, så skal du nok justere balancen mellem presvarianterne og øge volumen af dødløft.
 
