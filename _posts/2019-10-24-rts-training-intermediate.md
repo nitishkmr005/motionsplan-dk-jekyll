@@ -1,16 +1,16 @@
 ---
 title: "Reactive Training Systems - Intermediate example template"
-permalink: /texas-method/
+permalink: /rts-generalized-intermediate/
 excerpt: "Mike Tusherer fra Reactive Training Systems har lavet et eksempel på et træningsprogram med brug af RPE og fatigue percents."
 language: da
 header:
-  overlay_image: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/553202146-1553267207.png?crop=1xw:0.75xh;center,top&resize=980:*
-  teaser: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/553202146-1553267207.png?crop=1xw:0.75xh;center,top&resize=980:*
+  overlay_image: https://articles.reactivetrainingsystems.com/wp-content/uploads/2015/11/seminar-photos-34-of-98.jpg
+  teaser: https://articles.reactivetrainingsystems.com/wp-content/uploads/2015/11/seminar-photos-34-of-98.jpg
 category:
   - Styrketræning
 tags:
   - program
-last_modified_at: 2019-03-06T23:14:14Z
+last_modified_at: 2019-10-24T23:14:14Z
 toc: true
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9788771801835/0x500
@@ -140,11 +140,43 @@ Hvis man arbejder med træthedsprocenter, så betyder det naturligvis en del, hv
 
 Jeg bruger selv [RTS App'en](/rts-app/) til at planlægge og logge min træning. App'en holder hele tiden styr på min estimerede 1RM (e1RM), og derved kan jeg hele tiden se, om jeg bliver stærkere. Det kræver selvfølgelig, at jeg nogenlunde kan estimere min RPE på de enkelte øvelser.
 
-## RTS Generalized Intermediate Programme
+## RTS Generalized Intermediate Program
 
 Mike Tuschscher har skrevet et eksempelprogram, der passer til David: en letøvet løfter, som går fra at træne tre gange om ugen til fire. David er svagest i bunden af alle sine konkurrenceløft.
 
 Du kan læse en rigtig fin [anmeldelse på powerliftingtowin.com](https://www.powerliftingtowin.com/rts-generalized-intermediate-program/).
+{: .notice .notice--success }
+
+Se en videoforklaring af programmet her.
+
+{% include video id="Iu27imhNvYw" provider="youtube" %}
+
+Programmet løber over 9 uger, og der er ikke to uger der er ens. Den første måned arbejder man fire dage om ugen, mens man den sidste måned arbejder tre dage om ugen.
+
+{% include figure image_path="https://www.powerliftingtowin.com/wp-content/uploads/2014/06/RTS-Generalized-Intermediate-Program.jpg" caption="RTS Generalized Intermediate Program fra [PowerliftingToWin](https://www.powerliftingtowin.com/rts-generalized-intermediate-program/)" alt="RTS Generalized Intermediate Program" %}
+
+Programmet er et godt eksempel på brugen af _fatigue percents_ og kompleks programmering.
+
+{% include figure image_path="https://www.powerliftingtowin.com/wp-content/uploads/2014/06/RTS-Generalized-Intermediate-Programming-Layout.jpg" caption="Programming Layout from [PowerliftingToWin](https://www.powerliftingtowin.com/rts-generalized-intermediate-program/)" alt="RTS Generalized Intermediate Program" %}
+
+Hvis du allerede er vant til at træne fire gange om ugen, så kan du godt lægge lidt _fatigue_ ind i den første uge, men ellers er programmet relativt hårdt.
+
+I forhold til ugentlig træthed, så er stress niveauet altså som følger:
+
+| Week | Fatigue Percent | Stress level |
+|------|-----------------|--------------|
+| 1    | 0%              | Deload       |
+| 2    | 30%             | Medium       |
+| 3    | 45%             | High         |
+| 4    | 30%             | Medium       |
+| 5    | 25%             | Medium       |
+| 6    | 37,5%           | High         |
+| 7    | 25%             | Medium       |
+| 8    | 25%             | Medium       |
+
+Realistisk set er det først i uge 9 af programmet, hvor det også er meningen, at man skal toppe, at man er fuldt udhvilet og fri for træthed.
+
+[Se RTS Generalized Intermediate Program](https://articles.reactivetrainingsystems.com/2015/12/01/the-rts-generalized-intermediate-program-by-mike-tuchscherer/){: .btn .btn--large .btn--success }
 
 ## Hvad så nu?
 
