@@ -45,6 +45,8 @@ Ideen bag waves er at udnytte _post-activation potentiation_ (PAP). Teorien er a
 
 Teoretisk set kan løfteren alts nyde øget kraft i de senere sæt ved at lave maksimale sammentrækninger i de forrige sæt. Derved kan man i de følgende sæt lave flere reps og løfte mere vægt. 
 
+Alt efter hvor godt PAP fungerer undervejs, så er det ikke sikkert, at RPE går lige så meget op igennem de forskellige waves, som man kunne forvente. Men den sidste wave vil helt sikkert være hård.
+
 ### Traditionel wave
 
 I en traditionel wave gør det tunge sidste sæt dig klar til de tungere sæt i de næste waves. Alle reps skal laves med intentionen om at flytte vægten så hurtigt som muligt i den koncentriske fase. Den maksimale kontraktion fra den første 3'er vil altså teoretisk set give PAP i den første 3'er i næste wave, fordi der jo er gået omkring 7 minutter mellem de to sæt.
@@ -53,21 +55,21 @@ I en traditionel wave gør det tunge sidste sæt dig klar til de tungere sæt i 
 
 #### 1. wave
 
-- 3 reps af 85% af 1RM
-- 2 reps af 88% af 1RM
-- 1 rep af 92% af 1RM
+- 3 reps af 85% af 1RM @ RPE 7,5
+- 2 reps af 88% af 1RM @ RPE 7,5
+- 1 rep af 92% af 1RM @ RPE 8
 
 #### 2. wave
 
-- 3 reps af 85% af 1RM _+ 5-10 kg (alt efter overskud)_
-- 2 reps af 88% af 1RM _+ 5-10 kg (alt efter overskud)_
-- 1 rep af 92% af 1RM _+ 5-10 kg (alt efter overskud)_
+- 3 reps af 85% af 1RM _+ 2-10 kg (alt efter overskud og øvelse)_
+- 2 reps af 88% af 1RM _+ 2-10 kg (alt efter overskud og øvelse)_
+- 1 rep af 92% af 1RM _+ 2-10 kg (alt efter overskud og øvelse)_
 
 #### 3. wave
 
-- 3 reps af 85% af 1RM _+ 5-20 kg (alt efter overskud)_
-- 2 reps af 88% af 1RM _+ 5-20 kg (alt efter overskud)_
-- 1 rep af 92% af 1RM _+ 5-20 kg (alt efter overskud)_
+- 3 reps af 85% af 1RM _+ 2-20 kg (alt efter overskud og øvelse)_
+- 2 reps af 88% af 1RM _+ 2-20 kg (alt efter overskud og øvelse)_
+- 1 rep af 92% af 1RM _+ 2-20 kg (alt efter overskud og øvelse)_
 
 ### Wave ladders
 
@@ -75,19 +77,19 @@ En traditionel wave har det tunge sæt til sidst i en wave, men du kan også ven
 
 #### 1. wave
 
-- 1 rep af 80%-85% af 1RM
+- 1 rep af 80%-85% af 1RM @ RPE 5,5-6,5
 - 2 reps af samme som forrige sæt
 - 3 reps af samme som forrige sæt
 
 #### 2. wave
 
-- 1 rep af samme som forrige wave _+ 2-10 kg (alt efter overskud)_
+- 1 rep af samme som forrige wave _+ 2-10 kg (alt efter overskud og øvelse)_
 - 2 reps af samme som forrige sæt
 - 3 reps af samme som forrige sæt
 
 #### 3. wave
 
-- 1 rep af samme som forrige wave _+ 0-10 kg (alt efter overskud)_
+- 1 rep af samme som forrige wave _+ 0-10 kg (alt efter overskud og øvelse)_
 - 2 reps af samme som forrige sæt
 - 3 reps af samme som forrige sæt
 
@@ -95,13 +97,17 @@ Hvis du kan fuldende en hel wave, kan du starte en ny wave. Hvis du ikke kan gen
 
 ### Wave baseret på RPE
 
-Ved brug af RPE som intensitetsskala for at vælge sin _wave_ sørger man for at have en _autoreguleret_ træning, hvor man tilføjer et passende antal kilo til stangen.
+Ved brug af RPE som intensitetsskala[^note] for at vælge sin _wave_ sørger man for at have en _autoreguleret_ træning, hvor man tilføjer et passende antal kilo til stangen.
+
+[^note]: Vi har skrevet mere om [RPE i denne artikel](/rpe/).
+
+{% include figure image_path="https://articles.reactivetrainingsystems.com/wp-content/uploads/2015/11/E1RM-TABLE.png" alt="RPE, reps og procentvise anstrengelse" caption="RPE, reps og procentvise anstrengelse" %}
 
 #### 1. wave
 
-- 3 reps @ RPE 8-8,5
-- 2 reps @ RPE 8-8,5.
-- 1 rep @ RPE 8-8,5
+- 3 reps @ RPE 8-8,5 ~ 86-88% af 1RM
+- 2 reps @ RPE 8-8,5 ~ 89-91% af 1RM
+- 1 rep @ RPE 8-8,5 ~ 92%-94% af 1RM
 
 #### 2. wave
 
