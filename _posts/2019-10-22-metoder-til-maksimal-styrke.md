@@ -15,11 +15,11 @@ last_modified_at: 2019-03-06T23:14:14Z
 toc: true
 ---
 
-[RM]: Repetition Maximum
-[RPE]: Rate of Percieved Exertion
-[SAID]: Specific Adaptations to Imposed Demands
-[PAP]: Post-activation potentiation
-[RFD]: Rate of Force Development
+*[RM]: Repetition Maximum
+*[RPE]: Rate of Percieved Exertion
+*[SAID]: Specific Adaptations to Imposed Demands
+*[PAP]: Post-activation potentiation
+*[RFD]: Rate of Force Development
 
 Maksimal styrke handler om at forbedre ens teknik, at kunne aktivere flere muskelfibre, at kunne koordinere musklerne og at være mentalt forberedt. Der er mange måder, løftere kan forøge deres muskelstyrke, og du kan finde et have af forskellige programmer, der ser vidt forskellige ud.
 
