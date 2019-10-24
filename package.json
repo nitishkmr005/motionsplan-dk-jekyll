@@ -1,7 +1,7 @@
 {
   "name": "motionsplan",
   "version": "1.0.0",
-  "description": "Build motionsplan",
+  "description": "Official site for motionpslan.dk.",
   "repository": {
     "type": "git",
     "url": "git://github.com/motionsplan/motionsplan-dk-jekyll.git"
