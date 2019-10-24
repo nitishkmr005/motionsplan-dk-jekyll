@@ -35,9 +35,9 @@ Sørg for at læse instruktionerne grundigt, inden du går i gang med at bruge p
 
 ## Mandag: Volumendag
 
-a. **Squat** 5 x 5 @ 90% of 5RM
-b. **Bench Press or Overhead Press** 5 x 5 @ 90% 5RM
-c. **Deadlift** 1 x 5 @ 90% 5RM
+1. **Squat** 5 x 5 @ 90% of 5RM
+2. **Bench Press or Overhead Press** 5 x 5 @ 90% 5RM
+3. **Deadlift** 1 x 5 @ 90% 5RM
 
 I programmet er valgt 5x5, fordi erfaringen siger at tungere vægte ikke giver nok volumen og har for stort strukturelt stress på kroppen, mens lettere vægte ikke vil give nok styrkefremgang. Mandag skifter man mellem _military press_ og _bænkpres_.
 
@@ -51,10 +51,10 @@ Fordi man har squattet virkelig tungt, så skal det
 
 ## Onsdag: Restitutionsdag
 
-a. **Squat** 2 x 5 @ 80% of Monday's work weight
-b. **Overhead Press (if you bench pressed Monday)** 3 x 5 * or **Bench Press (if OHP on Monday)** 3 x 5 @ 90% previous 5 x 5 weight
-c. **Chin-up** 3 x Bodyweight AMRAP (2-5 min pause)
-d. **Back Extension or Glute-Ham Raise** 5 x 10
+1. **Squat** 2 x 5 @ 80% of Monday's work weight
+2. **Overhead Press (if you bench pressed Monday)** 3 x 5 * or **Bench Press (if OHP on Monday)** 3 x 5 @ 90% previous 5 x 5 weight
+3. **Chin-up** 3 x Bodyweight AMRAP (2-5 min pause)
+4. **Back Extension or Glute-Ham Raise** 5 x 10
 
 Squat er omkring 80% af mandagens vægt, men kun to sæt. Bænk eller _military press_ er tre sæt med lidt lettere vægt end den seneste tunge 5 x 5 løft, så du kan mærke belastningen, men det ikke går ud over restitutionen. Military press på restituionen er en lille smule tungere end bænkpres i forhold til bænkpres siden den absolutte belastning er mindre.
 
@@ -62,9 +62,9 @@ Træningen slutter med _chinups_ og arbejde med bagkæden, fx _back extensions_ 
 
 ## Friday: Intensitetsdag
 
-a. **Squat:** warm-up, then work up to one single, new 5RM
-b. **Bench Press, (if you bench pressed Monday)** or **Overhead Press (if OHP on Monday)**: work up to one single, new 5RM
-c. **Power Clean or Power Snatch:** 5 x 3 / 6 x 2
+1. **Squat:** warm-up, then work up to one single, new 5RM
+2. **Bench Press, (if you bench pressed Monday)** or **Overhead Press (if OHP on Monday)**: work up to one single, new 5RM
+3. **Power Clean or Power Snatch:** 5 x 3 / 6 x 2
 
 Fredag er intensitetsdag, hvor man bygger oven på mandagens volumendag for at slå sine egen tidligere PR eller komme tæt på. Sørg for en ordentlig specifik opvarmning. Sørg for at der er mere vægt på end om mandagen, men at du stadig kan holde en korrekt teknik.
 
@@ -90,3 +90,5 @@ Texas Method kan varieres på mange forskellige måder, så du kan bruge det som
 
 - [Texas Method](https://www.t-nation.com/training/texas-method)
 - [Why The Texas Method May Be The Best Intermediate Program](https://www.powerliftingtowin.com/texas-method/)
+
+{% include feature_row type="left" %}
