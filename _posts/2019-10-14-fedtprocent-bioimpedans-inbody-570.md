@@ -15,11 +15,11 @@ last_modified_at: 2019-03-06T23:14:14Z
 toc: true
 ---
 
-[PBF]: Percent Body Fat
-[SMM]: Skeletal Muscle Mass
-[ECW]: Extra Cellular Water
-[ICW]: Intra Cellular Water
-[DEXA]: Dual-energy x-ray absorptiometry
+*[PBF]: Percent Body Fat
+*[SMM]: Skeletal Muscle Mass
+*[ECW]: Extra Cellular Water
+*[ICW]: Intra Cellular Water
+*[DEXA]: Dual-energy x-ray absorptiometry
 
 Bioimpedans er en let måde at måle kropssammensætning på. Teknologien blev kendt i løbet af 1980'erne, men præcisionen sammenlignet med 'guld-standarderne' _hydrostatisk vejning_ (vandvejning) og DEXA-scanner var ikke så høj. Teknologien har imidlertid udviklet sig og de nyere apparater er noget bedre. Mest kendt for sin præcision er _InBody_, som bl.a. i et studium viser en korrelation med DEXA-scanner på 88%[^note].
 

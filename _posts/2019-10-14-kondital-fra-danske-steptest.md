@@ -16,7 +16,7 @@ last_modified_at: 2019-03-06T23:14:14Z
 toc: true
 ---
 
-[MET]: Metabolic equivalent of Task
+*[MET]: Metabolic equivalent of Task
 
 Danske forskere har udviklet en modificeret steptest. Det er en præstationsbegrænset submaksimal test, hvor man træder op og ned af en forhøjning. Forhøjningen sættes i forhold til folks træningsniveau - og man følger nogle lette instruktioner på skærmen. Testen kan laves overalt, hvor man har en computer.
 

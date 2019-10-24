@@ -16,8 +16,8 @@ last_modified_at: 2019-03-06T23:14:14Z
 toc: true
 ---
 
-[RM]: Repetition Maximum
-[RPE]: Rate of Perceived Exertion
+*[RM]: Repetition Maximum
+*[RPE]: Rate of Perceived Exertion
 
 RM-begrebet kan først og fremmest bruges til at estimere forskellige RM-vægte, som kan anvendes i træningsprogrammer. Ud fra en maksimal test med fx 5 reps og en given løftet vægt, kan du således udregne dine andre estimerede løft med fx 1RM. Disse værdier kan du bruge som udgangspunkt for planlægningen af dine træningsprogrammer. 
 

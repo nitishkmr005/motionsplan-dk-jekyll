@@ -16,7 +16,7 @@ last_modified_at: 2019-03-06T23:14:14Z
 toc: true
 ---
 
-[WHR]: Waist/Hip-ratio
+*[WHR]: Waist/Hip-ratio
 
 Taljemålet er et af de enkleste mål for om man er overvægtig. Flere studier viser sammenhæng mellem taljemålet og risikoen for mange livsstilssygdomme. 
 

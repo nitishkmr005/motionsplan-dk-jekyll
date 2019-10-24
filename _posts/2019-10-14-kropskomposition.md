@@ -15,17 +15,17 @@ last_modified_at: 2019-03-06T23:14:14Z
 toc: true
 ---
 
-[PBF]: Percent Body Fat
-[SMM]: Skeletal Muscle Mass
-[ECW]: Extra Cellular Water
-[ICW]: Intra Cellular Water
-[FFM]: Fat Free Mass
-[DEXA]: Dual Energy X-Ray Absorptiometry
-[BIA]: Bioelectric Impedance Analysis
-[DLM]: Dry Lean Mass
-[LBM]: Lean Body Mass
-[SMM]: Skeletal Muscle Mass
-[BMI]: Body Mass Index
+*[PBF]: Percent Body Fat
+*[SMM]: Skeletal Muscle Mass
+*[ECW]: Extra Cellular Water
+*[ICW]: Intra Cellular Water
+*[FFM]: Fat Free Mass
+*[DEXA]: Dual Energy X-Ray Absorptiometry
+*[BIA]: Bioelectric Impedance Analysis
+*[DLM]: Dry Lean Mass
+*[LBM]: Lean Body Mass
+*[SMM]: Skeletal Muscle Mass
+*[BMI]: Body Mass Index
 
 Måling af kropskomposition, fedtprocent og muskelmasse virker i samfundet til at være vigtigt for både atleter og almindelige mennesker. Vi oplever stor interesse for at få målt fedtprocent og muskelmasse både af folk, der gerne vil tabe sig og tage på i vægt.
 

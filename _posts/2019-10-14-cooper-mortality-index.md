@@ -16,7 +16,7 @@ last_modified_at: 2019-03-06T23:14:14Z
 toc: true
 ---
 
-[BMI]: Body Mass Index
+*[BMI]: Body Mass Index
 
 “The Cooper Clinic Mortality Risk Index for Men” har udarbejdet en beregner **for mænd**, der ud fra oplysninger om alder, BMI, kondital, blodtryk og så vider kan beregne din relative risiko fro at dø af sygdom inden for de næste 15 år.
 
