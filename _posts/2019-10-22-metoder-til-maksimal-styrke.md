@@ -148,6 +148,17 @@ Alt efter hvor høj intensitet, du vælger at bruge i _rest-pause_, kan metoden 
 
 Med al træning handler det om at have et _progressivt overload_ og lave så meget arbejde, som du kan restituere fra.
 
+Du kan også benytte dig af en række andre metoder, som vi vil komme tilbage til senere:
+
+- Partials / inertia
+- Bands
+- Langsom excentrisk
+- Clustersets
+- Stage system
+- Excentrisk overload
+- Isometriske pauser
+- Løfte mod isometrisk modstand
+
 Hvilke metoder bruger du i forbindelse med maksimal styrke - og hvilke erfaringer har du med _waves_ og _rest-pause_?
 
 ## Referencer
