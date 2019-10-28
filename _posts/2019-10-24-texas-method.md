@@ -1,5 +1,5 @@
 ---
-title: "Texas Method"
+title: "Texas Method - program til letøvede"
 permalink: /texas-method/
 excerpt: "Texas Method er et styrketræningsprogram, som er gjort populært af Glenn Pendlay og Mark Rippetoe. Programmet er målrettet folk, der har løftet før."
 language: da
@@ -10,6 +10,7 @@ category:
   - Styrketræning
 tags:
   - program
+  - let øvet
 last_modified_at: 2019-03-06T23:14:14Z
 toc: true
 feature_row:

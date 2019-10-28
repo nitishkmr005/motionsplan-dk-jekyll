@@ -1,0 +1,52 @@
+---
+title: "Wall Ball"
+excerpt: "En medicinbold stødes fra brystet, med begge hænder, op over et punkt på væggen."
+instructions: "En medicinbold stødes fra brystet, med begge hænder, op over et punkt på væggen."
+permalink: /node/488/
+redirect_from: /node/488
+id: 488
+language: da
+header:
+  overlay_image: /assets/images/exercises/488-0.jpg
+  teaser: /assets/images/exercises/488-0-320.jpg
+tags:
+  - Helkropsøvelse
+  - Kondition
+  - knædomineret
+  - skub lodret
+  - Medicinbold
+  - Baller
+  - Bryst
+  - Forlår
+  - Skuldre
+categories:
+  - Helkropsøvelse
+training_type: 
+  - Kondition
+training_focus: 
+  - knædomineret
+  - skub lodret
+equipment:
+  - Medicinbold
+muscle_group:
+  - Baller
+  - Bryst
+  - Forlår
+  - Skuldre
+gallery:
+  - url: /assets/images/exercises/488-0.jpg
+    image_path: /assets/images/exercises/488-0-320.jpg
+    alt: "Wall Ball"
+    title: "Wall Ball"
+  - url: /assets/images/exercises/488-1.jpg
+    image_path: /assets/images/exercises/488-1-320.jpg
+    alt: "Wall Ball"
+    title: "Wall Ball"
+  - url: /assets/images/exercises/488-2.jpg
+    image_path: /assets/images/exercises/488-2-320.jpg
+    alt: "Wall Ball"
+    title: "Wall Ball"
+last_modified_at: 2014-10-30T10:12:39Z
+---
+
+Du skal bruge en medicinbold med en passende vægt, og et punkt i en passende højde på væggen, således at øvelsen passer til dit niveau. Stil dig med benene let spredte, således at du har balancen, og stød medicinbolden fra brystet, med begge hænder, og op over punktet på væggen. Lav en squat bevægelse i benene når du griber bolden, og fortsæt øvelsen. Lad enden bolden ramme jorden og fortsæt øvelsen, eller grib den på vej ned og fortsæt.
