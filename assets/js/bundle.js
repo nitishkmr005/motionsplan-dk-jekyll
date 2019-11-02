@@ -1,0 +1,1 @@
+console.error("Error: Cannot find module '/home/ec2-user/environment/motionsplan-dk-jekyll/assets/js/app.bundle.js' from '/home/ec2-user/environment/motionsplan-dk-jekyll'");
