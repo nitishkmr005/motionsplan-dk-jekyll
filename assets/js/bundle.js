@@ -255,7 +255,7 @@ $(document).ready(function() {
     $("#calc_wu26").click(function() {
         console.log("Calculate Fat Percent on Measurements");
         var f = fatm.CalculateFatPercentMeasurements();
-        $("#fat_wu26").val(f.getFatPercentMenUnder26(
+        $("#fat_wu26").val(f.getFatPercentWomenUnder26(
             Number($("[name='Laar_wu26']").val()),
             Number($("[name='Mave_wu26']").val()),
             Number($("[name='Underarm_wu26']").val())
