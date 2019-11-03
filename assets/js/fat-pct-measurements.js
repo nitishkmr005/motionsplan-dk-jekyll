@@ -3,8 +3,6 @@ let motionsplan = {}
 motionsplan.CalculateFatPercentMeasurements = function() {
 
   function getFatPercentMenUnder26(upperarm, abdomen, underarm) {
-    // resultat1 = Math.round(((Overarm_mu26 * 1.457 + Mave_mu26 * 0.5166 - Underarm_mu26 * 2.1376) / 10 - 10.2) * Math.pow(10, 1)) / Math.pow(10, 1)
-
     return ((upperarm * 1.457 + abdomen * 0.5166 - underarm * 2.1376) / 10 - 10.2) * Math.pow(10, 1) / Math.pow(10, 1);
   }
 
