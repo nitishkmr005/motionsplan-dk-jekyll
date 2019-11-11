@@ -37,7 +37,6 @@ atom_feed:
 
 
 after_footer_scripts:
-  - /assets/js/app.js
   - /assets/js/bundle.js
 
 # reCaptcha
@@ -159,9 +158,16 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
-keep_files:
+  - composer.phar
+  - composer.json
+  - composer.lock
+  - /vendor
+  - /src
   - .git
   - .svn
+keep_files:
+  - /assets/images
+  - /assets/pdf
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
@@ -286,7 +292,8 @@ defaults:
       comments: true
       share: true
       related: true
-      toc: false
+      toc: true
+      toc_sticky: true
       author: lsolesen      
 # _exercises
   - scope:

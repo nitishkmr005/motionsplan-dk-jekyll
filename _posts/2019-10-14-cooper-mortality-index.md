@@ -18,16 +18,16 @@ toc: true
 
 *[BMI]: Body Mass Index
 
-“The Cooper Clinic Mortality Risk Index for Men” har udarbejdet en beregner **for mænd**, der ud fra oplysninger om alder, BMI, kondital, blodtryk og så vider kan beregne din relative risiko fro at dø af sygdom inden for de næste 15 år.
+_The Cooper Clinic Mortality Risk Index for Men_ har udarbejdet en beregner **for mænd**, der ud fra oplysninger om alder, BMI, kondital, blodtryk og så vider kan beregne din relative risiko fro at dø af sygdom inden for de næste 15 år.
 
 Risikoen for at dø er stigende med alderne, så beregneren giver også en relativ risiko for at dø sammenlignet med en jævnaldrende, gennemsnitlig person.
 
+**N.B.** Beregneren virker kun op til 69 år og er kun for mænd.
+
 {% include calculate-mortality.html %}
 
-[Udfør testen på engelsk](http://www.health-calc.com/health/9-mortality-risk){: .btn .btn--success }
+[Udfør testen på engelsk](http://www.health-calc.com/health/9-mortality-risk){: .btn .btn--success .btn--large }
 
 ## Referencer
 
-Am J Prev Med. 2005 Oct;29(3):194-203.
-The Cooper Clinic Mortality Risk Index: clinical score sheet for men.
-Janssen I1, Katzmarzyk PT, Church TS, Blair SN.
+Janssen, Ian, Peter T. Katzmarzyk, Timothy S. Church, og Steven N. Blair. 2005. “The Cooper Clinic Mortality Risk Index: Clinical Score Sheet for Men”. American Journal of Preventive Medicine 29 (3): 194–203. https://doi.org/10.1016/j.amepre.2005.05.003.

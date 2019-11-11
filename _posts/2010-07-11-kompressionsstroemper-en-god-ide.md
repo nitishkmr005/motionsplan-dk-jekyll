@@ -1,21 +1,30 @@
 ---
-title: "Kompressionsstrømper - virker det?"
+title: "Kompressionsstrømper - virker det på præsation og restitution?"
 permalink: /artikel/kompressionsstroemper-en-god-ide
-excerpt: "Kompressionsstrømper foretrækkes af flere og flere løbere, men virker kompressionsstrømper?"
+excerpt: "Kompressionsstrømper foretrækkes af flere og flere løbere, men virker kompressionsstrømper på præstationsevnen og restitutionen?"
 language: da
 header:
   overlay_image: /assets/images/blog/kompressionsstroemper-en-god-ide.jpg
   teaser: /assets/images/blog/kompressionsstroemper-en-god-ide.jpg
+category:
+  - Konditionstræning
+  - Løb
+  - Webclips
 tags:
   - løb
   - restitution
   - tøj
   - kompressionstøj
-category:
-  - Konditionstræning
-  - Løb
-  - Webclips
 last_modified_at: 2019-03-03T20:27:57Z
+toc: true
+feature_row:
+  - image_path: https://www.billigsport24.dk/media/catalog/product/cache/1/image/17f82f742ffe127f42dca9de82fb58b1/6/1/6150_compression_calf_profcare_neoprene_kinesiological_effect_pl.jpg
+    alt: "Seger Compression Løbestrømper"
+    title: "Seger Compression Løbestrømper"
+    excerpt: "Segers kompressions løbestrømper giver den optimale blodgennemstrømning i underbenet, hvilket giver dig mange fordele, når du løber. Til orientering har vi kun set studier på CEPs strømper."
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=9397&htmlurl=https://www.billigsport24.dk/seger-compression-lobestromper-2-par-326708"
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
 ---
 
 Man har i mange år brugt kompressionstøj som behandling af folk med dårligt blodomløb i benene, men nu er kompressionstøj ved at vinde indpas i træningsverden. Flere og flere trænende håber at shorts, tights, strømper og fuldkropsdragte kan hjælpe på muskelpræstationen, lodret hoppehøjde, muskeltræthed, gentagne sprint præstationer, restitution og nedsat muskelømhed.
@@ -37,7 +46,7 @@ Denne artikel koncentrerer sig om kompressionsstrømperne. Rigtig mange af studi
 
 Flere studier har fokuseret på, om folk med trombose eller varicose vener kan forbedre deres træningspræstation ved at bruge kompressionsstrømper. Resultaterne er ikke helt klare.
 
-### Resultater for folk med blodomløb-problemer
+### Resultater for folk med blodomløbsproblemer
 
 De fleste studier på kompressionsstrømper er lavet på folk, der har været syge. Der er ikke lavet ret mange studier, hvor effekten er blevet belyst for trænende. Det er vigtigt at skrive, at effekten for folk med sygdomme ikke behøver at være de samme som for folk uden problemer med benene.
 
@@ -53,7 +62,7 @@ Ali et al (2007) demonstrerede at efter 10 km løb hos let trænede (recreationa
 
 Kemmler et al (2009) undersøgte 21 moderat trænede mænd, som løb på et løbebånd til der selvvalgte maksimale ydeevne. De lavede en test med kompressionsstrømper og en uden kompressionsstrømper. Løbepræstationen på anaerobe grænse blev forbedret med 1,5% og på deres aerobe grænse på 2,1%.
 
-## Opsamling
+## Opsamling på virkningen af kompressionsstrømper
 
 Det er tydeligt, at der stadig mangler mere forskning for at kunne give et helt præcist svar. Der mangler studier der kan belyse det venøse returløb, træningspræstationerne, muskeltræthed og DOMS, før vi kan sige noget endeligt. Det skal også understreges, at resultaterne for folk med problemer ikke direkte kan overføres til raske mennesker.
 
@@ -81,6 +90,8 @@ Hvis du kender mere forskning, så skiv gerne, hvad du ved i kommentarerne. Vi s
 - Er det nok at have et sleeve på (altså en strømpe uden fødder i (her er fordelen, at den ikke kommer til at lugte så slemt så hurtigt :)
 
 Vi glæder os til at se mere forskning om kompressionsstrømper.
+
+{% include feature_row type="left" %}
 
 ## Referencer om kompressionsstrømper
 

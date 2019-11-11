@@ -1,0 +1,70 @@
+<form class="calculator">
+  <fieldset>
+    <legend>Beregning af intensitet ud fra Procent af pulsreserven</legend>
+    <div class="form-group">
+      <label>Hvilepuls</label>
+      <input type="text" name="Hpuls">
+    </div>
+    <div class="form-group">
+      <label>Maxpuls</label>
+      <input type="text" name="Mpuls">
+    </div>
+    <div class="form-group">
+      <label>Arbejdspuls</label>
+      <input type="text" name="Apuls">
+    </div>
+    <input type="button" value="Beregn" id="calculate_hr_intensity_hrr">
+  </fieldset>
+  <fieldset class="results">
+    <div class="form-group">
+      <label>Intensitet (%)</label>
+      <input type="text" name="Ialt" disabled="disabled">
+    </div>
+  </fieldset>
+</form>
+
+<form class="calculator">
+  <fieldset>
+    <legend>Beregning af arbejdspuls ud fra Procent af pulsreserven - anvendes hvis man ønsker at beregne hvilken arbejdspuls man skal ligge på, for at holde en bestemt intensitet.</legend>
+    <div class="form-group">
+      <label>Hvilepuls</label>
+      <input type="text" name="Hpuls2">
+    </div>
+    <div class="form-group">
+      <label>Maxpuls</label>
+      <input type="text" name="Mpuls2">
+    </div>
+    <div class="form-group">
+      <label>Intensitet (%)</label>
+      <input type="text" name="Intens2">
+    </div>
+    <input type="button" value="Beregn" id="calculate_hr_intensity_work">
+  </fieldset>
+  <fieldset class="results">
+    <div class="form-group">
+      <label>Arbejdspuls</label>
+      <input type="text" name="Ialt2" disabled="disabled">
+    </div>
+  </fieldset>
+</form>
+
+<form class="calculator">
+  <fieldset>
+    <legend>Beregning af intensitet ud fra Procent af maksimalpulsen.</legend>
+    <div class="form-group">
+      <label>Maxpuls</label>
+      <input type="text" name="Mpuls3">
+    </div>
+    <div class="form-group">
+      <label>Arbejdspuls</label>
+      <input type="text" name="Apuls3">
+    </div>
+    <input type="button" value="Beregn" id="calculate_hr_intensity_from_max">
+  </fieldset>
+  <fieldset class="results">
+    <div class="form-group">
+      <label>Intensitet (% af maxpuls)</label>
+      <input type="text" name="Ialt3" disabled="disabled">
+    </div>
+  </fieldset>
+</form>

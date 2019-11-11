@@ -1,0 +1,18 @@
+<form class="calculator">
+    <fieldset>
+        <legend>Beregning af V<sub>max</sub></legend>
+        <div class="form-group">
+            <label>Maksimal iltoptagelse (ml/min)</label>
+            <input type="text" name="Maxvo2" value="4000">
+        </div>
+        <input type="button" value="Beregn" id="calculate_vmax_bike_vmax">
+    </fieldset>
+    <fieldset class="results">
+        <div class="form-group">
+            <label>V<sub>max</sub> (watt)</label>
+            <input type="text" name="Vmax" disabled="disabled">
+        </div>
+    </fieldset>
+</form>
+
+{% include calculate-vmax-running.html unit="watt" module="bike" %}
