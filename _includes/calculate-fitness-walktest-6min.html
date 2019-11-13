@@ -1,30 +1,30 @@
-<form class="calculator">
+<form class="calculator" id="calculator_walktest_6min">
     <fieldset>
-        <legend>Indtast distance og persondata</legend>
+        <legend>6 minutters gåtest. Indtast oplysninger.</legend>
         <div class="form-group">
             <label for="Meter">Distance tilbagelagt (meter)</label>
-            <input value="400" name="Meter" id="Meter">
+            <input type="number" min="50" max="1200" placeholder="fx 400" name="Meter" id="Meter">
         </div>
         <div class="form-group">
-            <label for="Koen">Køn</label></td>
-            <select name="Koen" id="Koen">
+            <label for="Koen">Køn</label>
+            <select name="Koen" id="Koen" size="2">
                 <option value="1">Mand</option>
                 <option value="0">Kvinde</option>
             </select>
         </div>
         <div class="form-group">
             <label for="Alder">Alder (år)</label>
-            <input value="60" name="Alder" id="Alder">
+            <input type="number" min="10" max="100" placeholder="fx 60" name="Alder" id="Alder">
         </div>
         <div class="form-group">
             <label for="Hoejde">Højde (cm)</label>
-            <input value="170" name="Hoejde" id="Hoejde">
+            <input type="number" min="50" max="272" placeholder="fx 170" name="Hoejde" id="Hoejde">
         </div>
         <div class="form-group">
             <label for="Vaegt">Vægt (kg)</label>
-            <input value="70" name="Vaegt" id="Vaegt">
+            <input type="number" min="20" max="200" placeholder="fx 70" name="Vaegt" id="Vaegt">
         </div>
-        <input type="button" value="Beregn" id="calculate_6min">
+        <input type="submit" value="Beregn">
     </fieldset>
     <fieldset class="results">
         <div class="form-group">
