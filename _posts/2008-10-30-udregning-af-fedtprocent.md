@@ -42,13 +42,13 @@ BMI er let at udregne, når du kender din højde og din vægt:
 
 I tabel 1 kan du se normalværdierne for BMI:
 
-| Tabel 1: Body Mass Index                     |||
-| Klassifikation | Kvinde (kg/m2) | Mand (kg/m2) |
-|----------------|----------------|--------------|
-| Undervægtig    | Under 20       | Under 20     |
-| Normal         | 20-25          | 20-25        |
-| Overvægtig     | 25-30          | 25-30        |
-| Fed            | 30 og højere   | 30 og højere |
+| Tabel 1: Body Mass Index                                           |||
+| Klassifikation | Kvinde (kg/m<sup>2</sup>) | Mand (kg/m<sup>2</sup>) |
+|----------------|---------------------------|-------------------------|
+| Undervægtig    | Under 20                  | Under 20                |
+| Normal         | 20-25                     | 20-25                   |
+| Overvægtig     | 25-30                     | 25-30                   |
+| Fed            | 30 og højere              | 30 og højere            |
 
 ## Fedtprocent ud fra udregning
 
