@@ -130,3 +130,5 @@ Günther, B. 1975. “Dimensional Analysis and Theory of Biological Similarity�
 Der Index der Körperfülle als Maß des Ernährungszustandes
 F. Rohrer
 Münchner Med. Wschr. 68(1921), 580-582
+
+## Noter
