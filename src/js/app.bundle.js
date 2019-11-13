@@ -13,6 +13,7 @@ const bmr = require('./bmr');
 const bmi = require('./bmi');
 const wilks = require('wilks-calculator');
 const karvonen = require('./karvonen');
+const index23 = require('./fitness-index-23');
 
 $(document).ready(function() {
 
@@ -236,14 +237,15 @@ $(document).ready(function() {
         var bf;
 
         var triceps = Number($("[name='triceps']").val());
+
         var calf = Number($("[name='calf']").val());
         var koen = Number($("[name='koen']").val());
 
         if (koen == 1) {
-            bf = 0.735 (triceps + calf) + 1.0;
+            bf = 0.735 * (triceps + calf) + 1.0;
         }
         else {
-            bf = 0.610 (triceps + calf) + 5.1;
+            bf = 0.610 * (triceps + calf) + 5.1;
         }
 
         $("[name='fatpercent']").val(bf);
@@ -411,7 +413,20 @@ $(document).ready(function() {
         $("[name='Konditalk']").val(resultat2);
         return false;
     });
-    // Calculate Index 100
+
+    // Calculate Index 23
+    $("#calculator_index23").submit(function() {
+        console.log("Calculate Index23");
+
+        var height = Number($("#height").val());
+        var weight = Number($("#weight").val());
+        var kondital = Number($("#kondital").val());
+
+        var i = index23.FitnessIndex23(height, weight);
+
+        $("#index23").val(i.getIndex23BasedOnFitnessLevel(kondital));
+        return false;
+    });    // Calculate Index 100
     $("#calculator_index100").submit(function() {
         console.log("Calculate Index100");
 

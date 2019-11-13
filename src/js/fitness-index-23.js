@@ -1,6 +1,6 @@
 let motionsplan = {}
 
-// height in m
+// height in cm
 // weight in kg
 motionsplan.FitnessIndex23 = function(height, weight) {
 

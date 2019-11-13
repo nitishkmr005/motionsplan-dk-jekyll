@@ -321,6 +321,7 @@ const bmr = require('./bmr');
 const bmi = require('./bmi');
 const wilks = require('wilks-calculator');
 const karvonen = require('./karvonen');
+const index23 = require('./fitness-index-23');
 
 $(document).ready(function() {
 
@@ -544,14 +545,15 @@ $(document).ready(function() {
         var bf;
 
         var triceps = Number($("[name='triceps']").val());
+
         var calf = Number($("[name='calf']").val());
         var koen = Number($("[name='koen']").val());
 
         if (koen == 1) {
-            bf = 0.735 (triceps + calf) + 1.0;
+            bf = 0.735 * (triceps + calf) + 1.0;
         }
         else {
-            bf = 0.610 (triceps + calf) + 5.1;
+            bf = 0.610 * (triceps + calf) + 5.1;
         }
 
         $("[name='fatpercent']").val(bf);
@@ -719,7 +721,20 @@ $(document).ready(function() {
         $("[name='Konditalk']").val(resultat2);
         return false;
     });
-    // Calculate Index 100
+
+    // Calculate Index 23
+    $("#calculator_index23").submit(function() {
+        console.log("Calculate Index23");
+
+        var height = Number($("#height").val());
+        var weight = Number($("#weight").val());
+        var kondital = Number($("#kondital").val());
+
+        var i = index23.FitnessIndex23(height, weight);
+
+        $("#index23").val(i.getIndex23BasedOnFitnessLevel(kondital));
+        return false;
+    });    // Calculate Index 100
     $("#calculator_index100").submit(function() {
         console.log("Calculate Index100");
 
@@ -889,7 +904,7 @@ $(document).ready(function() {
     });
 });
 
-},{"./1rm":2,"./bmi":4,"./bmr":5,"./cooper":7,"./cooper-running":6,"./etpunkttest":8,"./fat-pct":10,"./fat-pct-measurements":9,"./fitness-hr":11,"./karvonen":12,"./max-hr":13,"./topunkttest":14,"wilks-calculator":1}],4:[function(require,module,exports){
+},{"./1rm":2,"./bmi":4,"./bmr":5,"./cooper":7,"./cooper-running":6,"./etpunkttest":8,"./fat-pct":10,"./fat-pct-measurements":9,"./fitness-hr":11,"./fitness-index-23":12,"./karvonen":13,"./max-hr":14,"./topunkttest":15,"wilks-calculator":1}],4:[function(require,module,exports){
 let motionsplan = {}
 
 motionsplan.BMI = function(h, w) {
@@ -1388,6 +1403,42 @@ module.exports = motionsplan;
 },{}],12:[function(require,module,exports){
 let motionsplan = {}
 
+// height in cm
+// weight in kg
+motionsplan.FitnessIndex23 = function(height, weight) {
+
+  height = height / 100; // should be in meters for the following calculations
+  weight = weight; // in kg
+
+  // kondital i ml/kg/min
+  function getIndex23BasedOnFitnessLevel(kondital) {
+    return (kondital * weight) / (23 * height * height);
+  }
+
+  // vo2max in ml / min
+  function getIndex23BasedOnVO2max(vo2max) {
+    return vo2max / (23 * height * height);
+  }
+
+  // vo2max in ml / min
+  function getFitnessLevelBasedOnVO2max(vo2max) {
+    return vo2max / weight;
+  }
+
+  var publicAPI = {
+    getIndex23BasedOnVO2max : getIndex23BasedOnVO2max,
+    getIndex23BasedOnFitnessLevel : getIndex23BasedOnFitnessLevel,
+    getFitnessLevelBasedOnVO2max : getFitnessLevelBasedOnVO2max
+  };
+
+  return publicAPI;
+}
+
+module.exports = motionsplan;
+
+},{}],13:[function(require,module,exports){
+let motionsplan = {}
+
 motionsplan.Karvonen = function(minHr, maxHr) {
   maxHr = maxHr;
   minHr = minHr;
@@ -1409,7 +1460,7 @@ motionsplan.Karvonen = function(minHr, maxHr) {
 
 module.exports = motionsplan;
 
-},{}],13:[function(require,module,exports){
+},{}],14:[function(require,module,exports){
 let motionsplan = {}
 
 motionsplan.EstimateMaxHr = function(ald) {
@@ -1430,7 +1481,7 @@ motionsplan.EstimateMaxHr = function(ald) {
 
 module.exports = motionsplan;
 
-},{}],14:[function(require,module,exports){
+},{}],15:[function(require,module,exports){
 let motionsplan = {}
 
 motionsplan.ToPunktTest = function(age, weight, work1, hr1, work2, hr2) {

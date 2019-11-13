@@ -5,11 +5,9 @@ describe('FitnessIndex23', function() {
   describe('getIndex23', function() {
     it('should return the correct number', function() {
 
-      // age, heart rate, blood pressure, diabetes, smoker, bmi, fitness
       var fitness = motionsplan.FitnessIndex23(120, 30);
       assert.equal(fitness.getIndex23BasedOnFitnessLevel(10), 9.057971014492754);
 
-      // age, heart rate, blood pressure, diabetes, smoker, bmi, fitness
       var fitness = motionsplan.FitnessIndex23(180, 80);
       assert.equal(fitness.getIndex23BasedOnFitnessLevel(50), 53.67686527106817);
 
@@ -21,4 +19,3 @@ describe('FitnessIndex23', function() {
     });
   });
 });
-
