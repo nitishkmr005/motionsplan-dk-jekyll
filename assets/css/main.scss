@@ -41,7 +41,7 @@ form.calculator {
             width: 100%;
         }
     }
-    input[type="button"] {
+    input[type="submit"] {
         @extend .btn;
         @extend .btn--large;
         @extend .btn--success;
