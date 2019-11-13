@@ -16,10 +16,10 @@ toc: true
 
 Hvis du gerne vil _tracke_ om du kommer i bedre form med konditionstræning, så er der lidt forskellige muligheder. Men først lad os lige definere nogle begreber:
 
-Maksimale iltoptagelse (VO<sub>2</sub>max)
+Maksimale iltoptagelse (VO<sub>2</sub>max) (l/min)
 : Den maksimale iltoptagelse er et udtryk for hvor meget ilt, du kan optage under maksimalt arbejde. Den maksimale iltoptagelse er hvor meget ilt (ml) kroppen optager pr. minut.
 
-Kondital
+Kondital (ml/kg/min)
 : Konditallet er et udtryk for, hvor effektiv kroppen i forhold til kropsvægten er til at optage ilt, når den arbejder ved maksimal intensitet. Konditallet viser hvor meget ilt (ml) kroppen er i stand til at optage pr. min i forhold til ens kropsvægt (kg).
 
 ## Måling af kondition og iltoptagelse
