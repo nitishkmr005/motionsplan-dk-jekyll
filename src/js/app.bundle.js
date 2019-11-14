@@ -577,7 +577,20 @@ $(document).ready(function() {
         $("#karvonen_zone5_b").val(maxHr);
         return false;
     });
-     // Calculate Intensity
+     // Calculate Cooper 12 min
+    $("#calculator_cooper_2400_test").submit(function() {
+        console.log("Calculate CooperTest 2400");
+
+        var min = Number($("#tid_min").val());
+        var sek = Number($("#tid_sek").val());
+
+        var c = cooper_test.CooperRunning();
+
+        $("#kondital").val(c.getVO22400MeterTest(min, sek));
+        
+        return false;
+    });
+     // Calculate Cooper 12 min
     $("#calculator_cooper_test").submit(function() {
         console.log("Calculate CooperTest");
 

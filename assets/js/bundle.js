@@ -885,7 +885,20 @@ $(document).ready(function() {
         $("#karvonen_zone5_b").val(maxHr);
         return false;
     });
-     // Calculate Intensity
+     // Calculate Cooper 12 min
+    $("#calculator_cooper_2400_test").submit(function() {
+        console.log("Calculate CooperTest 2400");
+
+        var min = Number($("#tid_min").val());
+        var sek = Number($("#tid_sek").val());
+
+        var c = cooper_test.CooperRunning();
+
+        $("#kondital").val(c.getVO22400MeterTest(min, sek));
+        
+        return false;
+    });
+     // Calculate Cooper 12 min
     $("#calculator_cooper_test").submit(function() {
         console.log("Calculate CooperTest");
 
@@ -1025,7 +1038,8 @@ let motionsplan = {}
 motionsplan.CooperRunning = function() {
 
   // time in minutes
-  function getVO22400Meter(time) {
+  function getVO22400MeterTest(min, sek) {
+    var time = min + (sek / 60);
     return (483 / time) + 3.5;
   }
 
@@ -1035,7 +1049,7 @@ motionsplan.CooperRunning = function() {
   }
 
   var publicAPI = {
-    getVO22400Meter: getVO22400Meter,
+    getVO22400MeterTest: getVO22400MeterTest,
     getVO212MinTest: getVO212MinTest
 
   };

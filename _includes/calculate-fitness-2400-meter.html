@@ -1,3 +1,17 @@
-<div class="notice notice--danger">
-    Beregneren er ikke færdig
-</div>
+<form class="calculator" id="calculator_cooper_2400_test">
+    <fieldset>
+        <legend>Cooper 2400. Indtast de målte værdier</legend>
+        <div class="form-group">
+            <label>Tid (mm:ss)</label>
+            <input type="number" min="5" max="40" id="tid_min" placeholder="mm" />
+            <input type="number" min="0" max="59" id="tid_sek" placeholder="ss" />
+        </div>
+        <input type="submit" value="Beregn" />
+    </fieldset>
+    <fieldset class="results">
+        <div class="form-group">
+            <label for="kondital">Kondital (ml/kg/min)</label>
+            <input type="text" id="kondital" placeholder="Beregnes" disabled="disabled" />
+        </div>
+    </fieldset>
+</form>

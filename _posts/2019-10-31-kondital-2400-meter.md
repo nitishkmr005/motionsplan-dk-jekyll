@@ -1,7 +1,7 @@
 ---
 title: "Find dit kondital 2400 meter"
 permalink: /kondital-2400-meter/
-excerpt: "2400 meter testen er en afart af Coppertesten, hvor det gælder om at løbe 2400 meter så hurtigt som muligt."
+excerpt: "2400 meter testen er en afart af Coopers 12 minutters-test, hvor det gælder om at løbe 2400 meter så hurtigt som muligt."
 language: da
 header:
   overlay_image: https://www.verywellfit.com/thmb/F9sf5YjPRH3UWHrse3-FoyWArws=/2120x1415/filters:fill(FFDB5D,1)/GettyImages-555000829-5b0215abfa6bcc0036279353.jpg
@@ -37,10 +37,8 @@ Følgende klassifikation af 2400 meter testen gælder for mænd og kvinder i ald
 
 ## Udregning
 
-Her er den formel, der forudsiger VO<sub>2</sub>max fra tiden (minutter) fra 2400 meter testen.
+Her er den formel, der forudsiger konditallet fra tiden (minutter) fra 2400 meter testen.
 
-VO<sub>2</sub>max = (483 / time) + 3.5
-
-{% include math formula="VO_2max = \frac{483}{time} + 3,5" %}
+{% include math formula="kondital = \frac{483}{time} + 3,5" %}
 
 {% include calculate-fitness-2400-meter.html %}
