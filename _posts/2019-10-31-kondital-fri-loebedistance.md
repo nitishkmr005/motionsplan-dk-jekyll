@@ -1,7 +1,7 @@
 ---
 title: "Find dit kondital med en vilkårlig løbedistance"
 permalink: /kondital-loeb/
-excerpt: ""
+excerpt: "I denne beregner kan du indtaste en vilkårlig løbedistance og tiden og få et estimeret kondital."
 language: da
 header:
   overlay_image: https://wpassets.trainingpeaks.com/wp-content/uploads/2018/08/10114352/18227-threshold-fitness-tests-blog-1200x675-run.jpg
