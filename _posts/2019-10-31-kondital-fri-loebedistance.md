@@ -4,8 +4,8 @@ permalink: /kondital-loeb/
 excerpt: ""
 language: da
 header:
-  overlay_image: https://i.ytimg.com/vi/zUyuUoU7lAQ/maxresdefault.jpg
-  teaser: https://i.ytimg.com/vi/zUyuUoU7lAQ/maxresdefault.jpg
+  overlay_image: https://wpassets.trainingpeaks.com/wp-content/uploads/2018/08/10114352/18227-threshold-fitness-tests-blog-1200x675-run.jpg
+  teaser: https://wpassets.trainingpeaks.com/wp-content/uploads/2018/08/10114352/18227-threshold-fitness-tests-blog-1200x675-run.jpg
 category:
   - Kondition
 tags:

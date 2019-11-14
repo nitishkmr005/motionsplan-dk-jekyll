@@ -14,6 +14,7 @@ const bmi = require('./bmi');
 const wilks = require('wilks-calculator');
 const karvonen = require('./karvonen');
 const index23 = require('./fitness-index-23');
+const running = require('./running');
 
 $(document).ready(function() {
 
@@ -575,6 +576,23 @@ $(document).ready(function() {
         $("#karvonen_zone4_b").val(k.getTargetHR(90));
         $("#karvonen_zone5_a").val(k.getTargetHR(90));
         $("#karvonen_zone5_b").val(maxHr);
+        return false;
+    });
+    $("#calculator_vo2max_distance_test").submit(function() {
+        console.log("Calculate Distance");
+
+        var hours = Number($("#tid_hours").val());
+        var min = Number($("#tid_min").val());
+        var sek = Number($("#tid_sek").val());
+        var distance = Number($("#distance").val());
+
+        min = min + (hours * 60);
+        distance = distance / 1000;
+
+        var c = running.Running();
+
+        $("#kondital").val(c.getEstimatedFitnessLevel(min, sek, distance));
+        
         return false;
     });
      // Calculate Cooper 12 min
