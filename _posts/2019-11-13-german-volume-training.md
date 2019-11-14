@@ -27,6 +27,18 @@ De første sæt vil føles relativt lette, men du skal have så meget vægt på,
 
 Du kan finde forskellige bud på GVT-programmer rundt omkring på nettet, men du kan også bare vælge at indkorporere elementer i en øvelse i din egen træning. Tempoløft har mang gode egenskaber.
 
+## Opbygningen i det oprindelige GVT-program
+
+| Muskelgruppe | Bryst og ryg | Ben og mave | Fri | Arme og skuldre | Fri |
+|--------------|--------------|-------------|-----|-----------------|-----|
+| Hovedøvelser | Bænk         | Squat       |     | Dips / OH Pres  |     |
+| 10x10(6)     | BOR          |             |     | Hammer curls    |     |
+|              | Pullups      |             |     | Diamond pushup  |     |
+|--------------|--------------|-------------|-----|-----------------|-----|
+| Supplering   | Flies        | RDL         |     | Lateral raise   |     |
+| 3x15         | Arnold press | Lunges      |     |                 |     |
+|              |              | Hamstrings  |     |                 |     |
+
 ## For høj volumen?
 
 Amirthalingam et al (2017) fandt i et 6 ugers træningsstudium med tre træninger om ugen, at 5x10 virkede bedre ift. armstørrelse, lat pulldowns og bænkpres end 10x10. I dette studium viste ingen af studierne muskelforstørrelse i benene, hvilket måske skyldes at de fik alt for høj volumen.
