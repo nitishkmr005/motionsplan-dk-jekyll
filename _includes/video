@@ -10,8 +10,8 @@
 {% elsif video_provider == "google-drive" %}
   <iframe src="https://drive.google.com/file/d/{{ video_id }}/preview" frameborder="0" allowfullscreen></iframe>
 {% elsif video_provider == "wistia-net" %}
-  <iframe src="//fast.wistia.net/embed/iframe/{{ video_id }}?videoFoam=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen></iframe><script src="//fast.wistia.net/assets/external/iframe-api-v1.js" type="487550334192b91b202ebf06-text/javascript">
+  <iframe src="//fast.wistia.net/embed/iframe/{{ video_id }}?videoFoam=true" allowtransparency="true" frameborder="0" scrolling="no" name="wistia_embed" allowfullscreen="true"></iframe>
 {% elsif video_provider == "facebook" %}
-  <iframe src="https://www.facebook.com/plugins/video.php?href={{ video_id }}%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+  <iframe src="https://www.facebook.com/plugins/video.php?href={{ video_id }}&show_text=0&width=600" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 {% endif %}
 </div>

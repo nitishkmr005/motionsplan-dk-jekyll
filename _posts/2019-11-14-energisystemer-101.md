@@ -83,7 +83,7 @@ Målet er at forøge størrelsen på hjertets venstre ventrikel og derved øge h
 
 Pulsen bør være i området fra 130-150 slag i minuttet. Aktiviten bør tage fra 30-90 minutter. Det kan både være løb, cykling, roning eller cirkeltræning med jævn puls. 
 
-{% include video provider="facebook" id="https%3A%2F%2Fwww.facebook.com%2F8weeksout%2Fvideos%2F10155781664495787" %}
+{% include video provider="facebook" id="https://www.facebook.com/8weeksout/videos/10155781664495787" %}
 
 ### Tempointervaller
 
@@ -91,13 +91,13 @@ Målet er at øge densiteten af kapilærerne ved musklerne og forbedre de _oxida
 
 Arbejdet er 8-12 sekunder med 70% af den maksimale intensitet med omkring 60 sekunders arbejde. Der kan laves 8-22 reps med moderat intensitet.
 
-{% include video provider="facebook" id="https%3A%2F%2Fwww.facebook.com%2F8weeksout%2Fvideos%2F10155692941440787" %}
+{% include video provider="facebook" id="https://www.facebook.com>/8weeksout>/videos>/10155692941440787" %}
 
 ### High Resistance Intervals
 
 Målet er at forbedre udholdenheden af _fast twitch_-muskelfibrene. Skal ske med høj modstand, bakke eller vægt. Arbejdsperioden er omkring 5-8 sekunder. Pause indtil hjertet er faldet til omkring 130-160 slag / min. 
 
-{% include video provider="facebook" id="https%3A%2F%2Fwww.facebook.com%2F8weeksout%2Fvideos%2F10155741321175787" %}
+{% include video provider="facebook" id="https://www.facebook.com>/8weeksout>/videos>/10155741321175787" %}
 
 ## Anaerobe system
 
@@ -174,7 +174,7 @@ High-low-princippet betyder, at træningen af energisystemerne enten skal være 
 
 En god baseline at sætte for sin træning kunne være at finde ud af, hvor meget kraft man kan lave både aerobt og anaerobt og derved få en forståelse for sin _anaerobe power reserve_.
 
-{% include video provider="facebook" id="https%3A%2F%2Fwww.facebook.com%2F8weeksout%2Fvideos%2F10155997740030787" %}
+{% include video provider="facebook" id="https://www.facebook.com>/8weeksout>/videos>/10155997740030787" %}
 
 Aerobic Power
 : Den aerobe power er den maksimale kraft, der kan produceres med aerob energiomsætning - altså med til tilgængelig. Normalt vil man måle denne som kraften eller hastigheden ved VO<sub>2</sub>max, men den vil også korrelere med laktattærsklen (AT). Dette er en måling af kraft man kan opretholde i en længere periode, og den er også væsentlig i gentagne aktiviteter af kortere varighed.
@@ -191,7 +191,7 @@ Anaerobic Power Reserve
 
 ## Generel vs. specifik conditioning
 
-{% include video provider="facebook" id="https%3A%2F%2Fwww.facebook.com%2F8weeksout%2Fvideos%2F10155830804600787" %}
+{% include video provider="facebook" id="https://www.facebook.com>/8weeksout>/videos>/10155830804600787" %}
 
 ## Referencer
 
