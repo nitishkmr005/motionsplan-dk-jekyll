@@ -1,7 +1,7 @@
 ---
 title: "Daily Undulating Periodization - DUP"
 permalink: /gvt/
-excerpt: "Brutalt program med fokus på hypertrofi ved en høj volumen med 10 x 10 i store helkropsøvelser."
+excerpt: "I Daily Undulating Periodization vælges basisøvelser, som man gennem ugen arbejder med tre gange med forskelligt antal sæt og gentagelser - for at træne power, styrke og hypertrofi."
 language: da
 header:
   overlay_image: https://www.elitefts.com/wp/wp-content/uploads/2017/03/raw-squat--800x533.jpg
@@ -16,7 +16,7 @@ toc: true
 
 *[DUP]: Daily Undulating Periodization
 
-Daily Undulating Periodization (DUP) er en metode til at programmere sin træning. Man vælger nogle basisøvelser, som arbejder med tre gange om ugen med et forskelligt antal sæt og gentagelser hver gang.
+Daily Undulating Periodization (DUP) er en metode til at programmere sin træning. Man vælger nogle basisøvelser, som man arbejder med tre gange om ugen med et forskelligt antal sæt og gentagelser hver gang.
 
 En forklaring til de tre ord:
 
