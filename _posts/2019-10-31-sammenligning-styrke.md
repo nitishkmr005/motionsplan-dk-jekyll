@@ -18,7 +18,10 @@ Hvis man gerne vil sammenligne styrken af forskellige løftere, så kan man i st
 
 {% include figure image_path="https://web.archive.org/web/20070610031909im_/http://www.motion-online.dk/images/siff_loeft1.gif" %}
 
-Derfor findes der en række forskellige beregningsmodeller. 
+Derfor findes der en række forskellige beregningsmodeller, som kan deles op i et par forskellige typer udregninger:
+
+- **Baseret på vægt**. Index100, Allometric Scaling er eksempler på indekser, der sammenligner på baggrund af kropsvægt.
+- **Baseret på konkurrencedata**. Wilks, Mel Siff og Nuckols Index er eksempler på indekser baseret på tidligere konkurrencedata.
 
 ## Wilks score
 
@@ -29,7 +32,6 @@ Den mest kendte metode til at sammenligne løftere på tværs af vægtklasser er
 ## Dr. Mel Siff
 
 Mel Siff har i _Supertraining_ beskrevet følgende formular til sammenligning på tværs af vægtklasser. 
-
 T = a - b * bw<sup>(-c)</sup>
 
 hvor T er forventet for en topklasseløfter, og hvor bw er kropsvægt (kg) og `a`, `b` og `c` er numeriske konstanter.
@@ -47,7 +49,7 @@ hvor T er forventet for en topklasseløfter, og hvor bw er kropsvægt (kg) og `a
 
 {% include calculate-strength-siff.html %}
 
-## Nuckols 
+## Greg Nuckols Index 
 
 ## Index100
 
@@ -57,8 +59,6 @@ Morten Zacho har udviklet en Index100 beregner. Index100-beregneren omregner dit
 
 NB! Beregneren kan ikke anvendes ved kropsvægt lavere end 50 kg.
 {: .notice .notice--info }
-
-Index100 = (kg * 986,63) / (1270 - 172970 * (kropsvægt^-1,3925))
 
 {% include math formula="Index100 = \frac{(kg * 986,63)}{(1270 - 172970 * (body weight^{-1,3925}))}" %}
 
