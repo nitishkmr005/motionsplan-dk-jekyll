@@ -1,6 +1,6 @@
 ---
 title: "Daily Undulating Periodization - DUP"
-permalink: /gvt/
+permalink: /dup/
 excerpt: "I Daily Undulating Periodization vælges basisøvelser, som man gennem ugen arbejder med tre gange med forskelligt antal sæt og gentagelser - for at træne power, styrke og hypertrofi."
 language: da
 header:
