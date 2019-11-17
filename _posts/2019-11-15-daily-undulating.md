@@ -36,9 +36,9 @@ Ofte vil man vælge tre store øvelser, og så vil man køre en protokol pr. lø
 
 |            | Mandag  | Tirsdag | Onsdag  | Torsdag | Fredag   | Lørdag  | Søndag |
 |------------|---------|---------|---------|---------|----------|---------|--------|
-| Power      | Dødløft | Fri     | Bænk    | Fri     | Squat    | Sup/fri | Fri    |  
-| Strength   | Bænk    |         | Squat   |         | Dødløft  |         |        |
-| Hypertrofi | Squat   |         | Dødløft |         | Bænkpres |         |        |
+| Power      | Bænk    | Fri     | Squat   | Fri     | Dødløft  | Sup/fri | Fri    |  
+| Strength   | Dødløft |         | Bænk    |         | Squat    |         |        |
+| Hypertrofi | Squat   |         | Dødløft |         | Bænk     |         |        |
 
 Du kan også køre suppleringsøvelser, hvis du har brug for en ekstra træning. Her kunne du køre 4-6 øvelser med øvelser, der supplerer dine hovedøvelser.
 
