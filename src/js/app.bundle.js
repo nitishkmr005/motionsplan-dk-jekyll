@@ -18,7 +18,7 @@ const running = require('./running');
 
 $(document).ready(function() {
 
-    $("#form-formula").ready(function() {
+    $("#calculator_rm").ready(function() {
         $(".motiononline").hide();
     });
     // 1RM calculate
