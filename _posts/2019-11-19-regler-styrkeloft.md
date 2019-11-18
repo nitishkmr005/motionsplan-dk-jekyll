@@ -14,13 +14,31 @@ tags:
   - powerlifting
 last_modified_at: 2019-11-19T23:14:14Z
 toc: true
+feature_row:
+  - image_path: https://i.ytimg.com/vi/pSbpl3i3TRI/maxresdefault.jpg
+    alt: "Squat"
+    excerpt: "Squat"
+  - image_path: https://i.ytimg.com/vi/q3uQE0yugH8/maxresdefault.jpg
+    alt: "Bænkpres"
+    excerpt: "Bænkpres"
+  - image_path: https://i.ytimg.com/vi/GaXr9aZ2FR4/maxresdefault.jpg
+    alt: "Dødløft"
+    excerpt: "Dødløft"
 ---
 
-Styrkeløft er en sport, hvor man forsøger at løfte så mange kilo som muligt i squat, bænkpres og dødløft. Styrkeløft handler først og fremmest om at gå op 
+*[IPF]: International Powerlifting Federation
 
-## Regler
+Styrkeløft er en sport, hvor man forsøger at løfte så mange kilo som muligt i squat, bænkpres og dødløft.
+
+{% include feature_row %}
+
+## Regler i styrkeløft
+
+I noget så enkelt som at løfte en vægt, så er der alligevel mange regler. Her beskriver vi meget kort de regler, man løfter efter i, International Powerlifting Federation (IPF).
 
 ### Squat
+
+I squat foregår det sådan her. Godkendt dybde er når hofteleddet er under knæleddet.
 
 - **The bar is loaded**. Når man får kommandoen "The bar is loaded", så har man maksimalt et minut til at lave sit forsøg. 
 - **Unrack**. Når du går ud af racket, så sørg for at stå helt oprejst med knæene strakte. 
@@ -43,7 +61,7 @@ Lig på bænken med flade fødder på jorden. Hovedet, skuldrene og ballerne ska
 
 ### Dødløft
 
-Ved løftets afslutning skal løfteren have strakte knæ og skuldrene tilbage.
+Ved løftets afslutning skal løfteren have strakte ben og skuldrene tilbage for at få det godkendt.
 
 {% include video provider="youtube" id="WtPdpWnkYV4" %}
 
