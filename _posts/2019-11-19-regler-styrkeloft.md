@@ -1,0 +1,52 @@
+---
+title: "Styrkeløft - hvad er powerlifting?"
+permalink: /powerlifting-rules/
+excerpt: "Hvad er styrkeløft - og hvad er reglerne til powerlifting?"
+language: da
+header:
+  overlay_image: https://www.elitefts.com/wp/wp-content/uploads/2017/03/raw-squat--800x533.jpg
+  teaser: https://www.elitefts.com/wp/wp-content/uploads/2017/03/raw-squat--800x533.jpg
+category:
+  - Styrketræning
+tags:
+  - regler
+  - styrkeløft
+  - powerlifting
+last_modified_at: 2019-11-19T23:14:14Z
+toc: true
+---
+
+Styrkeløft er en sport, hvor man forsøger at løfte så mange kilo som muligt i squat, bænkpres og dødløft. Styrkeløft handler først og fremmest om at gå op 
+
+## Regler
+
+### Squat
+
+- **The bar is loaded**. Når man får kommandoen "The bar is loaded", så har man maksimalt et minut til at lave sit forsøg. 
+- **Unrack**. Når du går ud af racket, så sørg for at stå helt oprejst med knæene strakte. 
+- Vent på **"Squat!"**-kommandoen. Squat ned så hofteleddet er lavere end knæleddet. Rejs dig igen.
+- Vent på **"Rack"**-kommandoen.
+
+{% include video provider="youtube" id="dnhe34Xbvc0" %}
+
+### Bænkpres
+
+Lig på bænken med flade fødder på jorden. Hovedet, skuldrene og ballerne skal røre bænken.
+
+- **“The Bar is Loaded!”**. Derefter har du 1 minut til at lave dit forsøg.
+- Du kan _unracke_ alene eller med en hjælper.
+- Vent på **"Start"**-kommandoen inden ud sænker baren, indtil den rører dig et sted på kroppen og ligger komplet stille.
+- Vent på **"Pres"**-kommandoen. Pres vægtstangen op i helt strakte arme.
+- Vent på **"Rack"**-kommandoen.
+
+{% include video provider="youtube" id="jrZCsEwlKxM" %}
+
+### Dødløft
+
+Ved løftets afslutning skal løfteren have strakte knæ og skuldrene tilbage.
+
+{% include video provider="youtube" id="WtPdpWnkYV4" %}
+
+## Referencer
+
+- [The International Powerlifting Federation. Tekniske Regler 2019](http://filer.styrke.dk/Tekniske_regler_IPF_2019.pdf)
