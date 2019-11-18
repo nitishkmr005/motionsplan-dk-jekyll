@@ -1,7 +1,7 @@
 ---
 title: "Udregn 1RM - beregner til styrketræning"
 permalink: /rm-beregner/
-excerpt: "Mange forskere har givet et bud på at udregne 1RM ud fra submaksimale løft."
+excerpt: "Du kan bruge denne beregner til at udregne 1RM på baggrund af flere forskeres formler til at bestemme 1RM ud fra submaksimale løft - repetitions to fatigue."
 language: da
 header:
   overlay_image: https://i.ytimg.com/vi/HhRDUYmIALU/maxresdefault.jpg
@@ -38,3 +38,13 @@ Derfor er det mere typisk, at man bruger RM-begrebet til at estimere, hvad man n
 ## Referencer
 
 - [Testing 1RM](https://www.scienceforsport.com/1rm-testing/)
+
+Fleck & Kraemer. Designing resistance training programmes. Chapter 5, pp 101-102
+
+Hoeger et al. Journal of Applied Sport Science Research (1990) 4 (3): 47-54 Tables 3 & 4
+
+Anderson and Haring (1977) via
+Sale, D. G. and D. MacDougall. (1981) “Specificity in Strength Training: A Review for the Coach and Athlete.” Canadian Journal of Applied Sport Sciences (Vol 6 #2), pp 87-92.
+
+Brzycki, M. Strength testing: Predicting a one-rep max from a reps-to-fatigue
+Journal of Physical Education, Recreation and Dance 64 (1): 88-90, 1993.

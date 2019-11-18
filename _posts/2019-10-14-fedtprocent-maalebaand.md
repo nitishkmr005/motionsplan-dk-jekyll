@@ -1,7 +1,7 @@
 ---
 title: "Bestem fedtprocent med målebånd"
 permalink: /fedtprocent-maalebaand/
-excerpt: "Der er forskellige måder at udregne din fedtprocent på. Metoderne er mere eller mindre reliable og valide."
+excerpt: "Du kan udregne din fedtprocent på baggrund af enkelte kropsmålinger, der kan laves med et målebånd."
 language: da
 header:
   overlay_image: /assets/images/blog/udregning-af-fedtprocent.jpg
