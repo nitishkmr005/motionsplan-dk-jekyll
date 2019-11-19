@@ -1,5 +1,5 @@
 ---
-title: "Styrkeløft - hvad er powerlifting?"
+title: "Styrkeløft - hvad er powerlifting og reglerne?"
 permalink: /powerlifting-rules/
 excerpt: "Hvad er styrkeløft - og hvad er reglerne til powerlifting?"
 language: da
