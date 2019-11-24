@@ -8,3 +8,10 @@ main:
     url: /inspiration/
   - title: "Om"
     url: /om/
+strength:
+  - title: "Adherence"
+  - title: "Volume, intensity, freequency"
+  - title: "Progression"
+  - title: "Exercise selection"
+  - title: "Rest Periods"
+  - title: "Tempo"
