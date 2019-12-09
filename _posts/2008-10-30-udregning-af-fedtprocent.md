@@ -1,7 +1,7 @@
 ---
 title: "Udregning af fedtprocent"
 permalink: /artikel/udregning-af-fedtprocent
-excerpt: "Der er forskellige måder at udregne din fedtprocent på. Metoderne er mere eller mindre reliable og valide."
+excerpt: "Beregn din fedtprocent med denne enkle formel, som kun kræver din højde og vægt."
 language: da
 header:
   overlay_image: /assets/images/blog/udregning-af-fedtprocent.jpg
@@ -18,7 +18,7 @@ feature_row:
   - image_path: https://cdn6.bogreolen.dk/00039/91685/cover.1571714918.jpg
     alt: "Exercise Physiology - Nutrition, Energy, and Human Performance"
     title: "Exercise Physiology - Nutrition, Energy, and Human Performance"
-    excerpt: "Skrevet af BS, William D., PhD McArdle, M.Ed, Frank I. Katch, Victor L. Katch."
+    excerpt: "Skrevet af BS, William D., PhD McArdle, M.Ed, Frank I. Katch, Victor L. Katch - og indeholder bl.a. formlen til at udregne fedtprocenten."
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=55214&htmlurl=https://bogreolen.dk/exercise-physiology_bs_9781451193831"
     btn_label: "Læs mere"
     btn_class: "btn--success"

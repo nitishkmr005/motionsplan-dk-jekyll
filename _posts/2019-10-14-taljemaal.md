@@ -1,7 +1,7 @@
 ---
 title: "Om taljemålet - og risikofaktorer"
 permalink: /taljemaal/
-excerpt: "Der er sammenhæng mellem taljemål og risiko for livsstilssygdomme. Taljemålet er også et bedre mål for fedttab end vægttab."
+excerpt: "Der er sammenhæng mellem taljemål og risiko for livsstilssygdomme. Taljemålet er også et godt mål for fedttab sammenlignet med vægttab."
 language: da
 header:
   overlay_image: https://www.berkeleywellness.com/sites/default/files/field/image/waist-measurement-MF_998_380.webp

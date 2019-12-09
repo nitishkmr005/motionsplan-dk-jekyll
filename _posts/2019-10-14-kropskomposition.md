@@ -1,7 +1,7 @@
 ---
-title: "Kropskomposition 101 - hvordan skal det forstås"
+title: "Kropskomposition 101 - fedtprocent og fedtfri masse"
 permalink: /artikel/kropskomposition
-excerpt: "Du kan måle din fedtprocent og kropskomposition med bioimpedans - og de nyere maskiner er relativt reliabile og valide"
+excerpt: "Kropskomposition handler om at få indblik i, hvad kroppen består af. Hvad er fedtprocenten og den fedtfri masse?"
 language: da
 header:
   overlay_image: https://crossfitdnr.com/wp-content/uploads/2019/08/inbody-dnr-570.jpg

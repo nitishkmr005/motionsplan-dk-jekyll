@@ -1,11 +1,11 @@
 ---
 title: "Hvordan vokser muskler?"
 permalink: /hvordan-vokser-muskler/
-excerpt: "Hvordan vokser muskler egentlig - og hvad er nødvendigt for at få dem til at vokse?"
+excerpt: "Hvordan vokser muskler - og hvad er nødvendigt for at få muskler til at vokse?"
 language: da
 header:
-  overlay_image: https://www.peptidesonline.com/wp-content/uploads/2018/05/peptides-strength-lean-muscle-gain.jpg
-  teaser: https://www.peptidesonline.com/wp-content/uploads/2018/05/peptides-strength-lean-muscle-gain.jpg
+  overlay_image: https://images.askmen.com/1080x540/2016/03/10-044705-best_training_methods_for_muscle_growth.jpg
+  teaser: https://images.askmen.com/1080x540/2016/03/10-044705-best_training_methods_for_muscle_growth.jpg
 category:
   - Styrketræning
 tags:
