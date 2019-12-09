@@ -1,0 +1,23 @@
+<form class="calculator" id="calculator_bmi">
+    <fieldset>
+        <legend>Udregning af BMI. Indtast værdier</legend>
+        <div class="form-group">
+            <label for="height">Højde (cm)</label>
+            <input name="height" id="height" type="number" min="50" max="272" placeholder="Højde i cm" />
+        </div>
+        <div class="form-group">
+            <label for="weight">Vægt (kg)</label>
+            <input name="weight" id="weight" type="number" min="20" max="200" placeholder="Vægt i kg" />
+        </div>
+        <input type="submit" value="Udregn" />
+    </fieldset>
+    <fieldset class="results" disabled="disabled">
+        <legend>Resultater</legend>
+        <label>Body mass index (BMI)
+            <input disabled="disabled" name="BMI" id="BMI" type="text" placeholder="Venter på udregning" />
+        </label>
+        <label>Ponderal Index
+            <input disabled="disabled" name="PMI" id="PMI" type="text" placeholder="Venter på udregning" />
+        </label>
+    </fieldset>
+</form>

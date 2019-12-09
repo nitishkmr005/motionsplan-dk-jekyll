@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-remote_theme:            "mmistakes/minimal-mistakes@4.16.5"
+remote_theme:            "mmistakes/minimal-mistakes@4.17.2"
 minimal_mistakes_skin:   "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 # Jekyll specific
@@ -16,9 +16,9 @@ email                    : "lsolesen@gmail.com"
 locale                   : "da"
 title                    : "Motionsplan"
 title_separator          : "-"
-subtitle                 : "Træningsøvelser, træningsprorammer og viden om træning."
+subtitle                 : "Træningsøvelser, træningsprogrammer og viden om træning."
 name                     : "Motionsplan"
-description              : "Træningsøvelser, træningsprogrammer og viden om træning."
+description              : "Træningsøvelser og træningsprogrammer til styrketræning, yoga, løb og træning - med de videnskabelige briller."
 url                      : "https://www.motionsplan.dk" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lsolesen/motionsplan-jekyll" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -27,14 +27,17 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # "disqus" # "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "disqus" # "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : # "ifire"
+    shortname            : "motionsplan-dk"
 staticman:
   branch                 : "gh-pages"
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+
+after_footer_scripts:
+  - /assets/js/bundle.js
 
 # reCaptcha
 # Register your domain at https://www.google.com/recaptcha/ and choose reCAPTCHA V2
@@ -155,9 +158,16 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
-keep_files:
+  - composer.phar
+  - composer.json
+  - composer.lock
+  - /vendor
+  - /src
   - .git
   - .svn
+keep_files:
+  - /assets/images
+  - /assets/pdf
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
@@ -258,6 +268,9 @@ compress_html:
 
 # Collections
 collections:
+  anatomy:
+    output: true
+    permalink: /:path/
   exercises:
     output: true
     permalink: /oevelse/:path/
@@ -282,8 +295,9 @@ defaults:
       comments: true
       share: true
       related: true
-      toc: false
-      author: lsolesen      
+      toc: true
+      toc_sticky: true
+      author: lsolesen     
 # _exercises
   - scope:
       path: ""
@@ -312,6 +326,20 @@ defaults:
       author: lsolesen
       tag_archive_path: /category/tags/
       category_archive_path: /oevelseskategorier/
+  # _anatomy
+  - scope:
+      path: ""
+      type: anatomy
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: true
+      share: true
+      related: true
+      toc: true
+      toc_sticky: true
+      author: lsolesen
 # _redirects
   - scope:
       path: ""

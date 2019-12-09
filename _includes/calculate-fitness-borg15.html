@@ -1,0 +1,29 @@
+<form class="calculator" id="calculator_borg15">
+    <fieldset>
+        <legend>Borg 15-test. Indtast de målte værdier</legend>
+        <div class="form-group">
+            <label for="rpBorg">Belastning ved Borg 15 (watt)</label>
+            <input type="number" min="10" max="500" id="rpBorg" placeholder="fx 120" />
+        </div>
+        <div class="form-group">
+            <label for="rpAlder">Alder (år)</span>
+            <input type="number" min="10" max="100" id="rpAlder" placeholder="fx 40" />
+        </div>
+        <div class="form-group">
+            <label for="rpVgt">Vægt (kg)</span>
+            <input type="number" min="20" max="200" id="rpVgt" placeholder="fx 70" />
+        </div>
+        <input type="submit" value="Beregn" />
+    </fieldset>
+    <fieldset class="results">
+        <legend>Resultater</legend>
+        <div class="form-group">
+            <label for="rpIltop">Maximal iltoptagelse (l/min)</span>
+            <input id="rpIltop" disabled="disabled">
+        </div>
+            <div class="form-group">
+                <label for="rpKond">Kondital (ml/kg/min)</label>
+                <input id="rpKond" disabled="disabled">
+            </div>
+    </fieldset>
+</form>

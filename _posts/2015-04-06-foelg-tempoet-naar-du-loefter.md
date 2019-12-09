@@ -28,10 +28,11 @@ Det er den hastighed, vi tænker at stangen skal bevæge sig med. Hvis det er en
 
 ### "Langsomt ned, hurtigt op"
 
-Man hører typisk sætningen "Langsomt ned, hurtigt op". 3010 ville svare til "Langsomt ned, hurtigt op" - og det er klart det tempo vi bruger oftest i vores træningsprogrammer for begyndere. Årsagen til, at vi anbefaler dette tempo er fordi det bare giver rigtig gode resultater. Studier har vist, at hvis man i bænkpres intenderer den dobbelte hastighed af stangen, så får man den dobbelte styrkefremgang (Nucklos 2014). Det er jo virkelig værd at tage med.
+Man hører typisk sætningen "Langsomt ned, hurtigt op". 3010 ville svare til "Langsomt ned, hurtigt op" - og det er klart det tempo vi bruger oftest i vores træningsprogrammer for begyndere. Årsagen til, at vi anbefaler dette tempo, er fordi det bare giver rigtig gode resultater. Studier har vist, at hvis man i bænkpres intenderer den dobbelte hastighed af stangen, så får man den dobbelte styrkefremgang (Nucklos 2014). Det er jo virkelig værd at tage med.
 
 Referencer
 ----------
 
 - Robertson, Mike (2012): [6 questions about tempo training](https://www.t-nation.com/training/questions-about-tempo-training), t-nation.com
 - Nucklos, Greg (2014): [Speed kills: 2x the intended bar speed yields 2x the bench press gains](http://www.strengtheory.com/speed-kills-2x-the-intended-bar-speed-yields-2x-the-bench-press-gains/), strengtheory.com.
+- https://amdipt.dk/2018/04/24/tempomanipulation/

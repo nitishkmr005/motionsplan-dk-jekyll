@@ -1,0 +1,40 @@
+<form class="calculator" id="calculator_walktest_16km">
+    <fieldset>
+        <legend>1,6 km gåtest. Indtast værdier.</legend>
+        <div class="form-group">
+            <label for="">Tiden for at gå 1,6 km</label>
+            <input name="Min" type="number" min="5" max="60" placeholder="fx 17" /> minutter 
+            <input name="Sek" type="number" min="0" max="60"  placeholder="fx 20" /> sek.
+        </div>
+        <div class="form-group">
+            <label>Pulsefter 1,6 km (slag/min)</label>
+            <input name="Pul" type="number" min="60" max="200" placeholder="fx 110" />
+        </div>
+        <div class="form-group">
+            <label>Køn</label>
+            <select name="Koen">
+                <option value="1">Mand</option>
+                <option value="0">Kvinde</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label>Alder (år)</label>
+            <input name="Alder" type="number" min="10" max="110" placeholder="fx 40" />
+        </div>
+        <div class="form-group">
+            <label>Vægt (kg)</label>
+            <input name="Vaegt" type="number" min="20" max="200" placeholder="fx 70" />
+        </div>
+        <input type="submit" value="Beregn" />
+    </fieldset>
+    <fieldset class="results">
+        <div class="form-row">
+            <label>Iltoptagelse (l/min)</label>
+            <input name="Iltoptag" type="text" disabled="disabled" />
+        </div>
+        <div class="form-group">
+            <label>Kondital (ml/kg/min)</label>
+            <input name="Konditalk" type="text" disabled="disabled" />
+        </div>
+    </fieldset>
+</form>

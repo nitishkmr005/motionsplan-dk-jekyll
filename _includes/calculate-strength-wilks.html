@@ -1,0 +1,29 @@
+<form class="calculator" id="calculator_wilksscore">
+    <fieldset>
+        <legend>Udregning af Wilks Score. Indtast værdier</legend>
+        <fieldset>
+            <legend>Køn</legend>
+            <label for="checkbox-man" class="radio">
+                <input name="gender" type="radio" value="m" id="checkbox-man" /> Mand
+            </label>
+            <label for="checkbox-woman" class="radio">
+                <input name="gender" type="radio" value="f" id="checkbox-woman" /> Kvinde
+            </label>
+        </fieldset>
+        <div class="form-group">
+            <label for="bodyweight">Kropsvægt (kg)</label>
+            <input name="bodyweight" id="bodyweight" type="number" min="50" max="200" placeholder="Kropsvægt i kg" />
+        </div>
+        <div class="form-group">
+            <label for="lifted">Løft (kg)</label>
+            <input name="lifted" id="lifted" type="number" min="20" max="600" placeholder="Løftet vægt i kg" />
+        </div>
+        <input type="submit" value="Udregn" />
+    </fieldset>
+    <fieldset class="results" disabled="disabled">
+        <legend>Resultater</legend>
+        <label>Wilks Score
+            <input disabled="disabled" name="wilksscore" id="wilksscore" type="text" placeholder="Venter på udregning" />
+        </label>
+    </fieldset>
+</form>

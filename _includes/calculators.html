@@ -1,0 +1,603 @@
+<script>
+    function calc(val, factor, putin) {
+        //--If null passed, convert to zero.
+        if (val == "") {
+            val = "0"
+        }
+        //--Evaluate expression and display in appropriate table cell.
+        evalstr = "document.ConverTable." + putin + ".value = "
+        evalstr = evalstr + val + "*" + factor
+        eval(evalstr)
+    }
+</script>
+<form name="ConverTable" class="calculator">
+    <fieldset>
+        <legend>Hastighed</legend>
+        <table>
+            <tr>
+                <th>Udgangspunkt</th>
+                <th>Beregning</th>
+                <th>Resultat</th>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,1.609,'kmt')" class="input-mini"> mph
+                </td>
+                <td>
+                    * 1.6 =
+                </td>
+                <td>
+                    <input name="kmt" class="input-mini" disabled="disabled"> km/t
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,3.6,'kmt2')" class="input-mini"> m/s
+                </td>
+                <td>
+                    * 3.6 =
+                </td>
+                <td>
+                    <input name="kmt2" class="input-mini" disabled="disabled"> km/t
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,0.44704,'ms')" class="input-mini"> mph
+                </td>
+                <td>
+                    * 0.45 =
+                </td>
+                <td>
+                    <input name="ms" class="input-mini" disabled="disabled"> m/s
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,1.852,'kmt3')" class="input-mini"> knob
+                </td>
+                <td>
+                    * 1.85 =
+                </td>
+                <td>
+                    <input name="kmt3" class="input-mini" disabled="disabled"> km/t
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                    ... og den anden vej
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,0.622,'mph')" class="input-mini"> km/t
+                </td>
+                <td>
+                    * 0.62 =
+                </td>
+                <td>
+                    <input name="mph" class="input-mini" disabled="disabled"> mph
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,0.2777778,'ms2')" class="input-mini"> km/t
+                </td>
+                <td>
+                    * 0.28 =
+                </td>
+                <td>
+                    <input name="ms2" class="input-mini" disabled="disabled"> m/s
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,2.236936,'mph2')" class="input-mini"> m/s
+                </td>
+                <td>
+                    * 2.24 =
+                </td>
+                <td>
+                    <input name="mph2" class="input-mini" disabled="disabled"> mph
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,0.5399568,'knob')" class="input-mini"> km/t
+                </td>
+                <td>
+                    * 0.54 =
+                </td>
+                <td>
+                    <input name="knob" class="input-mini" disabled="disabled"> knob
+                </td>
+            </tr>
+        </table>
+    </fieldset>
+    <fieldset>
+        <legend>Energi</legend>
+        <table>
+            <tr>
+                <th>Indtast hvad du har</th>
+                <th>Omregningsfaktor</th>
+                <th>Resultat</th>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,4.186,'kj')" class="input-mini"> kcal
+                </td>
+                <td>
+                    * 4.2 =
+                </td>
+                <td>
+                    <input name="kj" class="input-mini" disabled="disabled"> kJ
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,69.767,'watt')" class="input-mini"> kcal/min
+                </td>
+                <td>
+                    * 69.8 =
+                </td>
+                <td>
+                    <input name="watt" class="input-mini" disabled="disabled"> watt
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                    ... og den anden vej
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,0.2389,'kcal')" class="input-mini"> kJ
+                </td>
+                <td>
+                    * 0.24 =
+                </td>
+                <td>
+                    <input name="kcal" class="input-mini" disabled="disabled"> kcal
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,0.01433,'kcalprmin')" class="input-mini"> watt
+                </td>
+                <td>
+                    * 0.014 =
+                </td>
+                <td>
+                    <input name="kcalprmin" class="input-mini" disabled="disabled"> kcal/min
+                </td>
+            </tr>
+        </table>
+    </fieldset>
+    <fieldset>
+        <legend>Længde</legend>
+        <table>
+            <tr>
+                <th>Indtast hvad du har</th>
+                <th>Omregningsfaktor</th>
+                <th>Resultat</th>
+            </tr>
+            <tr>
+                <td>
+                    <input name="Input" onchange="calc(this.value,2.54,'cmillimeters')" class="input-mini"> inches
+                </td>
+                <td>
+                    * 2.5 =
+                </td>
+                <td>
+                    <input name="cmillimeters" class="input-mini" disabled="disabled"> cm
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,30.48,'ccentimeters')" class="input-mini"> feet (fod)
+                </td>
+                <td>
+                    * 30 =
+                </td>
+                <td>
+                    <input name="ccentimeters" class="input-mini" disabled="disabled"> cm
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,0.9144,'cmeters')" class="input-mini"> yards
+                </td>
+                <td>
+                    * 0.91 =
+                </td>
+                <td>
+                    <input name="cmeters" class="input-mini" disabled="disabled"> m
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,1.609,'ckilos')" class="input-mini"> US miles
+                </td>
+                <td>
+                    * 1.6 =
+                </td>
+                <td>
+                    <input name="ckilos" class="input-mini" disabled="disabled"> km
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,1.852,'ckilos2')" class="input-mini"> sø-mil
+                </td>
+                <td>
+                    * 1.85 =
+                </td>
+                <td>
+                    <input name="ckilos2" class="input-mini" disabled="disabled"> km
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                    ... og den anden vej
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,0.3937,'cinches')" class="input-mini"> cm
+                </td>
+                <td>
+                    * 0.39 =
+                </td>
+                <td>
+                    <input name="cinches" class="input-mini" disabled="disabled"> inches
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,0.0328,'cinches2')" class="input-mini"> cm
+                </td>
+                <td>
+                    * 0.033 =
+                </td>
+                <td>
+                    <input name="cinches2" class="input-mini" disabled="disabled"> feet
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,1.094,'cyards')" class="input-mini"> m
+                </td>
+                <td>
+                    * 1.1 =
+                </td>
+                <td>
+                    <input name="cyards" class="input-mini" disabled="disabled"> yards
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,0.6214,'cmiles')" class="input-mini"> km
+                </td>
+                <td>
+                    * 0.62 =
+                </td>
+                <td>
+                    <input name="cmiles" class="input-mini" disabled="disabled"> US miles
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,0.53996,'cnmiles')" class="input-mini"> km
+                </td>
+                <td>
+                    * 0.54 =
+                </td>
+                <td>
+                    <input name="cnmiles" class="input-mini" disabled="disabled"> sø-mil
+                </td>
+            </tr>
+        </table>
+    </fieldset>
+    <fieldset>
+        <legend>Areal</legend>
+        <table>
+            <tr>
+                <th>Indtast hvad du har</th>
+                <th>Omregningsfaktor</th>
+                <th>Resultat</th>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,6.452,'csqcent')" class="input-mini"> inches<sup>2</sup>
+                </td>
+                <td>
+                    * 6.5 =
+                </td>
+                <td>
+                    <input name="csqcent" class="input-mini" disabled="disabled"> cm<sup>2</sup>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,0.0929,'csqmeter')" class="input-mini"> feet<sup>2</sup>
+                </td>
+                <td>
+                    * 0.093 =
+                </td>
+                <td>
+                    <input name="csqmeter" class="input-mini" disabled="disabled"> m<sup>2</sup>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,0.8361,'csqmeter2')" class="input-mini"> yards<sup>2</sup>
+                </td>
+                <td>
+                    * 0.84 =
+                </td>
+                <td>
+                    <input name="csqmeter2" class="input-mini" disabled="disabled"> m<sup>2</sup>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,2.59,'csqkilos')" class="input-mini"> miles<sup>2</sup>
+                </td>
+                <td>
+                    * 2.6 =
+                </td>
+                <td>
+                    <input name="csqkilos" class="input-mini" disabled="disabled"> km<sup>2</sup>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                    ... og den anden vej
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,0.155,'csqinch')" class="input-mini"> cm<sup>2</sup>
+                </td>
+                <td>
+                    * 0.16 =
+                </td>
+                <td>
+                    <input name="csqinch" class="input-mini" disabled="disabled"> inches<sup>2</sup>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,10.764,'csqfeet')" class="input-mini"> m<sup>2</sup>
+                </td>
+                <td>
+                    * 11 =
+                </td>
+                <td>
+                    <input name="csqfeet" class="input-mini" disabled="disabled"> feet<sup>2</sup>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,1.196,'csqyard')" class="input-mini"> m<sup>2</sup>
+                </td>
+                <td>
+                    * 1.2 =
+                </td>
+                <td>
+                    <input name="csqyard" class="input-mini" disabled="disabled"> yards<sup>2</sup>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,0.3861,'csqmile')" class="input-mini"> km<sup>2</sup>
+                </td>
+                <td>
+                    * 0.39 =
+                </td>
+                <td>
+                    <input name="csqmile" class="input-mini" disabled="disabled"> miles<sup>2</sup>
+                </td>
+            </tr>
+        </table>
+    </fieldset>
+    <fieldset>
+        <legend>Masse og vægt</legend>
+        <table>
+            <tr>
+                <th>Indtast hvad du har</th>
+                <th>Omregningsfaktor</th>
+                <th>Resultat</th>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,0.4536,'ckgrams')" class="input-mini"> US pounds (lbs)
+                </td>
+                <td>
+                    * 0.45 =
+                </td>
+                <td>
+                    <input name="ckgrams" class="input-mini" disabled="disabled"> kg
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,6.350293,'ckgrams2')" class="input-mini"> stones
+                </td>
+                <td>
+                    * 6.35 =
+                </td>
+                <td>
+                    <input name="ckgrams2" class="input-mini" disabled="disabled"> kg
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                    ... og den anden vej
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,2.205,'clbs')" class="input-mini"> kg
+                </td>
+                <td>
+                    * 2.2 =
+                </td>
+                <td>
+                    <input name="clbs" class="input-mini" disabled="disabled"> US pounds (lbs)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,0.1574728,'stone')" class="input-mini"> kg
+                </td>
+                <td>
+                    * 0.16 =
+                </td>
+                <td>
+                    <input name="stone" class="input-mini" disabled="disabled"> stones
+                </td>
+            </tr>
+        </table>
+    </fieldset>
+    <fieldset>
+        <legend>Væskevolumen</legend>
+        <table>
+            <tr>
+                <th>Indtast hvad du har</th>
+                <th>Omregningsfaktor</th>
+                <th>Resultat</th>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,29.57,'cml')" class="input-mini"> US fluid ounces
+                </td>
+                <td>
+                    * 29.6 =
+                </td>
+                <td>
+                    <input name="cml" class="input-mini" disabled="disabled"> ml
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,0.4732,'cliter')" class="input-mini"> US pints
+                </td>
+                <td>
+                    * 0.47 =
+                </td>
+                <td>
+                    <input name="cliter" class="input-mini" disabled="disabled"> l
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,0.9463,'cliter2')" class="input-mini"> US quarts
+                </td>
+                <td>
+                    * 0.95 =
+                </td>
+                <td>
+                    <input name="cliter2" class="input-mini" disabled="disabled"> l
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,3.785,'cliter3')" class="input-mini"> US gallons
+                </td>
+                <td>
+                    * 3.8 =
+                </td>
+                <td>
+                    <input name="cliter3" class="input-mini" disabled="disabled"> l
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                    ... og den anden vej
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,0.03382,'coz')" class="input-mini"> ml
+                </td>
+                <td>
+                    * 0.034 =
+                </td>
+                <td>
+                    <input name="coz" class="input-mini" disabled="disabled"> US fluid ounces
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,2.113,'clit1')" class="input-mini"> l
+                </td>
+                <td>
+                    * 2.1 =
+                </td>
+                <td>
+                    <input name="clit1" class="input-mini" disabled="disabled"> US pints
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,1.057,'cqts')" class="input-mini"> l
+                </td>
+                <td>
+                    * 1.1 =
+                </td>
+                <td>
+                    <input name="cqts" class="input-mini" disabled="disabled"> US quarts
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="calc(this.value,0.2642,'cgal1')" class="input-mini"> l
+                </td>
+                <td>
+                    * 0.26 =
+                </td>
+                <td>
+                    <input name="cgal1" class="input-mini" disabled="disabled"> US gallons
+                </td>
+            </tr>
+        </table>
+    </fieldset>
+    <fieldset>
+        <legend>Temperatur</legend>
+        <table>
+            <tr>
+                <th>Indtast hvad du har</th>
+                <th>Omregningsfaktor</th>
+                <th>Resultat</th>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="document.ConverTable.ccelsius.value = 100/(212-32) * (this.value - 32 )" class="input-mini"> fahrenheit
+                </td>
+                <td>
+                    -32*5/9=
+                </td>
+                <td>
+                    <input name="ccelsius" class="input-mini" disabled="disabled"> celsius
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                    ... og den anden vej
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input onchange="document.ConverTable.cfahren.value = (212-32)/100 * this.value + 32 " class="input-mini"> celsius
+                </td>
+                <td>
+                    *9/5+32=
+                </td>
+                <td>
+                    <input name="cfahren" class="input-mini" disabled="disabled"> fahrenheit
+                </td>
+            </tr>
+        </table>
+    </fieldset>
+</form>
