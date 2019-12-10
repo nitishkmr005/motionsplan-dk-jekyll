@@ -49,7 +49,7 @@ Hvis man ved, hvordan musklerne sidder fast på knoglerne og hvilke bevægelser 
 
 ## Bevægelsesanalyse
 
-Når du laver en bevægelsesanalyse, så skal du:
+Når du laver en bevægelsesanalyse, så skal du besvare følgende spørgsmål:
 
 - Hvad er de involverede led?
 - Hvilke bevægelser foregår der i leddet? (bøjning, strækning, rotation)
