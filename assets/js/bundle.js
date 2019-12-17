@@ -975,6 +975,18 @@ $(document).ready(function() {
 
         return false;
     });
+    $("#calculator_oxygen_uptake").submit(function() {
+        console.log("Calculate oxygen uptake");
+
+        var weight = Number($("[name='fitness_weight']").val());
+        var oxygenuptake = Number($("[name='fitness_oxygenuptake']").val());
+
+        var c = running_economy.RunningEconomy(weight, oxygenuptake);
+
+        $("#fitness_level").val(c.getFitnessLevel().toFixed(2));
+
+        return false;
+    });
     // Calculate Cooper 12 min
     $("#calculator_cooper_2400_test").submit(function() {
         console.log("Calculate CooperTest 2400");
@@ -1734,25 +1746,34 @@ let motionsplan = {}
 
 // weight in kg
 // velocity in km/t
-// oxygenuptage in L O2 / min
+// oxygenuptake in L O2 / min
 motionsplan.RunningEconomy= function(weight, oxygenuptake) {
 
   var w = weight;
   var o = oxygenuptake;
 
+  /**
+   * @param {float} velocity - Velocity.
+   * 
+   * @return float (ml/kg/min)
+   */
   function getRunningEconomy(velocity) {
     var v = velocity;
-    var a = (o / w) * 1000; // ml / kg / min
+    var a = getFitnessLevel(); // ml / kg / min
     var b = v / 60;
     return a / b;
   }
 
+  /**
+   * @return float (ml/kg/min)
+   */
   function getFitnessLevel() {
-    // return w / (h * h * h);
+    return o / w * 1000;
   }
 
   var publicAPI = {
-    getRunningEconomy : getRunningEconomy
+    getRunningEconomy : getRunningEconomy,
+    getFitnessLevel : getFitnessLevel
   };
 
   return publicAPI;

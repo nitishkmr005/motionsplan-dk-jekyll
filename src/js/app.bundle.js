@@ -658,6 +658,18 @@ $(document).ready(function() {
 
         return false;
     });
+    $("#calculator_oxygen_uptake").submit(function() {
+        console.log("Calculate oxygen uptake");
+
+        var weight = Number($("[name='fitness_weight']").val());
+        var oxygenuptake = Number($("[name='fitness_oxygenuptake']").val());
+
+        var c = running_economy.RunningEconomy(weight, oxygenuptake);
+
+        $("#fitness_level").val(c.getFitnessLevel().toFixed(2));
+
+        return false;
+    });
     // Calculate Cooper 12 min
     $("#calculator_cooper_2400_test").submit(function() {
         console.log("Calculate CooperTest 2400");

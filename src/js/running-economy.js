@@ -2,25 +2,34 @@ let motionsplan = {}
 
 // weight in kg
 // velocity in km/t
-// oxygenuptage in L O2 / min
+// oxygenuptake in L O2 / min
 motionsplan.RunningEconomy= function(weight, oxygenuptake) {
 
   var w = weight;
   var o = oxygenuptake;
 
+  /**
+   * @param {float} velocity - Velocity.
+   * 
+   * @return float (ml/kg/min)
+   */
   function getRunningEconomy(velocity) {
     var v = velocity;
-    var a = (o / w) * 1000; // ml / kg / min
+    var a = getFitnessLevel(); // ml / kg / min
     var b = v / 60;
     return a / b;
   }
 
+  /**
+   * @return float (ml/kg/min)
+   */
   function getFitnessLevel() {
-    // return w / (h * h * h);
+    return o / w * 1000;
   }
 
   var publicAPI = {
-    getRunningEconomy : getRunningEconomy
+    getRunningEconomy : getRunningEconomy,
+    getFitnessLevel : getFitnessLevel
   };
 
   return publicAPI;

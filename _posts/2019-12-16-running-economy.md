@@ -55,6 +55,12 @@ Hvis du har adgang til et løbebånd, så får du oftest værdierne l/min og km/
 
 {% include calculate-running-economy.html %}
 
+## Udregning af kondital
+
+Hvis du kun har behov for selve konditallet ud fra din iltoptagelse og vægt, så kan du beregne det nedenunder:
+
+{% include calculate-oxygenuptake.html %}
+
 ## Hvad betyder det
 
 Hvis du kender din løbeøkonomi, så kan du udregne din maksimale hastighed, hvis din løbeøkonomi forbliver den samme ved højere hastigheder:
