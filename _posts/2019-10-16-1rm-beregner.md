@@ -6,8 +6,9 @@ redirect_from:
 excerpt: "Du kan bruge denne beregner til at udregne 1RM på baggrund af flere forskeres formler til at bestemme 1RM ud fra submaksimale løft - repetitions to fatigue."
 language: da
 header:
-  overlay_image: https://i.ytimg.com/vi/HhRDUYmIALU/maxresdefault.jpg
-  teaser: https://i.ytimg.com/vi/HhRDUYmIALU/maxresdefault.jpg
+  overlay_image: https://images.unsplash.com/photo-1526401485004-46910ecc8e51?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80
+  teaser: https://images.unsplash.com/photo-1526401485004-46910ecc8e51?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80
+  caption: Photo by Victor Freitas on Unsplash
 category:
   - Beregnere
   - Test

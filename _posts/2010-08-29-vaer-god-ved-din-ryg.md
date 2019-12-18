@@ -34,7 +34,7 @@ Som altid nogle gode råd fra det sige. Måske skal man med viden fra en af verd
 Ryggen skal være udholdende
 ---------------------------
 
-Noget af det vigtigste for at undgå rygproblemer er ifølge Stuart McGill, at de muskler der stabiliserer ryggen er udholdende. Det er altså væsentligere at den kan holde til mange gentagelser end at den er stærk og kan løfte en stor vægt. Og det er vist sikkert og vist at træning forebygger rygproblemer (Hides et al 2001, via [motion-online.dk](http://www.motion-online.dk/styrketraening/styrke_-_artikler/traening_forebygger_ondt_i_ryggen/)).
+Noget af det vigtigste for at undgå rygproblemer er ifølge Stuart McGill, at de muskler der stabiliserer ryggen er udholdende. Det er altså væsentligere at den kan holde til mange gentagelser end at den er stærk og kan løfte en stor vægt. Og det er vist sikkert og vist at træning forebygger rygproblemer (Hides et al 2001, via [motion-online.dk](https://www.motion-online.dk/traening-forebygger-ondt-ryggen/)).
 
 For at træne ryggen foreslår Stuart McGill følgende øvelser:
 

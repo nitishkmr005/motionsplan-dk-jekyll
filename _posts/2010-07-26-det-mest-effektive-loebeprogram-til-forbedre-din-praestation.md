@@ -20,7 +20,7 @@ Vi kigger på, bl.a.:
 
 - [**Vmax-træning**](/vmax/). En let måde at komme til at arbejde tæt på sin maksimale løbekapacitet og forbedre den.
 - [**Jack Daniels formular til løb**](http://www.simpsonassociatesinc.com/runningmath1.htm). Han udregner V<sub>DOT</sub>, som ud over iltoptagelsen tager højde for ens løbeøkonomi. Den er udgangspunkt for udregningerne på [loebesiden.dk](https://loebesiden.dk/beregninger/). Du kan læse en [kritik af Jack Daniels udregninger her](http://jaredmcqueen.com/jackdanielsflaw.html).
-- [**vVO<sub>2</sub>-max**](http://www.runningplanet.com/vo2-max-tlimvvo2-max.html). En ret enkel måde at finde det tempo, der ligger tæt på ens maksimale formåen.
+- [**vVO<sub>2</sub>-max**](http://runningplanet.businesscatalyst.com/vo2-max-tlimvvo2-max.html). En ret enkel måde at finde det tempo, der ligger tæt på ens maksimale formåen.
 
 Vi har tidligere beskæftiget os med, at intensiteten af ens træning har stor betydning for ens præstationsmæssige udbytte. Noget tyder på at:
 

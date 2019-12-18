@@ -1,6 +1,8 @@
 ---
 title: "Tag ikke vores ord for det!"
-permalink: /artikel/tag-ikke-vores-ord-det
+permalink: /videnskabelig-sogning/
+redirect_from:
+  - /artikel/tag-ikke-vores-ord-det
 language: da
 header:
   overlay_image: /assets/images/blog/tag-ikke-vores-ord-det.jpg
