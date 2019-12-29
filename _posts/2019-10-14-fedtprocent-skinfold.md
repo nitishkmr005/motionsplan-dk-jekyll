@@ -32,7 +32,7 @@ feature_row:
 
 I forbindelse med træning og vægttab kan det være motiverende at følge ændringer i kropskompositionen og fedtprocenten, da ændringer i kropsvægt både kan skyldes ændringer i muskel- og fedtmasse.
 
-En måde at estimere sin fedtprocent på er ved hjælp af en fedttang, som man kan bruge til at lave en hudfoldsmåling med..
+En måde at estimere sin fedtprocent på er ved hjælp af en fedttang, som man kan bruge til at lave en hudfoldsmåling med.
 
 ## Om fedttangen
 
@@ -65,5 +65,3 @@ Der er mange forskellige formler, som kan bruges til _skinfold_-målinger. Vi ha
 ***
 
 ## Hvad er normale fedtprocenter?
-
-

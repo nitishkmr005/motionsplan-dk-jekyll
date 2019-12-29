@@ -1,5 +1,5 @@
 ---
-title: "Bestem fedtprocent med målebånd"
+title: "Beregn din fedtprocent med målebånd"
 permalink: /fedtprocent-maalebaand/
 excerpt: "Du kan udregne din fedtprocent på baggrund af enkelte kropsmålinger, der kan laves med et målebånd."
 language: da
@@ -38,7 +38,7 @@ Du kan ikke få din præcise fedtprocent med testen, men værktøjet kan vær et
 
 Algoritmen bag testen er afhængig af køn og alder, så derfor skel du bruge den rigtige formular nedenunder.
 
-## Udfør testen
+## Udfør testen og beregn fedtprocenten
 
 {% include calculate-fat-percent-measurement.html %}
 
