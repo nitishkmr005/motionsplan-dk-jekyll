@@ -3,7 +3,7 @@ layout: none
 ---
 {
     "name": "{{ site.title }}",
-    "short_name": "motionsplan",
+    "short_name": "Motionsplan",
     "description": "{{ site.description }}",
     "start_url": "{{ "/" | relative_url }}",
     "theme_color": "#ffffff",
