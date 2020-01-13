@@ -16,14 +16,15 @@ header:
     - label: "<i class='fas fa-download'></i> Hvad er min hastighed?"
       url: "/hastighed/"
 classes: wide
-feature_row:
-  - image_path: https://s3-ap-southeast-2.amazonaws.com/ad-aspi/2019-09/4.jpg?rcQ9OQeAebglw4Sy7y3RhJVMINnhBUo0
+feature_row_feature:
+  - image_path: https://images.unsplash.com/photo-1501820434261-5bb046afcf6b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80
     alt: "Energisystemer 101"
     title: "Energisystemer 101"
     excerpt: "Hvordan ser kroppens energisystemer ud - noget om aerob og anaerob energisystem."
     url: "/energisystemer/"
     btn_label: "Lær om energisystemer"
     btn_class: "btn--danger"
+feature_row:
   - image_path: https://cnet1.cbsistatic.com/img/Y3vodO8bMPi6qlFLRF3xFcQpLHo=/1092x0/2019/07/26/114f1721-1a71-42bc-b1a4-cb35299bedbc/gettyimages-640493589.jpg
     alt: "Kondition og tests"
     title: "Kondition og tests"
@@ -46,6 +47,8 @@ feature_row:
     btn_label: "Lær om løbeøkonomi"
     btn_class: "btn--info"
 ---
+
+{% include feature_row id="feature_row_feature" type="left" %}
 
 {% include feature_row %}
 
