@@ -1,6 +1,6 @@
 ---
-layout: tags
-permalink: /kondition/test/
+layout: tag
+permalink: /kondition/tests/
 title: "Test din kondition"
 author_profile: true
 sort_by: title # date (default) title
