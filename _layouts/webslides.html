@@ -29,10 +29,10 @@
             <p class="logo"><a style="background: url('/favicon-32x32.png') no-repeat;" href="/" title="Motionsplan">Motionsplan</a></p>
             <ul>
                 {% for l in site.footer.links %}
-                <li class="{{ l.label | lowercase }}">
+                <li class="{{ l.label | downcase }}">
                     <a rel="external" href="{{ l.url }}" title="{{ l.label }}">
-                      <svg class="{{ l.icon }}">
-                        <use xlink:href="#{{ l.icon }}"></use>
+                      <svg class="{{ l.webslides }}">
+                        <use xlink:href="#{{ l.webslides }}"></use>
                       </svg>
                       <em>@Motionsplan</em>
                     </a>
