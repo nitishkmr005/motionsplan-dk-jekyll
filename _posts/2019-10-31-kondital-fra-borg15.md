@@ -4,8 +4,8 @@ permalink: /kondital-borg15/
 excerpt: "Borg 15 testen er en submaksimal test til at estimere forsøgspersonens kondital på en ergometercykel."
 language: da
 header:
-  overlay_image: http://cdn.shopify.com/s/files/1/0942/6160/files/what-is-a-wattbike-indoor-bike-trainer.jpg?v=1522914210
-  teaser: http://cdn.shopify.com/s/files/1/0942/6160/files/what-is-a-wattbike-indoor-bike-trainer.jpg?v=1522914210
+  overlay_image: https://i.ytimg.com/vi/gEQ1M-NKHCA/maxresdefault.jpg
+  teaser: https://i.ytimg.com/vi/gEQ1M-NKHCA/maxresdefault.jpg
 category:
   - Kondition
 tags:

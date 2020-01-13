@@ -4,8 +4,8 @@ permalink: /kondital-fra-steptest/
 excerpt: "Den danske steptest er en præstationsbegrænset submaksimal test, der estimerer den maksimale iltoptagelse og konditallet"
 language: da
 header:
-  overlay_image: https://cdn1.considerable.com/wp-content/uploads/2019/04/24170055/heart-beat-line-end-of-life-picture.jpg
-  teaser: https://cdn1.considerable.com/wp-content/uploads/2019/04/24170055/heart-beat-line-end-of-life-picture.jpg
+  overlay_image: https://i.ytimg.com/vi/kPbmoq5V6AA/maxresdefault.jpg
+  teaser: https://i.ytimg.com/vi/kPbmoq5V6AA/maxresdefault.jpg
 category:
   - Kondition
   - Test

@@ -1,7 +1,7 @@
 ---
 title: "Kondition og test - Kommer jeg i bedre form?"
 permalink: /kondition-og-test/
-excerpt: "Kommer jeg i bedre form? Beregn dit kondital og se dine resultater"
+excerpt: "Kommer jeg i bedre form? Beregn dit kondital og iltoptagelse og se dine resultater."
 language: da
 header:
   overlay_image: https://cnet1.cbsistatic.com/img/Y3vodO8bMPi6qlFLRF3xFcQpLHo=/1092x0/2019/07/26/114f1721-1a71-42bc-b1a4-cb35299bedbc/gettyimages-640493589.jpg
