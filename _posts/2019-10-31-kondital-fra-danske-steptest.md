@@ -24,7 +24,7 @@ Når testen er færdig får man en estimeret VO<sub>2</sub>-max, sit kondital (d
 
 [^note]: Du kan [læse mere om MET på Wikipedia](https://en.wikipedia.org/wiki/Metabolic_equivalent_of_task).
 
-[Tag selv den danske steptesten](http://www.steptest.dk)
+[Tag selv den danske steptest](http://www.steptest.dk){: .btn--large .btn--info}
 
 ## Baggrunden for den danske steptest
 
@@ -34,9 +34,13 @@ Man har valideret testen med en stor gruppe mennesker, hvor man har sammenlignet
 
 Testen har en tendens til at overestimere VO<sub>2</sub>-max sammenlignet med en Watt-max test på cykel.
 
-## Hvad er MET et udtryk for?
+## Hvad betyder MET?
 
-Metabolic Equivalent (MET) viser den energi, du forbrænder ved forskellige fysiske aktiviteter.
+Metabolic Equivalent for Task (MET) er et udtryk for størrelsen af iltforbruget under et givet arbejde.
+
+1 MET svarer til energiomsætningen i hvile, hvor kroppen forbruger 3,5 ml ilt pr. kg kropsvægt pr. minut.
+
+Desto mere intensivt arbejdet bliver, desto højere bliver energiomsætningen.
 
 {% include figure image_path="https://www.whyiexercise.com/images/metabolic.equivalent.sports.leisure.jpg" caption="Billede fra [Why Exercise](https://www.whyiexercise.com/metabolic-equivalent.html)" %}
 

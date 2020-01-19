@@ -4,7 +4,7 @@ title: Motionsplan - træningsøvelser og træningsprogrammer
 description: "Træningsøvelser, træningsprogrammer og viden om styrketræning, løbetræning, fitness og restitution."
 author_profile: true
 header:
-  overlay_image: https://images.unsplash.com/photo-1535743686920-55e4145369b9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=889&q=80
+  overlay_image: https://images.unsplash.com/photo-1535743686920-55e4145369b9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1600&q=80
   caption: "Photo by Chase Kinney on Unsplash"
 intro:
   - excerpt: 'Tilmeld dig Facebookgruppen &nbsp; [<i class="fab fa-facebook-f"></i> Motionsplan](https://www.facebook.com/motionsplan/){: .btn .btn--facebook}'

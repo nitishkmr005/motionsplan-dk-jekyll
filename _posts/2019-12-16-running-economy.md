@@ -34,7 +34,7 @@ feature_row_stryd:
 
 *[GCT]: Ground Contact Time
 *[RE]: Running Economy
-*[FTP]: Functional Threshld Power
+*[FTP]: Functional Threshold Power
 
 Hvis du gerne vil løbe hurtigere, kan det betale sig at forbedre sin løbeøkonomi. Løbeøkonomien kan bestå af følgende punkt:
 
