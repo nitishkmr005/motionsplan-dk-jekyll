@@ -7,8 +7,9 @@ redirect_from:
 excerpt: "Du kan måle din fedtprocent og kropskomposition med bioimpedans - og de nyere maskiner er relativt reliabile og valide"
 language: da
 header:
-  overlay_image: https://crossfitdnr.com/wp-content/uploads/2019/08/inbody-dnr-570.jpg
-  teaser: https://crossfitdnr.com/wp-content/uploads/2019/08/inbody-dnr-570.jpg
+  overlay_image: https://images.unsplash.com/photo-1501525547-7b008cf72da5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1600&q=80
+  caption: Photo by Yannis Papanastasopoulos on Unsplash
+  teaser: https://images.unsplash.com/photo-1501525547-7b008cf72da5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
 category:
   - Test
 tags:
@@ -100,5 +101,7 @@ Når du har lavet testen, så får du et resultatark udprintet, som ser sådan h
 På [InBody USA](https://inbodyusa.com/general/result-sheet-interpretation/) har de en god gennemgang af resultatarket, og du kan også se mere i nedenstående video.
 
 {% include video id="-zwAYct6COs" provider="youtube"  %}
+
+## Andre typer bioimpedans-målere
 
 {% include feature_row type="left" %}
