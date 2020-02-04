@@ -1,6 +1,8 @@
 ---
 title: "Durnin & Womersley 4-punkts måling af fedtprocent"
 permalink: /skinfold-durnin-womersley/
+redirect_from:
+  - /durnin/
 excerpt: "Durnin & Womersley 4-punktsmåling er meget anerkendt og anvendelig hudfoldsmåling til bestemmelse af fedtprocent, der kan bruges til de fleste mennesker. Team Danmarks testcentre bruger denne formel. Formlen overestimerer fedtprocenten med 2-3% for meget tynde personer."
 language: da
 header:

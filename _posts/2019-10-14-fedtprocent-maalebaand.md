@@ -1,17 +1,20 @@
 ---
 title: "Beregn din fedtprocent med målebånd"
 permalink: /fedtprocent-maalebaand/
+redirect_from:
+  - /measure-fp/
 excerpt: "Du kan udregne din fedtprocent på baggrund af enkelte kropsmålinger, der kan laves med et målebånd."
 language: da
 header:
   overlay_image: /assets/images/blog/udregning-af-fedtprocent.jpg
   teaser: /assets/images/blog/udregning-af-fedtprocent.jpg
+category:
+  - Test
 tags:
   - fedtprocent
-  - udregning
-category:
-  - Beregnere
-  - Test
+  - test
+  - kropskomposition
+  - skinfold
 last_modified_at: 2019-03-06T23:14:14Z
 toc: true
 feature_row:
