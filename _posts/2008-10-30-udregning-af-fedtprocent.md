@@ -74,7 +74,7 @@ Udregningen af fedtprocent i formularen har en standardfejl på på 3,9%. Det be
 
 ## Andre typer målinger af kropskomposition
 
-{% assign site_posts = site.posts | where: "tags", "kropskomposition" | sort: "date" %}
+{% assign site_posts = site.posts | where: "category", "Test" | where: "tags", "kropskomposition" | sort: "date" %}
 
 {% if site_posts.size > 0 %}
   {% for post in site_posts %}
