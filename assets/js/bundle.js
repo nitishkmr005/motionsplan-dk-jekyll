@@ -675,7 +675,7 @@ $(document).ready(function() {
 
         var f = fat.CalculateFatPercent(h, w, a, g);
 
-        $("#BMI").val(f.getBMI());
+        $("#BMI").val(f.getBMI().toFixed(2));
         $("#fat_percent_heitmann").val(f.getBodyFatPercentHeitmannBMIEquation().toFixed(2));
         $("#fat_percent_durnin").val(f.getBodyFatpercentWomersleyDurninBMIEquation().toFixed(2));
         return false;
