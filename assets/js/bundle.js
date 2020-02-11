@@ -192,7 +192,7 @@ module.exports = {
 },{}],3:[function(require,module,exports){
 let motionsplan = {};
 
-motionsplan.Estimate1RM = function(weight, repetitions) {
+motionsplan.Estimate1RM = function(weight, repetitions = 5) {
   weight = weight;
   repetitions = repetitions;
 
@@ -204,6 +204,43 @@ motionsplan.Estimate1RM = function(weight, repetitions) {
     return repmax / (36 / (37 - rm));
   }
 
+  /**
+   * Lower body Reynolds seems to overestimate lower body 1RM
+   */
+  function getReynolds5RM(body_part = "lower") {
+    if (repetitions != 5) {
+      throw Error('Reynolds only works with 5RM');
+    }
+    var repmax;
+    if (body_part == "lower") {
+      repmax = (1.09703 * weight) + 14.2546;
+    } else {
+      repmax = (1.1307 * weight) + 0.6998;
+    }
+    return repmax;
+  }
+
+  /**
+   * Lower body Reynolds original formula from getReynolds5RM()
+   * seems to overestimate lower body 1RM so we are using the estimation formula
+   * from figure 3 instead for all calculations.
+   */
+  function getReynolds(body_part = "lower", rm = 1) {
+    var repmax = weight / getReynoldsPercent(body_part, repetitions) * 100;
+    if (rm == 1) {
+      return repmax;
+    }
+    return getReynoldsPercent(body_part, rm) * repmax / 100;
+  }
+
+  function getReynoldsPercent(body_part = "lower", rm = 1) {
+    if (body_part == "lower") {
+      return 78.17 * Math.exp(-0.0569 * rm) + 26.41;
+    } else {
+      return 55.51 * Math.exp(-0.0723 * rm) + 48.47;
+    }
+  }
+
   function getEpley(rm = 1) {
     var repmax = (1 + (0.0333 * repetitions)) * weight;
     if (rm == 1) {
@@ -212,24 +249,68 @@ motionsplan.Estimate1RM = function(weight, repetitions) {
     return repmax / (1 + (0.0333 * rm));
   }
 
-  function getLander() {
-    return (100 * weight) / (101.3 - 2.67123 * repetitions);
+  /**
+   * Women College Aged
+   */
+  /*
+  function getAbadie(rm = 1) {
+    var repmax = 7.24 + (1.05 * weight * repetitions);
+    if (rm == 1) {
+      return repmax;
+    }
+    return repmax / (1 + (0.0333 * rm));
+  }
+  */
+
+  /**
+   * McGlothin on Wikipedia
+   */
+  function getLander(rm = 1) {
+    var repmax = (100 * weight) / (101.3 - 2.67123 * repetitions);
+    if (rm == 1) {
+      return repmax;
+    }
+    return (repmax * (101.3 - 2.67123 * rm)) / 100;
   }
 
-  function getLombardi() {
-    return weight * (Math.pow(repetitions, 0.1));
+  function getLombardi(rm = 1) {
+    var repmax = weight * (Math.pow(repetitions, 0.1));
+    if (rm == 1) {
+      return repmax;
+    }
+    return repmax / ((Math.pow(repetitions, 0.1)));
   }
 
-  function getMayhew() {
-    return (100 * weight) / (52.2 + (41.9 * Math.exp(-0.055 * repetitions)));
+  function getMayhew(rm = 1) {
+    var repmax = (100 * weight) / (52.2 + (41.9 * Math.exp(-0.055 * repetitions)));
+    if (rm == 1) {
+      return repmax;
+    }
+    return repmax * (52.2 + (41.9 * Math.exp(-0.055 * rm))) / 100;
   }
 
-  function getOconnor() {
-    return weight * (1 + 0.025 * repetitions);
+  function getOconnor(rm = 1) {
+    var repmax = weight * (1 + 0.025 * repetitions);
+    if (rm == 1) {
+      return repmax;
+    }
+    return repmax / (1 + 0.025 * rm);
   }
 
-  function getWathan() {
-    return (100 * weight) / (48.8 + (53.8 * Math.exp(-0.075 * repetitions)));
+  function getWathan(rm = 1) {
+    var repmax = (100 * weight) / (48.8 + (53.8 * Math.exp(-0.075 * repetitions)));
+    if (rm == 1) {
+      return repmax;
+    }
+    return repmax * (48.8 + (53.8 * Math.exp(-0.075 * rm))) / 100;
+  }
+
+  function getWendler(rm = 1) {
+    var repmax = weight * repetitions * 0.0333 + weight;
+    if (rm == 1) {
+      return repmax;
+    }
+    return 1 / (((rm * .0333) / repmax) + (1 / repmax));
   }
 
   /**
@@ -298,6 +379,10 @@ motionsplan.Estimate1RM = function(weight, repetitions) {
 
   var publicAPI = {
     getBrzycki: getBrzycki,
+    // getAbadie: getAbadie,
+    getReynolds: getReynolds,
+    getReynolds5RM: getReynolds5RM,
+    getReynoldsPercent: getReynoldsPercent,
     getEpley: getEpley,
     getLander: getLander,
     getLombardi: getLombardi,
@@ -306,7 +391,8 @@ motionsplan.Estimate1RM = function(weight, repetitions) {
     getWathan: getWathan,
     getMOL: getMOL,
     getMOLBrzycki : getMOLBrzycki,
-    getPercentOfRm : getPercentOfRm
+    getPercentOfRm : getPercentOfRm,
+    getWendler : getWendler
   };
 
   return publicAPI;
@@ -338,8 +424,9 @@ require('image-map-resizer');
 $(document).ready(function() {
     $('map').imageMapResize();
 
-    $("#calculator_rm").ready(function() {
+    $("#form-formula").ready(function() {
         $(".motiononline").hide();
+        $(".reynolds").hide();
     });
     // 1RM calculate
     $("#form-formula").change(function() {
@@ -352,53 +439,150 @@ $(document).ready(function() {
     $("#calculator_rm").submit(function() {
         console.log("Calculate 1RM");
         
-        var repmax;
+        var repmax, reps;
+        var formula = $("#form-formula").val();
+        var decimals = 1;
 
         var reps = Number($("#form-reps").val());
         var weight = Number($("#form-weight").val());
         var trained = Number($("#form-trained").val());
         var koen = Number($("#form-sex").val());
-        var formula = $("#form-formula").val();
+        var bodypart = $("#form-bodypart").val();
 
         var r = rm.Estimate1RM(weight, reps);
 
         if (formula == "brzycki") {
             repmax = r.getMOLBrzycki();
-            $("#rm1").val(r.getMOLBrzycki());
-            $("#rm2").val(r.getMOLBrzycki(2));
-            $("#rm3").val(r.getMOLBrzycki(3));
-            $("#rm4").val(r.getMOLBrzycki(4));
-            $("#rm5").val(r.getMOLBrzycki(5));
-            $("#rm6").val(r.getMOLBrzycki(6));
-            $("#rm8").val(r.getMOLBrzycki(8));
-            $("#rm10").val(r.getMOLBrzycki(10));
-            $("#rm12").val(r.getMOLBrzycki(12));
-            $("#rm15").val(r.getMOLBrzycki(15));
-        }
-        else {
+            $("#rm1").val(repmax.toFixed(decimals));
+            $("#rm2").val(r.getMOLBrzycki(2).toFixed(decimals));
+            $("#rm3").val(r.getMOLBrzycki(3).toFixed(decimals));
+            $("#rm4").val(r.getMOLBrzycki(4).toFixed(decimals));
+            $("#rm5").val(r.getMOLBrzycki(5).toFixed(decimals));
+            $("#rm6").val(r.getMOLBrzycki(6).toFixed(decimals));
+            $("#rm8").val(r.getMOLBrzycki(8).toFixed(decimals));
+            $("#rm10").val(r.getMOLBrzycki(10).toFixed(decimals));
+            $("#rm12").val(r.getMOLBrzycki(12).toFixed(decimals));
+            $("#rm15").val(r.getMOLBrzycki(15).toFixed(decimals));
+        } else if (formula == "reynolds") {
+            repmax = r.getReynolds();
+            $("#rm1").val(repmax.toFixed(decimals));
+            $("#rm2").val(r.getReynolds(bodypart, 2).toFixed(decimals));
+            $("#rm3").val(r.getReynolds(bodypart, 3).toFixed(decimals));
+            $("#rm4").val(r.getReynolds(bodypart, 4).toFixed(decimals));
+            $("#rm5").val(r.getReynolds(bodypart, 5).toFixed(decimals));
+            $("#rm6").val(r.getReynolds(bodypart, 6).toFixed(decimals));
+            $("#rm8").val(r.getReynolds(bodypart, 8).toFixed(decimals));
+            $("#rm10").val(r.getReynolds(bodypart, 10).toFixed(decimals));
+            $("#rm12").val(r.getReynolds(bodypart, 12).toFixed(decimals));
+            $("#rm15").val(r.getReynolds(bodypart, 15).toFixed(decimals));
+        } else if (formula == "epley") {
+            repmax = r.getEpley();
+            $("#rm1").val(repmax.toFixed(decimals));
+            $("#rm2").val(r.getEpley(2).toFixed(decimals));
+            $("#rm3").val(r.getEpley(3).toFixed(decimals));
+            $("#rm4").val(r.getEpley(4).toFixed(decimals));
+            $("#rm5").val(r.getEpley(5).toFixed(decimals));
+            $("#rm6").val(r.getEpley(6).toFixed(decimals));
+            $("#rm8").val(r.getEpley(8).toFixed(decimals));
+            $("#rm10").val(r.getEpley(10).toFixed(decimals));
+            $("#rm12").val(r.getEpley(12).toFixed(decimals));
+            $("#rm15").val(r.getEpley(15).toFixed(decimals));
+        } else if (formula == "lander") {
+            repmax = r.getLander();
+            $("#rm1").val(repmax.toFixed(decimals));
+            $("#rm2").val(r.getLander(2).toFixed(decimals));
+            $("#rm3").val(r.getLander(3).toFixed(decimals));
+            $("#rm4").val(r.getLander(4).toFixed(decimals));
+            $("#rm5").val(r.getLander(5).toFixed(decimals));
+            $("#rm6").val(r.getLander(6).toFixed(decimals));
+            $("#rm8").val(r.getLander(8).toFixed(decimals));
+            $("#rm10").val(r.getLander(10).toFixed(decimals));
+            $("#rm12").val(r.getLander(12).toFixed(decimals));
+            $("#rm15").val(r.getLander(15).toFixed(decimals));
+        } else if (formula == "lombardi") {
+            repmax = r.getLombardi();
+            $("#rm1").val(repmax.toFixed(decimals));
+            $("#rm2").val(r.getLombardi(2).toFixed(decimals));
+            $("#rm3").val(r.getLombardi(3).toFixed(decimals));
+            $("#rm4").val(r.getLombardi(4).toFixed(decimals));
+            $("#rm5").val(r.getLombardi(5).toFixed(decimals));
+            $("#rm6").val(r.getLombardi(6).toFixed(decimals));
+            $("#rm8").val(r.getLombardi(8).toFixed(decimals));
+            $("#rm10").val(r.getLombardi(10).toFixed(decimals));
+            $("#rm12").val(r.getLombardi(12).toFixed(decimals));
+            $("#rm15").val(r.getLombardi(15).toFixed(decimals));
+        } else if (formula == "mayhew") {
+            repmax = r.getMayhew();
+            $("#rm1").val(repmax.toFixed(decimals));
+            $("#rm2").val(r.getMayhew(2).toFixed(decimals));
+            $("#rm3").val(r.getMayhew(3).toFixed(decimals));
+            $("#rm4").val(r.getMayhew(4).toFixed(decimals));
+            $("#rm5").val(r.getMayhew(5).toFixed(decimals));
+            $("#rm6").val(r.getMayhew(6).toFixed(decimals));
+            $("#rm8").val(r.getMayhew(8).toFixed(decimals));
+            $("#rm10").val(r.getMayhew(10).toFixed(decimals));
+            $("#rm12").val(r.getMayhew(12).toFixed(decimals));
+            $("#rm15").val(r.getMayhew(15).toFixed(decimals));
+        } else if (formula == "oconnor") {
+            repmax = r.getOconnor();
+            $("#rm1").val(repmax.toFixed(decimals));
+            $("#rm2").val(r.getOconnor(2).toFixed(decimals));
+            $("#rm3").val(r.getOconnor(3).toFixed(decimals));
+            $("#rm4").val(r.getOconnor(4).toFixed(decimals));
+            $("#rm5").val(r.getOconnor(5).toFixed(decimals));
+            $("#rm6").val(r.getOconnor(6).toFixed(decimals));
+            $("#rm8").val(r.getOconnor(8).toFixed(decimals));
+            $("#rm10").val(r.getOconnor(10).toFixed(decimals));
+            $("#rm12").val(r.getOconnor(12).toFixed(decimals));
+            $("#rm15").val(r.getOconnor(15).toFixed(decimals));
+        } else if (formula == "wathan") {
+            repmax = r.getWathan();
+            $("#rm1").val(repmax.toFixed(decimals));
+            $("#rm2").val(r.getWathan(2).toFixed(decimals));
+            $("#rm3").val(r.getWathan(3).toFixed(decimals));
+            $("#rm4").val(r.getWathan(4).toFixed(decimals));
+            $("#rm5").val(r.getWathan(5).toFixed(decimals));
+            $("#rm6").val(r.getWathan(6).toFixed(decimals));
+            $("#rm8").val(r.getWathan(8).toFixed(decimals));
+            $("#rm10").val(r.getWathan(10).toFixed(decimals));
+            $("#rm12").val(r.getWathan(12).toFixed(decimals));
+            $("#rm15").val(r.getWathan(15).toFixed(decimals));
+        } else if (formula == "wendler") {
+            repmax = r.getWendler();
+            $("#rm1").val(repmax.toFixed(decimals));
+            $("#rm2").val(r.getWendler(2).toFixed(decimals));
+            $("#rm3").val(r.getWendler(3).toFixed(decimals));
+            $("#rm4").val(r.getWendler(4).toFixed(decimals));
+            $("#rm5").val(r.getWendler(5).toFixed(decimals));
+            $("#rm6").val(r.getWendler(6).toFixed(decimals));
+            $("#rm8").val(r.getWendler(8).toFixed(decimals));
+            $("#rm10").val(r.getWendler(10).toFixed(decimals));
+            $("#rm12").val(r.getWendler(12).toFixed(decimals));
+            $("#rm15").val(r.getWendler(15).toFixed(decimals));
+        } else {
             repmax = r.getMOL(trained, koen);
-            $("#rm1").val(repmax);
-            $("#rm2").val(r.getMOL(trained, koen, 2));
-            $("#rm3").val(r.getMOL(trained, koen, 3));
-            $("#rm4").val(r.getMOL(trained, koen, 4));
-            $("#rm5").val(r.getMOL(trained, koen, 5));
-            $("#rm6").val(r.getMOL(trained, koen, 6));
-            $("#rm8").val(r.getMOL(trained, koen, 8));
-            $("#rm10").val(r.getMOL(trained, koen, 10));
-            $("#rm12").val(r.getMOL(trained, koen, 12));
-            $("#rm15").val(r.getMOL(trained, koen, 15));
+            $("#rm1").val(repmax).toFixed(decimals);
+            $("#rm2").val(r.getMOL(trained, koen, 2).toFixed(decimals));
+            $("#rm3").val(r.getMOL(trained, koen, 3).toFixed(decimals));
+            $("#rm4").val(r.getMOL(trained, koen, 4).toFixed(decimals));
+            $("#rm5").val(r.getMOL(trained, koen, 5).toFixed(decimals));
+            $("#rm6").val(r.getMOL(trained, koen, 6).toFixed(decimals));
+            $("#rm8").val(r.getMOL(trained, koen, 8).toFixed(decimals));
+            $("#rm10").val(r.getMOL(trained, koen, 10).toFixed(decimals));
+            $("#rm12").val(r.getMOL(trained, koen, 12).toFixed(decimals));
+            $("#rm15").val(r.getMOL(trained, koen, 15).toFixed(decimals));
         }
 
-        $("#p100").val(r.getPercentOfRm(repmax, 100));
-        $("#p95").val(r.getPercentOfRm(repmax, 95));
-        $("#p90").val(r.getPercentOfRm(repmax, 90));
-        $("#p85").val(r.getPercentOfRm(repmax, 85));
-        $("#p80").val(r.getPercentOfRm(repmax, 80));
-        $("#p75").val(r.getPercentOfRm(repmax, 75));
-        $("#p70").val(r.getPercentOfRm(repmax, 70));
-        $("#p60").val(r.getPercentOfRm(repmax, 60));
-        $("#p50").val(r.getPercentOfRm(repmax, 50));
-        $("#p40").val(r.getPercentOfRm(repmax, 40));
+        $("#p100").val(r.getPercentOfRm(repmax, 100).toFixed(decimals));
+        $("#p95").val(r.getPercentOfRm(repmax, 95).toFixed(decimals));
+        $("#p90").val(r.getPercentOfRm(repmax, 90).toFixed(decimals));
+        $("#p85").val(r.getPercentOfRm(repmax, 85).toFixed(decimals));
+        $("#p80").val(r.getPercentOfRm(repmax, 80).toFixed(decimals));
+        $("#p75").val(r.getPercentOfRm(repmax, 75).toFixed(decimals));
+        $("#p70").val(r.getPercentOfRm(repmax, 70).toFixed(decimals));
+        $("#p60").val(r.getPercentOfRm(repmax, 60).toFixed(decimals));
+        $("#p50").val(r.getPercentOfRm(repmax, 50).toFixed(decimals));
+        $("#p40").val(r.getPercentOfRm(repmax, 40).toFixed(decimals));
         return false;
     });
     // Mortality calculation
@@ -936,7 +1120,7 @@ $(document).ready(function() {
 
         $("#velocity_kmt").val(c.getKilometersPrHour(min, sec, distance));
         $("#velocity_min_km").val(c.getTimePrKilometer(min, sec, distance));
-        
+
         return false;
     });
     $("#calculator_convert_kmt_minkm_velocity").submit(function() {
@@ -987,7 +1171,7 @@ $(document).ready(function() {
 
         return false;
     });
-    // Calculate Cooper 12 min
+     // Calculate Cooper 2400 meter
     $("#calculator_cooper_2400_test").submit(function() {
         console.log("Calculate CooperTest 2400");
 
@@ -1000,7 +1184,7 @@ $(document).ready(function() {
         
         return false;
     });
-     // Calculate Cooper 12 min
+    // Calculate Cooper 12 min
     $("#calculator_cooper_test").submit(function() {
         console.log("Calculate CooperTest");
 
@@ -1017,147 +1201,147 @@ $(document).ready(function() {
         if (this.min) this.value = Math.max(parseInt(this.min), parseInt(this.value));
         if (this.max) this.value = Math.min(parseInt(this.max), parseInt(this.value));
     });
- 
+
     $(".adductor-longus").hover(function () {
     	$(".adductor-longus").toggleClass("anatomy-popup-on");
 	});
-	
+
 	$(".adductor-magnus").hover(function () {
     	$(".adductor-magnus").toggleClass("anatomy-popup-on");
 	});
-	
+
 	$(".anconeus").hover(function () {
     	$(".anconeus").toggleClass("anatomy-popup-on");
 	});
-	
+
 	$(".biceps-brachii").hover(function () {
     	$(".biceps-brachii").toggleClass("anatomy-popup-on");
 	});
-	
+
 	$(".biceps-femoris").hover(function () {
     	$(".biceps-femoris").toggleClass("anatomy-popup-on");
 	});
-	
+
 	$(".brachioradialis").hover(function () {
     	$(".brachioradialis").toggleClass("anatomy-popup-on");
 	});
-	
+
 	$(".deltoideus").hover(function () {
     	$(".deltoideus").toggleClass("anatomy-popup-on");
 	});
-	
+
 	$(".extensor-carpi-radialis-longus").hover(function () {
     	$(".extensor-carpi-radialis-longus").toggleClass("anatomy-popup-on");
 	});
-	
+
 	$(".extensor-carpi-ulnaris").hover(function () {
     	$(".extensor-carpi-ulnaris").toggleClass("anatomy-popup-on");
 	});
-	
+
 	$(".extensor-digitori-minimi").hover(function () {
     	$(".extensor-digitori-minimi").toggleClass("anatomy-popup-on");
 	});
-	
+
 	$(".extensor-digitorum").hover(function () {
     	$(".extensor-digitorum").toggleClass("anatomy-popup-on");
 	});
-	
+
 	$(".external-oblique").hover(function () {
     	$(".external-oblique").toggleClass("anatomy-popup-on");
 	});
-	
+
 	$(".flexor-carpi-radialis").hover(function () {
     	$(".flexor-carpi-radialis").toggleClass("anatomy-popup-on");
 	});
-	
+
 	$(".flexor-carpi-ulnaris").hover(function () {
     	$(".flexor-carpi-ulnaris").toggleClass("anatomy-popup-on");
 	});
-	
+
 	$(".gastrocnemius").hover(function () {
     	$(".gastrocnemius").toggleClass("anatomy-popup-on");
 	});
-	
+
 	$(".gluteus-maximus").hover(function () {
     	$(".gluteus-maximus").toggleClass("anatomy-popup-on");
 	});
-	
+
 	$(".gluteus-medius").hover(function () {
     	$(".gluteus-medius").toggleClass("anatomy-popup-on");
 	});
-	
+
 	$(".gracilis").hover(function () {
     	$(".gracilis").toggleClass("anatomy-popup-on");
 	});
-	
+
 	$(".infraspinatus").hover(function () {
     	$(".infraspinatus").toggleClass("anatomy-popup-on");
 	});
-	
+
 	$(".internal-oblique").hover(function () {
     	$(".internal-oblique").toggleClass("anatomy-popup-on");
 	});
-	
+
 	$(".latissimus-dorsi").hover(function () {
     	$(".latissimus-dorsi").toggleClass("anatomy-popup-on");
 	});
-	
+
 	$(".pectineus").hover(function () {
     	$(".pectineus").toggleClass("anatomy-popup-on");
 	});
-	
+
 	$(".pectoralis-major").hover(function () {
     	$(".pectoralis-major").toggleClass("anatomy-popup-on");
 	});
-	
+
 	$(".rectus-abdominis").hover(function () {
     	$(".rectus-abdominis").toggleClass("anatomy-popup-on");
 	});
-	
+
 	$(".rectus-femoris").hover(function () {
     	$(".rectus-femoris").toggleClass("anatomy-popup-on");
 	});
-	
+
 	$(".sartorius").hover(function () {
     	$(".sartorius").toggleClass("anatomy-popup-on");
 	});
-	
+
 	$(".semimembranosus").hover(function () {
     	$(".semimembranosus").toggleClass("anatomy-popup-on");
 	});
-	
+
 	$(".semitendinosus").hover(function () {
     	$(".semitendinosus").toggleClass("anatomy-popup-on");
 	});
-	
+
 	$(".serratus-anterior").hover(function () {
     	$(".serratus-anterior").toggleClass("anatomy-popup-on");
 	});
-	
+
 	$(".soleus").hover(function () {
     	$(".soleus").toggleClass("anatomy-popup-on");
 	});
-	
+
 	$(".teres-major").hover(function () {
     	$(".teres-major").toggleClass("anatomy-popup-on");
 	});
-	
+
 	$(".tibialis-anterior").hover(function () {
     	$(".tibialis-anterior").toggleClass("anatomy-popup-on");
 	});
-	
+
 	$(".trapezius").hover(function () {
     	$(".trapezius").toggleClass("anatomy-popup-on");
 	});
-	
+
 	$(".triceps-brachii").hover(function () {
     	$(".triceps-brachii").toggleClass("anatomy-popup-on");
 	});
-	
+
 	$(".vastus-lateralis").hover(function () {
     	$(".vastus-lateralis").toggleClass("anatomy-popup-on");
 	});
-	
+
 	$(".vastus-medialis").hover(function () {
     	$(".vastus-medialis").toggleClass("anatomy-popup-on");
 	});
