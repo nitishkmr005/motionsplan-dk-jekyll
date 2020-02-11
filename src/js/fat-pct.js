@@ -16,9 +16,13 @@ motionsplan.CalculateFatPercent = function(h, w, a, sex) {
     return w / (h * h);
   }
 
+  /**
+   * Might be Heitmann
+   * Evaluation of body fat estimated from body mass index, skinfolds and impedance. A comparative study
+   */
   function getFatMass() {
     var fm;
-    if (sex == 'man') {
+    if (isMale()) {
       fm = 0.988 * getBMI() + 0.242 * w + 0.094 * a - 30.18;
     } else {
       fm = 0.988 * getBMI() + 0.344 * w + 0.094 * a - 30.18;
@@ -26,15 +30,32 @@ motionsplan.CalculateFatPercent = function(h, w, a, sex) {
     return fm;
   }
 
-  function getFatPercent() {
+  function getBodyFatPercentHeitmannBMIEquation() {
     return getFatMass() / w * 100;
+  }
+
+  /**
+   * https://www.researchgate.net/publication/242017991_Predicting_Body_Composition_in_College_Students_Using_the_Womersley_and_Durnin_Body_Mass_Index_Equation
+   */
+  function getBodyFatpercentWomersleyDurninBMIEquation() {
+    if (isMale()) {
+      return 1.34*getBMI()-12.47;
+    }
+    return 1.37*getBMI()-3.47;
+  }
+
+  function isMale() {
+    if (sex == 'man') {
+      return true; 
+    }
+    return false;
   }
 
   var publicAPI = {
     getBMI : getBMI,
     getFatMass: getFatMass,
-    getFatPercent: getFatPercent
-
+    getBodyFatPercentHeitmannBMIEquation: getBodyFatPercentHeitmannBMIEquation,
+    getBodyFatpercentWomersleyDurninBMIEquation : getBodyFatpercentWomersleyDurninBMIEquation
   };
 
   return publicAPI;

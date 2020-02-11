@@ -16,7 +16,7 @@ tags:
   - test
   - kropskomposition
   - skinfold
-last_modified_at: 2019-03-06T23:14:14Z
+last_modified_at: 2020-02-11T23:14:14Z
 toc: true
 feature_row:
   - image_path: https://cdn6.bogreolen.dk/00039/91685/cover.1571714918.jpg

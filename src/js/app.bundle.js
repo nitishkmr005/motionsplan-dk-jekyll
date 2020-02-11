@@ -273,15 +273,13 @@ $(document).ready(function() {
         var f = fat.CalculateFatPercent(h, w, a, g);
 
         $("#BMI").val(f.getBMI());
-        $("#fat_mass").val(f.getFatMass());
-        $("#fat_percent").val(f.getFatPercent());
+        $("#fat_percent_heitmann").val(f.getBodyFatPercentHeitmannBMIEquation());
+        $("#fat_percent_durnin").val(f.getBodyFatpercentWomersleyDurninBMIEquation());
         return false;
     });
     // Calculate Durnin
     $("#calculator_skinfold_durnin").submit(function() {
         console.log("Calculate Skinfold Durnin");
-
-        var density;
 
         var biceps = Number($("[name='biceps']").val());
         var triceps = Number($("[name='triceps']").val());
