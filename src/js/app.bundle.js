@@ -256,8 +256,8 @@ $(document).ready(function() {
 
         var b = bmi.BMI(h, w);
 
-        $("#BMI").val(b.getBMI());
-        $("#PMI").val(b.getPonderalIndex());
+        $("#BMI").val(b.getBMI().toFixed(1));
+        $("#PMI").val(b.getPonderalIndex().toFixed(1));
         return false;
     });
 
@@ -273,8 +273,8 @@ $(document).ready(function() {
         var f = fat.CalculateFatPercent(h, w, a, g);
 
         $("#BMI").val(f.getBMI());
-        $("#fat_percent_heitmann").val(f.getBodyFatPercentHeitmannBMIEquation());
-        $("#fat_percent_durnin").val(f.getBodyFatpercentWomersleyDurninBMIEquation());
+        $("#fat_percent_heitmann").val(f.getBodyFatPercentHeitmannBMIEquation().toFixed(2));
+        $("#fat_percent_durnin").val(f.getBodyFatpercentWomersleyDurninBMIEquation().toFixed(2));
         return false;
     });
     // Calculate Durnin
@@ -291,8 +291,8 @@ $(document).ready(function() {
 
         var f = skinfold_durnin.SkinfoldDurnin(biceps, triceps, hoftekam, skulder, vaegt, koen, age);
 
-        $("[name='fedtprocentDurnin']").val(f.getBodyFatPercent());
-        $("[name='fedtfriDurnin']").val(f.getFatFreeMass());
+        $("[name='fedtprocentDurnin']").val(f.getBodyFatPercent().toFixed(2));
+        $("[name='fedtfriDurnin']").val(f.getFatFreeMass().toFixed(2));
         return false;
     });
     // Calculate Pollock
