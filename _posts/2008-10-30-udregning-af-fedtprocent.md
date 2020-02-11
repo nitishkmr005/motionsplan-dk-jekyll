@@ -84,4 +84,9 @@ Udregningen af fedtprocent i formularen har en standardfejl på på 3,9%. Det be
 
 ## Referencer
 
+Predicting Body Composition in College Students Using the Womersley and Durnin Body Mass Index Equation Jeremy P. Loenneke*1BCDG, MS; Kathryn M. Hirt2CDG, MS; Jacob M. Wilson3CDG, PhD; Jeremy T Barnes4ABDG, PhD; Thomas J Pujol4ABDG, EdD
+
+Evaluation of body fat estimated from body mass index, skinfolds and impedance. A comparative study.
+BL Heitmann - European journal of clinical nutrition, 1990 - europepmc.org
+
 {% include feature_row type="left" %}
