@@ -56,7 +56,35 @@ I tabel 1 kan du se normalværdierne for BMI:
 
 ## Fedtprocent ud fra udregning
 
-Fedtprocenten er den relative del af kropsvægten, som udgøres af fedt. Du har behov for fedt for overhovedet at kunne holde varmen. I formularen oven for er fedtprocenten udregnet ud fra køn, BMI og alder.
+Fedtprocenten er den relative del af kropsvægten, som udgøres af fedt. Du har behov for fedt for overhovedet at kunne holde varmen. 
+
+Formularen oven for benytter sig af to forskellige udregninger til at estimere fedtprocenten.
+
+### Heitmann
+
+Heitmann bruger i sin formel køn, BMI og alder.
+
+#### Mænd
+
+{% include math formula="PBF = \frac{0.988 * BMI + 0.242 * weight (kg) + 0.094 * age - 30.18;}{weight (kg)}" %}
+
+#### Kvinder
+
+{% include math formula="PBF = \frac{0.988 * BMI + 0.344 * weight (kg) + 0.094 * age - 30.18}{height (m)^2}" %}
+
+### Durnin & Womersley
+
+Durnin & Womersley bruger i sin formel køn og alder.
+
+#### Mænd
+
+PBF = 1.34 * BMI - 12.47
+
+#### Kvinder
+
+PBF = 1.37 * BMI - 3.47
+
+## Normer for fedtprocent
 
 | Tabel 2: Fedtprocent normer                            |||
 | Klassifikation         | Kvinde (% fedt) | Mand (% fedt) |

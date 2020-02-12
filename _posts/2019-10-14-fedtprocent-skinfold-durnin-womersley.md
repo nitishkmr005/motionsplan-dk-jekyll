@@ -62,7 +62,7 @@ Hvor D = estimeret density af kroppen (g/ml), og L = log af den totale sum af de
 
 Derefter kan Siri-formlen omsætte densiteten til fedtprocent.
 
-% Body Fat = (495 / Body Density) - 450
+{% include math formula="PBF = \frac{495}{D} - 450" %}
 
 ## Referencer
 
