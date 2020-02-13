@@ -84,6 +84,12 @@ PBF = 1.34 * BMI - 12.47
 
 PBF = 1.37 * BMI - 3.47
 
+### Duerenberg et al.
+
+PBF = 1.20 * BMI + 0.23 * age - 10.8 * sex[^note] - 5.4;
+
+[^note]: sex: men = 1; female = 0
+
 ## Normer for fedtprocent
 
 | Tabel 2: Fedtprocent normer                            |||
@@ -116,5 +122,7 @@ Predicting Body Composition in College Students Using the Womersley and Durnin B
 
 Evaluation of body fat estimated from body mass index, skinfolds and impedance. A comparative study.
 BL Heitmann - European journal of clinical nutrition, 1990 - europepmc.org
+
+Duerenberg et al. https://www.ncbi.nlm.nih.gov/pubmed/2043597
 
 {% include feature_row type="left" %}

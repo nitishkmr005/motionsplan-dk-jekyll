@@ -15,7 +15,14 @@ describe('CalculateFatPercent', function() {
     it('should return the correct number', function() {
 
       var fat = motionsplan.CalculateFatPercent(180, 80, 40, 'man');
-      assert.equal(fat.getBodyFatpercentWomersleyDurninBMIEquation(), 20.616419753086426);
+      assert.equal(fat.getBodyFatPercentWomersleyDurninBMIEquation(), 20.616419753086426);
+    });
+  });
+  describe('getFatPercentDuernebergBMIIndexEq', function() {
+    it('should return the correct number', function() {
+
+      var fat = motionsplan.CalculateFatPercent(180, 80, 40, 'man');
+      assert.equal(fat.getBodyFatPercentDuerenbergBMIEquation(), 22.629629629629626);
     });
   });
 });

@@ -677,7 +677,8 @@ $(document).ready(function() {
 
         $("#BMI").val(f.getBMI().toFixed(2));
         $("#fat_percent_heitmann").val(f.getBodyFatPercentHeitmannBMIEquation().toFixed(2));
-        $("#fat_percent_durnin").val(f.getBodyFatpercentWomersleyDurninBMIEquation().toFixed(2));
+        $("#fat_percent_durnin").val(f.getBodyFatPercentWomersleyDurninBMIEquation().toFixed(2));
+        $("#fat_percent_duerenberg").val(f.getBodyFatPercentDuerenbergBMIEquation().toFixed(2));
         return false;
     });
     // Calculate Durnin
@@ -1802,13 +1803,25 @@ motionsplan.CalculateFatPercent = function(h, w, a, sex) {
   /**
    * https://www.researchgate.net/publication/242017991_Predicting_Body_Composition_in_College_Students_Using_the_Womersley_and_Durnin_Body_Mass_Index_Equation
    */
-  function getBodyFatpercentWomersleyDurninBMIEquation() {
+  function getBodyFatPercentWomersleyDurninBMIEquation() {
     if (isMale()) {
       return 1.34*getBMI()-12.47;
     }
     return 1.37*getBMI()-3.47;
   }
-
+  
+  /**
+   * https://www.ncbi.nlm.nih.gov/pubmed/2043597
+   */
+  function getBodyFatPercentDuerenbergBMIEquation() {
+    if (isMale()) {
+      sex = 1;
+    } else {
+      sex = 1;
+    }
+    return 1.20 * getBMI() + 0.23 * a - 10.8 * sex - 5.4;
+  }
+  
   function isMale() {
     if (sex == 'man') {
       return true; 
@@ -1820,7 +1833,8 @@ motionsplan.CalculateFatPercent = function(h, w, a, sex) {
     getBMI : getBMI,
     getFatMass: getFatMass,
     getBodyFatPercentHeitmannBMIEquation: getBodyFatPercentHeitmannBMIEquation,
-    getBodyFatpercentWomersleyDurninBMIEquation : getBodyFatpercentWomersleyDurninBMIEquation
+    getBodyFatPercentWomersleyDurninBMIEquation : getBodyFatPercentWomersleyDurninBMIEquation,
+    getBodyFatPercentDuerenbergBMIEquation : getBodyFatPercentDuerenbergBMIEquation
   };
 
   return publicAPI;
