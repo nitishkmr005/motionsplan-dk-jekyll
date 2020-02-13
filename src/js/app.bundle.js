@@ -33,6 +33,11 @@ $(document).ready(function() {
         } else {
             $(".motiononline").hide();
         }
+        if ($("#form-formula").val() == 'reynolds') {
+            $(".reynolds").show();
+        } else {
+            $(".reynolds").hide();
+        }
     });
     $("#calculator_rm").submit(function() {
         console.log("Calculate 1RM");

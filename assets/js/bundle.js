@@ -436,6 +436,11 @@ $(document).ready(function() {
         } else {
             $(".motiononline").hide();
         }
+        if ($("#form-formula").val() == 'reynolds') {
+            $(".reynolds").show();
+        } else {
+            $(".reynolds").hide();
+        }
     });
     $("#calculator_rm").submit(function() {
         console.log("Calculate 1RM");
@@ -1809,7 +1814,7 @@ motionsplan.CalculateFatPercent = function(h, w, a, sex) {
     }
     return 1.37*getBMI()-3.47;
   }
-  
+
   /**
    * https://www.ncbi.nlm.nih.gov/pubmed/2043597
    */
@@ -1821,7 +1826,7 @@ motionsplan.CalculateFatPercent = function(h, w, a, sex) {
     }
     return 1.20 * getBMI() + 0.23 * a - 10.8 * sex - 5.4;
   }
-  
+
   function isMale() {
     if (sex == 'man') {
       return true; 
