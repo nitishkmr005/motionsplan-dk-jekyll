@@ -30,7 +30,7 @@ Du kan både gøre det ved at gå, løbe eller cykle, så det er også en kærko
 
 Stephen Lund er en af de kendte GPS-kunstnere, og han har fortalt lidt om det på Tedx.
 
-{% include provider="youtube" id="OsMMysaZRyg" %}
+{% include video provider="youtube" id="OsMMysaZRyg" %}
 
 ## Hvordan laver man GPS-kunst
 
