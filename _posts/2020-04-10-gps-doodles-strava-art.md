@@ -23,6 +23,31 @@ feature_row:
     url: https://track.adtraction.com/t/t?a=1124622406&as=1484571907&t=2&tk=1&url=https://sportmaster.dk/garmin-fenix-5-plus-sapphire-2058971?size=One+Size&gclid=Cj0KCQjwj7v0BRDOARIsAGh37ipamu_nXNAfyMPbgF4aQfhUyRpXvIcMdu7wu2hXPvpD1_bP8i6zo54aAvojEALw_wcB
     btn_label: "Læs mere"
     btn_class: "btn--success"
+gallery:
+  - url: https://i1.wp.com/geoawesomeness.com/wp-content/uploads/2017/08/stephen-lund.jpg?resize=696%2C493&ssl=1
+    image_path: //images.weserv.nl/?url=https://i1.wp.com/geoawesomeness.com/wp-content/uploads/2017/08/stephen-lund.jpg&w=400&h=267&a=attention&fit=cover
+    alt: "GPS Doodles - StravaArt"
+    title: "GPS Doodles - StravaArt"
+  - url: https://i0.wp.com/geoawesomeness.com/wp-content/uploads/2017/08/stephen-lund-1.jpg?resize=696%2C535&ssl=1
+    image_path: //images.weserv.nl/?url=https://i0.wp.com/geoawesomeness.com/wp-content/uploads/2017/08/stephen-lund-1.jpg&w=400&h=267&a=attention&fit=cover
+    alt: "GPS Doodles - StravaArt"
+    title: "GPS Doodles - StravaArt"
+  - url: https://i1.wp.com/geoawesomeness.com/wp-content/uploads/2017/08/stephen-lund-2.jpg?resize=696%2C385&ssl=1
+    image_path: //images.weserv.nl/?url=https://i1.wp.com/geoawesomeness.com/wp-content/uploads/2017/08/stephen-lund-2.jpg&w=400&h=267&a=attention&fit=cover
+    alt: "GPS Doodles - StravaArt"
+    title: "GPS Doodles - StravaArt"
+  - url: https://i2.wp.com/geoawesomeness.com/wp-content/uploads/2017/08/stephen-lund-3.jpg?resize=696%2C472&ssl=1
+    image_path: //images.weserv.nl/?url=https://i2.wp.com/geoawesomeness.com/wp-content/uploads/2017/08/stephen-lund-3.jpg&w=400&h=267&a=attention&fit=cover
+    alt: "GPS Doodles - StravaArt"
+    title: "GPS Doodles - StravaArt"
+  - url: https://i1.wp.com/geoawesomeness.com/wp-content/uploads/2017/08/stephen-lund-4.jpg?resize=696%2C668&ssl=1
+    image_path: //images.weserv.nl/?url=https://i1.wp.com/geoawesomeness.com/wp-content/uploads/2017/08/stephen-lund-4.jpg&w=400&h=267&a=attention&fit=cover
+    alt: "GPS Doodles - StravaArt"
+    title: "GPS Doodles - StravaArt"
+  - url: https://i0.wp.com/geoawesomeness.com/wp-content/uploads/2017/08/stephen-lund-5.jpg?resize=696%2C561&ssl=1
+    image_path: //images.weserv.nl/?url=https://i0.wp.com/geoawesomeness.com/wp-content/uploads/2017/08/stephen-lund-5.jpg&w=400&h=267&a=attention&fit=cover
+    alt: "GPS Doodles - StravaArt"
+    title: "GPS Doodles - StravaArt"
 ---
 
 Hvis du altid har drømt om at lave et hulemaleri, men aldrig rigtig har fundet en rigtig god hule arkæologer vil udgrave om 100.000 år, så kan du forsøge dig med at lave kunst ved hjælp af din GPS. Man kalder det også GPS Doodles, Strava Art, GPS writing eller GPS sketching.
@@ -54,6 +79,8 @@ Det er sjovt at forsøge at lave tegningen i en lang flydende bevægelse, men de
 ## Inspiration
 
 Du kan printe kort ud og forsøge at finde figurer i vejene. Fx kan du tage et kort og tegne hovedvejene op. Så kan du vende det på forskellige måder, og så venter figurerne bare på at komme frem.
+
+{% include gallery %}
 
 Du kan også kigge på [Stephen Lunds Sketchbook og af GPS-artist](http://www.gpsdoodles.com). På [Twitter](http://www.twitter.com) kan du søge efter [#StravaArt hashtagget](https://twitter.com/hashtag/StravaArt?src=hash).
 
