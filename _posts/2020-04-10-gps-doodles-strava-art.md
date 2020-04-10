@@ -7,6 +7,7 @@ header:
   overlay_image: https://resources.stuff.co.nz/content/dam/images/1/9/t/q/x/p/image.related.StuffLandscapeThreeByTwo.1464x976.19tqzx.png/1455665002072.jpg
   teaser: https://resources.stuff.co.nz/content/dam/images/1/9/t/q/x/p/image.related.StuffLandscapeThreeByTwo.1464x976.19tqzx.png/1455665002072.jpg
   caption: "Stephen Lunds GPS-Doodle"
+  overlay_filter: 0.5
 category:
   - Kondition
 tags:
@@ -15,11 +16,11 @@ tags:
 last_modified_at: 2019-11-19T23:14:14Z
 toc: true
 feature_row:
-  - image_path: https://images.wupti.com/retrievefile.axd?file=1050404&mh=350&mw=350&ps=FullSize&q=95&hash=7CC835C3A779941A3C267F7E03C019AB26C1EA02
+  - image_path: https://www.loebeshop.dk/media/catalog/product/cache/1/image/575x/040ec09b1e35df139433887a97daa66f/r/_/r_fenix5x_hr_2003.1.jpg
     alt: "Garmin FENIX 5S Smartwatch"
     title: "Garmin FENIX 5S Smartwatch"
     excerpt: "Hvis du er vild med IT og elektronik og kan lide at være opdateret med teknologi uden at gå glip af noget, så køb Smartwatch GARMIN FENIX 5S GPS 10 ATM Sølv Sort til en uovertruffen pris"
-    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=25156&htmlurl=https://www.wupti.com/produkter/mobil/smartwatches/oevrige-smartwatches/garmin-fenix-5s-smartwatch"
+    url: https://track.adtraction.com/t/t?a=1124622406&as=1484571907&t=2&tk=1&url=https://sportmaster.dk/garmin-fenix-5-plus-sapphire-2058971?size=One+Size&gclid=Cj0KCQjwj7v0BRDOARIsAGh37ipamu_nXNAfyMPbgF4aQfhUyRpXvIcMdu7wu2hXPvpD1_bP8i6zo54aAvojEALw_wcB
     btn_label: "Læs mere"
     btn_class: "btn--success"
 ---
