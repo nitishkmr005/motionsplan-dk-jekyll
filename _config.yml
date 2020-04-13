@@ -137,7 +137,6 @@ include:
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
-  - vendor
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
@@ -158,14 +157,18 @@ exclude:
   - package.json
   - Rakefile
   - README
+  - README.md
+  - Rakefile
+  - npm-debug.log
+  - composer.json
+  - composer.lock
+  - composer.phar
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
-  - composer.phar
-  - composer.json
-  - composer.lock
   - /vendor
   - /src
+  - /node_modules
   - .git
   - .svn
 keep_files:
@@ -310,6 +313,8 @@ defaults:
       type: exercises
     values:
       layout: activity
+      header:
+        teaser: //via.placeholder.com/400x300
       author_profile: true
       read_time: false
       comments: true
