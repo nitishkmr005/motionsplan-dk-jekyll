@@ -30,4 +30,4 @@ Sørg for at bygge din træning op gradvist - ellers vil du virkelig finde ud af
 
 ## Hvor køber jeg en TRX suspension træner?
 
-<iframe marginwidth="0" marginheight="0" frameborder="0" scrolling="no" width="540" height="180" src="https://www.partner-ads.com/dk/visfeedbanner9.php?rid=8437"></iframe>
+{% include pa-banner product="trx" %}
