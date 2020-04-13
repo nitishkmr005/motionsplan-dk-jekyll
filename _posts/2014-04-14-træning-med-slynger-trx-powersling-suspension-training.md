@@ -25,17 +25,8 @@ Nu er det faktisk bare at finde nogle øvelser, fx her på motionsplan eller and
 
 Sørg for at bygge din træning op gradvist - ellers vil du virkelig finde ud af, hvad dine mavemuskler også bliver brugt til.
 
-{% assign equipment = "trx" %}
-{% assign exercises = site.exercises | where: "equipment", equipment | sort: "title" %}
-
-{% if exercises.size > 0 %}
-## Inspiration til {{ equipment }}
-<div class="grid__wrapper">
-  {% for post in exercises %}
-    {% include archive-single-simple.html type="grid" %}
-  {% endfor %}
-</div>
-{% endif %}
+{% assign exercises = site.exercises | where: "equipment", "trx" | sort: "title" %}
+{% include exercises-by-search title="Inspiration til TRX og slyngetræning" exercises=exercises %}
 
 ## Hvor køber jeg en TRX suspension træner?
 
