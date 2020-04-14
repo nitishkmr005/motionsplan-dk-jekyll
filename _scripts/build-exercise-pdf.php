@@ -62,7 +62,9 @@ class ExerciseAdapter implements ExerciseInterface
      */
     public function getImages()
     {
-        if (!is_array($this->document->getYaml()['gallery'])) return array();
+        if (!isset($this->document->getYaml()['gallery']) || !is_array($this->document->getYaml()['gallery'])) {
+            return array();
+        }
         $images = array();
         foreach ($this->document->getYaml()['gallery'] as $img) {
             $images[] = new ExerciseImage(__DIR__ . "/../" . $img['image_path']);
@@ -86,7 +88,7 @@ class ExerciseAdapter implements ExerciseInterface
 $fileList = glob(__DIR__ . "/../_exercises/*");
  
 //Loop through the array that glob returned.
-foreach ($fileList as $filename){
+foreach ($fileList as $filename) {
     $str = file_get_contents($filename);
     $name = pathinfo($filename);
     
@@ -102,11 +104,16 @@ foreach ($fileList as $filename){
     $pdf->setLogo(new ExerciseImage(__DIR__ . '/../assets/images/mp-logo.png'), 'http://www.motionsplan.dk');
     $pdf->setContribLogo(new ExerciseImage(__DIR__ . '/../assets/images/vih_logo.jpg'), 'http://www.vih.dk');
     $pdf->addNewPage(new ExerciseAdapter($document));
-    // This is not really testing the library - just to see whether functions works.
     $pdf->Output($filename, 'F');
     
     unset($document);
     unset($pdf);
     
     flush();
+}
+
+$fileList = glob(__DIR__ . "/*.png");
+foreach ($fileList as $filename) {
+    $name = pathinfo($filename);
+    unlink($name['filename'] . '.png');
 }
