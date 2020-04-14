@@ -12,3 +12,5 @@ composer.phar
 composer.lock
 _scripts/*.png
 npm-debug.log
+.jekyll-cache/
+
