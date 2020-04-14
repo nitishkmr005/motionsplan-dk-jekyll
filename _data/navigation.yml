@@ -19,6 +19,22 @@ anatomi:
       - title: "Muskler"
         url: /muskler/
 muscles:
+  - title: "Led"
+    url: /led/
+    children:
+      - title: Albueleddet
+        url: /joints/albueleddet/
+      - title: Ankel- og fodleddet
+        url: /joints/ankelleddet-og-fodleddet/
+      - title: Hofteleddet
+        url: /joints/hofteleddet/
+      - title: Knæleddet
+        url: /joints/knaeleddet/
+      - title: Ryggen
+        url: /joints/rygsojlen/
+      - title: Skulderleddet og -bladet (skulderbæltet)
+        url: /joints/skulderleddet/
+
   - title: "Skeletmuskler"
     url: "/muskler/"
     children:
@@ -72,18 +88,6 @@ muscles:
         url: /infraspinatus/
       - title: Indre skrå mavemuskel
         url: /internal-oblique/
-      - title: Albueleddet
-        url: /joints/albueleddet/
-      - title: Ankel- og fodleddet
-        url: /joints/ankelleddet-og-fodleddet/
-      - title: Hofteleddet
-        url: /joints/hofteleddet/
-      - title: Knæleddet
-        url: /joints/knaeleddet/
-      - title: Ryggen
-        url: /joints/rygsojlen/
-      - title: Skulderleddet og -bladet (skulderbæltet)
-        url: /joints/skulderleddet/
       - title: Bred rygmuskel
         url: /latissimus-dorsi/
       - title: Pectineus
