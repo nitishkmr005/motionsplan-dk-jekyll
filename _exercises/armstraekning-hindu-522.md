@@ -7,8 +7,8 @@ redirect_from: /node/522
 id: 522
 language: da
 header:
-  overlay_image: /assets/images/exercises/armstrækning-hindu-0.jpg
-  teaser: /assets/images/exercises/armstrækning-hindu-0-320.jpg
+  overlay_image: /assets/images/exercises/armstraekning-hindu-0.jpg
+  teaser: /assets/images/exercises/armstraekning-hindu-0-320.jpg
 tags:
   - Hård styrkeøvelse
   - kropsstamme
@@ -26,20 +26,20 @@ alternative_titles:
   - Dand
   - Divebomber pushup
 gallery:
-  - url: /assets/images/exercises/armstrækning-hindu-0.jpg
-    image_path: /assets/images/exercises/armstrækning-hindu-0-320.jpg
+  - url: /assets/images/exercises/armstraekning-hindu-0.jpg
+    image_path: /assets/images/exercises/armstraekning-hindu-0-320.jpg
     alt: "Armstrækning, hindu or yoga"
     title: "Armstrækning, hindu or yoga"
-  - url: /assets/images/exercises/armstrækning-hindu-1.jpg
-    image_path: /assets/images/exercises/armstrækning-hindu-1-320.jpg
+  - url: /assets/images/exercises/armstraekning-hindu-1.jpg
+    image_path: /assets/images/exercises/armstraekning-hindu-1-320.jpg
     alt: "Armstrækning, hindu or yoga"
     title: "Armstrækning, hindu or yoga"
-  - url: /assets/images/exercises/armstrækning-hindu-2.jpg
-    image_path: /assets/images/exercises/armstrækning-hindu-2-320.jpg
+  - url: /assets/images/exercises/armstraekning-hindu-2.jpg
+    image_path: /assets/images/exercises/armstraekning-hindu-2-320.jpg
     alt: "Armstrækning, hindu or yoga"
     title: "Armstrækning, hindu or yoga"
-  - url: /assets/images/exercises/armstrækning-hindu-3.jpg
-    image_path: /assets/images/exercises/armstrækning-hindu-3-320.jpg
+  - url: /assets/images/exercises/armstraekning-hindu-3.jpg
+    image_path: /assets/images/exercises/armstraekning-hindu-3-320.jpg
     alt: "Armstrækning, hindu or yoga"
     title: "Armstrækning, hindu or yoga"
 video:
