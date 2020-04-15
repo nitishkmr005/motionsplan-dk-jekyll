@@ -7,8 +7,8 @@ redirect_from: /node/545
 id: 545
 language: da
 header:
-  overlay_image: /assets/images/exercises/løb-med-sandsæk-0.jpg
-  teaser: /assets/images/exercises/løb-med-sandsæk-0-320.jpg
+  overlay_image: /assets/images/exercises/loeb-med-sandsaek-0.jpg
+  teaser: /assets/images/exercises/loeb-med-sandsaek-0-320.jpg
 tags:
   - Kondition og puls
 categories:
@@ -18,12 +18,12 @@ training_focus:
 equipment:
 muscle_group:
 gallery:
-  - url: /assets/images/exercises/løb-med-sandsæk-0.jpg
-    image_path: /assets/images/exercises/løb-med-sandsæk-0-320.jpg
+  - url: /assets/images/exercises/loeb-med-sandsaek-0.jpg
+    image_path: /assets/images/exercises/loeb-med-sandsaek-0-320.jpg
     alt: "Løb med sandsæk"
     title: "Løb med sandsæk"
-  - url: /assets/images/exercises/løb-med-sandsæk-1.jpg
-    image_path: /assets/images/exercises/løb-med-sandsæk-1-320.jpg
+  - url: /assets/images/exercises/loeb-med-sandsaek-1.jpg
+    image_path: /assets/images/exercises/loeb-med-sandsaek-1-320.jpg
     alt: "Løb med sandsæk"
     title: "Løb med sandsæk"
 last_modified_at: 2013-10-21T12:48:12Z

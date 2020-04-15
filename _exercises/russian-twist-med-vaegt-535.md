@@ -7,8 +7,8 @@ redirect_from: /node/535
 id: 535
 language: da
 header:
-  overlay_image: /assets/images/exercises/russian-twist-med-vægt-0.jpg
-  teaser: /assets/images/exercises/russian-twist-med-vægt-0-320.jpg
+  overlay_image: /assets/images/exercises/russian-twist-med-vaegt-0.jpg
+  teaser: /assets/images/exercises/russian-twist-med-vaegt-0-320.jpg
 tags:
   - Styrketræning
   - kropsstamme
@@ -30,20 +30,20 @@ muscle_group:
   - Core
   - Mave
 gallery:
-  - url: /assets/images/exercises/russian-twist-med-vægt-0.jpg
-    image_path: /assets/images/exercises/russian-twist-med-vægt-0-320.jpg
+  - url: /assets/images/exercises/russian-twist-med-vaegt-0.jpg
+    image_path: /assets/images/exercises/russian-twist-med-vaegt-0-320.jpg
     alt: "Russian twist med vægt "
     title: "Russian twist med vægt "
-  - url: /assets/images/exercises/russian-twist-med-vægt-1.jpg
-    image_path: /assets/images/exercises/russian-twist-med-vægt-1-320.jpg
+  - url: /assets/images/exercises/russian-twist-med-vaegt-1.jpg
+    image_path: /assets/images/exercises/russian-twist-med-vaegt-1-320.jpg
     alt: "Russian twist med vægt "
     title: "Russian twist med vægt "
-  - url: /assets/images/exercises/russian-twist-med-vægt-2.jpg
-    image_path: /assets/images/exercises/russian-twist-med-vægt-2-320.jpg
+  - url: /assets/images/exercises/russian-twist-med-vaegt-2.jpg
+    image_path: /assets/images/exercises/russian-twist-med-vaegt-2-320.jpg
     alt: "Russian twist med vægt "
     title: "Russian twist med vægt "
-  - url: /assets/images/exercises/russian-twist-med-vægt-3.jpg
-    image_path: /assets/images/exercises/russian-twist-med-vægt-3-320.jpg
+  - url: /assets/images/exercises/russian-twist-med-vaegt-3.jpg
+    image_path: /assets/images/exercises/russian-twist-med-vaegt-3-320.jpg
     alt: "Russian twist med vægt "
     title: "Russian twist med vægt "
 last_modified_at: 2014-10-12T21:46:35Z
