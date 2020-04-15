@@ -20,120 +20,123 @@ feature_row:
     alt: "FOAM ROLLER RUND"
     title: "Foam roller"
     excerpt: "En foam roller er de blevet et redskab, der er fast inventar i de fleste træningsmiljøer i hjemmet såvel som professionelt."
-    url: "https://www.denintelligentekrop.dk/foam-roller-rund-dik-30x15-cm-medium-hard"
-    btn_label: "Læs mere"
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=38484&htmlurl=https://www.denintelligentekrop.dk/foam-roller-rund-dik-30x15-cm-medium-hard"
+    btn_label: "Læs mere*"
     btn_class: "btn--success"
   - image_path: https://www.denintelligentekrop.dk/media/catalog/product/cache/1/image/1800x/040ec09b1e35df139433887a97daa66f/t/h/the-grid-x-trigger-point_1.jpg
     alt: "THE GRID X, TRIGGER POINT FOAM ROLLER"
     title: "Hård foamroller med pvcrør"
     excerpt: "The GRID X foam roller, er et revolutionerende værktøj der er opbygget med et net af varierende hårdhed og bredder, som giver dig mulighed for at tage den traditionelle foam rolling et niveau højere op."
-    url: "https://www.denintelligentekrop.dk/the-grid-x-trigger-point-foam-roller-30-x-14-cm"
-    btn_label: "Læs mere"
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=38484&htmlurl=https://www.denintelligentekrop.dk/the-grid-x-trigger-point-foam-roller-30-x-14-cm"
+    btn_label: "Læs mere*"
     btn_class: "btn--success"
   - image_path: https://www.denintelligentekrop.dk/media/catalog/product/cache/1/image/1000x/9df78eab33525d08d6e5fb8d27136e95/l/a/lacrosse-massage-bold-samlet_1.jpg
     alt: "Lacrosse massagebold"
     title: "Lacrosse massagebolde"
     excerpt: "Disse massagebolde er gode at massere i dybden med. Lacrosse massagebold er hård, og adskiller sig herved fra mange andre bolde."
-    url: "https://www.denintelligentekrop.dk/captain-lax-lacrosse-bold"
-    btn_label: "Læs mere"
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=38484&htmlurl=https://www.denintelligentekrop.dk/captain-lax-lacrosse-bold"
+    btn_label: "Læs mere*"
     btn_class: "btn--success"
   - image_path: https://www.denintelligentekrop.dk/media/catalog/product/cache/1/image/1800x/040ec09b1e35df139433887a97daa66f/l/a/lacrosse-peanut-gron-web_1.jpg
     alt: "Dobbelt Lacrosse massagebold"
     title: "Dobbelt Lacrosse massagebolde"
     excerpt: "En dobbelt lacrosse bold kan være god at bruge på ryggen til små mobiliseringer af rygsøjlen."
-    url: "https://www.denintelligentekrop.dk/lacrosse-bold-peanut-dobbelt-bold"
-    btn_label: "Læs mere"
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=38484&htmlurl=https://www.denintelligentekrop.dk/lacrosse-bold-peanut-dobbelt-bold"
+    btn_label: "Læs mere*"
     btn_class: "btn--success"
   - image_path: https://www.denintelligentekrop.dk/media/catalog/product/cache/1/image/1000x/9df78eab33525d08d6e5fb8d27136e95/g/r/grid-trigger-point-stk.jpg
     alt: "HÅND HOLDT FOAM ROLLER"
     title: "Stick - håndboldt foam roller"
     excerpt: "GRID STK er en specielt designet foam roller med den velkendte GRID overflade og AcuGRIP håndtag,så du kan rulle, presse og lindre mindre ømhed og smerte."
-    url: "https://www.denintelligentekrop.dk/grid-trigger-point-stk"
-    btn_label: "Læs mere"
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=38484&htmlurl=https://www.denintelligentekrop.dk/grid-trigger-point-stk"
+    btn_label: "Læs mere*"
+    btn_class: "btn--success"
+feature_row_anatomy_trains:
+  - image_path: https://imgcdn.saxo.com/_9780702046544/0x500
+    alt: "Anatomy TrainsR"
+    title: "Anatomy Trains"
+    excerpt: "I _Anatomy Trains_ præsenterer Thomas W. Myers dig for en unikt system og syn på bevægelsesapparatet anatomi og er baseret på aktuel forskning."
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/anatomy-trains_thomas-w-myers_paperback_9780702046544"
+    btn_label: "Læs mere*"
     btn_class: "btn--success"
 ---
 
-**Tekst følger.**
+*[SMR]: Self-myofascial release
+*[ART]: Active Release Technique
+*[ROM]: Range of Motion
+*[IT-Band]: Iliotibial Band
 
-Spændte og ømme muskler ødelægger træningen og øger skadespotentialet. De nedsætter mobiliteten og blodcirkulationen, hvilket kan virke hæmmende på dit træningsudbytte. Dette kan forebygges på mange måder for at optimere dine resultater. 
+Self-myofascial release er en metode, som kan være med til gøre musklerne afslappede. Formålet er at bevæge musklerne, så myofascien og bindevævet løsnes. Du kan kan få en behandler (aktiv release teknik) til at gøre det, eller du kan gøre det relativt effektivt og billigt selv ved enten en foam roller, lacrosse bolde eller sticks.
 
-Aktiv release teknik er en behandlingsmetode, hvor klienten under behandling spænder og eller bevæger musklerne for at løsne myofascien/bindevævet, hvilket skaber afslapning i musklerne. Den positive effekt er veldokumenteret, men det er meget dyrt og besværligt at få gjort kontinuerligt.
- 
-Derfor er self-myofascial release er rigtig godt alternativ til dyre behandlinger. Du kan nemlig selv løsne op for mange af de bindevævs-traumer, som bliver skabt gennem vægttræning og som forsager muskelspændinger. Det kan endda gøres effektivt, billigt og nemt ved hjælp af en foam roller, bolde eller med en stick.
+Den mest udbredte form er foamrolling, så den starter vi med.
 
-Det kan være smertefuld i starten, men på længere sigt vil du opnå forbedret mobilitet, større range of motion, reducering af ømhed og arvæv samt forhøjet kvalitet af bevægelser/bedre teknik.
+## Foam rolling
 
-***
+Foam rolling er blevet ret populært. Jeg nyder at gøre det før træning, og jeg synes det har en rigtig god opvarmningseffekt at starte med foam rolling. Men...
 
-Stive og ømme muskler engang imellem hører med til at være fysisk aktiv og i særdeleshed, når du styrketræner hårdt. Det opstår især, når din krop bliver udsat for noget den ikke er vant til.
+Der er ingen forskning, der sandsynliggør at foamrolling er med til at forlænge musklerne, nedbryde arvæv, løsner sammenvoksninger eller ændrer kollagenvævet.[^note]
 
-Det kan nedsætte din mobilitet mens du er øm, hvilket kan virke hæmmende på din træningsoplevelse og evne til at tilpasse teknik.
+[^note]: [Nicholas Licameli 2017: FOAM ROLLING: THIS IS HOW WE ROLL](https://tonygentilcore.com/2017/03/foam-rolling-roll/)
 
-Ofte er der ikke så meget at gøre ved det, andet end at sørge for at bevæge sig og eventuelt lave noget aktiv restitution som at gå en tur, cykle, træne let mv.
+Foam rolling kan alligevel over tid være med til at forbedre din træningsoplevelse. Så hæng i lidt endnu!
 
-Derudover kan du lave egenmassage - som er fokuset for denne video og artikel.
+Det kan gøre ret ondt at lave foamrolling, og hvis du ikke har prøvet det før, så jeg jeg anbefale at starte med en relativt blød foamroller. Men du kan ikke producere så meget kraft, at du laver om på dit væv.
 
-Andre vigtige elementer i denne sammenhæng er dynamisk udstrækning, som du kan se nærmere på i disse to videoer om hhv. overkroppen og underkroppen. Du kan også med fordel se nærmere på statisk udstrækning, som er den mere klassiske tilgang til at øge smidighed. Det forhindrer dog ikke ømhed.
+Den største effekt med foam rolling er formentligt, at vi nedsætter (unødvendige) signaler fra musklerne til hjernen og muskeltonus også nedsættes. Muskeltonus er en fortløbende ubevidst besked fra hjernen til musklen om at trække sig sammen. Hvis man nedsætter muskeltonus, så kan man føle sig “friere” og “løsere” efter at have lavet SMR eller foamrolling - og derfor øges den aktive _range of motion_ også.
 
-Der er hovedsageligt to metoder for at påvirke stive og ømme muskler - aktiv release teknik og egenmassage.
-
-## AKTIV RELEASE TEKNIK (ART)
-
-Aktiv release teknik er en behandlingsmetode, hvor klienten under behandling spænder og eller bevæger musklerne for at løsne myofascien/bindevævet, hvilket skaber afslapning i musklerne.
-
-Det er dokumenteret, at det giver en midlertidig positiv effekt på bevægelighed [1], men det er dyrt og besværligt at få gjort kontinuerligt, da det kræver en behandler.
-
-Derudover kan man argumentere for at fokus på varieret bevægelse og et fornuftigt sammensat træningsprogram vil være tilstrækkelig for de fleste.
-
-## SPAR PENGE MED EGENMASSAGE (FOAM ROLLER)
-
-Især på grund af prisen er self-myofascial release (SMR) med en foam roller et rigtig godt alternativ til dyre behandlinger. Men så er det vigtigt at du spørger dig selv hvad det er du ønsker at opnå med det. Og om det er realistisk at opnå med denne metode.
-
-Mange producenter påstår at en foam roller kan bearbejde din ”fascia” - det vil sige bindevævet, der omgiver muskler og organer. Men er det realistisk?
-
-De påstår videre at der er mange fordele ved dette, blandt andet at det kan forbedre dine fysiske præstationer, øge din fleksibilitet, reducere ømme muskler, reducere muskelspændinger og inflammation, frigøre toksiner, reducere skaderisiko, behandle skader og lindre smerte.
-
-Her bliver der lovet meget. Nok for meget. De studier. der er lavet på dette viser at foam rolling kan øge din fleksibilitet (range of motion i dine led) midlertidigt samt reducere ømme muskler efter træning (DOMS = delayed onset muscle soreness), men ingen af de andre påstande [2].
-
-Den seneste forskning på feltet viser altså at vi ikke kan ændre bindevævets struktur med foamrolling, SMR eller andre ydre metoder og værktøj for den sags skyld.
-
-Men foamrolling kan påvirke din fleksibilitet midlertidig - i form af øget fleksibilitet i en kort periode. Det vil sige at du kan øge din fleksibilitet, men det giver ingen strukturel ændring eller nævneværdig oplevet forskel på lang sigt. Den akutte ændring i mobilitet skyldes derfor sandsynligvis faktorer, der relaterer sig til proprioceptionen.
-
-Man kan dog argumentere for at siden foam rolling inden træning giver dig øget range of motion i den forestående træning, kan du træne i denne udvidede bevægelsesbane igen og igen, hvilket over tid kan hjælpe dig til at bibeholde den fleksibilitet, du opnår (delvist) gennem foam rolling.
-
-For at opnå denne øgede fleksibilitet skal du ifølge professor Roger Kerry lave foamrolling på en muskelgruppe i 1-2 minutter per dag (for eksempel 3-5 x 20-30 sekunder, 2 x 1 min eller 1 x 2 min)
-
-Den anden fordel ved foam rolling er at du kan reducere ømme muskler efter træning - ikke fjerne, men reducere. Derudover kan det få dig til at føle dig bedre tilpas, så stivhed og ømme muskler i mindre grad hindrer din bevægelse i træningen.
-
-Sådanne oplevede fordele som sidstnævnte er mere nærliggende at beskrive som en afart af en placebo-effekt, men det er også helt fint og er ikke problematisk i sig selv. Det betyder dog, at du så vidt muligt også bør supplere med anden træning, og at foamrolling derfor ikke bør stå alene.
-
-## HVORNÅR ER FOAM ROLLING AKTUELT?
-
-Samlet set kan man sige at foam rolling først og fremmest er noget du kan gøre for velbehag, hvis du selv godt kan lide det.
-
-Det er ikke på nogen måde en nødvendighed. Men det kan gøres billigt og nemt ved hjælp af en foam roller, bold eller med en stick. Sandsynligvis netop derfor er foamrolling blevet så populært - fordi det er nemt at gøre selv.
-
-Du kan for eksempel starte med en mere blød foamroller, inden du går over til en hårdere en. Typisk starter du med de store muskelgrupper som lår, lægge, baller og ryg.
-
-Med bolde kan du få fat i nogle mindre område. Der findes også sticks med håndtag som du selv kan rulle over dine muskler. Det minder faktisk lidt om en kagerulle.
-
-Det vil være fornuftigt at lave foamrolling i starten af din træning, så kan du måske bedre bibeholde den midlertidige effekt. Mange synes det er behageligt at lave det derhjemme også.
-
-Brug 1-2 minutter på områder og muskler, der har mest behov for det, og mellem et halvt og et helt minut på de andre.
-
-Kom ned på gulvet og brug hænder, knæ og/eller fødder i gulvet som støtte. Placer muskelgruppen ovenpå foamrolleren eller bolden og rul stille og roligt frem og tilbage.
-
-For mere tryk kan du for eksempel lægge det andet ben ovenpå eller selv bruge muskelkraft for at presse mere på.
-
-Det kan være smertefuld i starten, men hvis du på længere sigt opnår forbedret mobilitet, større range of motion, reducering af ømhed og med det kan forbedre din teknik og bevægelser, så er det et godt redskab.
-
-REFERENCER
-[1] Kim, J. H., Lee, H. S., & Park, S. W. (2015). Effects of the active release technique on pain and range of motion of patients with chronic neck pain. Journal of physical therapy science, 27(8), 2461-2464.
-
-[2] Wiewelhove, T., Döweling, A., Schneider, C., Hottenrott, L., Meyer, T., Kellmann, M., ... & Ferrauti, A. (2019). A meta-analysis of the effects of foam rolling on performance and recovery. Frontiers in physiology, 10, 376.
-
+Det svarer til, hvordan smerte også kan opfattes. Smerte er et sensorisk input. Foam rolling introducerer et sensorisk input (trykket), som overdøver et andet sensorisk input (muskeltonus eller smerte) mellem hjernen og musklerne eller følelsen af smerte (Andersen 2013, Goats 1994, Henoch 2016, Licameli 2017).
 
 {% include video provider="youtube" id="B46NOIKStAc" %}
+
+## Skal jeg foam IT-band?
+
+Hvis foam rolling hovedsageligt handler om at sænke muskeltonus, så skal du sørge for, at det er muskler og muskeltriggerpunkter, du koncenterer dig om. Fx ruller mange direkte på ydersiden af benet, og typisk gør det virkelig ondt. Hele vejen ned på ydersiden går det iliotibiale bånd, som er en sene. En sene kan ikke have muskeltonus. Stramheden i IT-band skabes af musklerne, der trækker i senen. Derfor skal du satse på hoftemusklerne, ydersiden af både forlår- og baglårsmusklen.
+
+## Hvor længe skal jeg rulle?
+
+Effekten af foamrolling til at nedsætte muskeltonus er formentlig ikke så lang. Studier har vist, at foamrolling i 10-60 sekunder kan være effektive (Goats 1994, MacDonald et al 2012, Henoch 2016). Men du skal nok hovedsageligt fokusere på følelsen af, at musklen “slipper”.
+
+## Hvordan skal jeg foamrolle
+
+Du starter langsomt med lange rulninger gennem hele musklen for at finde særlig ømme steder. Hvis du finder et ømt sted, så rul lidt mere lokalt på stedet indtil følelsen aftager. Foamrolling gør lidt ondt, men det må ikke gøre for ondt, for så lykkes du ikke med at dæmpe muskeltonus. 
+
+Det handler ikke om, hvor ondt det kan gøre!
+
+Det er ikke nødvendigt at rulle hele kroppen. Fokuser i stedet på steder, hvor det forbedrer din evne til at bevæge dig eller fornemmelsen efterfølgende.
+
+## Test og retest
+
+Det er en god ide at lave en test før og efter. Fx kan du 
+
+## Foam roll i opvarmningssættene
+
+Effekten af foamrolling har et relativt lille vindue. Hvis du vil bruge foamrolling til at forbedre kvaliteten i dit væv over tid, så skal du bruge foamrolling for at gøre dine bevægelser bedre. [Nicholas Licameli](https://tonygentilcore.com/2017/03/foam-rolling-roll/) anbefaler foamrolling i mellem opvarmningssættene. 
+
+> Training this movement with loads will, over time, lead to long term improvements in tissue and movement quality (Vigotsky 2016, Henoch 2016).
+
+--- <cite>[Nicholas Licameli](https://tonygentilcore.com/2017/03/foam-rolling-roll/)</cite>
+
+Hvis du fx er ved at lave opvarmningssæt til squat så kan du bruge foam rollingen til at løsne op, hvor du føler “stramhed” i bevægelsen. På den måde kan du optimere bevægelsen - og kvaliteten af bevægelsen og vævet forbedres over tid. Det er altså ikke selve foamrollingen, der forbedrer vævskvaliteten, men foamrollingens effekt på dit bevægelsesmønster.
+
+## Foamrolling og restitution
+
+Foam rolling er en god måde at _kick-starte_ restitutionsprocessen i slutningen af træningen, fordi den kan hjælpe kroppen med at sætte det parasympatiske nervesystem i gang hurtigere end det ellers ville have gjort. 
+
+## Vælg den rigtige foamroller
+
+[Den intelligente krop\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=38484&htmlurl=https://www.denintelligentekrop.dk/foam-roller-rund-dik-medium-hard) har en [udemærket beskrivelse af, hvilken foamroller, der vil passe godt til dig\*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=38484&htmlurl=https://www.denintelligentekrop.dk/foam-roller-rund-dik-medium-hard).
+
+## Andre metoder til SMR
+
+Lacrossebolde (golfbolde, tennisbold eller andre hårde bolde) er særligt velegnede, når du finder et trigger punkt. Fx er en bold særligt velegnet under fødderne. Jeg har rigtig god effekt af at bruge omkring 30 sekunder under hver fod, og efterfølgende er min aktive _range of motion_ meget bedre. 
+
+> muscles operate across functionally integrated body-wide continuities within the fascial webbing. These sheets and lines follow the warp and weft of the body's connective tissue fabric, forming traceable 'meridians' of myofascia. Strain, tension, fixation, and compensation are distributed along these lines.
+
+--- <cite>Tom Meyers i Anatomy Trains via [Tony Gentilcore](https://www.t-nation.com/training/soft-tissue-work-for-tough-guys)</cite>
+
+{% include image_path=https://secureservercdn.net/198.71.233.179/8zt.c10.myftpupload.com/wp-content/uploads/Add-heading-2.png caption=Superficial backline %}
+
+Teorien er altså, at du ved at massere foden kan få den til at kommunikere med resten af bagsiden og dæmpe muskeltonus. Måske har du i flere år forsøgt at strække dine baglår ud for at blive smidigere, men måske handler det i virkeligheden om, at du har brug for at dæmpe muskeltonus.
 
 {% assign equipment = "foamroller" %}
 {% assign exercises = site.exercises | where: "equipment", equipment | sort: "title" %}
@@ -143,13 +146,17 @@ REFERENCER
 {% assign exercises = site.exercises | where: "equipment", equipment | sort: "title" %}
 {% include exercises-by-search title="Øvelser med Lacrossbolde" exercises=exercises %}
 
-## 
+## Referencer
 
-https://deansomerset.com/fascia-necessary-caring-important/
-https://deansomerset.com/how-the-heck-do-you-foam-roll/
-https://tonygentilcore.com/2017/03/foam-rolling-roll/
-
-## Soft tissue work with a sock.
-
-https://tonygentilcore.com/2011/08/soft-tissue-work-with-a-sock/
-https://www.allthingsgym.com/soft-tissue-work-with-a-ball-and-a-sock/
+- [Tom Meyers: Foam Rolling and Self-Myofascial Release](https://www.anatomytrains.com/blog/2015/04/27/foam-rolling-and-self-myofascial-release/)
+- Andersen, L. L., Jay, K., Andersen, C. H., Jakobsen, M. D., Sundstrup, E., Topp, R., & Behm, D. G. (2013). Acute effects of massage or active exercise in relieving muscle soreness: Randomized controlled trial. The Journal of Strength & Conditioning Research, 27(12), 3352-3359.[PubMed]
+ -“Andrew Vigotsky: Foam Rolling”. Iraki Nutrition Podcast. N.p., 2016. Web. 22 May 2016.
+- Beardsley, Chris, and Andrew Vigotsky. “Foam rolling and self-myofascial release. “www.strengthandconditioningresearch.com. N.p., n.d. Web 19 Sept. 2016. https://www.strengthandconditioningresearch.com/foam-rolling-self-myofascial-release/
+- Chaudhry, H., Schleip, R., Ji, Z., Bukiet, B., Maney, M., & Findley, T. (2008). Three-dimensional mathematical model for deformation of human fasciae in manual therapy. JAOA: Journal of the American Osteopathic Association, 108(8), 379-390.[PubMed]
+- Chaudhry, H., Bukiet, B., Ji, Z., Stecco, A., & Findley, T. W. (2014). Deformations experienced in the human skin, adipose tissue, and fascia in osteopathic manipulative medicine. Journal of the American Osteopathic Association, 114(10), 780-787.[PubMed]
+- Goats, G. C. (1994). Massage–the scientific basis of an ancient art: Part 2. Physiological and therapeutic effects. British Journal of Sports Medicine, 28(3), 153-156.[PubMed]
+- MacDonald G., Penney M., Mullaley M., Cuconato A., Drake C., Behm D.G., Button D.C. An acute bout of self myofascial release increases range of motion without a subsequent decrease in neuromuscular performance. J of Strength Cond Res. 2012. (published ahead of print).
+- “Mobility Myths With Dr. Quinn Henoch- Foam Rolling”. JTSstrength.com. N.p., 2016. Web Sept. 2016.
+- Sullivan, K. M., Silvey, D. B., Button, D. C., & Behm, D. G. (2013). Roller-massager application to the hamstrings increases sit-and-reach range of motion within five to ten seconds without performance impairments.International Journal of Sports Physical Therapy, 8(3), 228.[PubMed]
+- Kim, J. H., Lee, H. S., & Park, S. W. (2015). Effects of the active release technique on pain and range of motion of patients with chronic neck pain. Journal of physical therapy science, 27(8), 2461-2464.
+- Wiewelhove, T., Döweling, A., Schneider, C., Hottenrott, L., Meyer, T., Kellmann, M., ... & Ferrauti, A. (2019). A meta-analysis of the effects of foam rolling on performance and recovery. Frontiers in physiology, 10, 376.
