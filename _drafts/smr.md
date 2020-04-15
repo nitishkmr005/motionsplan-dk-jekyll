@@ -15,6 +15,42 @@ tags:
   - kunst
 last_modified_at: 2019-11-19T23:14:14Z
 toc: true
+feature_row:
+  - image_path: https://www.denintelligentekrop.dk/media/catalog/product/cache/1/image/1000x/9df78eab33525d08d6e5fb8d27136e95/f/o/foam-roller-medium-haard-30x15-600.jpg
+    alt: "FOAM ROLLER RUND"
+    title: "Foam roller"
+    excerpt: "En foam roller er de blevet et redskab, der er fast inventar i de fleste træningsmiljøer i hjemmet såvel som professionelt."
+    url: "https://www.denintelligentekrop.dk/foam-roller-rund-dik-30x15-cm-medium-hard"
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
+  - image_path: https://www.denintelligentekrop.dk/media/catalog/product/cache/1/image/1800x/040ec09b1e35df139433887a97daa66f/t/h/the-grid-x-trigger-point_1.jpg
+    alt: "THE GRID X, TRIGGER POINT FOAM ROLLER"
+    title: "Hård foamroller med pvcrør"
+    excerpt: "The GRID X foam roller, er et revolutionerende værktøj der er opbygget med et net af varierende hårdhed og bredder, som giver dig mulighed for at tage den traditionelle foam rolling et niveau højere op."
+    url: "https://www.denintelligentekrop.dk/the-grid-x-trigger-point-foam-roller-30-x-14-cm"
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
+  - image_path: https://www.denintelligentekrop.dk/media/catalog/product/cache/1/image/1000x/9df78eab33525d08d6e5fb8d27136e95/l/a/lacrosse-massage-bold-samlet_1.jpg
+    alt: "Lacrosse massagebold"
+    title: "Lacrosse massagebolde"
+    excerpt: "Disse massagebolde er gode at massere i dybden med. Lacrosse massagebold er hård, og adskiller sig herved fra mange andre bolde."
+    url: "https://www.denintelligentekrop.dk/captain-lax-lacrosse-bold"
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
+  - image_path: https://www.denintelligentekrop.dk/media/catalog/product/cache/1/image/1800x/040ec09b1e35df139433887a97daa66f/l/a/lacrosse-peanut-gron-web_1.jpg
+    alt: "Dobbelt Lacrosse massagebold"
+    title: "Dobbelt Lacrosse massagebolde"
+    excerpt: "En dobbelt lacrosse bold kan være god at bruge på ryggen til små mobiliseringer af rygsøjlen."
+    url: "https://www.denintelligentekrop.dk/lacrosse-bold-peanut-dobbelt-bold"
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
+  - image_path: https://www.denintelligentekrop.dk/media/catalog/product/cache/1/image/1000x/9df78eab33525d08d6e5fb8d27136e95/g/r/grid-trigger-point-stk.jpg
+    alt: "HÅND HOLDT FOAM ROLLER"
+    title: "Stick - håndboldt foam roller"
+    excerpt: "GRID STK er en specielt designet foam roller med den velkendte GRID overflade og AcuGRIP håndtag,så du kan rulle, presse og lindre mindre ømhed og smerte."
+    url: "https://www.denintelligentekrop.dk/grid-trigger-point-stk"
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
 ---
 
 **Tekst følger.**
