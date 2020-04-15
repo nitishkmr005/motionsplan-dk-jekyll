@@ -7,8 +7,8 @@ redirect_from: /node/597
 id: 597
 language: da
 header:
-  overlay_image: /assets/images/exercises/vende-håndfladerne-0.jpg
-  teaser: /assets/images/exercises/vende-håndfladerne-0-320.jpg
+  overlay_image: /assets/images/exercises/vende-haandfladerne-0.jpg
+  teaser: /assets/images/exercises/vende-haandfladerne-0-320.jpg
 tags:
   - Koordination og balance
   - Mobilisering
@@ -26,11 +26,11 @@ muscle_group:
   - Skuldre
   - Øvre ryg
 gallery:
-  - url: /assets/images/exercises/vende-håndfladerne-0.jpg
+  - url: /assets/images/exercises/vende-haandfladerne-0.jpg
     image_path: /assets/images/exercises/vende-håndfladerne-0-320.jpg
     alt: "Vende håndfladerne"
     title: "Vende håndfladerne"
-  - url: /assets/images/exercises/vende-håndfladerne-1.jpg
+  - url: /assets/images/exercises/vende-haandfladerne-1.jpg
     image_path: /assets/images/exercises/vende-håndfladerne-1-320.jpg
     alt: "Vende håndfladerne"
     title: "Vende håndfladerne"
