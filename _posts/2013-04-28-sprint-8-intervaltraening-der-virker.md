@@ -3,8 +3,8 @@ title: "Sprint 8 - intervaltræning der virker"
 permalink: /artikel/sprint-8-intervaltræning-der-virker
 language: da
 header:
-  overlay_image: /assets/images/blog/sprint-8-intervaltræning-der-virker.jpg
-  teaser: /assets/images/blog/sprint-8-intervaltræning-der-virker.jpg
+  overlay_image: /assets/images/blog/sprint-8-intervaltraening-der-virker.jpg
+  teaser: /assets/images/blog/sprint-8-intervaltraening-der-virker.jpg
 tags:
   - anaerob
 category:

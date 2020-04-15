@@ -3,8 +3,8 @@ title: "Musik til træningen"
 permalink: /artikel/musik-til-træningen
 language: da
 header:
-  overlay_image: /assets/images/blog/musik-til-træningen.jpg
-  teaser: /assets/images/blog/musik-til-træningen.jpg
+  overlay_image: /assets/images/blog/musik-til-traeningen.jpg
+  teaser: /assets/images/blog/musik-til-traeningen.jpg
 tags:
   - gode råd
   - træningsplanlægning
