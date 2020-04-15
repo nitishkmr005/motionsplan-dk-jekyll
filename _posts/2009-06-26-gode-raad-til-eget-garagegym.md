@@ -19,6 +19,18 @@ Et godt sæt med vægtstænger og -skiver er ret bekosteligt, men det er der hel
 
 Ross står bag den helt fabelagtige [rosstraining.com](http://rosstraining.com/), som jævnligt giver gode råd til, hvordan man kan lave sit eget træningsudstyr. Han har et helt [arkiv med hjemmelavet træningsudstyr](http://www.rosstraining.com/forum/viewtopic.php?p=1056#p1056).
 
+## Eksempler på gyms
+
+[HomeMadeModern](https://www.youtube.com/channel/UC6pdMJwtkbCNoQRwbaNt77A) har lavet nogle ret fede hjemmelavede løsninger. Han har også noget ret fedt værktøj.
+
+{% include video provider="youtube" id="Tdxb3RXqdI4" %}
+
+{% include video provider="youtube" id="wuKh9YGRdfE" %}
+
+{% include video provider="youtube" id="H2UVZhbX074" %}
+
+## Del dit eget garagegym
+
 Nu til sagen:
 
 Hvis du selv har lavet noget hjemmelavet udstyr, så del det gerne med os i kommentarerne. Vi ses i garagen.
