@@ -3,8 +3,8 @@ title: "Træn din alder"
 permalink: /artikel/træn-din-alder
 language: da
 header:
-  overlay_image: /assets/images/blog/træn-din-alder.jpg
-  teaser: /assets/images/blog/træn-din-alder.jpg
+  overlay_image: /assets/images/blog/traen-din-alder.jpg
+  teaser: /assets/images/blog/traen-din-alder.jpg
 tags:
 category:
   - Styrketræning

@@ -3,8 +3,8 @@ title: "Løb uden skader"
 permalink: /artikel/løb-uden-skader
 language: da
 header:
-  overlay_image: /assets/images/blog/løb-uden-skader.jpg
-  teaser: /assets/images/blog/løb-uden-skader.jpg
+  overlay_image: /assets/images/blog/loeb-uden-skader.jpg
+  teaser: /assets/images/blog/loeb-uden-skader.jpg
 tags:
   - restitution
 category:
