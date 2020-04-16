@@ -21,7 +21,6 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=21411&htmlurl=https://shop.getbig.dk/traeningsbaelte-professionelt"
     btn_label: "Læs mere"
     btn_class: "btn--success"
-
   - image_path: https://www.fotoagent.dk/single_picture/11803/138/custom1/tr%c3%83%c2%a6ningsb%c3%83%c2%a6lte.jpg
     alt: "Everlast træningsbælte til vægtløft"
     title: "Everlast træningsbælte til vægtløft"
@@ -29,6 +28,7 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=40368&htmlurl=https://www.fitnessgruppen.dk/everlast-traeningsbaelte/"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+---
 
 Styrkbælte - https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=21411&htmlurl=https://shop.getbig.dk/traeningsbaelte-professionelt
 
@@ -36,7 +36,7 @@ Vægtløftning - https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&b
 
 Neopren - https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=40368&htmlurl=https://www.fitnessgruppen.dk/harbringer-neopren-baelte-herre-medium/
 
----
+
 
 Der findes mange forskellige typer af træningsbælter til styrketræning afhængigt af hvad formålet med bæltet er. Altså om du primært skal bruge det til styrkeløft (squat, bænkpres og dødløft), vægtløftning (træk og stød), genoptræning eller bodybuilding. De mest gængse typer af bælter er:
 

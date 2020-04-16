@@ -41,6 +41,7 @@
   "scripts": {
     "test": "mocha src/test/*.*",
     "start": "bundle exec jekyll server --port 8080 --incremental",
+    "draft": "bundle exec jekyll server --port 8080 --incremental --drafts",
     "watch": "watchify src/js/app.bundle.js -o assets/js/bundle.js",
     "build": "browserify src/js/app.bundle.js -g uglifyify -o assets/js/bundle.js"
   }
