@@ -1,7 +1,7 @@
 ---
-title: "Kreatin virker og har meget få bivirkninger"
-permalink: /kreatin/
-excerpt: "Kreatin 2019 test - Her er de bedste og billigste kreatin i en nem oversigt i sammenligner priser og hjælper dig med at spare penge"
+title: "Bælte i styrketræning - har du brug for et træningsbælte?"
+permalink: /baelte-styrketraening/
+excerpt: "Et godt bælte kan gøre dine løft mere stabile og samtidig give dig mere vægt på stangen i især squat og dødløft. I denne artikel vil jeg fortælle dig om de forskellige typer af bælter, hvordan bæltet virker og hvornår du skal bruge det."
 language: da
 header:
   overlay_image: https://c.pxhere.com/photos/e3/ed/dumbbells_training_silver_sports_force_mussels_body_building-600719.jpg!d
@@ -30,27 +30,6 @@ feature_row:
     btn_class: "btn--success"
 ---
 
-https://www.motion-online.dk/kreatin/
+Her følger en artikel om brug af styrkebælter i træning.
 
-Kreatin kan øge muskelsukkerdepoterne
-https://www.motion-online.dk/kreatin-kan-oege-muskelsukkerdepoterne/
-
-Kreatin øger skridtfrekvensen i sprint
-https://www.motion-online.dk/kreatin-oeger-skridtfrekvensen-sprint/
-
-Kreatin giver øget risiko for kompartmentsyndrom
-https://www.motion-online.dk/kreatin-giver-oeget-risiko-kompartment-syndrom/
-
-Optagelse
-https://www.motion-online.dk/protein-kulhydrat-blanding-lige-saa-godt-oege-optaget-kreatin-kun-kulhydrat/
-
-
-<a href="https://www.bodylab.dk/shop/kreatin-4c1.html"><img src="https://www.bodylab.dk/images/infographic/kreatin-guide.png"></a>
-
-
-## Referencer
-
-https://www.bodylab.dk/shop/kreatin-4c1.html
-
-https://suplab.dk/kreatin/
-
+{% include feature_row id="feature_row" type="right" %}
