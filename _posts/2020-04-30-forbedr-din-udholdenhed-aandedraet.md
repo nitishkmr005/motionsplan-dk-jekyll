@@ -33,9 +33,6 @@ Så når man fx er ude at løbe og åndedrætsmusklerne udtrætter som noget af 
 
 {% include video provider="youtube" id="p7FAFY4PsQY" %}
 
-Jeg bestilte nogle Expand-a-lung direkte fra leverandøren. For at spare noget porto købte jeg flere, men jeg bruger jo kun en, så lige nu har jeg [sat dem til salg på DBA](https://www.dba.dk/andet-expand-a-lung-expand-a/id-1065930625/). Vil du have en?
-{: .notice .notice--info }
-
 ## Referencer
 
 - [Cobb: Improve Endurance in 7 minutes a day](https://zhealtheducation.com/episode-109-improve-endurance-in-7-minutes-a-day/)
