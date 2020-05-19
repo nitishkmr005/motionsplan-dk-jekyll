@@ -80,7 +80,7 @@ search: true
 
 # Analytics
 analytics:
-  provider               : "google-gtag" # false # false (default), "google", "google-universal", "custom"
+  provider               : false # "google-gtag" # false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-3551451-2"
 
