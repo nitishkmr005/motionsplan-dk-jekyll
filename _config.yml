@@ -31,7 +31,7 @@ comments:
   disqus:
     shortname            : "motionsplan-dk"
 staticman:
-  branch                 : "gh-pages"
+  branch                 : "master"
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
@@ -71,7 +71,7 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "http://www.facebook.com/motionsplan"
-    - "https://twitter.com/lsolesen"
+    - "https://twitter.com/motionsplan"
 
 
 # Site search
@@ -113,15 +113,9 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "http://www.facebook.com/motionsplan"
-#    - label: "Youtube"
-#      icon: "fab fa-fw fa-youtube"
-#      url: "http://www.youtube.com/fodboldenslegestue"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "http://twitter.com/motionsplan"
-#    - label: "Pinterest"
-#      icon: "fab fa-fw fa-pinterest-square"
-#      url: "http://www.pinterest.com/legestue"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/motionsplan/"

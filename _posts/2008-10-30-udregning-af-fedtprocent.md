@@ -1,9 +1,9 @@
 ---
-title: "Udregning af fedtprocent"
+title: "Beregn din fedtprocent og BMI med denne enkle udregning"
 permalink: /artikel/udregning-af-fedtprocent
 redirect_from:
   - /udregn-fp/
-excerpt: "Beregn din fedtprocent med denne enkle formel, som kun kræver din højde og vægt."
+excerpt: "Beregn din fedtprocent med en udregning med din højde og vægt i denne simple beregner. Udregn også dit bodymass index (BMI)."
 language: da
 header:
   overlay_image: https://images.unsplash.com/photo-1522844990619-4951c40f7eda?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1600&q=80
@@ -30,19 +30,23 @@ feature_row:
 
 *[BMI]: Body Mass Index
 
-Nedenunder kan du udregne BMI og fedtprocent og sammenligne dig med _det normale_. Målingen er indirekte og tager ikke højde for, om din vægt skyldes muskler eller fedt.
+Nedenunder kan du udregne dit body mass index (BMI) og fedtprocent og sammenligne dig med _det normale_. Målingen er indirekte og tager ikke højde for, om din vægt skyldes muskler eller fedt.
 
 Der er mange metoder til at måle kropskomposition. De vigtigste parametre for mig er styrke, hurtighed, udholdenhed, springhøjde. Det er de parametre, du har brug for i livet, mens kropssammensætningen jo ikke tilføjer noget til dit liv.
 
 {% include calculate-fat-percent.html %}
 
-## Body Mass Index (BMI)
+## Hvad er Body Mass Index (BMI)
 
-BMI er nogenlunde korreleret med fedtprocenten og kan derfor bruges til at estimere fedme i en større population. BMI tager ikke højde for, om din vægt skyldes muskler eller fedt. BMI er ikke præcis, hvis du er høj eller eller ikke så høj. BMI fungerer bedst til voksne mennesker, som har en højde indenfor normalområdet.
+Body Mass Index (BMI) er nogenlunde korreleret med fedtprocenten og kan derfor bruges til at estimere fedme i en større population. BMI tager ikke højde for, om din vægt skyldes muskler eller fedt. BMI er ikke præcis, hvis du er høj eller eller ikke så høj. BMI fungerer bedst til voksne mennesker, som har en højde indenfor normalområdet.
+
+## Hvordan udregner man BMI?
 
 BMI er let at udregne, når du kender din højde og din vægt:
 
 {% include math formula="BMI = \frac{weight (kg)}{height (m)^2}" %}
+
+## Hvad er normalværdierne for BMI?
 
 I tabel 1 kan du se normalværdierne for BMI:
 
@@ -54,13 +58,13 @@ I tabel 1 kan du se normalværdierne for BMI:
 | Overvægtig     | 25-30                     | 25-30                   |
 | Fed            | 30 og højere              | 30 og højere            |
 
-## Fedtprocent ud fra udregning
+## Beregn fedtprocent ud fra udregning
 
 Fedtprocenten er den relative del af kropsvægten, som udgøres af fedt. Du har behov for fedt for overhovedet at kunne holde varmen. 
 
 Formularen oven for benytter sig af to forskellige udregninger til at estimere fedtprocenten.
 
-### Heitmann
+### Heitmann beregning af fedtprocent
 
 Heitmann bruger i sin formel køn, BMI og alder.
 
@@ -72,7 +76,7 @@ Heitmann bruger i sin formel køn, BMI og alder.
 
 {% include math formula="PBF = \frac{0.988 * BMI + 0.344 * weight (kg) + 0.094 * age - 30.18}{height (m)^2}" %}
 
-### Durnin & Womersley
+### Durnin & Womersley udregning af fedtprocent
 
 Durnin & Womersley bruger i sin formel køn og alder.
 
@@ -84,7 +88,7 @@ PBF = 1.34 * BMI - 12.47
 
 PBF = 1.37 * BMI - 3.47
 
-### Duerenberg et al.
+### Duerenberg et al. udregning
 
 PBF = 1.20 * BMI + 0.23 * age - 10.8 * sex[^note] - 5.4;
 
@@ -116,7 +120,7 @@ Udregningen af fedtprocent i formularen har en standardfejl på på 3,9%. Det be
   {% endfor %}
 {% endif %}
 
-## Referencer
+## Referencer om BMI og fedtprocentmåling
 
 Predicting Body Composition in College Students Using the Womersley and Durnin Body Mass Index Equation Jeremy P. Loenneke*1BCDG, MS; Kathryn M. Hirt2CDG, MS; Jacob M. Wilson3CDG, PhD; Jeremy T Barnes4ABDG, PhD; Thomas J Pujol4ABDG, EdD
 
