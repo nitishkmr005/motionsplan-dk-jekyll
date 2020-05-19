@@ -1,7 +1,7 @@
 ---
-title: "Konditalstabel - Hvad er et godt kondital?"
+title: "Kondition - Hvad er et godt kondital?"
 permalink: /kondital/
-excerpt: "Svaret på hvad et godt kondital er afhænger naturligvis af hvem man sammenligner sig med. Her er tabeller gældende for almindelige mennesker i Skandinavien."
+excerpt: "Hvad er et godt kondital, og hvordan finder du dit kondital? Her er forskellige metoder til udregning og beregnere til kondital."
 language: da
 header:
   overlay_image: https://images.unsplash.com/photo-1571008887538-b36bb32f4571?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
@@ -12,6 +12,7 @@ category:
 tags:
   - kondition
   - tabel
+  - kondital
 last_modified_at: 2019-03-06T23:14:14Z
 toc: true
 feature_row:
@@ -34,7 +35,7 @@ Nedenstående tabeller gælder for almindelige mennesker i Skandinavien og er s�
 
 [Test dit kondital](/kondition-og-test/){: .btn .btn--large .btn--info }
 
-**Kondital - Normalbefolkning - Mænd:**
+### Kondital - Normalbefolkning - Mænd
 
 | Alder	| Meget Lavt | Lavt  | Middel | Højt  | Meget højt |
 |-------|------------|-------|--------|-------|------------|
@@ -47,7 +48,7 @@ Nedenstående tabeller gælder for almindelige mennesker i Skandinavien og er s�
 | 60-69	| < 21       | 22-26 | 27-35  | 36-39 | > 40       |
 | 70-	  | < 19       | 20-24 | 25-32  | 33-37 | > 38       |
 
-**Kondital - Normalbefolkning - Kvinder:**
+### Kondital - Normalbefolkning - Kvinder
 
 | Alder	| Meget Lavt | Lavt  | Middel | Højt  | Meget Højt |
 |-------|------------|-------|--------|-------|------------|
@@ -60,7 +61,7 @@ Nedenstående tabeller gælder for almindelige mennesker i Skandinavien og er s�
 
 Topidrætsfolk i konditionskrævende idrætsgrene har som regel et kondital over 70. Hvis du forventer at kunne være med i verdenseliten, så bør du vurdere dig selv ud fra nedenstående tabel:
 
-**Kondital - Verdensklasseatleter (fx løb, cykling, roning, langrend):**
+### Kondital - Verdensklasseatleter (fx løb, cykling, roning, langrend)
 
 |         | Meget Lavt | Lavt  | Middel | Højt  | Meget Højt |
 |---------|------------|-------|--------|-------|------------|
@@ -74,6 +75,8 @@ Konditallet udregnes ved at man dividerer den maksimale iltoptagelse (VO<sub>2</
 ## Retfærdig sundhedsmæssig vurdering af overvægtiges kondition
 
 Konditallet indgår ofte, når man vil vurdere den enkeltes sundhedstilstand. Problemet med kondital er imidlertid, at vægten indgår som en del af beregningen, og derfor vil stort set ingen overvægtige vil få et godt kondital, selv om de faktisk er i god form.
+
+### Kondital ved index 23
 
 En mulighed for bedre at kunne vurdere den overvægtiges kondital i forhold til sundhed er at udregne konditallet ud fra et index. Fx foreslår Morten Zacho at man beregner konditallet som om vedkommende var normalvægtig ift. BMI 23. Dette kondital kaldes _Kondital ved index 23_. Hvis man beskæftiger sig med sundhed og kondition, så bør man nok inddrage denne værdi i tilbagemeldingen til den testede.
 
@@ -98,7 +101,7 @@ Kondital<sub>Index 23</sub> er altså en beskrivelse af en persons relative kred
 Det har også været foreslået at opløfte kropsvægten med 0,73, når man sammenligner kondital for bedre at tage højde for løbeøkonomi og give en mere retfærdig sammenligning mellem lette og tunge atleter. Læs fx mere i denne artikel [Effekt af Kropsvægt på den maksimale iltoptagelse](http://www.motion-online.dk/effekt-kropsvaegt-paa-maksimale-iltoptagelse/).
 {: .notice .notice--warning }
 
-## Referencer
+## Referencer for kondition og kondital
 
 - Tabellerne er lavet af Per-Olof Åstrand og suppleret med data fra danske børn og unge --- [Hvad er konditallet?](https://www.motion-online.dk/hvad-er-konditallet/)
 
@@ -106,4 +109,4 @@ Det har også været foreslået at opløfte kropsvægten med 0,73, når man samm
 
 - [Retfærdig vurdering af overvægtiges kondition](https://www.motion-online.dk/retfaerdig-vurdering-overvaegtiges-kondition/)
 
-## Noter
+## Noter til kondition

@@ -29,6 +29,8 @@ feature_row:
 
 Man har i mange år brugt kompressionstøj som behandling af folk med dårligt blodomløb i benene, men nu er kompressionstøj ved at vinde indpas i træningsverden. Flere og flere trænende håber at shorts, tights, strømper og fuldkropsdragte kan hjælpe på muskelpræstationen, lodret hoppehøjde, muskeltræthed, gentagne sprint præstationer, restitution og nedsat muskelømhed.
 
+## Hvordan virker kompressionsstrømper?
+
 Kompressionsstrømper har vundet størst indpas. Flere og flere løbere er begyndt at bruge kompressionsstrømper for at forbedre deres præstation. Producenterne af disse strømper lover:
 
 - forbedret venepumpefunktion, så blodet lettere kommer tilbage til hjertet

@@ -1,7 +1,7 @@
 ---
-title: "Kondition og test - Kommer jeg i bedre form?"
+title: "Kondition og test - Hvordan får jeg et bedre kondital og kommer i bedre form?"
 permalink: /kondition-og-test/
-excerpt: "Kommer jeg i bedre form? Beregn dit kondital og iltoptagelse og se dine resultater."
+excerpt: "Kommer jeg i bedre form og kondition? Udregn dit kondital og iltoptagelse med vores beregnere og se om du får et bedre kondital og fremgang i træningen."
 language: da
 header:
   overlay_image: https://cnet1.cbsistatic.com/img/Y3vodO8bMPi6qlFLRF3xFcQpLHo=/1092x0/2019/07/26/114f1721-1a71-42bc-b1a4-cb35299bedbc/gettyimages-640493589.jpg
@@ -10,6 +10,7 @@ category:
   - Kondition
 tags:
   - kondition
+  - kondital
 last_modified_at: 2019-03-06T23:14:14Z
 toc: true
 ---
@@ -20,7 +21,7 @@ Hvis du gerne vil _tracke_ om du kommer i bedre form med konditionstræning, så
 
 Men lad os først definere den maksimale iltoptagelse og konditallet:
 
-Maksimale iltoptagelse (VO<sub>2</sub>max) (l/min)
+Maksimal iltoptagelse (VO<sub>2</sub>max) (l/min)
 : Den maksimale iltoptagelse er et udtryk for hvor meget ilt, du kan optage under maksimalt arbejde. Den maksimale iltoptagelse er hvor meget ilt (ml) kroppen optager pr. minut.
 
 Kondital (ml/kg/min)
@@ -93,7 +94,7 @@ Der er mange måder at måle sin kondition på. Vi har samlet tests her på side
 
 ***
 
-## Validitet af testning af kondital
+## Validitet af testning af iltoptagelse og kondition
 
 Husk at alle _indirekte_ tests er forbundet med unøjagtigheder. Samtidig kan de ikke tage højde for om forbedringen kommer fra en øget iltoptagelse eller fra forbedret bevægelsesøkonomi.
 
@@ -104,7 +105,7 @@ Du skal være opmærksom på følgende ift. nøjagtigheden af testen:
 
 Disse unøjagtigheder betyder naturligvis ikke så meget, hvis du bruger samme rute og udstyr til at teste dig selv næste gang. Så kan du sagtens sammenligne dine egne målinger.
 
-## Hvordan forbedrer jeg så konditionen?
+## Hvordan forbedrer jeg min kondition?
 
 Konditionen forbedres ved at udfordre kredsløbet, og det kan man gøre på mange forskellige måder. Det er altid bedre at lave noget, end ikke at lave noget, men hvis du gerne vil tage din kredsløbstræning alvorligt, så er det godt at vide, at kredsløbet består af mange forskellige dele, der arbejder sammen.
 

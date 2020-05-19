@@ -40,9 +40,9 @@ Der er mange metoder til at måle kropskomposition. De vigtigste parametre for m
 
 Body Mass Index (BMI) er nogenlunde korreleret med fedtprocenten og kan derfor bruges til at estimere fedme i en større population. BMI tager ikke højde for, om din vægt skyldes muskler eller fedt. BMI er ikke præcis, hvis du er høj eller eller ikke så høj. BMI fungerer bedst til voksne mennesker, som har en højde indenfor normalområdet.
 
-## Hvordan udregner man BMI?
+## Hvordan udregner man BMI med en formel?
 
-BMI er let at udregne, når du kender din højde og din vægt:
+BMI er let at udregne, når du kender din højde og din vægt med følgende formel:
 
 {% include math formula="BMI = \frac{weight (kg)}{height (m)^2}" %}
 

@@ -1,7 +1,7 @@
 ---
-title: "Udregning af BMI og Ponderal Index"
+title: "Udregning af BMI og Ponderal Index for voksne og børn"
 permalink: /bmi/
-excerpt: ""
+excerpt: "BMI og Ponderal Index er to metoder til at bestemme om man er overvægtig. Se formler og kritik."
 language: da
 header:
   overlay_image: https://helseboost.dk/filer/bmi-1500x960.jpg
@@ -20,9 +20,11 @@ last_modified_at: 2019-03-06T23:14:14Z
 
 BMI er det mest udbredte mål til at vurdere overvægt i større befolkningsgrupper. Her kan du få beregnet dit BMI og få en vurdering med det samme. Nedenunder kan du udregne BMI og sammenligne dig med _det normale_. At bruge BMI som enkeltperson er dog forbundet med en række forbehold, så husk at læse lidt videre.
 
+## Udregn dit BMI
+
 {% include calculate-bmi.html %}
 
-## Om Body Mass Index (BMI)
+## Hvad er Body Mass Index (BMI)
 
 BMI er nogenlunde korreleret med fedtprocenten og kan derfor bruges til at estimere undervægt, overvægt og fedme i en større population. BMI fungerer bedst som indikator for voksne mennesker, som har en højde indenfor normalområdet. Nedenfor er der også tabeller, som børn kan vurderes efter. BMI tager ikke højde for, om din vægt skyldes muskler eller fedt eller din kropsbygning i det hele taget. Fx vil meget muskuløse mennesker vurderes som overvægtige, selvom de har en lav fedtprocent.
 
@@ -33,7 +35,7 @@ Du kan læse lidt mere om [retfærdig vurdering af overvægtiges kondition](/kon
 
 BMI er et godt værktøj til at beskrive udviklingen i større befolkningsgrupper. Når man kigger på tilstrækkeligt mange personer på en gang, så forsvinder "afvigerne" og gennemsnitsværdierne vil være et reelt udtryk for forekomst af overvægt og fedme i større populationer.
 
-### Udregning af BMI
+### Udregn af BMI med følgende formel
 
 BMI er let at udregne, når du kender din højde (meter) og din vægt (kg):
 
@@ -90,7 +92,7 @@ Husk at BMI ikke tager højde for kropsbygning og muskelmasse. En vurdering af b
 
 En af ulemperne ved BMI er, at det kan give en unfair sammenligning mellem folk af forskellig statur. Der findes et andet og meget mindre brugt index, der hedder Ponderal Index, som skulle give en mere fair sammenligning.
 
-### Udregning af Ponderal Index
+### Udregning af Ponderal Index med formel
 
 Til forskel fra BMI er højden (m) altså løftet i tredje potens i stedet for anden potens.
 
@@ -112,7 +114,6 @@ Quetelet, Adolphe. 1835. Sur l’homme et le développement de ses facultés: ou
 
 Cole, Tim J., Katherine M. Flegal, Dasha Nicholls, og Alan A. Jackson. 2007. “Body Mass Index Cut Offs to Define Thinness in Children and Adolescents: International Survey”. BMJ (Clinical Research Ed.) 335 (7612): 194. https://doi.org/10.1136/bmj.39238.399444.55.
 
-
 Due P, Heitmann BL & Sørensen TIA. Adipositasepidemien i Danmark. Ugeskr Læger 2006;168(2):129
 
 Cole TJ, Bellizi MC, Flegal KM et al. Establishing a standard definition for child overweight and obesity worldwide: international survey. BMJ 2000; 320:240-3.
@@ -131,4 +132,4 @@ Der Index der Körperfülle als Maß des Ernährungszustandes
 F. Rohrer
 Münchner Med. Wschr. 68(1921), 580-582
 
-## Noter
+## Noter om BMI og Ponderal Index
