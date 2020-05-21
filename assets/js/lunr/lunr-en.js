@@ -68,11 +68,6 @@ $(document).ready(function() {
           '</div>';
       }
       resultdiv.append(searchitem);
-      window.dataLayer = window.dataLayer || [];
-      window.dataLayer.push({
-        'event' : 'search',
-        'searchTerm' : query //this should be dynamically replaced with an actual search query
-      });
     }
   });
 });
