@@ -26,11 +26,6 @@ $(document).ready(function() {
   $('input#search').on('keyup', function () {
     var resultdiv = $('#results');
     var query = $(this).val().toLowerCase();
-    window.dataLayer = window.dataLayer || [];
-    window.dataLayer.push({
-      'event' : 'search',
-      'searchTerm' : query //this should be dynamically replaced with an actual search query
-    });
     var result =
       idx.query(function (q) {
         query.split(lunr.tokenizer.separator).forEach(function (term) {
@@ -73,6 +68,11 @@ $(document).ready(function() {
           '</div>';
       }
       resultdiv.append(searchitem);
+      window.dataLayer = window.dataLayer || [];
+      window.dataLayer.push({
+        'event' : 'search',
+        'searchTerm' : query //this should be dynamically replaced with an actual search query
+      });
     }
   });
 });
