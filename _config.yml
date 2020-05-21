@@ -15,7 +15,7 @@ future: true
 email                    : "lsolesen@gmail.com"
 locale                   : "da"
 title                    : "Motionsplan"
-title_separator          : "-"
+title_separator          : false # '-' # false # ""
 subtitle                 : "Træningsøvelser, træningsprogrammer og viden om træning."
 name                     : "Motionsplan"
 description              : "Træningsøvelser og træningsprogrammer til styrketræning, yoga, løb og træning - med de videnskabelige briller."

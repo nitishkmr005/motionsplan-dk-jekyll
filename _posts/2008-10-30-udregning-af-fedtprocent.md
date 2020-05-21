@@ -1,5 +1,6 @@
 ---
 title: "Beregn din fedtprocent og BMI med denne enkle udregning"
+seo_title: "Fedtprocent og BMI • Beregn din fedtprocent og BMI med bare din højde og vægt »"
 permalink: /artikel/udregning-af-fedtprocent
 redirect_from:
   - /udregn-fp/
