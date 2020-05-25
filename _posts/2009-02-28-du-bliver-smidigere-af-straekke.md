@@ -1,5 +1,5 @@
 ---
-title: "Du bliver smidigere af at strække"
+title: "Bliver jeg smidigere af at strække?"
 excerpt: "Udspænding og udstrækning er forbundet med mange myter. Men du bliver smidigere af at strække ud!"
 permalink: /artikel/du-bliver-smidigere-af-straekke
 language: da

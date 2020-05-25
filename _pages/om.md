@@ -9,6 +9,10 @@ author: lsolesen
 
 Motionsplan ejes og drives af Lars Olesen (chefudvikler og chefredaktør). Der er tilknyttet en række freelance-journalister til at hjælpe med det redaktionelle stof. Vi:
 
+Lars Olesen er cand.scient. og har læst Sundhed og Idræt på Syddansk Universitet. Siden da har han undervist i 20 år i bl.a. fitnessinstruktør, træning og idræt på Vejle Idrætshøjskole.
+
+## Om motionsplan.dk
+
 - **Tager et videnskabeligt udgangspunkt.** Vores artikler er baseret på videnskab. Hvis videnskaben ændrer sig, eller vi bliver klogere ændrer vi artiklerne.
 - **Bruger klar tale.** Vi forsøger at gøre det svære forståeligt. Hvis du ikke helt forstår, hvad vi har skrevet, forsøger vi at gøre det bedre.
 - **Er nuancerede.** Selvom vi forsøger at gøre tingene forståeligt, gør vi det ikke for enkelt. Det betyder også, at vi gerne nuancerer mediernes historier.
@@ -17,4 +21,6 @@ Motionsplan ejes og drives af Lars Olesen (chefudvikler og chefredaktør). Der e
 
 Hvis du har nogle spørgsmål er du altid velkommen til at kontakte os på {{ site.email }}.
 
-Vi bruger billeder fra [Unsplash.com](https://unsplash.com/).
+## Materiale på sitet
+
+Vi bruger billeder fra [Unsplash.com](https://unsplash.com/) og skriver selv alle artiklerne.
