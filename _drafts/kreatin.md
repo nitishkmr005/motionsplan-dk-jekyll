@@ -54,3 +54,21 @@ https://www.bodylab.dk/shop/kreatin-4c1.html
 
 https://suplab.dk/kreatin/
 
+---
+title: "Kreatin virker og har meget få bivirkninger"
+permalink: /kreatin/
+excerpt: "Kreatin 2019 test - Her er de bedste og billigste kreatin i en nem oversigt i sammenligner priser og hjælper dig med at spare penge"
+language: da
+header:
+  overlay_image: https://c.pxhere.com/photos/e3/ed/dumbbells_training_silver_sports_force_mussels_body_building-600719.jpg!d
+  teaser: https://c.pxhere.com/photos/e3/ed/dumbbells_training_silver_sports_force_mussels_body_building-600719.jpg!d
+category:
+  - Styrketræning
+tags:
+  - styrketræning
+  - træningsbælte
+last_modified_at: 2019-11-19T23:14:14Z
+toc: true
+---
+
+<iframe marginwidth="0" marginheight="0" frameborder="0" scrolling="no" width="540" height="180" src="https://www.partner-ads.com/dk/visfeedbanner9.php?rid=8452"></iframe>
