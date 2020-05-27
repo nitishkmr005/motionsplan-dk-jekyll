@@ -12,4 +12,5 @@ group :jekyll_plugins do
     gem 'jekyll-sitemap'
 end
 gem 'classifier-reborn'
+gem 'gsl'
 gem 'html-proofer'
