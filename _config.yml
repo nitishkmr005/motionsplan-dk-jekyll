@@ -373,3 +373,5 @@ defaults:
       type: presentations
     values:
       layout: webslides
+      sitemap: false
+      search: false
