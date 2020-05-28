@@ -15,7 +15,7 @@ category:
 tags:
   - styrketræning
   - beregnere
-last_modified_at: 2019-03-06T23:14:14Z
+last_modified_at: 2020-05-20T23:14:14Z
 toc: true
 classes: wide
 feature_row:
@@ -31,19 +31,23 @@ feature_row:
 *[RM]: Repetition Maximum
 *[RPE]: Rate of Perceived Exertion
 
-RM betyder _Repetition Maximum_. RM-begrebet kan først og fremmest bruges til at estimere, hvad du maksimalt kan løfte en gang ud fra submaksimale vægte med flere gentagelser. Ud fra din 1RM kan du derefter estimere forskellige RM-vægte, som kan anvendes i træningsprogrammer. 
+Det er altid sjovt at se, hvor meget man kan løfte. Det kan man bruge en RM-beregner til at hjælpe med at udregne.
 
-Ud fra en maksimal test med fx 5 reps og en given vægt, kan du udregne dine andre løft ud fra din estimerede 1RM, hvis du gerne vil arbejde i et bestemt _rep-range_. RM-værdierne kan du bruge som udgangspunkt for planlægningen af dine træningsprogrammer - eller hvis du laver procentbaserede programmer i forhold til 1RM.
+**RM betyder _Repetition Maximum_. RM-begrebet kan først og fremmest bruges til at estimere, hvad du maksimalt kan løfte en gang ud fra vægten på et submaksimalt løft med flere gentagelser. Ud fra din 1RM kan du derefter estimere forskellige RM-vægte, som kan anvendes i træningsprogrammer.**
+
+Ud fra en maksimal test med fx 5 reps og en given vægt, kan du udregne dit maksimale løft. Ud fra dette løft kan du så estimere, hvor meget du skal ahve på stangen for at arbejde i et bestemt _rep-range_. RM-værdierne kan du bruge som udgangspunkt for planlægningen af dine træningsprogrammer.
 
 ## Lav din egen RM-test
 
-Når du laver en RM test, så er det mest præcist desto tættere mere præcist du ligger i antallet af gentagelser ift. den RM-vægt, du gerne vil udregne. Fx vil en 3RM være et bedre udgangspunkt for at estimere 1RM end en 15RM. Jeg beder oftest eleverne om at forsøge at ramme en 5RM.
+En RM test bliver mest præcist jo tættere du ligger i antallet af gentagelser ift. den RM-vægt, du gerne vil udregne. Fx vil en 3RM være et bedre udgangspunkt for at estimere 1RM end en 15RM-test. Jeg beder oftest eleverne om at forsøge at ramme en 5RM.
 
 Inden du går i gang med testen, skal du sørge for at lave en grundig, specifik opvarmning. Opvarmningssættene skal naturligvis ikke udtrætte dine muskler, men den skal samtidig gøre dig klar til at løfte tungt.
 
 Hvis du har brug for flere forsøg, skal du sørge for at holde mindst 3-5 minutters pause mellem forsøgene.
 
-Der er lavet rigtig mange forskellige studier, der har forsøgt at give sit bud på en formel. Den mest udbredte formel virker til at være Brzycki. Reynolds har selv i et metastudium kåret sin egen formel som den mest præcise (men den virker kun for 5RM-tests). Zacho indikerer at køn og træningstilstand også har en effekt.
+Der er lavet rigtig mange forskellige studier, der har forsøgt at give sit bud på en formel til at estimere 1RM. Den mest udbredte formel virker til at være Brzycki. Reynolds har selv i et metastudium kåret sin egen formel som den mest præcise (men den virker kun for 5RM-tests). Zacho indikerer, at køn og træningstilstand også har en effekt.
+
+## RM-beregner
 
 {% include calculate-1rm.html %}
 
@@ -51,18 +55,15 @@ Der er lavet rigtig mange forskellige studier, der har forsøgt at give sit bud 
 
 Hvis du fx gerne vil træne med 5 sæt og 5 reps, så kan man skrive i programmet, at man skal løfte med 5RM i de enkelte sæt. Det vil være en RPE på 10 pr. sæt, så det er ikke sikkert, at atleten kan klare alle sættene.
 
-Derfor er det mere typisk, at man bruger RM-begrebet til at estimere, hvad man netop kan løfte en gang. Når man udregner sin 1RM, så kan man nemlig konstruere et procentbaseret træningsprogram baseret på det man maksimalt kan løfte. I mange træningsprogrammer starter man lidt mere konservativt ved fx at gange med en faktor (fx 0,9), så programmet ikke starter for hårdt ud.
+Derfor kan RM-begrebet bruges til at estimere, hvad man netop kan løfte en gang. Når man udregner sin 1RM, så kan man nemlig konstruere et procentbaseret træningsprogram baseret på det man maksimalt kan løfte. I mange træningsprogrammer starter man lidt mere konservativt ved fx at gange med en faktor (fx 0,9), så programmet ikke starter for hårdt ud.
 
 Stærk med Jacob Beermann, Jim Wendlers 5/3/1, Starting Strength, Texas Method er alle programmer, der forudsætter en viden om din 1RM for at komme i gang med programmet.
 
 ## Referencer
 
 - [Testing 1RM](https://www.scienceforsport.com/1rm-testing/)
-
 - Reynolds, Jeff M., Toryanno J. Gordon, og Robert Andrew Robergs. “Prediction of one repetition maximum strength from multiple repetition maximum testing and anthropometry.” Journal of strength and conditioning research 20, nr. 3 (2006): 584–92. https://doi.org/10.1519/R-15304.1.
-
 - [Morten Zacho](https://www.motion-online.dk/rm-beregner-teoretisk-baggrund/)
-
 - [Jacob Beermann](https://maxer.dk/artikler/maxtest)
 
 {% include feature_row type="left" %}
