@@ -34,7 +34,7 @@ feature_row:
 
 Det er altid sjovt at se, hvor meget man kan løfte. Det kan man bruge en RM-beregner til at hjælpe med at udregne.
 
-**RM betyder _Repetition Maximum_. RM-begrebet kan først og fremmest bruges til at estimere, hvad du maksimalt kan løfte en gang ud fra vægten på et submaksimalt løft med flere gentagelser. Ud fra din 1RM kan du derefter estimere forskellige RM-vægte, som kan anvendes i træningsprogrammer.**
+**En RM-beregner kan udregne _Repetition Maximum (RM)_. RM-begrebet kan først og fremmest bruges til at estimere, hvad du maksimalt kan løfte en gang ud fra vægten på et submaksimalt løft med flere gentagelser. Ud fra din 1RM kan du derefter estimere forskellige RM-vægte, som kan anvendes i træningsprogrammer.**
 
 Ud fra en maksimal test med fx 5 reps og en given vægt, kan du udregne dit maksimale løft. Ud fra dette løft kan du så estimere, hvor meget du skal ahve på stangen for at arbejde i et bestemt _rep-range_. RM-værdierne kan du bruge som udgangspunkt for planlægningen af dine træningsprogrammer.
 
