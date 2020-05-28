@@ -198,9 +198,9 @@ motionsplan.Estimate1RM = function(weight, repetitions = 5) {
     getOconnor: getOconnor,
     getWathan: getWathan,
     getMOL: getMOL,
-    getMOLBrzycki : getMOLBrzycki,
-    getPercentOfRm : getPercentOfRm,
-    getWendler : getWendler
+    getMOLBrzycki: getMOLBrzycki,
+    getPercentOfRm: getPercentOfRm,
+    getWendler: getWendler
   };
 
   return publicAPI;

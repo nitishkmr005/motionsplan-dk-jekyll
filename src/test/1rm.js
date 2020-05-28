@@ -100,7 +100,6 @@ describe('Estimate1RM', function() {
       assert.equal(rm.getMOL(1, 0), 109.94750006871719);
       assert.equal(rm.getMOL(0, 1), 111.90564116337104);
       assert.equal(rm.getMOL(0, 0), 112.76118309033298);
-      assert.equal(rm.getMOLBrzycki(), 112.51125112511251);
     });
   });
   describe('getMOLBrycki', function() {
@@ -113,7 +112,7 @@ describe('Estimate1RM', function() {
     it('should work with rm requests', function() {
       // weigt, reps
       var rm = motionsplan.Estimate1RM(100, 5);
-      // man and trained
+      assert.equal(rm.getMOLBrzycki(), 112.51125112511251);
       assert.equal(rm.getMOLBrzycki(1), 112.51125112511251);
       assert.equal(rm.getMOLBrzycki(2), 109.38343834383438);
       assert.equal(rm.getMOLBrzycki(3), 106.25562556255625);

@@ -164,7 +164,7 @@ $(document).ready(function() {
             $("#rm15").val(r.getWendler(15).toFixed(decimals));
         } else {
             repmax = r.getMOL(trained, koen);
-            $("#rm1").val(repmax).toFixed(decimals);
+            $("#rm1").val(repmax.toFixed(decimals));
             $("#rm2").val(r.getMOL(trained, koen, 2).toFixed(decimals));
             $("#rm3").val(r.getMOL(trained, koen, 3).toFixed(decimals));
             $("#rm4").val(r.getMOL(trained, koen, 4).toFixed(decimals));
