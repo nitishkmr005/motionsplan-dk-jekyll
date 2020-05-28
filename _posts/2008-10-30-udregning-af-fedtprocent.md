@@ -37,7 +37,7 @@ Der er mange metoder til at måle kropskomposition. De vigtigste parametre for m
 
 {% include calculate-fat-percent.html %}
 
-## Hvad er Body Mass Index (BMI)
+## Hvad er Body Mass Index (BMI)?
 
 Body Mass Index (BMI) er nogenlunde korreleret med fedtprocenten og kan derfor bruges til at estimere fedme i en større population. BMI tager ikke højde for, om din vægt skyldes muskler eller fedt. BMI er ikke præcis, hvis du er høj eller eller ikke så høj. BMI fungerer bedst til voksne mennesker, som har en højde indenfor normalområdet.
 

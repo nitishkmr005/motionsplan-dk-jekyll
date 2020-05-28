@@ -40,7 +40,7 @@ Tibetanske munke lavede øvelserne for at holde sig evigt unge, og det er vi jo 
 
 ## Hvor mange gange skal de fem tibetanere laves og hvordan?
 
-Lav De Fem Tibetanere en gang om dagen - fx om morgenen når du står op, eller om aftenen inden du går i seng. Nogle mennesker sover godt oven på øvelserne, mens andre bliver for friske til at sove. Du skal derfor selv finde ud af, hvad der passer dig bedst.
+Lav _De Fem Tibetanere_ en gang om dagen - fx om morgenen når du står op, eller om aftenen inden du går i seng. Nogle mennesker sover godt oven på øvelserne, mens andre bliver for friske til at sove. Du skal derfor selv finde ud af, hvad der passer dig bedst.
 
 De gamle forskrifter siger, at de fem øvelser skal gentages 21 gange hver dag. Det er bedre at lave 3 gentagelser end slet ikke, hvis du en dag har lyst til at springe over, eller ikke har tid til at lave alle øvelser en dag. 3 gentagelser af tibetanerne tager mindre end fem minutter. I begyndelsen skal du ikke regne med, at du kan lave alle 21 gentagelser af hver øvelse. Det bør du heller ikke gøre i starten, da øvelserne kan fremme udrensning af giftstoffer fra kroppen og deraf følgende udrensningssymptomer.
 
