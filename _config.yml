@@ -9,7 +9,7 @@ remote_theme:            "mmistakes/minimal-mistakes@4.19.2"
 minimal_mistakes_skin:   "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 # Jekyll specific
-future: true
+future: false
 
 # Site Settings
 email                    : "lsolesen@gmail.com"
