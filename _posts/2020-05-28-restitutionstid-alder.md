@@ -3,10 +3,10 @@ title: "Hvor lang er min restitutionstid - og ændrer den sig med alderen?"
 permalink: /restitutionstid-og-alder/
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1569956726914-a9db65466c5b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80
-  teaser: https://images.unsplash.com/photo-1569956726914-a9db65466c5b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
+  overlay_image: https://images.unsplash.com/photo-1470777639313-60af88918203?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80
+  teaser: https://images.unsplash.com/photo-1470777639313-60af88918203?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
   overlay_filter: 0.8
-  caption: "Photo by Jen Theodore on Unsplash"
+  caption: "Photo by Cris Saur on Unsplash"
 category:
   - Viden om
 tags:
