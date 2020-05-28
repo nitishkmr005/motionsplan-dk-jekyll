@@ -16,7 +16,7 @@ last_modified_at: 2020-04-30T08:14:14Z
 toc: true
 ---
 
-Jeg er lige ved at planlægge, hvordan jeg kommer i form igen, og kommer til at tænke på, om muskler vejer mere end fedt? Jeg har ofte hørt, at man kan tage på i vægt, når man træner, fordi man får flere muskler. Jeg lavede lidt research, og der står lidt forskellige ting rundt på nettet. Hvad er rigtigt?
+Jeg er lige ved at planlægge, hvordan jeg kommer i form igen, og tænkte at jeg ville gå en tur på vægten for at få et før- og efterbillede af min fremgang. Men så kom jeg til at tænke på, om muskler vejer mere end fedt? Jeg har ofte hørt, at man kan tage på i vægt, når man træner. Jeg lavede lidt research på vægten af muskler og fedt, og der står lidt forskellige ting rundt på nettet. Hvad er egentlig rigtigt?
 
 **Muskler vejer mere end fedt, fordi massefylden for fedt er lavere end for muskler. Det skyldes, at fedtceller først og fremmest består af triglycerider, der er lettere end de proteiner og det vand, muskelcellerne er bygget af. En liter muskel vejer omkring 1,06 kg, mens en liter fedt vejer omkring 0,9 kg.**
 
