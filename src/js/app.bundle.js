@@ -5,6 +5,7 @@ const maxhr = require('./max-hr');
 const cooper = require('./cooper');
 const cooper_test = require('./cooper-running');
 const fat = require('./fat-pct');
+const fp_navy = require('./fat-pct-navy');
 const fatm = require('./fat-pct-measurements');
 const rm = require('./1rm');
 const etpunkt = require('./etpunkttest');
@@ -26,6 +27,7 @@ $(document).ready(function() {
     $("#form-formula").ready(function() {
         $(".motiononline").hide();
         $(".reynolds").hide();
+        $(".navy-hip").hide();
     });
     // 1RM calculate
     $("#form-formula").change(function() {
@@ -38,6 +40,13 @@ $(document).ready(function() {
             $(".reynolds").show();
         } else {
             $(".reynolds").hide();
+        }
+    });
+    $("#calculator_fat_percent_navy").change(function() {
+        if ($("#checkbox-woman").is(":checked")) {
+            $(".navy-hip").show();
+        } else {
+            $(".navy-hip").hide();
         }
     });
     $("#calculator_rm").submit(function() {
@@ -209,11 +218,25 @@ $(document).ready(function() {
         $("#Risiko2").val(c.getRelativeRisk());
         return false;
     });
+    // Udregn fatpercent navy
+    $("#calculator_fat_percent_navy").submit(function() {
+        console.log("Fat percent navy");
+
+        var sex = $("[name='sex']:checked").val();
+        var height = Number($("[name='height']").val());
+        var waist = Number($("[name='waist']").val());
+        var neck = Number($("[name='neck']").val());
+        var hip = Number($("[name='hip']").val());
+
+        var fp = fp_navy.CalculateFatPercentNavy(sex, height, waist, neck, hip);
+        $("#fat_percent_navy").val(fp.getFatPercent());
+        return false;
+    });
     // Udregn ideal weight
     $("#calculator_idealweight").submit(function() {
         console.log("Idealweight");
 
-        var sex = Number($("[name='sex']").val());
+        var sex = $("[name='sex']:checked").val();
         var height = Number($("[name='height']").val());
 
         var iw = idealweight.IdealWeight(height, sex);

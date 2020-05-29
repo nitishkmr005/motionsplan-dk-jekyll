@@ -408,6 +408,7 @@ const maxhr = require('./max-hr');
 const cooper = require('./cooper');
 const cooper_test = require('./cooper-running');
 const fat = require('./fat-pct');
+const fp_navy = require('./fat-pct-navy');
 const fatm = require('./fat-pct-measurements');
 const rm = require('./1rm');
 const etpunkt = require('./etpunkttest');
@@ -429,6 +430,7 @@ $(document).ready(function() {
     $("#form-formula").ready(function() {
         $(".motiononline").hide();
         $(".reynolds").hide();
+        $(".navy-hip").hide();
     });
     // 1RM calculate
     $("#form-formula").change(function() {
@@ -441,6 +443,13 @@ $(document).ready(function() {
             $(".reynolds").show();
         } else {
             $(".reynolds").hide();
+        }
+    });
+    $("#calculator_fat_percent_navy").change(function() {
+        if ($("#checkbox-woman").is(":checked")) {
+            $(".navy-hip").show();
+        } else {
+            $(".navy-hip").hide();
         }
     });
     $("#calculator_rm").submit(function() {
@@ -612,11 +621,25 @@ $(document).ready(function() {
         $("#Risiko2").val(c.getRelativeRisk());
         return false;
     });
+    // Udregn fatpercent navy
+    $("#calculator_fat_percent_navy").submit(function() {
+        console.log("Fat percent navy");
+
+        var sex = $("[name='sex']:checked").val();
+        var height = Number($("[name='height']").val());
+        var waist = Number($("[name='waist']").val());
+        var neck = Number($("[name='neck']").val());
+        var hip = Number($("[name='hip']").val());
+
+        var fp = fp_navy.CalculateFatPercentNavy(sex, height, waist, neck, hip);
+        $("#fat_percent_navy").val(fp.getFatPercent());
+        return false;
+    });
     // Udregn ideal weight
     $("#calculator_idealweight").submit(function() {
         console.log("Idealweight");
 
-        var sex = Number($("[name='sex']").val());
+        var sex = $("[name='sex']:checked").val();
         var height = Number($("[name='height']").val());
 
         var iw = idealweight.IdealWeight(height, sex);
@@ -1360,7 +1383,7 @@ $(document).ready(function() {
 	});
 });
 
-},{"./1rm":3,"./bmi":5,"./bmr":6,"./cooper":8,"./cooper-running":7,"./etpunkttest":9,"./fat-pct":11,"./fat-pct-measurements":10,"./fitness-hr":12,"./fitness-index-23":13,"./ideal-weight":14,"./karvonen":15,"./max-hr":16,"./running":18,"./running-economy":17,"./skinfold-durnin":19,"./topunkttest":20,"image-map-resizer":1,"wilks-calculator":2}],5:[function(require,module,exports){
+},{"./1rm":3,"./bmi":5,"./bmr":6,"./cooper":8,"./cooper-running":7,"./etpunkttest":9,"./fat-pct":12,"./fat-pct-measurements":10,"./fat-pct-navy":11,"./fitness-hr":13,"./fitness-index-23":14,"./ideal-weight":15,"./karvonen":16,"./max-hr":17,"./running":19,"./running-economy":18,"./skinfold-durnin":20,"./topunkttest":21,"image-map-resizer":1,"wilks-calculator":2}],5:[function(require,module,exports){
 let motionsplan = {}
 
 motionsplan.BMI = function(h, w) {
@@ -1790,6 +1813,42 @@ let motionsplan = {}
  * Also see here
  * https://www.researchgate.net/publication/242017991_Predicting_Body_Composition_in_College_Students_Using_the_Womersley_and_Durnin_Body_Mass_Index_Equation
  */
+motionsplan.CalculateFatPercentNavy = function(sex, h, waist, neck, hip = 0) {
+  var height, waist, sex, hip, neck;
+
+  height = h;
+  waist = waist;
+  sex = sex;
+  hip = hip;
+  neck = neck;
+
+  function getFatPercent() {
+    if (sex == 'man') {
+      var eq = (1.0324 - (0.19077 * Math.log10(waist - neck)) + (0.15456 * Math.log10(height)));
+
+    } else {
+      var eq = (1.29579 - (0.35004 * Math.log10(waist + hip - neck)) + (0.22100 * Math.log10(height)));
+    }
+    
+    return (495/eq) - 450;
+  }
+
+  var publicAPI = {
+    getFatPercent : getFatPercent
+  };
+
+  return publicAPI;
+}
+
+module.exports = motionsplan;
+
+},{}],12:[function(require,module,exports){
+let motionsplan = {}
+
+/**
+ * Also see here
+ * https://www.researchgate.net/publication/242017991_Predicting_Body_Composition_in_College_Students_Using_the_Womersley_and_Durnin_Body_Mass_Index_Equation
+ */
 motionsplan.CalculateFatPercent = function(h, w, a, sex) {
   var h, w, sex;
 
@@ -1862,7 +1921,7 @@ motionsplan.CalculateFatPercent = function(h, w, a, sex) {
 
 module.exports = motionsplan;
 
-},{}],12:[function(require,module,exports){
+},{}],13:[function(require,module,exports){
 let motionsplan = {}
 
 motionsplan.CalculateFitnessFromHr = function(mxpul, hvpul, wgt) {
@@ -1895,7 +1954,7 @@ motionsplan.CalculateFitnessFromHr = function(mxpul, hvpul, wgt) {
 
 module.exports = motionsplan;
 
-},{}],13:[function(require,module,exports){
+},{}],14:[function(require,module,exports){
 let motionsplan = {}
 
 // height in cm
@@ -1931,7 +1990,7 @@ motionsplan.FitnessIndex23 = function(height, weight) {
 
 module.exports = motionsplan;
 
-},{}],14:[function(require,module,exports){
+},{}],15:[function(require,module,exports){
 let motionsplan = {}
 
 motionsplan.IdealWeight = function(h, sex) {
@@ -1981,7 +2040,7 @@ motionsplan.IdealWeight = function(h, sex) {
 
 module.exports = motionsplan;
 
-},{}],15:[function(require,module,exports){
+},{}],16:[function(require,module,exports){
 let motionsplan = {}
 
 motionsplan.Karvonen = function(minHr, maxHr) {
@@ -2005,7 +2064,7 @@ motionsplan.Karvonen = function(minHr, maxHr) {
 
 module.exports = motionsplan;
 
-},{}],16:[function(require,module,exports){
+},{}],17:[function(require,module,exports){
 let motionsplan = {}
 
 motionsplan.EstimateMaxHr = function(ald) {
@@ -2026,7 +2085,7 @@ motionsplan.EstimateMaxHr = function(ald) {
 
 module.exports = motionsplan;
 
-},{}],17:[function(require,module,exports){
+},{}],18:[function(require,module,exports){
 let motionsplan = {}
 
 // weight in kg
@@ -2066,7 +2125,7 @@ motionsplan.RunningEconomy= function(weight, oxygenuptake) {
 
 module.exports = motionsplan;
 
-},{}],18:[function(require,module,exports){
+},{}],19:[function(require,module,exports){
 let motionsplan = {};
 
 motionsplan.Running = function() {
@@ -2138,7 +2197,7 @@ motionsplan.Running = function() {
 
 module.exports = motionsplan;
 
-},{}],19:[function(require,module,exports){
+},{}],20:[function(require,module,exports){
 let motionsplan = {}
 
 motionsplan.SkinfoldDurnin = function(biceps, triceps, hoftekam, skulder, weight, gender, age = 20) {
@@ -2219,7 +2278,7 @@ motionsplan.SkinfoldDurnin = function(biceps, triceps, hoftekam, skulder, weight
 
 module.exports = motionsplan;
 
-},{}],20:[function(require,module,exports){
+},{}],21:[function(require,module,exports){
 let motionsplan = {}
 
 motionsplan.ToPunktTest = function(age, weight, work1, hr1, work2, hr2) {
