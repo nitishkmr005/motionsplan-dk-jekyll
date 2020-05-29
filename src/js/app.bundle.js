@@ -11,6 +11,7 @@ const etpunkt = require('./etpunkttest');
 const topunkt = require('./topunkttest');
 const bmr = require('./bmr');
 const bmi = require('./bmi');
+const idealweight = require('./ideal-weight');
 const wilks = require('wilks-calculator');
 const karvonen = require('./karvonen');
 const index23 = require('./fitness-index-23');
@@ -208,6 +209,20 @@ $(document).ready(function() {
         $("#Risiko2").val(c.getRelativeRisk());
         return false;
     });
+    // Udregn ideal weight
+    $("#calculator_idealweight").submit(function() {
+        console.log("Idealweight");
+
+        var sex = Number($("[name='sex']").val());
+        var height = Number($("[name='height']").val());
+
+        var iw = idealweight.IdealWeight(height, sex);
+        $("#idealweight_robinson").val(iw.getRobinson());
+        $("#idealweight_miller").val(iw.getMiller());
+        $("#idealweight_hamwi").val(iw.getHamwi());
+        $("#idealweight_devine").val(iw.getDevine());
+        return false;
+    });
     // Udregn 1punkttest
     $("#calculator_etpunkttest").submit(function() {
         console.log("Etpunkt test");
@@ -224,7 +239,7 @@ $(document).ready(function() {
         $("[name='Kondital']").val(et.getFitnessLevel());
         return false;
     });
-    // Udregn 1punkttest
+    // Udregn 2punkttest
     $("#calculator_topunkttest").submit(function() {
         console.log("Etpunkt test");
 
