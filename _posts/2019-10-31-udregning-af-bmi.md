@@ -1,7 +1,7 @@
 ---
 title: "Udregning af BMI og Ponderal Index for voksne og børn"
 permalink: /bmi/
-excerpt: "BMI og Ponderal Index er to metoder til at bestemme om man er overvægtig. Se formler og kritik."
+excerpt: "BMI og Ponderal Index er to metoder til at bestemme om man er overvægtig. Se formler og tabeller for børn og voksne."
 language: da
 header:
   overlay_image: https://helseboost.dk/filer/bmi-1500x960.jpg
@@ -18,7 +18,9 @@ last_modified_at: 2019-03-06T23:14:14Z
 *[BMI]: Body Mass Index
 *[IOTF]: The International Obesity Task Force
 
-BMI er det mest udbredte mål til at vurdere overvægt i større befolkningsgrupper. Her kan du få beregnet dit BMI og få en vurdering med det samme. Nedenunder kan du udregne BMI og sammenligne dig med _det normale_. At bruge BMI som enkeltperson er dog forbundet med en række forbehold, så husk at læse lidt videre.
+Jeg sidder og læser et glitrende magasin om sport og helse, og endnu engang ser jeg udregninger om body mass index (BMI) uden at gå i dybden med, hvad det egentlig måler. Derfor satte jeg mig ned for at researche lidt på, hvad BMI egentlg er?
+
+Body Mass Indes (BMI) er en enkel måde at vurdere overvægt i større befolkningsgrupper. Her kan du få beregnet dit BMI og få en vurdering med det samme. Nedenunder kan du udregne BMI og sammenligne dig med _det normale_. At bruge BMI som enkeltperson er dog forbundet med en række forbehold, så husk at læse lidt videre.
 
 ## Udregn dit BMI
 

@@ -11,7 +11,7 @@ category:
 tags:
   - hypertrofi
   - træningsmetoder
-last_modified_at: 2019-10-16T23:14:14Z
+last_modified_at: 2020-05-29T23:14:14Z
 toc: true
 ---
 
@@ -31,6 +31,8 @@ Hvorfor er det interessant at kigge på hypertrofi?
 2. **Æstetik.** For nogen mennesker er større muskler et mål for at blive mere attraktiv.
 
 Træningen påvirker ikke bare de enkelte muskler, men kroppen som helhed. Træningen skal altså være tilrettelagt, så de opbyggende (anabolske) hormoner bliver opregulerede og de nedbrydende (katabolske) hormoner bliver holdt nede. Det kan man sikre gennem fornuftig træningsplanlægning, restitution og kost.
+
+{% include video provider="youtube" id="2tM1LFFxeKg" %}
 
 ## Fysiologiske drivere ved muskelvækst
 
