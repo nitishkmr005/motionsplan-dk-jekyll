@@ -49,7 +49,7 @@ Skelettets funktion er at være et stativ for mennesket og det giver stabilitet 
 - **Beskyttelse**: Skelettet beskytter de vigtige organer, som fx lungerne, hjertet og nervesystemet.
 - **Bevægelse**: Knoglerne er fæstnet i leddene, og derfor er skelettet udgangspunkt for bevægelser, når musklerne trækker sig sammen. 
 - **Deponering**: Skelettet er depot for kroppens mineraler, og i de store knogler produceres de røde blodceller.
- 
+
 ## Hvornår vejer knoglerne mest?
 
 Skelettet er levende og udskiftes konstant, og knoglerne påvirkes af din levevis. 
@@ -104,7 +104,9 @@ Jeg har ikke kunnet finde den anslåede vægt for ret mange knogler. Hvis du fin
 |-|-|
 | Lårbensknoglen | 1 kg |
 
-## Lær mere
+Jeg har skrevet lidt flere artikler om [knoglerne og knogletyperne](/knogler/) og [anatomi](/anatomi/).
+
+## Bøger
 
 {% include feature_row type="left" %}
 

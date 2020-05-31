@@ -50,3 +50,5 @@ Massefylde er forholdet mellem et stofs masse og dets rumfang. Vand har massefyl
 Hvis du tager et kilo fedt og et kilo muskler, så vil fedtet altså fylde mere end musklerne. Det betyder altså, at hvis du går i gang med at træne og taber et kilo fedt og tager et kilo muskler på, så vil dit tøj sidde lidt løsere - også selvom vægten siger det samme.
 
 I min research bliver der skrevet mange forunderlige ting rundt omkring på nettet, men et er sikkert. Muskler vejer mere end fedt, hvis man tager den samme volumen af begge, fordi massefylden for musklerne er højere end for fedt.
+
+Jeg har skrevet lidt mere om [musklerne](/muskler/), hvis du vil dykke mere ned i anatomien.

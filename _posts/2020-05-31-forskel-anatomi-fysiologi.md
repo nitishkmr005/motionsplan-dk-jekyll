@@ -125,6 +125,8 @@ Kroppen er dog meget mere end en maskine. Kroppen er levende. Den vedligeholder 
 
 Hvis du gerne vil have et meget detaljeret og professionelt atlas over kroppen, så kan du kigge på [www.biodigitalhuman.com](https://www.biodigitalhuman.com/). Der kan du udforske anatomien i et 3D-program, hvor du kan vende og dreje det hele.
 
+Jeg har skrevet lidt mere om [anatomi](/anatomi/), hvis du vil dykke mere ned i detaljerne.
+
 Jeg kan også varmt anbefale nedenstående bøger, hvis du vil dykke endnu mere ned i det. Jeg foretrækker selv at kunne sidde og blade lidt frem og tilbage i bøgerne for virkelig at forstå anatomien og fysiologien.
 
 {% include feature_row type="left" %}
