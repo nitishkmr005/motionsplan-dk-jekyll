@@ -104,5 +104,8 @@ Jeg har ikke kunnet finde den anslåede vægt for ret mange knogler. Hvis du fin
 |-|-|
 | Lårbensknoglen | 1 kg |
 
+## Lær mere
 
 {% include feature_row type="left" %}
+
+## Noter
