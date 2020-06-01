@@ -1,0 +1,62 @@
+<script>
+    function calculate() {
+        var e = document.getElementById("exercise");
+        var cals = e.options[e.selectedIndex].value;
+        var time = document.getElementById("time").value;
+        var weight = document.getElementById("weight").value;
+        //number of calores based on time
+        cals = cals * (time / 30);
+
+        //every 7kg above or below 68k add or subtract 10%
+        var ext = (weight - 68) / 70;
+        cals = cals + (cals * ext);
+
+        document.getElementById("calories").value = nt2dp(cals, 0);
+
+    }
+
+    function valclear() {
+        document.getElementById("calories").value = "";
+    }
+
+    function nt2dp(num, dp) {
+        num = num * 1 + (0.55 / Math.pow(10, dp));
+        if (dp > 0) {
+            dp = dp + 1;
+        }
+        var b = Math.floor(num).toString().length + dp;
+        return num.toString().substr(0, b);
+    }
+</script>
+<form class="calculator">
+    <fieldset>
+        <legend>Energiudregner. Sammenlign gang og løb.</legend>
+        <div class="form-group">
+            <label for="exercise">Aktivitet</label>
+            <select name="exercise" id="exercise">
+                <option value="320" selected="selected">Løb - 9 km/t</option>
+                <option value="350">Løb - 10 km/t</option>
+                <option value="430">Løb - 12 km/t</option>
+                <option value="550">Løb - 16 km/t</option>
+                <option value="105">Gang - 4 km/t</option>
+                <option value="200">Gang - 7 km/t</option>
+                <option value="370">Gang - 10 km/t</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="time">Tid (min)</label>
+            <input name="time" id="time" type="number" onfocus="valclear()" value="30" />
+        </div>
+        <div class="form-group">
+            <label for="weight">Vægt (kg)</label>
+            <input name="weight" id="weight" type="number" onfocus="valclear()" value="68" />
+        </div>
+        <input type="button" name="Button1" value="Calculate" onclick="calculate()" />
+    </fieldset>
+    <fieldset class="results">
+        <div class="form-group">
+            <label for="calories">Energiforbrug (kcal)</label>
+            <input name="calories" id="calories" type="text" onfocus="valclear()" disabled="disabled">
+        </div>
+    </fieldset>
+</form>
