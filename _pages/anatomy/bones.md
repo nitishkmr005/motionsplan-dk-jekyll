@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Kroppens knogler og knogletyper"
-excerpt: "Skelettet består af knogler. Knoglerne afstiver kroppen og agerer vægtstænger for musklerne, så kroppen kan bevæge sig."
+title: "Skelettet: Kroppens knogler og knogletyper"
+excerpt: "Skelettet består af knogler. Knoglerne afstiver kroppen og agerer vægtstænger for musklerne, så kroppen kan bevæge sig og kan opdeles i forskellige knogletyper."
 permalink: /knogler/
 tags:
   - anatomi
@@ -48,7 +48,7 @@ Knoglernes primære funktion er at være tilhæftningsste for musklerne, og akti
 
 ## Knogletyper
 
-Skelettet består af omkring 200 knogler, hvilket udgør ca. 18% af kropsvægten. Den længste og tungeste knogle er lårknoglen, der hos en mand på 70 kg. vejer ca. 1 kg.
+Skelettet består af 206 knogler og udgør ca. 14-18% af din kropsvægt. Den længste og tungeste knogle er lårknoglen, der hos en mand på 70 kg vejer ca. 1 kg. Jeg har brugt tid på at researche, [hvad knogler vejer](/hvad-vejer-skelettet/), hvis du har lyst til at dykke mere ned i det emne.
 
 Knogler kan opdeles i 4 grupper:
 

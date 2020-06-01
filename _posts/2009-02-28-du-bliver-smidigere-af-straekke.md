@@ -1,5 +1,5 @@
 ---
-title: "Bliver jeg smidigere af at strække?"
+title: "Bliver jeg smidigere af at strække ud?"
 excerpt: "Udspænding og udstrækning er forbundet med mange myter. Men du bliver smidigere af at strække ud!"
 permalink: /artikel/du-bliver-smidigere-af-straekke
 language: da
@@ -19,7 +19,7 @@ last_modified_at: 2019-08-02T11:45:14Z
 
 ## TLDR;
 
-**Du bliver smidigere af at strække, den maksimale styrke kan være nedsat lige efter udspændingsøvelser og utrænede får tilsyneladende præstationsfremgang efter længerevarende smidighedstræning.**
+**Du bliver smidigere af udstrækning, den maksimale styrke kan være nedsat lige efter udspændingsøvelser og utrænede får tilsyneladende præstationsfremgang efter længerevarende smidighedstræning.**
 
 Udstrækning og udspænding er forbundet med mange myter. Nogen siger, at det ikke hjælper, mens andre oplever en stor effekt. Men hvad siger videnskaben egentlig om det at strække ud?
 
