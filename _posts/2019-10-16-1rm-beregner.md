@@ -1,9 +1,9 @@
 ---
-title: "Udregn hvad du kan løfte i vores 1RM-beregner"
+title: "RM-beregner: 10 formler til at udregne hvad du kan løfte"
 permalink: /rm-beregner/
 redirect_from:
   - rm
-excerpt: "Udregn 1RM (repetition maximum) i vores avancerede 1RM-beregner på baggrund af flere forskeres formler til at bestemme 1RM ud fra vægten i submaksimale løft."
+excerpt: "Udregn 1RM (repetition maximum) i vores avancerede 1RM-beregner på baggrund af 10 forskeres formler til at bestemme 1RM ud fra vægten på dine submaksimale løft."
 language: da
 header:
   overlay_image: https://images.unsplash.com/photo-1526401485004-46910ecc8e51?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80
