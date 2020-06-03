@@ -92,7 +92,10 @@ Når du belaster kredsløbet over længere tid, så begynder kroppen at producer
 Hjertets er ansvarlig for at pumpe blod ud til de arbejdende muskler. Hjertets pumpefunktion og -kapacitet udgøres af to faktorer:
 
 - **Slagvolumen (SV)** er den mængde blod hjertet kan sende rundt på en sammentrækning - altså på et hjerteslag.
-- **Pulsfrekvens (HR)** er det antal gange hjertet slår i minuttet. 
+- **Pulsfrekvens (HR)** er det antal gange hjertet slår i minuttet.
+
+Samlet er det et udtryk for, hvor meget blod der kommer rundt i kroppen. 
+
 - **Minutvolumen (MV)** er den mængde blod, der bliver pumpet rundt i kroppen pr. minut. Det er ganske enkelt slagvolumen ganget med pulsfrekvensen. 
 
 Det kan sættes på følgende formel:
