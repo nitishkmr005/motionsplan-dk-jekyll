@@ -1,5 +1,5 @@
 ---
-title: "Hvor lang er min restitutionstid - og ændrer den sig med alderen?"
+title: "Restitutionstid: Hvornår kan jeg træne igen?"
 permalink: /restitutionstid-og-alder/
 language: da
 header:
@@ -18,9 +18,9 @@ toc: true
 
 Jeg kan godt lide at træne, men jeg vil stadig gerne gøre det så effektivt som muligt. Hvis jeg gerne vil bygge kroppen op, skal jeg finde en balance mellem at træne for lidt og træne for meget. Defor tænker jeg over, hvordan jeg planlægger min træning.
 
-Jeg begyndte derfor at _researche_ lidt på, hvordan restitutionstid og alder hænger sammen?
+Jeg begyndte derfor at _researche_ lidt på, hvordan det ser ud med restitutionstiden, og hvilken betydning alderen har for restitutionen.
 
-**Restitutionstiden afhænger af den aktivitet, du laver. Hvis du har trænet rigtig hårdt, så vil restitutionstiden være længere end efter en lettere træning. Restitutionstiden afhænger også af din nuværende form, og hvad du laver ud over træningen. Din søvn og kost spiller også ind på restitutionstiden. Endelig spiller det samlede stress på kroppen i perioden også ind. Restitutionstiden bliver formentlig længere med alderen.**
+**Restitutionstiden afhænger af den aktivitet, du laver. Hvis du har trænet rigtig hårdt, så vil restitutionstiden være længere end efter en lettere træning. Restitutionstiden afhænger også af din nuværende form, og hvad du laver ud over træningen. Din søvn og kost spiller også ind på restitutionstiden. Endelig spiller det samlede stress på kroppen i perioden også ind. Alderen har også betydning for restitutionstiden.**
 
 Jeg har undersøgt, hvor lang tid det tager at restituere, og om restitutionstiden ændrer sig med alderen, når man skal restituere mellem to træningspas.
 
