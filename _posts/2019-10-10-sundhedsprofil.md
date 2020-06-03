@@ -81,7 +81,7 @@ Avanceret sundhedsprofil
 
 I sundhedstesten foreslås forskellige måder at teste kredsløbsfitness på. Hvis ikke du har tid til at lave en længerevarende fitnesstest, så kan du _estimere_ din test ud fra din hvile- og max-puls.
 
-[Anslå kondital fra puls](/kondital-fra-puls/){: .btn .btn--larg .btn--success }
+[Anslå kondital fra puls](/kondital-fra-puls/){: .btn .btn--large .btn--success }
 
 ### Anslå VO<sub>2</sub>-max ud fra løbedistance og -tid
 
@@ -127,7 +127,7 @@ Hvis du for nylig har løbet en distance så hurtigt, du kunne, så kan du også
 >
 > Ikke alle elementer tæller lige meget i den samlede score. Det trækker f.eks. meget mere fra at være ryger i forhold til blot at være usmidig. Dertil er det heller ikke alle test der giver en højere samlet score selv om man forbedrer sig. Eksempelvis er det godt for sundheden at have en hvis styrke i overkroppen, men man er ikke nødvendigvis sundere fordi man kan tage virkelig mange armstrækninger. Vægtningen af de forskellige elementer er bl.a. sket ved at kigge på rapporten ” Risikofaktorer og folkesundhed i Danmark”, samt ved at kigge på mere specifikke undersøgelser
 
----<cite>[Motion-online.dk - Sundhedsprofil – Teoretisk Baggrund](https://www.motion-online.dk/sundhedsprofil-teoretisk-baggrund/)</cite>
+---<cite>[motion-online.dk](http://web.archive.org/web/20160406061608/http://www.motion-online.dk/sundhed_og_vaegt/sundhed-generelt/sundhedsprofil_-_teoretisk_baggrund/)</cite>
 
 ## Hvad er sundhed?
 
@@ -150,7 +150,7 @@ Hvad er din definition af sundhed?
 
 ## Referencer
 
-{% include feature_row id="feature_row_references" %}
+{% include feature_row id="feature_row_references" type="left" %}
 
 Risikofaktorer og folkesundhed i Danmark
 Knud Juel, Jan Sørensen og Henrik Brønnum-Hansen
