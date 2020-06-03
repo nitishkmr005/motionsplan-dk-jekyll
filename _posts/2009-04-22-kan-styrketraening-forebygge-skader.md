@@ -1,5 +1,5 @@
 ---
-title: "Kan styrketræning forebygge skader? "
+title: "Kan styrketræning forebygge skader?"
 permalink: /artikel/kan-styrketraening-forebygge-skader
 language: da
 header:
