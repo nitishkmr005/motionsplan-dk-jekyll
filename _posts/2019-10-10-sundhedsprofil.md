@@ -191,4 +191,3 @@ Dobbelsteyn, C. J., M. R. Joffres, D. R. MacLean, og G. Flowerdew. 2001. “A Co
 Janssen, Ian, Peter T. Katzmarzyk, og Robert Ross. 2004. “Waist Circumference and Not Body Mass Index Explains Obesity-Related Health Risk”. The American Journal of Clinical Nutrition 79 (3): 379–84. https://doi.org/10.1093/ajcn/79.3.379.
 
 Bray, George A. 2004. “Don’t Throw the Baby out with the Bath Water”. The American Journal of Clinical Nutrition 79 (3): 347–49. https://doi.org/10.1093/ajcn/79.3.347.
-

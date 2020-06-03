@@ -66,3 +66,5 @@ Morten Zacho har imidlertid estimeret en formel, som bruges i beregneren ovenfor
 ## Referencer
 
 {% include feature_row type="left" %}
+
+<img src="/assets/images/aastrand-nomogram.png" data-pin-description="Åstrands Nomogram" style="display:none;">
