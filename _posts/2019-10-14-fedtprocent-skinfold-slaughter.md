@@ -1,7 +1,7 @@
 ---
-title: "Fedtprocent hos børn - Slaugther formlen"
+title: "Slaugther formlen - Fedtprocent fra hudfold hos børn"
 permalink: /skinfold-slaughter/
-excerpt: "Denne metode er bl.a. anvendt i studier af danske skolebørn og kræver en måling ved triceps og på skulderbladsspidsen."
+excerpt: "Slaugther formlen er bl.a. anvendt i studier af danske skolebørn og kræver en måling ved triceps og på skulderbladsspidsen."
 language: da
 header:
   overlay_image: https://www.ubershape.com.au/wp-content/uploads/2017/05/35A2528-1024x683.jpg

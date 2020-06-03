@@ -1,7 +1,7 @@
 ---
-title: "Kondital fra 6 minutters gå-test"
+title: "6 minutters gå-test: Kondital for ældre mennesker"
 permalink: /gaatest-6min/
-excerpt: "6 minutters gå-test er en submaksimal test til at estimere konditallet for relativt fysisk svage personer."
+excerpt: "6 minutters gå-test er en submaksimal test til at sammenligne den tilbagelagte distance i forhold til andre mennesker for relativt fysisk svage personer."
 language: da
 header:
   overlay_image: https://www.straitstimes.com/sites/default/files/articles/2017/09/04/20170904_1504497527583_2073451859691958_16_amyama4_zuann.jpg
@@ -16,9 +16,9 @@ last_modified_at: 2019-03-06T23:14:14Z
 toc: true
 ---
 
-I 6 minutters gå-testen gælder det om at gå så langt som muligt på 6 minutter. Testen er specielt egnet til svage personer fx patienter eller gamle.
+I 6 minutters gå-testen gælder det om at gå så langt som muligt på 6 minutter. Den tilbagelagte distance sammenlignes med referenceværdier for tidligere forsøg. Testen er specielt egnet til svage personer fx patienter eller gamle.
 
-## Testens udførelse
+## Sådan udfører du gåtesten
 
 {% include figure image_path="https://www.researchgate.net/profile/Parul_Sharma9/publication/317952000/figure/fig1/AS:509936111190016@1498589651200/6-minutes-walk-test-diagram.png" %}
 
@@ -26,7 +26,11 @@ I 6 minutters gå-testen gælder det om at gå så langt som muligt på 6 minutt
 2. Testen er ret påvirkelig af, hvor meget testlederen opmunterer testpersonerne. Opmuntring kan betyde op til 30% på testresultatet. "Opmuntringen" skal altså standardiseres, så man siger det samme til alle testpersoner hver gang man tester dem. I de oprindelige forsøg er der anvendt fraserne: "You are doing well", "Keep up the good work" og ikke andet.
 3. Indtast distance og persondata og sammenlign med referenceværdien. Fra ca. 75 % og opefter betragtes som værende indenfor normalområdet. 
 
+## Sammenlign dit resultat for gåtesten
+
 {% include calculate-fitness-walktest-6min.html %}
+
+## Referenceværdier for 6 minutters-testen
 
 Der findes en del forskellige publicerede referenceværdier. Den væsentligste forskel på referenceværdierne er om forsøgspersonerne forud har haft mulighed for at blive tilvænnet til testen. 
 
@@ -34,7 +38,7 @@ Der findes en del forskellige publicerede referenceværdier. Den væsentligste f
 
 Vi har valgt her at angive tallene fra Referenceværdier er fra Enright & Sherill 1998, da disse baserer sig på et stort talmateriale og på forsøgspersoner der ikke er forud tilvænnet til testen. Referenceværdierne gælder for mænd og kvinder i alderen 40-80 år.  NB! Andre referenceværdier, hvor der har været anvendt tilvænning, ligger ca 100 meter højere.
 
-## Teoretisk baggrund for testen 
+## Teoretisk baggrund for gåtesten 
 
 Denne test har i praksis vist sig at være et godt mål for den almene funktionstilstand hos relativtsvage individer. Testens resultat er ikke bare et mål for kredsløbsfunktionen, men også for bevægeapparatets tilstand som helhed.
 

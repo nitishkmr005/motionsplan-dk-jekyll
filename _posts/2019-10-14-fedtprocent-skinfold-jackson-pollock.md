@@ -1,5 +1,5 @@
 ---
-title: "Jackson & Pollock 3-punktsmåling af fedtprocent"
+title: "Jackson & Pollock 3-punktsmåling af fedtprocent (hudfold)"
 permalink: /skinfold-jackson-pollock/
 excerpt: "Jackson & Pollock 3-punktsmåling er bedst egnet til folk med en relativt lav fedtprocent. Formlen har en tendens til at estimere for lave fedtprocenter, men dette er individuelt og afhængigt af hvorledes ens fedtfordeling er."
 language: da

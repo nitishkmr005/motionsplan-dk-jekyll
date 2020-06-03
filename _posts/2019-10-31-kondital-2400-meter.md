@@ -1,7 +1,7 @@
 ---
-title: "Find dit kondital fra 2400 meter løbetest"
+title: "2400-meter løbetest: Find dit kondital med vores beregner"
 permalink: /kondital-2400-meter/
-excerpt: "På 2400 meter løbetest gælder det om at løbe 2400 meter så hurtigt som muligt, og derfra kan du estimere dit kondital."
+excerpt: "På 2400 meter løbetesten gælder det om at løbe 2400 meter så hurtigt som muligt, og derfra kan du estimere dit kondital og sammenligne dig med normerne."
 language: da
 header:
   overlay_image: https://www.verywellfit.com/thmb/F9sf5YjPRH3UWHrse3-FoyWArws=/2120x1415/filters:fill(FFDB5D,1)/GettyImages-555000829-5b0215abfa6bcc0036279353.jpg
@@ -39,10 +39,12 @@ Følgende klassifikation af 2400 meter testen gælder for mænd og kvinder i ald
 | Excellent	| 10:45-9:45	| 13:30-12:30 |
 | Superior	| < 9:44	    | < 12:29     |
 
-## Udregning af konditallet
+## Beregner til 2400-meter testen
+
+{% include calculate-fitness-2400-meter.html %}
+
+## Formel til at udregne konditallet
 
 Her er den formel, der forudsiger konditallet fra tiden (minutter) fra 2400 meter testen.
 
 {% include math formula="kondital = \frac{483}{time} + 3,5" %}
-
-{% include calculate-fitness-2400-meter.html %}

@@ -1,5 +1,5 @@
 ---
-title: "Fedtprocent hos børn - Lohman formlen"
+title: "Lohman formlen - Mål fedtprocent med fedttang hos børn"
 permalink: /skinfold-lohman/
 excerpt: "Lohman-formlen kan bruges til at teste børn fra 8-18 år og der måles ved triceps og på læggen."
 language: da

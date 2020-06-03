@@ -1,5 +1,5 @@
 ---
-title: "Mål fedtprocent med fedttang - YMCA metoden"
+title: "YMCA metoden - Mål fedtprocent med fedttang (hudfold)"
 permalink: /skinfold-ymca/
 excerpt: "YMCA-metoden er baseret på Jackson & Pollock formlerne, men specielt tilpasset YMCA’s behov, således at mænd og kvinder måles på de samme punkter og lår-målingen nemt kan udelades, hvis den volder problemer. Vi anbefaler denne beregner til de fleste fitness- og sundhedsformål."
 language: da

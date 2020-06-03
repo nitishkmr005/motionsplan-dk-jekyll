@@ -31,6 +31,8 @@ Cooper-testen er en maksiml løbetest, hvor den distance man kan tilbagelægge p
 
 {% include calculate-fitness-cooper.html %}
 
+## Baggrund for konditallet fra Cooper-testen
+
 Konditallet i Coopertesten afhænger ikke af vægten. Konditallet er VO<sub>2</sub>-max divideret med kropsvægten. Hvis en person på 50 kg skal løbe 3000 meter på 12 minutter, så kræver det en VO<sub>2</sub>max på 2,8 l/min. Hvis en person på 100 kg skal løbe samme distance, så kræver det dobbelt så meget energi og dermed en VO<sub>2</sub>max på 5,6 l/min, men da personen jo netop har dobbelt så stor kropsvægt, så ender konditallet med at være det samme.
 
 {% include figure image_path="https://levaktivt.dk/media/2593/cooper-test-infografik.jpg" %}

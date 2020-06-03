@@ -1,5 +1,5 @@
 ---
-title: "Stofskifteberegner"
+title: "Stofskifteberegner: Hvad er dit daglige energiforbrug?"
 permalink: /simpel-stofskifte/
 excerpt: ""
 language: da
@@ -29,11 +29,15 @@ feature_row:
 
 Med denne beregner kan du anslå dit hvilestofskifte og dit samlede daglige energibehov. Beregneren er ret simpel og angiver kun dit aktivitetsniveau udfra nogle overordnede mål.
 
+**Stofskiftet består af 3 hovedkomponenter: basal metabolic rate (BMR), fødeinduceret termogenese (FIT) og fysisk aktivitet (PAL).**
+
+## Beregn dit stofskifte
+
 {% include calculate-metabolic-rate.html %}
 
 Beregningen er behæftet med stor usikkerhed. Værdierne er rettet mod "almindelige" mennesker og ikke meget aktive kredsløbsatleter, fx cykelryttere og triatleter.
 
-### Baggrund for beregneren
+### Baggrund for stofskifteberegneren
 
 **Tabel: 1. Formel for at beregne BMR. (Nordiska næringsrekommendationer 1996)**
 

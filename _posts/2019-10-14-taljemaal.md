@@ -51,7 +51,7 @@ Når man sætter sit taljemål i forhold til sin højde, så er det forbundet me
 
 ## Talje-hofte-ratio
 
-Ratioen mellem taljemålet og hoftemålet er en indikator på sundhed. Rationen kan sige noget om kropsformen, og man skelner ofte mellem pæreformet og æbleformet. WHR kan afspejle den intraabdominale fedme. Ofte er WHR også knyttet sammen tiltrækning på tværs af forskellige kulturer. 
+Ratioen mellem taljemålet og hoftemålet er en indikator på sundhed. Relationen kan sige noget om kropsformen, og man skelner ofte mellem pæreformet og æbleformet kropsfacon. WHR kan afspejle den intraabdominale fedme. Ofte er WHR også knyttet sammen tiltrækning på tværs af forskellige kulturer. 
 
 {% include figure image_path="https://www.hellodoctor.co.za/wp-content/uploads/2013/12/Body-shapes.jpg" caption="Pæreformet og æbleformet" %}
 

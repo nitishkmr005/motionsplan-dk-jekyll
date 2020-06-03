@@ -24,7 +24,7 @@ Når testen er færdig får man en estimeret VO<sub>2</sub>-max, sit kondital (d
 
 [^note]: Du kan [læse mere om MET på Wikipedia](https://en.wikipedia.org/wiki/Metabolic_equivalent_of_task).
 
-[Tag selv den danske steptest](http://www.steptest.dk){: .btn--large .btn--info}
+[Tag selv den danske steptest](http://www.steptest.dk){: .btn--large .btn--info }
 
 ## Baggrunden for den danske steptest
 

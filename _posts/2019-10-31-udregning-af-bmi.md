@@ -1,5 +1,5 @@
 ---
-title: "Udregning af BMI og Ponderal Index for voksne og børn"
+title: "Udregn BMI og Ponderal Index for voksne og børn"
 permalink: /bmi/
 excerpt: "BMI og Ponderal Index er to metoder til at bestemme om man er overvægtig. Se formler og tabeller for børn og voksne."
 language: da
@@ -18,15 +18,17 @@ last_modified_at: 2019-03-06T23:14:14Z
 *[BMI]: Body Mass Index
 *[IOTF]: The International Obesity Task Force
 
-Jeg sidder og læser et glitrende magasin om sport og helse, og endnu engang ser jeg udregninger om body mass index (BMI) uden at gå i dybden med, hvad det egentlig måler. Derfor satte jeg mig ned for at researche lidt på, hvad BMI egentlg er?
+Jeg sidder og læser et glitrende magasin om sport og helse, og endnu engang ser jeg udregninger om body mass index (BMI) uden at gå i dybden med, hvad det egentlig måler. Derfor satte jeg mig ned for at researche lidt på, hvad BMI egentlig er, og hvordan BMI kan bruges?
 
-Body Mass Indes (BMI) er en enkel måde at vurdere overvægt i større befolkningsgrupper. Her kan du få beregnet dit BMI og få en vurdering med det samme. Nedenunder kan du udregne BMI og sammenligne dig med _det normale_. At bruge BMI som enkeltperson er dog forbundet med en række forbehold, så husk at læse lidt videre.
+**Body Mass Indes (BMI) er en enkel matematisk formel for sammenhængen mellem personers højde og vægt. Formlen bruges til at vurdere undervægt, normalvægt og overvægt i større befolkningsgrupper. BMI bruges også ofte til at indikere under- og overvægt hos enkelte personer, men bør ikke bruges til præcise målinger hos individuelle.** 
+
+Her kan du få beregnet dit BMI og få en vurdering med det samme. Nedenunder kan du udregne BMI og sammenligne dig med _det normale_. At bruge BMI som enkeltperson er dog forbundet med en række forbehold, så husk at læse lidt videre.
 
 ## Udregn dit BMI
 
 {% include calculate-bmi.html %}
 
-## Hvad er Body Mass Index (BMI)
+## Hvad er Body Mass Index (BMI)?
 
 BMI er nogenlunde korreleret med fedtprocenten og kan derfor bruges til at estimere undervægt, overvægt og fedme i en større population. BMI fungerer bedst som indikator for voksne mennesker, som har en højde indenfor normalområdet. Nedenfor er der også tabeller, som børn kan vurderes efter. BMI tager ikke højde for, om din vægt skyldes muskler eller fedt eller din kropsbygning i det hele taget. Fx vil meget muskuløse mennesker vurderes som overvægtige, selvom de har en lav fedtprocent.
 
@@ -89,6 +91,8 @@ Husk at BMI ikke tager højde for kropsbygning og muskelmasse. En vurdering af b
 {% include figure image_path="https://nielstraining.dk/wp-content/uploads/2017/08/BMI-formel-drenge-sundhed-b%C3%B8rn-WHO-sundhed-e1502349412962.png" caption="BMI værdier for drenge under 18 år" alt="BMI værdier for drenge under 18 år" %}
 
 {% include figure image_path="https://nielstraining.dk/wp-content/uploads/2017/08/BMI-formel-piger-sundhed-b%C3%B8rn-WHO-sundhed-e1502348640326.png" caption="BMI værdier for piger under 18 år" alt="BMI værdier for piger under 18 år" %}
+
+Forskere har også foreslået, at man på baggrund af alder og vægt kan udregne sin fedtprocent. Vi har også lavet en [beregner til beregne fedtprocenten]({% link _posts/2008-10-30-udregning-af-fedtprocent.md %}).
 
 ## Ponderal Index
 

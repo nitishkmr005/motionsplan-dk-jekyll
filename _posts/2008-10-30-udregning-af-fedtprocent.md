@@ -1,10 +1,10 @@
 ---
-title: "Beregn din fedtprocent og BMI med denne enkle udregning"
-seo_title: "Fedtprocent og BMI • Beregn din fedtprocent og BMI med bare din højde og vægt »"
+title: "Beregn din fedtprocent: Enkel udregning med højde og vægt"
+seo_title: "Fedtprocent • Beregn din fedtprocent ud fra din højde og vægt »"
 permalink: /artikel/udregning-af-fedtprocent
 redirect_from:
   - /udregn-fp/
-excerpt: "Beregn din fedtprocent med en udregning med din højde og vægt i denne simple beregner. Udregn også dit bodymass index (BMI)."
+excerpt: "Beregn din fedtprocent med en udregning med din højde og vægt i denne simple beregner. Beregneren udregner også dit BMI."
 language: da
 header:
   overlay_image: https://images.unsplash.com/photo-1522844990619-4951c40f7eda?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1600&q=80
@@ -35,31 +35,11 @@ Nedenunder kan du udregne dit body mass index (BMI) og fedtprocent og sammenlign
 
 Der er mange metoder til at måle kropskomposition. De vigtigste parametre for mig er styrke, hurtighed, udholdenhed, springhøjde. Det er de parametre, du har brug for i livet, mens kropssammensætningen jo ikke tilføjer noget til dit liv.
 
+## Udregn din fedtprocent
+
 {% include calculate-fat-percent.html %}
 
-## Hvad er Body Mass Index (BMI)?
-
-Body Mass Index (BMI) er nogenlunde korreleret med fedtprocenten og kan derfor bruges til at estimere fedme i en større population. BMI tager ikke højde for, om din vægt skyldes muskler eller fedt. BMI er ikke præcis, hvis du er høj eller eller ikke så høj. BMI fungerer bedst til voksne mennesker, som har en højde indenfor normalområdet.
-
-## Hvordan udregner man BMI med en formel?
-
-BMI er let at udregne, når du kender din højde og din vægt med følgende formel:
-
-{% include math formula="BMI = \frac{weight (kg)}{height (m)^2}" %}
-
-## Hvad er normalværdierne for BMI?
-
-I tabel 1 kan du se normalværdierne for BMI:
-
-| Tabel 1: Body Mass Index                                           |||
-| Klassifikation | Kvinde (kg/m<sup>2</sup>) | Mand (kg/m<sup>2</sup>) |
-|----------------|---------------------------|-------------------------|
-| Undervægtig    | Under 20                  | Under 20                |
-| Normal         | 20-25                     | 20-25                   |
-| Overvægtig     | 25-30                     | 25-30                   |
-| Fed            | 30 og højere              | 30 og højere            |
-
-## Beregn fedtprocent ud fra udregning
+## Beregn din fedtprocent fra højde og vægt
 
 Fedtprocenten er den relative del af kropsvægten, som udgøres af fedt. Du har behov for fedt for overhovedet at kunne holde varmen. 
 

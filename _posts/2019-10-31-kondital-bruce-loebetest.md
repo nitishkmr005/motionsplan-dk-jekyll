@@ -1,5 +1,5 @@
 ---
-title: "Find din kondition fra Bruce test på løbebånd"
+title: "Bruce løbetest: Find din kondition på løbebånd uden pulsmåler"
 permalink: /bruce-test/
 excerpt: "Bruce-test på løbebånd er en submaksimal test, der kræver et løbebånd med mulighed for at indstille hastighed og hældning."
 language: da
@@ -25,11 +25,11 @@ feature_row:
     btn_class: "btn--success"
 ---
 
-Bruce-testen tester dit kondital på løbebånd uden bruge af puls eller andet udstyr. Testen kræver at løbebåndet kan ændre hældning op til 22%. I Danmark er det mest almindelige, at man tester kondition på ergometercykel, men fx i USA er det mere almindeligt at anvende løbebåndstest, fx Bruce-testen.
+Bruce-testen tester dit kondital på løbebånd uden bruge af puls eller andet udstyr. Testen kræver at løbebåndet kan ændre hældning op til 22%. I Danmark er det mest almindelige, at man tester kondition på ergometercykel, men i USA er det mere almindeligt at anvende løbebåndstest, fx Bruce-testen.
 
 Inden testen bør du lige undersøge, at løbebåndet kan indstilles til alle hældninger og hastigheder. Nogle steder foreslås det, at man kan klodse løbebåndet op for at opnå de korrekte hældninger. Det vil vi fraråde både for løbebåndets og din egen skyld.
 
-## Instruktion
+## Instruktion af Bruce-testen
 
 1. Du skal bruge et løbebånd med en pålidelig styring af hastighed og hældning.
 2. Følg de angivne trin i tabellen nedenunder for ændring af hældning og hastighed hvert 3. minut.
@@ -48,7 +48,7 @@ Du kan se et eksempel på, hvordan du kan bruge Bruce-testen i videoen nedenunde
 
 {% include video provider="youtube" id="oryZbKrRGNI" %}
 
-## Formlerne
+## Formlerne som bruges i Bruce-testen
 
 For at udregne konditallet, skal du bruge følgende formler:
 
@@ -57,6 +57,8 @@ Mænd: VO<sub>2</sub>-max = 14.8 – (1.379 * T) + (0.451 * T<sup>2</sup>) – (
 Kvinder: VO<sub>2</sub>-max = 4.38 * T – 3.9
 
 Hvor T er er tiden i minutter, man har løbet.
+
+Skriv endelig i kommentarerne, hvis du har brug for en beregner til Bruce-testen, så laver vi gerne en.
 
 ## Reference
 
