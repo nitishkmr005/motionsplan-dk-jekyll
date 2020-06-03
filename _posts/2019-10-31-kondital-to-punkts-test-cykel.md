@@ -1,7 +1,7 @@
 ---
-title: "Åstrands to-punkts test på cykel"
+title: "Åstrands to-punktstest: Konditionstest på cykel"
 permalink: /topunktstest/
-excerpt: "Åstrands to-punktstest er en submaksimal test af konditionen på en ergometercykel, hvor du måler belastning og puls."
+excerpt: "Åstrands to-punktstest er en submaksimal konditionstest på en ergometercykel, hvor du måler belastning og puls."
 language: da
 header:
   overlay_image: https://i.ytimg.com/vi/bTynfzI2bWw/maxresdefault.jpg
@@ -24,6 +24,14 @@ feature_row:
     btn_class: "btn--success"
 ---
 
+Åstrand har lavet forskellige konditionstest, og her beskriver jeg to-punktstesten.
+
+**Åstrands to-punktstest er en submaksimal konditionstest, der udføres på en kondicykel. På baggrund af belastningen og pulsfrekvensen kan du estimere forsøgspersonens kondital.**
+
+Hvis du leder efter [Åstrands etpunktstest, så har jeg skrevet om den her](/etpunktstest/).
+
+## Hvordan udføres topunktstesten?
+
 Til Åstrands to-punktstest skal du bruge en kondicykel, der kan vise belastningen i watt. Desuden skal du kunne måle din puls - gerne med et pulsur.
 
 {% include video provider="youtube" id="Ej5UH8KrE5Q" %}
@@ -38,6 +46,8 @@ Indtast værdierne i nedenstående beregner:
 {% include calculate-topunkttest.html %}
 
 Du skal muligvis lave testen et par gange, før du rammer rigtigt. Testen bliver bedst, hvis du rammer to pulsværdier, der ikke ligger for tæt på hinanden (eksempelvis 130 og 160).
+
+## Hvad er baggrunden for beregningerne i topunktstesten?
 
 I beregningerne bagved testen anslåes din maxpuls udfra følgene formel:
 
@@ -64,7 +74,7 @@ Den maksimale arbejdsbelastning (work<sub>max</sub>) omregnes til iltoptagelse b
 
 Hvis man ønsker at beregne konditallet skal VO<sub>2</sub>max omregnes til ml ilt pr. minut (dvs. ganges med 1000) og divideres med kropsvægten i kg.
 
-## Reference
+## Reference til Åstrands konditionstest
 
 Åstrand & Rodahl: Textbook of Work Physiology, 3rd ed. p. 373. 1986
 

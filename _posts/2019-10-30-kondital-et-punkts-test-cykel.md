@@ -1,5 +1,5 @@
 ---
-title: "Åstrands et-punktstest på cykel"
+title: "Åstrands et-punktstest: Konditionstest på cykel"
 permalink: /etpunktstest/
 excerpt: "Åstrands et-punktstest er en submaksimal test på ergometercykel, hvor du måler belastning og puls. Fortrinlig til at måle ændringer i kondition over tid."
 language: da
@@ -25,9 +25,19 @@ feature_row:
     btn_class: "btn--success"
 ---
 
-Åstrands et-punkt-test er en enkel, submaksimal test, hvor man ikke behøver anstrenge sig særlig meget. Testen er let at gennemføre, fordi den også kun kræver, at man kører på en enkelt submaximal belastning.
+Åstrands et-punkt-test er en enkel, submaksimal konditionstest, hvor testpersonen ikke behøver anstrenge sig alt for meget. 
+
+Jeg forsøger i det følgende at beskrive, hvad Åstrands et-punkt-test er, og hvordan testen udføres.
+
+**Åstrands et-punkt-test cykeltest er en enkel, submaksimal konditionstest, som kan bruges til at estimere forsøgspersonens kondital baseret på belastningen og pulsen.**
+
+Konditionstesten er let at gennemføre, fordi man kører på en enkelt submaximal belastning.
+
+## Hvilke usikkerheder er der ved et-punktstesten?
 
 Testens bestemmelse af den maksimale iltoptagelse er behæftet med nogen usikkerhed (som ved alle andre submaksimale tests), men testen er fremragende til at måle ændringer i konditionen over tid. Usikkerheden hører bl.a. sammen med de store individuelle forskelle, der er i folks maksimale puls, selvom de har samme alder.
+
+## Hvordan udfører du Åstrands etpunktstest?
 
 Du skal bruge en kondicykel, der kan vise belastningen i watt. Desuden skal du måle din puls, mens du cykler.
 
@@ -54,7 +64,5 @@ Morten Zacho har imidlertid estimeret en formel, som bruges i beregneren ovenfor
 --- <cite>[Morten Zacho](https://www.motion-online.dk/6-maaling-fysisk-kapacitet-monitorering-traening/)</cite>
 
 ## Referencer
-
-[Et punkt test fra Motion-online.dk](https://web.archive.org/web/20150316134300/http://www.motion-online.dk/konditionstraening/testning/et-punkts_test_paa_cykel/)
 
 {% include feature_row type="left" %}
