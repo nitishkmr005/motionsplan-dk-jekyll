@@ -19,6 +19,7 @@ const index23 = require('./fitness-index-23');
 const running = require('./running');
 const running_economy = require('./running-economy');
 const skinfold_durnin = require('./skinfold-durnin');
+const rockport = require('../js/walktest-rockport-16.js');
 require('image-map-resizer');
 
 $(document).ready(function() {
@@ -535,8 +536,8 @@ $(document).ready(function() {
         var Mand = (7.57 * Hoejde) - (5.02 * Alder) - (1.76 * Vaegt) - 309
         var Kvinde = (2.11 * Hoejde) - (5.78 * Alder) - (2.29 * Vaegt) + 667
 
-        var resultat = Math.round((Mand * Koen + Kvinde * (1 - Koen)) * Math.pow(10, 1)) / Math.pow(10, 1)
-        var resultat2 = Math.round((Meter / resultat * 100) * Math.pow(10, 1)) / Math.pow(10, 1)
+        var resultat = Math.round((Mand * Koen + Kvinde * (1 - Koen)) * Math.pow(10, 1)) / Math.pow(10, 1);
+        var resultat2 = Math.round((Meter / resultat * 100) * Math.pow(10, 1)) / Math.pow(10, 1);
 
         $("[name='Refmeter']").val(resultat);
         $("[name='Procent']").val(resultat2);
@@ -549,16 +550,13 @@ $(document).ready(function() {
         var Min = Number($("[name='Min']").val());
         var Sek = Number($("[name='Sek']").val());
         var Pul = Number($("[name='Pul']").val());
-        var Koen = Number($("[name='Koen']").val());
+        var Koen = $("[name='Koen']").val();
         var Alder = Number($("[name='Alder']").val());
         var Vaegt = Number($("[name='Vaegt']").val());
 
-        var Tid = Min * 60 + Sek * 1
-        var resultat = Math.round((6.9652 + (0.020062 * Vaegt) - (0.0257 * Alder) + (0.5955 * Koen) - (0.003754 * Tid) - (0.0115 * Pul)) * Math.pow(10, 1)) / Math.pow(10, 1)
-        var resultat2 = Math.round((resultat / Vaegt * 1000) * Math.pow(10, 2)) / Math.pow(10, 2)
+         var rp = rockport.RockPortWalkingTest(Min, Sek, Pul, Koen, Alder, Vaegt);
 
-        $("[name='Iltoptag']").val(resultat);
-        $("[name='Konditalk']").val(resultat2);
+        $("[name='Konditalk']").val(rp.getFitnessLevel());
         return false;
     });
 

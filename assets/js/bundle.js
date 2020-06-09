@@ -422,6 +422,7 @@ const index23 = require('./fitness-index-23');
 const running = require('./running');
 const running_economy = require('./running-economy');
 const skinfold_durnin = require('./skinfold-durnin');
+const rockport = require('../js/walktest-rockport-16.js');
 require('image-map-resizer');
 
 $(document).ready(function() {
@@ -938,8 +939,8 @@ $(document).ready(function() {
         var Mand = (7.57 * Hoejde) - (5.02 * Alder) - (1.76 * Vaegt) - 309
         var Kvinde = (2.11 * Hoejde) - (5.78 * Alder) - (2.29 * Vaegt) + 667
 
-        var resultat = Math.round((Mand * Koen + Kvinde * (1 - Koen)) * Math.pow(10, 1)) / Math.pow(10, 1)
-        var resultat2 = Math.round((Meter / resultat * 100) * Math.pow(10, 1)) / Math.pow(10, 1)
+        var resultat = Math.round((Mand * Koen + Kvinde * (1 - Koen)) * Math.pow(10, 1)) / Math.pow(10, 1);
+        var resultat2 = Math.round((Meter / resultat * 100) * Math.pow(10, 1)) / Math.pow(10, 1);
 
         $("[name='Refmeter']").val(resultat);
         $("[name='Procent']").val(resultat2);
@@ -952,16 +953,13 @@ $(document).ready(function() {
         var Min = Number($("[name='Min']").val());
         var Sek = Number($("[name='Sek']").val());
         var Pul = Number($("[name='Pul']").val());
-        var Koen = Number($("[name='Koen']").val());
+        var Koen = $("[name='Koen']").val();
         var Alder = Number($("[name='Alder']").val());
         var Vaegt = Number($("[name='Vaegt']").val());
 
-        var Tid = Min * 60 + Sek * 1
-        var resultat = Math.round((6.9652 + (0.020062 * Vaegt) - (0.0257 * Alder) + (0.5955 * Koen) - (0.003754 * Tid) - (0.0115 * Pul)) * Math.pow(10, 1)) / Math.pow(10, 1)
-        var resultat2 = Math.round((resultat / Vaegt * 1000) * Math.pow(10, 2)) / Math.pow(10, 2)
+         var rp = rockport.RockPortWalkingTest(Min, Sek, Pul, Koen, Alder, Vaegt);
 
-        $("[name='Iltoptag']").val(resultat);
-        $("[name='Konditalk']").val(resultat2);
+        $("[name='Konditalk']").val(rp.getFitnessLevel());
         return false;
     });
 
@@ -1383,7 +1381,7 @@ $(document).ready(function() {
 	});
 });
 
-},{"./1rm":3,"./bmi":5,"./bmr":6,"./cooper":8,"./cooper-running":7,"./etpunkttest":9,"./fat-pct":12,"./fat-pct-measurements":10,"./fat-pct-navy":11,"./fitness-hr":13,"./fitness-index-23":14,"./ideal-weight":15,"./karvonen":16,"./max-hr":17,"./running":19,"./running-economy":18,"./skinfold-durnin":20,"./topunkttest":21,"image-map-resizer":1,"wilks-calculator":2}],5:[function(require,module,exports){
+},{"../js/walktest-rockport-16.js":22,"./1rm":3,"./bmi":5,"./bmr":6,"./cooper":8,"./cooper-running":7,"./etpunkttest":9,"./fat-pct":12,"./fat-pct-measurements":10,"./fat-pct-navy":11,"./fitness-hr":13,"./fitness-index-23":14,"./ideal-weight":15,"./karvonen":16,"./max-hr":17,"./running":19,"./running-economy":18,"./skinfold-durnin":20,"./topunkttest":21,"image-map-resizer":1,"wilks-calculator":2}],5:[function(require,module,exports){
 let motionsplan = {}
 
 motionsplan.BMI = function(h, w) {
@@ -2315,5 +2313,59 @@ motionsplan.ToPunktTest = function(age, weight, work1, hr1, work2, hr2) {
 }
 
 module.exports = motionsplan;
+
+},{}],22:[function(require,module,exports){
+let motionsplan = {}
+
+motionsplan.RockPortWalkingTest = function(min, sec, hr, sex, age, weight) {
+  var resultat, Koen; // Oxygen
+  var Pul = hr;
+  var sex = sex;
+  var Alder = age;
+  var Vaegt = weight;
+  if (sex == "male") {
+    Koen = 1;
+  } else {
+    Koen = 0;
+  }
+
+  function getFitnessLevel() {
+    // Convert mins/secs to mins and 100ths of mins
+    var tm = min;
+    var ts = sec / 60;
+    var time = tm + ts;
+
+    weight = Vaegt * 2.2046226218; // Original formula is in lbs
+    console.log(Koen);
+    return 132.853 - (0.0769 * weight) - (0.3877 * age) + (6.3150 * Koen) - (3.2649 * time) - (0.1565 * hr);
+  }
+
+  function getMaximalOxygenUptakeMOL() {
+    // Værdier fra Motion-Online.dk
+    var Tid = min * 60 + sec * 1
+    return resultat = Math.round((6.9652 + (0.020062 * Vaegt) - (0.0257 * Alder) + (0.5955 * Koen) - (0.003754 * Tid) - (0.0115 * Pul)) * Math.pow(10, 1)) / Math.pow(10, 1);
+  }
+  
+  function getFitnessLevelMOL() {
+    // Værdier fra Motion-Online.dk
+    return Math.round((resultat / Vaegt * 1000) * Math.pow(10, 2)) / Math.pow(10, 2);
+  }
+
+  var publicAPI = {
+    getFitnessLevel : getFitnessLevel,
+    getMaximalOxygenUptakeMOL : getMaximalOxygenUptakeMOL,
+    getFitnessLevelMOL : getFitnessLevelMOL
+  };
+
+  return publicAPI;
+}
+
+module.exports = motionsplan;
+
+
+
+
+
+  
 
 },{}]},{},[4]);
