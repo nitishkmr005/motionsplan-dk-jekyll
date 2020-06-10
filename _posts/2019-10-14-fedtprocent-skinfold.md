@@ -32,7 +32,7 @@ feature_row:
     btn_class: "btn--success"
 ---
 
-Det er meget udbredt at bruge en fedttang til at måle hudfoldstykkelser rundt omkring på kroppen for at bestemme fedtprocenten. Man bruger altså tykkelsen af hudfolderne til ved hjælp af en formel at estimere, hvor meget fedt man i alt har på kroppen.
+Det er meget udbredt at bruge en fedttang til at måle hudfoldstykkelser rundt omkring på kroppen for at bestemme fedtprocenten. Man bruger tykkelsen af hudfolderne til ved hjælp af en formel at estimere, hvor meget fedt man i alt har på kroppen.
 
 Jeg har kigget lidt på, hvad man skal være opmærksom på i forbindelse med måling af fedtprocent med hudfoldsmålinger og fedttang - og så har jeg lavet beregnere til de mest udbredte metoder.
 
@@ -56,11 +56,17 @@ Man skal få en hjælper til at lave målingerne, og det skal (helst) være den 
 
 Brug tommel- og pegefinger til at trække en hudfold ud. Klem ikke hårdere end nødvendigt. Lav målingen en cm ved siden af fingrene, der har fat i hudfolden. Lav aflæsningen af tangen indenfor 3 sekunder, så tangen ikke når at komprimere huden for meget.
 
+## Hvor præcis er måling af fedtprocent med fedttang
+
+En fedttang kan ikke give dig en eksakt måling af din fedtprocent ved at måle hudfoldstykkelserne. Fordelen ved fedttangen er nøjagtigheden fra måling til måling. Hvis du måler hudfoldstykkelsen gentagne gange eller over flere dage i træk, så vil de enkelte målinger være tæt på identiske (hvis vi antager at kropskompositionen og fedtprocenten ikke har ændret sig).
+
 ***
 
 ## Valg af formel til estimering af fedtprocenten
 
-Der er mange forskellige formler, som kan bruges til _skinfold_-målinger. Vi har valgt de mest brugte ud. Jeg foretrækker selv [Durnin & Womersley 4-punkts måling af fedtprocent](/skinfold-durnin-womersley/), fordi den er ens til mænd og kvinder.
+Der er mange forskellige formler, som kan bruges til _skinfold_-målinger. Vi har valgt de mest brugte ud nedenfor og lavet beregnere og instruktioner til de enkelte metoder.
+
+Jeg foretrækker selv [Durnin & Womersley 4-punkts måling af fedtprocent](/skinfold-durnin-womersley/), fordi den er ens til mænd og kvinder og fordi formlen den er lavet med udgangspunkt i almindelige mennesker.
 
 {% assign site_posts = site.posts | where: "tags", "skinfold" | sort: "date" %}
 

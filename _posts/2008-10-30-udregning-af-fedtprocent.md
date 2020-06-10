@@ -20,7 +20,7 @@ tags:
 last_modified_at: 2020-02-11T23:14:14Z
 toc: true
 feature_row:
-  - image_path: https://cdn6.bogreolen.dk/00039/91685/cover.1571714918.jpg
+  - image_path: https://cdn6.tales.dk/00039/91685/cover.1589756619.jpg
     alt: "Exercise Physiology - Nutrition, Energy, and Human Performance"
     title: "Exercise Physiology - Nutrition, Energy, and Human Performance"
     excerpt: "Skrevet af BS, William D., PhD McArdle, M.Ed, Frank I. Katch, Victor L. Katch - og indeholder bl.a. formlen til at udregne fedtprocenten."
@@ -75,19 +75,7 @@ PBF = 1.20 * BMI + 0.23 * age - 10.8 * sex[^note] - 5.4;
 
 [^note]: sex: men = 1; female = 0
 
-## Normer for fedtprocent
-
-| Tabel 2: Fedtprocent normer                            |||
-| Klassifikation         | Kvinde (% fedt) | Mand (% fedt) |
-|------------------------|-----------------|---------------|
-| Essentiel fedt         | 10-12%          | 2-4%          |
-| Udholdenhedsatlet      | 14-16%          | 6-8%          |
-| Atlet                  | 17-20%          | 10-13%        |
-| Fitness                | 21-24%          | 14-17%        |
-| Grænsende til problem  | 24-29%          | 18-22%        |
-| Fed                    | 30 og højere    | 23 og højere  |
-
-_Data fra Howley and Franks: Health/Fitness Instructor's Handbook, Human Kinetics 1986._
+## Usikkerhed ved udregning af fedtprocent
 
 Udregningen af fedtprocent i formularen har en standardfejl på på 3,9%. Det betyder, at den værdi du har udregnet i formularen kan svinge med 3,9% ift. den virkelige værdi. Fedtprocenten er udregnet på baggrund af BMI og er således behæftet med de samme usikkerheder som BMI er.
 

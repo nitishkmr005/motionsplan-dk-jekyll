@@ -4,7 +4,7 @@ permalink: /artikel/inbody-570-bioimpedans
 redirect_from:
   - /inbody/
   - /bioimpedans/
-excerpt: "Du kan måle din fedtprocent og kropskomposition med bioimpedans - og de nyere maskiner er relativt reliabile og valide"
+excerpt: "Du kan måle din fedtprocent og kropskomposition med bioimpedans - og de nyere maskiner er relativt reliabile og valide, hvis du følger anvisningerne."
 language: da
 header:
   overlay_image: https://images.unsplash.com/photo-1501525547-7b008cf72da5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1600&q=80
@@ -47,7 +47,7 @@ feature_row:
 *[ICW]: Intra Cellular Water
 *[DEXA]: Dual-energy x-ray absorptiometry
 
-Bioimpedans er en let måde at måle kropssammensætning på. Teknologien blev kendt i løbet af 1980'erne, men præcisionen sammenlignet med 'guld-standarderne' _hydrostatisk vejning_ (vandvejning) og DEXA-scanner var ikke så høj. Teknologien har imidlertid udviklet sig og de nyere apparater er noget bedre. Mest kendt for sin præcision er _InBody_, som bl.a. i et studium viser en korrelation med DEXA-scanner på 88%[^note].
+Bioimpedans er en let måde at måle fedtprocent og kropssammensætning på. Teknologien blev kendt i løbet af 1980'erne, men præcisionen sammenlignet med 'guld-standarderne' _hydrostatisk vejning_ (vandvejning) og DEXA-scanner var ikke så høj. Teknologien har imidlertid udviklet sig og de nyere apparater er noget bedre. Mest kendt for sin præcision er _InBody_, som bl.a. i et studium viser en korrelation med DEXA-scanner på 88%[^note].
 
 [^note]: [Validating InBody® 570 Multi-frequency Bioelectrical Impedance Analyzer versus DXA for Body Fat Percentage Analysis](https://www.researchgate.net/profile/Ryan_Miller37/publication/318348260_Validating_InBody_R_570_Multi-frequency_Bioelectrical_Impedance_Analyzer_versus_DXA_for_Body_Fat_Percentage_Analysis/links/5964e3da458515183cfaaced/Validating-InBody-R-570-Multi-frequency-Bioelectrical-Impedance-Analyzer-versus-DXA-for-Body-Fat-Percentage-Analysis.pdf?origin=publication_detail)
 
