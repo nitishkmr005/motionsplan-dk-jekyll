@@ -31,9 +31,15 @@ feature_row:
 
 *[BMI]: Body Mass Index
 
-Nedenunder kan du udregne dit body mass index (BMI) og fedtprocent og sammenligne dig med _det normale_. Målingen er indirekte og tager ikke højde for, om din vægt skyldes muskler eller fedt.
+Jeg har lavet en beregner, hvor du kan udregne din fedtprocent på baggrund af din vægt, højde, køn og alder. 
 
-Der er mange metoder til at måle kropskomposition. De vigtigste parametre for mig er styrke, hurtighed, udholdenhed, springhøjde. Det er de parametre, du har brug for i livet, mens kropssammensætningen jo ikke tilføjer noget til dit liv.
+Udregningen er naturligvis forbundet med flere usikkerheder. Beregningen af din fedtprocent er indirekte og inddrager kun din højde og din vægt. Derfor er udregningen unøjagtig, da den ikke har mulighed for at vide, om din vægt skyldes muskler eller fedt.
+
+Der er mange metoder til at måle kropskomposition, og mange går meget op i at finde ud af, hvad deres fedtprocent er.
+
+De vigtigste parametre for mig er styrke, hurtighed, udholdenhed og springhøjde. Det er de parametre, du har brug for i livet, mens en viden om kropssammensætning ikke tilføjer noget til dit liv.
+
+Hvis du fortsat gerne vil udregne din fedtprocent, så fortsæt til vores enkle beregner.
 
 ## Udregn din fedtprocent
 
@@ -41,9 +47,11 @@ Der er mange metoder til at måle kropskomposition. De vigtigste parametre for m
 
 ## Beregn din fedtprocent fra højde og vægt
 
-Fedtprocenten er den relative del af kropsvægten, som udgøres af fedt. Du har behov for fedt for overhovedet at kunne holde varmen. 
+Fedtprocenten er den relative del af kropsvægten, som udgøres af fedt. Du har behov for fedt for at kunne holde varmen 
 
-Formularen oven for benytter sig af to forskellige udregninger til at estimere fedtprocenten.
+Formularen benytter sig af flere forskellige udregninger til at estimere fedtprocenten. Formlerne for de enkelte beregninger, kan du se nedenunder.
+
+Baggrunden for beregneren er at BMI på populationsniveau er nogenlunde korreleret med fedtprocent.
 
 ### Heitmann beregning af fedtprocent
 
@@ -75,11 +83,27 @@ PBF = 1.20 * BMI + 0.23 * age - 10.8 * sex[^note] - 5.4;
 
 [^note]: sex: men = 1; female = 0
 
-## Usikkerhed ved udregning af fedtprocent
+## Usikkerhed i udregningen
 
-Udregningen af fedtprocent i formularen har en standardfejl på på 3,9%. Det betyder, at den værdi du har udregnet i formularen kan svinge med 3,9% ift. den virkelige værdi. Fedtprocenten er udregnet på baggrund af BMI og er således behæftet med de samme usikkerheder som BMI er.
+Hvad kan jeg så bruge udregningen af fedtprocent til?
+
+Udregningen af fedtprocent efter Heitmanns formel har en standardafvigelse på op til 3,9%. Det betyder, at den værdi du har udregnet i formularen kan svinge med mindst 3,9% ift. din virkelige fedtprocent.
+
+Det betyder i praksis, at hvis du har udregnet din fedtprocent til 15%, så er det mest sandsynlige, at den ligger i intervallet fra 11,1% til 18,9%. Det er en ret stor afvigelse.
+
+Fedtprocenten bliver med begge formler udregnet på baggrund af de samme oplysninger, som man udregner BMI på. Derfor er disse beregninger behæftet med de samme usikkerheder som BMI
+
+- Tager ikke højde for om vægten skyldes muskler eller fedt eller din kropsbygning i det hele taget.
+
+Jeg har skrevet mere om [BMI og har lavet en beregner](/bmi/).
+
+Du kan kombinere udregningen af fedtprocent med en øjemålstest. Så har du formentlig en nogenlunde ide om din fedtprocent ligger inden for et sundt spektrum.
+
+{% include figure image_path="https://exerciseandwellness.files.wordpress.com/2016/03/body-fat-percentage-men-women.jpg" caption="Øjemålstest af fedtprocenten - [via](https://exerciseandwellness.wordpress.com/2016/03/28/body-fat-percentages/)" %}
 
 ## Andre typer målinger af kropskomposition
+
+Hvis du vil have et mere præcist bud på din fedtprocent, så kan du kigge på vores andre måder at måle fedtprocent på. Men overvej hvorfor du gerne vil have sat tal på din fedtprocent.
 
 {% assign site_posts = site.posts | where: "category", "Test" | where: "tags", "kropskomposition" | sort: "date" %}
 
