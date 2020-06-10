@@ -3,10 +3,9 @@ title: "Hvordan trækker en muskel sig sammen?"
 permalink: /muskelsammentraekning/
 language: da
 header:
-  overlay_image: https://images.unsplash.com/photo-1579123480439-dcc379da4707?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80
-  teaser: https://images.unsplash.com/photo-1579123480439-dcc379da4707?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80
-  caption: Photo by Jude Beck on Unsplash
-  overlay_filter: 0.2
+  overlay_image: https://www.verywellmind.com/thmb/lipce_c9sabrZqjjE5pFeyfx1aE=/3513x2635/smart/filters:no_upscale()/GettyImages-172594438-56a796f13df78cf7729768ee.jpg
+  teaser: https://www.verywellmind.com/thmb/lipce_c9sabrZqjjE5pFeyfx1aE=/3513x2635/smart/filters:no_upscale()/GettyImages-172594438-56a796f13df78cf7729768ee.jpg
+  overlay_filter: 0.4
 category:
   - Viden om
 tags:
@@ -62,7 +61,7 @@ Hver muskelfiber består af flere hundrede **myofibriller**. Hver myofibril best
 - **Aktin**-filamenter som er de tynde
 - **Myosin**-filamenter som er de tykke
 
-Aktin-filamenterne samles i de såkaldte **Z-lines**. Regionen mellem to Z-lines kaldes en **sarcomere**. Inden for en sarcomere overlapper myosin-filamenterne aktin-filamenterne.
+Aktin-filamenterne samles i de såkaldte **Z-skiver**. Regionen mellem to Z-skiver kaldes en **sarcomerer**. Inden for en sarcomerer overlapper myosin-filamenterne aktin-filamenterne.
 
 Myosin-filamenterne har små strukturer, der kaldes **cross bridges**, som kobler sig på aktin-filamenterne.
 
@@ -74,11 +73,11 @@ En muskel kan altså kun gøre en ting - nemlig at forsøge på at gøre sig kor
 
 Den mest accepterede teori til at forklare, hvordan en muskel trækker sig sammen er den såkaldte **sliding filament theory**. Ifølge teorien så bruger myosinfilamenterne energi fra ATP til at vandre langs aktin-filamenterne med de små _cross bridges_. 
 
-Denne bevægelse af aktin-filamenterne trækker også Z-lines tættere på hinanden. Derfor bliver sarcomeren kortere.
+Denne bevægelse af aktin-filamenterne trækker også Z-skiver tættere på hinanden. Derfor bliver sarcomereren kortere.
  
 {% include video provider="youtube" id="7V-zFVnFkWg" %}
 
-Når alle sarcomerene i musklefiberen bliver kortere, så trækker fiberen sig sammen. En muskelfiber kan enten trække sig sammen, eller også trækker den sig slet ikke sammen. 
+Når alle sarcomererne i musklefiberen bliver kortere, så trækker fiberen sig sammen. En muskelfiber kan enten trække sig sammen, eller også trækker den sig slet ikke sammen. 
  
 Antallet af fibre der trækker sig sammen bestemmer den kraft musklen trækker sig sammen med. Når flere fibre trækker sig sammen på samme tid, så er kraften større.
 
@@ -101,10 +100,14 @@ Selv de ufrivillige bevægelser, fx  hjertemusklen, er også styret af nervesyst
 ## Sammenfatning af muskelsammentrækning
 
 - Ifølge _sliding filament_-teorien så trækker en muskel sig sammen, når myosin-filamenterne trækker i aktin-filamenterne, så sarcomererne bliver kortere i muskelfibrene.
-- Når sarcomerene i en muskel bliver kortere, så trækker musklerne sig sammen.
+- Når sarcomererne i en muskel bliver kortere, så trækker musklerne sig sammen.
 
 ## Spørgsmål
 
-1. Hvad er sarcomeren og Z-line?
+1. Hvad er sarcomereren og Z-skiver?
 2. Hvad er de to proteiner, der er i en myofibril?
 3. Forklar hvordan en muskel trækker sig sammen med _sliding filament_-teorien?
+
+## Referencer
+
+- [Den Store Danske: muskel](https://denstoredanske.lex.dk/muskel)
