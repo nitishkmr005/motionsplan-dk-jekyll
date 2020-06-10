@@ -99,7 +99,7 @@ Vi har udholdende type I fibre, eksplosive og nogenlunde udholdende type II A fi
 
 Hvis du gerne vil have en ide om, hvilken fibertypesammensætning du selv har, så kan du tænke tilbage på, hvilke aktiviteter du føler er lettest.
 
-{% include gallery caption="Et tværsnit af en langsom muskel (tv) og en hurtig muskel (th). Hver celle (fiber) er normalt mellem 0,05 og 0,1 mm i diameter." %}
+{% include gallery id="gallery" caption="Et tværsnit af en langsom muskel (tv) og en hurtig muskel (th). Hver celle (fiber) er normalt mellem 0,05 og 0,1 mm i diameter." %}
 
 - **Type I dominant.** Hvis du altid har været god til at løbe eller cykle langt, men ikke er så eksplosiv eller sprinter hurtigt eller springer højt, så er du sandsynligvis type I-fiber dominant.
 

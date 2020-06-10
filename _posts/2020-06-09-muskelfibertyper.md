@@ -140,7 +140,7 @@ Muskulaturens areal udgøres nu af en større procentdel af type II-fibre, fordi
 
 ## Kend din egen fibertypesammensætning?
 
-Den mest sikre måde at finde ud af, hvordan ens muskelfibertypesammensætning er, er at få lavet en muskelbiopsi. Jeg har beskrevet i et andet indlæg, hvordan man [lavpraktisk kan få en ide af fibertypesammensætningen](/test-fibertypesammensaetning/).
+Den mest sikre måde at finde ud af, hvordan ens muskelfibertypesammensætning er, er at få lavet en muskelbiopsi. Jeg har beskrevet i et andet indlæg, hvordan man [kan få en ide om ens muskelfibertypesammensætning](/test-muskelfibertyper/).
 
 ## Referencer
 
