@@ -52,7 +52,7 @@ feature_row_references:
 toc: true
 ---
 
-Sundhed fylder megt i samfundet. Men hvad er sundhed egentlig? Morten Zacho har givet sit bud på, hvordan man kan lave en sundhedsprofil. Testen indeholder en række relativt enkle tests, og du ender med et tal for din sundhed.
+Sundhed fylder megt i samfundet. Men hvad er sundhed egentlig? Morten Zacho har givet sit bud på, hvordan man kan lave en sundhedsprofil. Testen indeholder en række relativt enkle tests, og du ender med din egen sundhedsprofil.
 
 ## Lav din egen sundhedsprofil
 
@@ -60,7 +60,7 @@ Sundhedsprofilen viser et øjebliksbillede af din nuværende sundhed og livsstil
 
 > Motion-online’s Sundhedsprofil er tænkt som et værktøj der kan bruges af alle – både private og professionelle. Vi har derfor lagt vægt på en let tilgængelig og pædagogisk brugerflade samt et evidensbaseret fundament for test og resultatberegning. I denne artikel gives de bagvedliggende principper og referencer.Sundhed kan beskrives på mange forskellige måder. I Motion-online’s sundhedsprofil tages der udgangspunkt i variable, der er relateret til fysisk sundhed, set som muligheden for at leve et langt liv uden sygdomme og med en høj grad af fysisk funktion gennem hele livet.
 
----<cite>[Motion-online.dk - Sundhedsprofil – Teoretisk Baggrund](https://www.motion-online.dk/sundhedsprofil-teoretisk-baggrund/)</cite>
+--- <cite>[Motion-online.dk - Sundhedsprofil – Teoretisk Baggrund](https://www.motion-online.dk/sundhedsprofil-teoretisk-baggrund/)</cite>
 
 Oprindeligt var sundhedsprofilen udviklet på dansk, men nu findes den kun på engelsk. Så det kan være, at du skal have ordbogen frem.
 {: .notice .notice--info }
