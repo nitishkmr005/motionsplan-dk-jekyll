@@ -1,0 +1,1006 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.19.2 by Michael Rose
+  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="da" class="no-js">
+  <head>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W7MDB7C');</script>
+<!-- End Google Tag Manager -->
+
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Udregn BMI og Ponderal Index for voksne og børn</title>
+<meta name="description" content="BMI og Ponderal Index er to metoder til at bestemme om man er overvægtig. Se formler og tabeller for børn og voksne.">
+
+
+  <meta name="author" content="Lars Olesen">
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="da">
+<meta property="og:site_name" content="Motionsplan">
+<meta property="og:title" content="Udregn BMI og Ponderal Index for voksne og børn">
+<meta property="og:url" content="https://www.motionsplan.dk/bmi/">
+
+
+  <meta property="og:description" content="BMI og Ponderal Index er to metoder til at bestemme om man er overvægtig. Se formler og tabeller for børn og voksne.">
+
+
+
+  <meta property="og:image" content="https://helseboost.dk/filer/bmi-1500x960.jpg">
+
+
+
+  <meta name="twitter:site" content="@motionsplan">
+  <meta name="twitter:title" content="Udregn BMI og Ponderal Index for voksne og børn">
+  <meta name="twitter:description" content="BMI og Ponderal Index er to metoder til at bestemme om man er overvægtig. Se formler og tabeller for børn og voksne.">
+  <meta name="twitter:url" content="https://www.motionsplan.dk/bmi/">
+
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://helseboost.dk/filer/bmi-1500x960.jpg">
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2019-10-31T00:00:00+00:00">
+
+
+
+  <meta property="article:modified_time" content="2019-03-06T23:14:14+00:00">
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://www.motionsplan.dk/bmi/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Organization",
+      "url": "https://www.motionsplan.dk/"
+    
+  }
+</script>
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Motionsplan Feed">
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+
+<!--[if IE]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+
+
+    <link rel="manifest" type="application/manifest+json" href="/manifest.json">
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+
+
+<script>
+// Check compatibility for the browser we're running this in
+if ("serviceWorker" in navigator) {
+  if (navigator.serviceWorker.controller) {
+    console.log("[Motionsplan] active service worker found, no need to register");
+  } else {
+    // Register the service worker
+    navigator.serviceWorker
+      .register("/pwabuilder-sw.js", {
+        scope: "./"
+      })
+      .then(function (reg) {
+        console.log("[Motionsplan] Service worker has been registered for scope: " + reg.scope);
+      });
+  }
+}
+</script>
+
+  </head>
+
+  <body class="layout--single">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W7MDB7C"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/assets/images/logo.gif" alt=""></a>
+        
+        <a class="site-title" href="/">
+          Motionsplan
+          <span class="site-subtitle">Træningsøvelser, træningsprogrammer og viden om træning.</span>
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/traeningsoevelser/">Øvelser</a>
+            </li><li class="masthead__menu-item">
+              <a href="/blog/">Blog</a>
+            </li><li class="masthead__menu-item">
+              <a href="/inspiration/">Inspiration</a>
+            </li><li class="masthead__menu-item">
+              <a href="/om/">Om</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16">
+            <path d="M15.5,13.12L13.19,10.8a1.69,1.69,0,0,0-1.28-.55l-0.06-.06A6.5,6.5,0,0,0,5.77,0,6.5,6.5,0,0,0,2.46,11.59a6.47,6.47,0,0,0,7.74.26l0.05,0.05a1.65,1.65,0,0,0,.5,1.24l2.38,2.38A1.68,1.68,0,0,0,15.5,13.12ZM6.4,2A4.41,4.41,0,1,1,2,6.4,4.43,4.43,0,0,1,6.4,2Z" transform="translate(-.01)"></path>
+          </svg>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Vis/skjul menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+  
+
+
+
+
+
+
+
+<div class="page__hero--overlay"
+  style=" background-image: url('https://helseboost.dk/filer/bmi-1500x960.jpg');"
+>
+  
+    <div class="wrapper">
+      <h1 id="page-title" class="page__title" itemprop="headline">
+        
+          Udregn BMI og Ponderal Index for voksne og børn
+
+        
+      </h1>
+      
+        <p class="page__lead">BMI og Ponderal Index er to metoder til at bestemme om man er overvægtig. Se formler og tabeller for børn og voksne.
+</p>
+      
+      
+        <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  5 minutters læsning
+
+</p>
+      
+      
+      
+    </div>
+  
+  
+</div>
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person">
+
+  
+    <div class="author__avatar">
+      
+        <img src="/assets/images/authors/larsolesen.jpg" alt="Lars Olesen" itemprop="image">
+      
+    </div>
+  
+
+  <div class="author__content">
+    
+      <h3 class="author__name" itemprop="name">Lars Olesen</h3>
+    
+    
+      <div class="author__bio" itemprop="description">
+        <p>Lars Olesen er cand.scient. i Idræt og Sundhed fra Syddansk Universitet. Til daglig lærer på Vejle Idrætshøjskole, hvor han underviser i styrketræning, ernæring og teambuilding - og uddanner fitnessinstruktører for DGI og DIF’s Foreningsfitness.</p>
+
+      </div>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Følg</button>
+    <ul class="author__urls social-icons">
+      
+
+      
+        
+          
+            <li><a href="mailto:lars@vih.dk" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">Email</span></a></li>
+          
+        
+          
+            <li><a href="https://larsolesen.dk" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i><span class="label">Website</span></a></li>
+          
+        
+          
+            <li><a href="https://twitter.com/lsolesen" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i><span class="label">Twitter</span></a></li>
+          
+        
+          
+            <li><a href="https://www.linkedin.com/in/lsolesen/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span class="label">Linkedin</span></a></li>
+          
+        
+          
+            <li><a href="https://www.buymeacoffee.com/lsolesen" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-mug-hot" aria-hidden="true"></i><span class="label">Køb mig en kaffe</span></a></li>
+          
+        
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+    
+      
+      
+      <p>— <a href="https://online.adservicemedia.dk/cgi-bin/click.pl?bid=1625038&amp;media_id=90737"><img src="https://impr.adservicemedia.dk/cgi-bin/Services/ImpressionService/Image.pl?bid=1625038&amp;media_id=90737" alt="Få IForm" /></a> — <a href="https://online.adservicemedia.dk/cgi-bin/click.pl?bid=1625046&amp;media_id=90737" target="_blank"><img src="https://impr.adservicemedia.dk/cgi-bin/Services/ImpressionService/Image.pl?bid=1625046&amp;media_id=90737" /></a></p>
+
+      
+    
+    
+  
+  </div>
+
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Udregn BMI og Ponderal Index for voksne og børn">
+    <meta itemprop="description" content="BMI og Ponderal Index er to metoder til at bestemme om man er overvægtig. Se formler og tabeller for børn og voksne.">
+    <meta itemprop="datePublished" content="2019-10-31T00:00:00+00:00">
+    <meta itemprop="dateModified" content="2019-03-06T23:14:14+00:00">
+
+    <div class="page__inner-wrap">
+      
+
+      <section class="page__content" itemprop="text">
+        
+          <aside class="sidebar__right sticky">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-file-alt"></i> På denne side</h4></header>
+              <ul class="toc__menu">
+  <li><a href="#udregn-dit-bmi">Udregn dit BMI</a></li>
+  <li><a href="#hvad-er-body-mass-index-bmi">Hvad er Body Mass Index (BMI)?</a>
+    <ul>
+      <li><a href="#udregn-af-bmi-med-følgende-formel">Udregn af BMI med følgende formel</a></li>
+      <li><a href="#klassificering-af-undervægt-overvægt-og-fedme-i-forhold-til-bmi">Klassificering af undervægt, overvægt og fedme i forhold til BMI</a></li>
+      <li><a href="#fedmegrænser-ved-bmi-for-børn">Fedmegrænser ved BMI for børn</a></li>
+    </ul>
+  </li>
+  <li><a href="#ponderal-index">Ponderal Index</a>
+    <ul>
+      <li><a href="#udregning-af-ponderal-index-med-formel">Udregning af Ponderal Index med formel</a></li>
+    </ul>
+  </li>
+  <li><a href="#referencer">Referencer</a>
+    <ul>
+      <li><a href="#bmi">BMI</a>
+        <ul>
+          <li><a href="#generelle-referencer">Generelle referencer</a></li>
+          <li><a href="#bmi-og-børn">BMI og børn</a></li>
+        </ul>
+      </li>
+      <li><a href="#ponderal-index-1">Ponderal Index</a></li>
+    </ul>
+  </li>
+  <li><a href="#noter-om-bmi-og-ponderal-index">Noter om BMI og Ponderal Index</a></li>
+</ul>
+
+            </nav>
+          </aside>
+        
+        
+<p>Jeg sidder og læser et glitrende magasin om sport og helse, og endnu engang ser jeg udregninger om body mass index (<abbr title="Body Mass Index">BMI</abbr>) uden at gå i dybden med, hvad det egentlig måler. Derfor satte jeg mig ned for at researche lidt på, hvad <abbr title="Body Mass Index">BMI</abbr> egentlig er, og hvordan <abbr title="Body Mass Index">BMI</abbr> kan bruges?</p>
+
+<p><strong>Body Mass Indes (<abbr title="Body Mass Index">BMI</abbr>) er en enkel matematisk formel for sammenhængen mellem personers højde og vægt. Formlen bruges til at vurdere undervægt, normalvægt og overvægt i større befolkningsgrupper. <abbr title="Body Mass Index">BMI</abbr> bruges også ofte til at indikere under- og overvægt hos enkelte personer, men bør ikke bruges til præcise målinger hos individuelle.</strong></p>
+
+<p>Her kan du få beregnet dit <abbr title="Body Mass Index">BMI</abbr> og få en vurdering med det samme. Nedenunder kan du udregne <abbr title="Body Mass Index">BMI</abbr> og sammenligne dig med <em>det normale</em>. At bruge <abbr title="Body Mass Index">BMI</abbr> som enkeltperson er dog forbundet med en række forbehold, så husk at læse lidt videre.</p>
+
+<h2 id="udregn-dit-bmi">Udregn dit <abbr title="Body Mass Index">BMI</abbr></h2>
+
+<form class="calculator" id="calculator_bmi">
+    <fieldset>
+        <legend>Udregning af <abbr title="Body Mass Index">BMI</abbr>. Indtast værdier</legend>
+        <div class="form-group">
+            <label for="height">Højde (cm)</label>
+            <input name="height" id="height" type="number" min="50" max="272" placeholder="Højde i cm" step="0.1" />
+        </div>
+        <div class="form-group">
+            <label for="weight">Vægt (kg)</label>
+            <input name="weight" id="weight" type="number" min="20" max="200" placeholder="Vægt i kg" step="0.1" />
+        </div>
+        <input type="submit" value="Udregn" />
+    </fieldset>
+    <fieldset class="results" disabled="disabled">
+        <legend>Resultater</legend>
+        <label>Body mass index (<abbr title="Body Mass Index">BMI</abbr>)
+            <input disabled="disabled" name="BMI" id="BMI" type="text" placeholder="Venter på udregning" />
+        </label>
+        <label>Ponderal Index
+            <input disabled="disabled" name="PMI" id="PMI" type="text" placeholder="Venter på udregning" />
+        </label>
+    </fieldset>
+</form>
+
+<h2 id="hvad-er-body-mass-index-bmi">Hvad er Body Mass Index (<abbr title="Body Mass Index">BMI</abbr>)?</h2>
+
+<p><abbr title="Body Mass Index">BMI</abbr> er nogenlunde korreleret med fedtprocenten og kan derfor bruges til at estimere undervægt, overvægt og fedme i en større population. <abbr title="Body Mass Index">BMI</abbr> fungerer bedst som indikator for voksne mennesker, som har en højde indenfor normalområdet. Nedenfor er der også tabeller, som børn kan vurderes efter. <abbr title="Body Mass Index">BMI</abbr> tager ikke højde for, om din vægt skyldes muskler eller fedt eller din kropsbygning i det hele taget. Fx vil meget muskuløse mennesker vurderes som overvægtige, selvom de har en lav fedtprocent.</p>
+
+<p>Du kan sagtens have en fuldt tilfredsstillende sundhedsprofil som overvægtig, hvis bare du motionerer. Sundhedsmæssigt er det farligere at have et <abbr title="Body Mass Index">BMI</abbr> på 23 og være i dårlig form end at have et <abbr title="Body Mass Index">BMI</abbr> på 28 og være i god form.</p>
+
+<p class="notice notice--warning">Du kan læse lidt mere om <a href="/kondital/">retfærdig vurdering af overvægtiges kondition</a>, hvor det foreslås at kondition altid skal vurderes ud fra <abbr title="Body Mass Index">BMI</abbr> 23.</p>
+
+<p><abbr title="Body Mass Index">BMI</abbr> er et godt værktøj til at beskrive udviklingen i større befolkningsgrupper. Når man kigger på tilstrækkeligt mange personer på en gang, så forsvinder “afvigerne” og gennemsnitsværdierne vil være et reelt udtryk for forekomst af overvægt og fedme i større populationer.</p>
+
+<h3 id="udregn-af-bmi-med-følgende-formel">Udregn af <abbr title="Body Mass Index">BMI</abbr> med følgende formel</h3>
+
+<p><abbr title="Body Mass Index">BMI</abbr> er let at udregne, når du kender din højde (meter) og din vægt (kg):</p>
+
+<p><img src="https://latex.codecogs.com/svg.latex?BMI = \frac{weight (kg)}{height (m)^2}" title="BMI = \frac{weight (kg)}{height (m)^2}" alt="BMI = \frac{weight (kg)}{height (m)^2}" /></p>
+
+<h3 id="klassificering-af-undervægt-overvægt-og-fedme-i-forhold-til-bmi">Klassificering af undervægt, overvægt og fedme i forhold til <abbr title="Body Mass Index">BMI</abbr></h3>
+
+<p><abbr title="Body Mass Index">BMI</abbr> skal altid tolkes med et vist forbehold.</p>
+
+<p>På et tidspunkt så standarderne for <abbr title="Body Mass Index">BMI</abbr> ud som i tabel 1 nedenunder.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Tabel 1: Body Mass Index</th>
+      <th> </th>
+      <th> </th>
+    </tr>
+    <tr>
+      <th>Klassifikation</th>
+      <th>Kvinde (kg/m<sup>2</sup>)</th>
+      <th>Mand (kg/m<sup>2</sup>)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Undervægtig</td>
+      <td>Under 20</td>
+      <td>Under 20</td>
+    </tr>
+    <tr>
+      <td>Normal</td>
+      <td>20-25</td>
+      <td>20-25</td>
+    </tr>
+    <tr>
+      <td>Overvægtig</td>
+      <td>25-30</td>
+      <td>25-30</td>
+    </tr>
+    <tr>
+      <td>Fed</td>
+      <td>30 og højere</td>
+      <td>30 og højere</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Senere er normalområdet blevet udvidet, så dette er en mere rimelig tabel. Jeg undersøger i øjeblikket, hvad kilderne til de to tabeller er - og hvad der er den mest anerkendte i øjeblikket.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Tabel 2: Body Mass Index<sup id="fnref:note" role="doc-noteref"><a href="#fn:note" class="footnote">1</a></sup></th>
+      <th> </th>
+      <th> </th>
+    </tr>
+    <tr>
+      <th> </th>
+      <th>Fedme klassificering</th>
+      <th><abbr title="Body Mass Index">BMI</abbr> (kg/m<sup>2</sup>)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Undervægtig</td>
+      <td> </td>
+      <td>&lt; 18.5</td>
+    </tr>
+    <tr>
+      <td>Normal</td>
+      <td> </td>
+      <td>18,5 - 24,9</td>
+    </tr>
+    <tr>
+      <td>Overvægtig</td>
+      <td> </td>
+      <td>25,0 - 29,9</td>
+    </tr>
+    <tr>
+      <td>Fedme</td>
+      <td>I</td>
+      <td>30,0 - 34,9</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>II</td>
+      <td>35,0 - 39,9</td>
+    </tr>
+    <tr>
+      <td>Ekstrem fedme</td>
+      <td>III</td>
+      <td>40</td>
+    </tr>
+  </tbody>
+</table>
+
+<p class="notice notice--warning">NB. Hvis du er under 18 år, så kig længere nede på siden for en retfærdig vurdering af dit <abbr title="Body Mass Index">BMI</abbr>.</p>
+
+<figure class="">
+  <img src="https://bgh.dk/wp-content/uploads/2018/11/det-betyder-bmi-tallene-847x1024.jpg" alt="" />
+  
+</figure>
+
+<h3 id="fedmegrænser-ved-bmi-for-børn">Fedmegrænser ved <abbr title="Body Mass Index">BMI</abbr> for børn</h3>
+
+<p>Som barn er det nogle andre standardværdier, du skal måle dig efter.</p>
+
+<p>Selvom <abbr title="Body Mass Index">BMI</abbr> ofte har været brugt til at angive grænseværdier for fedme, så skal man også være opmærksom på undervægt (Cole 2007), hvor både drenge og piger kan have overtaget idealer fra modeverden. Betegnelserne kan være <em>under normal</em> (thinness grade 1), <em>undervægtig</em> (thinness grade 2) og <em>meget undervægtig</em> (thinness grade 3), og det kan ses i graferne nedenunder.</p>
+
+<p>Nedenfor er de grænseværdier for børn, der anbefales af <abbr title="The International Obesity Task Force">IOTF</abbr> og som generelt også anbefales af autoriteter i Danmark. <abbr title="Body Mass Index">BMI</abbr>-grænseværdier for børn og unge under 18 varierer med alderen, og derfor er nedenstående grafer lavet. Grænseværdierne er lavet således, at de flugter med de anvendte værdier for voksne ved alderen 18 år.</p>
+
+<p>Husk at <abbr title="Body Mass Index">BMI</abbr> ikke tager højde for kropsbygning og muskelmasse. En vurdering af børn skal altid ses sammen med en individuel vurdering af det relative udviklingsniveau og kropsbygningen.</p>
+
+<figure class="">
+  <img src="https://nielstraining.dk/wp-content/uploads/2017/08/BMI-formel-drenge-sundhed-b%C3%B8rn-WHO-sundhed-e1502349412962.png" alt="BMI værdier for drenge under 18 år" />
+  
+    <figcaption>
+      <abbr title="Body Mass Index">BMI</abbr> værdier for drenge under 18 år
+
+    </figcaption>
+  
+</figure>
+
+<figure class="">
+  <img src="https://nielstraining.dk/wp-content/uploads/2017/08/BMI-formel-piger-sundhed-b%C3%B8rn-WHO-sundhed-e1502348640326.png" alt="BMI værdier for piger under 18 år" />
+  
+    <figcaption>
+      <abbr title="Body Mass Index">BMI</abbr> værdier for piger under 18 år
+
+    </figcaption>
+  
+</figure>
+
+<p>Forskere har også foreslået, at man på baggrund af alder og vægt kan udregne sin fedtprocent. Vi har også lavet en <a href="/artikel/udregning-af-fedtprocent">beregner til beregne fedtprocenten</a>.</p>
+
+<h2 id="ponderal-index">Ponderal Index</h2>
+
+<p>En af ulemperne ved <abbr title="Body Mass Index">BMI</abbr> er, at det kan give en unfair sammenligning mellem folk af forskellig statur. Der findes et andet og meget mindre brugt index, der hedder Ponderal Index, som skulle give en mere fair sammenligning.</p>
+
+<h3 id="udregning-af-ponderal-index-med-formel">Udregning af Ponderal Index med formel</h3>
+
+<p>Til forskel fra <abbr title="Body Mass Index">BMI</abbr> er højden (m) altså løftet i tredje potens i stedet for anden potens.</p>
+
+<p><img src="https://latex.codecogs.com/svg.latex?Ponderal Index = \frac{weight (kg)}{height (m)^3}" title="Ponderal Index = \frac{weight (kg)}{height (m)^3}" alt="Ponderal Index = \frac{weight (kg)}{height (m)^3}" /></p>
+
+<h2 id="referencer">Referencer</h2>
+
+<h3 id="bmi"><abbr title="Body Mass Index">BMI</abbr></h3>
+
+<h4 id="generelle-referencer">Generelle referencer</h4>
+
+<p>Lee, C. D., A. S. Jackson, og S. N. Blair. 1998. “US Weight Guidelines: Is It Also Important to Consider Cardiorespiratory Fitness?” International Journal of Obesity and Related Metabolic Disorders: Journal of the International Association for the Study of Obesity 22 Suppl 2 (august): S2-7.</p>
+
+<p>WHO Consultation on Obesity (1997: Geneva, Switzerland), World Health Organization Division of Noncommunicable Diseases, og Family and Reproductive Health World Health Organization. Programme of Nutrition. 1998. “Obesity: Preventing and Managing the Global Epidemic: Report of a WHO Consultation on Obesity, Geneva, 3-5 June 1997”. https://apps.who.int/iris/handle/10665/63854.</p>
+
+<p>Quetelet, Adolphe. 1835. Sur l’homme et le développement de ses facultés: ou, Essai de physique sociale. Paris: Bachelier, imprimeur-libraire, quai des Augustins, no 55. http://archive.org/details/surlhommeetled00quet.</p>
+
+<h4 id="bmi-og-børn"><abbr title="Body Mass Index">BMI</abbr> og børn</h4>
+
+<p>Cole, Tim J., Katherine M. Flegal, Dasha Nicholls, og Alan A. Jackson. 2007. “Body Mass Index Cut Offs to Define Thinness in Children and Adolescents: International Survey”. BMJ (Clinical Research Ed.) 335 (7612): 194. https://doi.org/10.1136/bmj.39238.399444.55.</p>
+
+<p>Due P, Heitmann BL &amp; Sørensen TIA. Adipositasepidemien i Danmark. Ugeskr Læger 2006;168(2):129</p>
+
+<p>Cole TJ, Bellizi MC, Flegal KM et al. Establishing a standard definition for child overweight and obesity worldwide: international survey. BMJ 2000; 320:240-3.</p>
+
+<p>Hammer, L. D., H. C. Kraemer, D. M. Wilson, P. L. Ritter, og S. M. Dornbusch. 1991. “Standardized Percentile Curves of Body-Mass Index for Children and Adolescents”. American Journal of Diseases of Children (1960) 145 (3): 259–63. https://doi.org/10.1001/archpedi.1991.02160030027015.</p>
+
+<p>Pietrobelli, A., M. S. Faith, D. B. Allison, D. Gallagher, G. Chiumello, og S. B. Heymsfield. 1998. “Body Mass Index as a Measure of Adiposity among Children and Adolescents: A Validation Study”. The Journal of Pediatrics 132 (2): 204–10. https://doi.org/10.1016/s0022-3476(98)70433-0.</p>
+
+<p>The Centers for Disease Control and Prevention (CDC). <abbr title="Body Mass Index">BMI</abbr> - Body Mass Index: <abbr title="Body Mass Index">BMI</abbr> for Children and Teens.</p>
+
+<h3 id="ponderal-index-1">Ponderal Index</h3>
+
+<p>Günther, B. 1975. “Dimensional Analysis and Theory of Biological Similarity”. Physiological Reviews 55 (4): 659–99. https://doi.org/10.1152/physrev.1975.55.4.659.</p>
+
+<p>Der Index der Körperfülle als Maß des Ernährungszustandes
+F. Rohrer
+Münchner Med. Wschr. 68(1921), 580-582</p>
+
+<h2 id="noter-om-bmi-og-ponderal-index">Noter om <abbr title="Body Mass Index">BMI</abbr> og Ponderal Index</h2>
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:note" role="doc-endnote">
+      <p>Morten Zacho har lavet denne tabel på www.motion-online.dk. <a href="#fnref:note" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+  
+
+
+
+
+  
+  
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Nøgleord: </strong>
+    <span itemprop="keywords">
+    
+      
+      
+      <a href="/tags/#kropskomposition" class="page__taxonomy-item" rel="tag">kropskomposition</a><span class="sep">, </span>
+    
+      
+      
+      <a href="/tags/#udregning" class="page__taxonomy-item" rel="tag">udregning</a>
+    
+    </span>
+  </p>
+
+
+
+
+
+  
+
+
+
+
+  
+  
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Kategorier: </strong>
+    <span itemprop="keywords">
+    
+      
+      
+      <a href="/categories/#beregnere" class="page__taxonomy-item" rel="tag">Beregnere</a><span class="sep">, </span>
+    
+      
+      
+      <a href="/categories/#test" class="page__taxonomy-item" rel="tag">Test</a>
+    
+    </span>
+  </p>
+
+
+
+        
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Opdateret:</strong> <time datetime="2019-03-06">March 6, 2019</time></p>
+
+
+      </footer>
+
+      <section class="page__share">
+  
+    <h4 class="page__share-title">Del på</h4>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=motionsplan&text=Udregn+BMI+og+Ponderal+Index+for+voksne+og+b%C3%B8rn%20https%3A%2F%2Fwww.motionsplan.dk%2Fbmi%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Del på Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.motionsplan.dk%2Fbmi%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Del på Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.motionsplan.dk%2Fbmi%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Del på LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+
+  <a href="https://www.pinterest.com/pin/create/link/?url=https%3A%2F%2Fwww.motionsplan.dk%2Fbmi%2F" class="btn btn--pinterest btn--danger" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Del på Pinterest"><i class="fab fa-fw fa-pinterest" aria-hidden="true"></i><span> Pinterest</span></a>
+</section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/simpel-stofskifte/" class="pagination--pager" title="Stofskifteberegner: Hvad er dit daglige energiforbrug?
+">Forrige</a>
+    
+    
+      <a href="/vmax/" class="pagination--pager" title="Vmax træning
+">Næste</a>
+    
+  </nav>
+
+    </div>
+
+    
+      <div class="page__comments">
+  
+  
+      <h4 class="page__comments-title">Skriv en kommentar</h4>
+      <section id="disqus_thread"></section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h4 class="page__related-title">Måske kan du også lide</h4>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="https://images.unsplash.com/photo-1579123480439-dcc379da4707?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80" alt="">
+      </div>
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/hvilepuls/" rel="permalink">Hvilepuls: Hvad er hvilepulsen og hvordan måles den?
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  9 minutters læsning
+
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">Din hvilepuls kan være en god indikator på dit helbred og din form. Jeg bruger hvilepulsen som en let måde at følge effekten af min træning.
+</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="https://images.unsplash.com/photo-1523901839036-a3030662f220?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80" alt="">
+      </div>
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/maal-fedtprocent/" rel="permalink">Hvordan måler jeg fedtprocent - 7 metoder!
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  5 minutters læsning
+
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">Interesse for at måle din fedtprocent er steget, så jeg har forsøgt at samle op på, hvordan man kan måle sig fedtprocent. Hvilke metoder findes der egentlig ...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="https://images.unsplash.com/photo-1470777639313-60af88918203?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80" alt="">
+      </div>
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/restitutionstid-og-alder/" rel="permalink">Restitutionstid: Hvornår kan jeg træne igen?
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  9 minutters læsning
+
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">Jeg kan godt lide at træne, men jeg vil stadig gerne gøre det så effektivt som muligt. Hvis jeg gerne vil bygge kroppen op, skal jeg finde en balance mellem ...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="https://images.unsplash.com/photo-1569956726914-a9db65466c5b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80" alt="">
+      </div>
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/vaegt-stiger-traening/" rel="permalink">Hvorfor tager jeg på, når jeg træner? 7 ufarlige fordele!
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  8 minutters læsning
+
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">Jeg er kommet i gang med at træne igen efter at have holdt lidt pause. Jeg oplever ofte, at jeg tager på, når jeg begynder at træne igen, men hvordan kan det...</p>
+  </article>
+</div>
+
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Hvad leder du efter..." />
+  </form>
+  <div id="results" class="results"></div></div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Følg:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="https://twitter.com/motionsplan" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://facebook.com/motionsplan" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+        
+      
+        
+          <li><a href="https://github.com/motionsplan" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+    
+
+    <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2020 Motionsplan. Drives af <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
+
+
+
+
+    
+  <script>
+    var disqus_config = function () {
+      this.page.url = "https://www.motionsplan.dk/bmi/";  /* Replace PAGE_URL with your page's canonical URL variable */
+      this.page.identifier = "/udregning-af-bmi"; /* Replace PAGE_IDENTIFIER with your page's unique identifier variable */
+    };
+    (function() { /* DON'T EDIT BELOW THIS LINE */
+      var d = document, s = d.createElement('script');
+      s.src = 'https://motionsplan-dk.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
+  </script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+
+  
+
+
+
+  
+    <script src="/assets/js/bundle.js"></script>
+  
+
+
+
+  </body>
+</html>

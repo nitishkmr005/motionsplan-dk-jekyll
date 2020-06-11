@@ -1,0 +1,876 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.19.2 by Michael Rose
+  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="da" class="no-js">
+  <head>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W7MDB7C');</script>
+<!-- End Google Tag Manager -->
+
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Hvordan finder jeg min max-puls? Udregning eller test!</title>
+<meta name="description" content="Jeg sidder og op planlægger mit træningsprogram, og der har jeg brug for at vide, hvad min maksimale puls er, så jeg kan regne ud, hvad min puls skal være ved forskellige intensiteter i de forskellige træningspas. Så jeg har undersøgt, hvordan jeg kan finde ud af hvad den maksimale puls er.">
+
+
+  <meta name="author" content="Lars Olesen">
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="da">
+<meta property="og:site_name" content="Motionsplan">
+<meta property="og:title" content="Hvordan finder jeg min max-puls? Udregning eller test!">
+<meta property="og:url" content="https://www.motionsplan.dk/test-max-puls/">
+
+
+  <meta property="og:description" content="Jeg sidder og op planlægger mit træningsprogram, og der har jeg brug for at vide, hvad min maksimale puls er, så jeg kan regne ud, hvad min puls skal være ved forskellige intensiteter i de forskellige træningspas. Så jeg har undersøgt, hvordan jeg kan finde ud af hvad den maksimale puls er.">
+
+
+
+  <meta property="og:image" content="https://images.unsplash.com/photo-1486218119243-13883505764c?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1952&amp;q=80">
+
+
+
+  <meta name="twitter:site" content="@motionsplan">
+  <meta name="twitter:title" content="Hvordan finder jeg min max-puls? Udregning eller test!">
+  <meta name="twitter:description" content="Jeg sidder og op planlægger mit træningsprogram, og der har jeg brug for at vide, hvad min maksimale puls er, så jeg kan regne ud, hvad min puls skal være ved forskellige intensiteter i de forskellige træningspas. Så jeg har undersøgt, hvordan jeg kan finde ud af hvad den maksimale puls er.">
+  <meta name="twitter:url" content="https://www.motionsplan.dk/test-max-puls/">
+
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://images.unsplash.com/photo-1486218119243-13883505764c?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1952&amp;q=80">
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2020-06-02T00:00:00+00:00">
+
+
+
+  <meta property="article:modified_time" content="2020-05-31T08:14:14+00:00">
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://www.motionsplan.dk/test-max-puls/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Organization",
+      "url": "https://www.motionsplan.dk/"
+    
+  }
+</script>
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Motionsplan Feed">
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+
+<!--[if IE]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+
+
+    <link rel="manifest" type="application/manifest+json" href="/manifest.json">
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+
+
+<script>
+// Check compatibility for the browser we're running this in
+if ("serviceWorker" in navigator) {
+  if (navigator.serviceWorker.controller) {
+    console.log("[Motionsplan] active service worker found, no need to register");
+  } else {
+    // Register the service worker
+    navigator.serviceWorker
+      .register("/pwabuilder-sw.js", {
+        scope: "./"
+      })
+      .then(function (reg) {
+        console.log("[Motionsplan] Service worker has been registered for scope: " + reg.scope);
+      });
+  }
+}
+</script>
+
+  </head>
+
+  <body class="layout--single">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W7MDB7C"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/assets/images/logo.gif" alt=""></a>
+        
+        <a class="site-title" href="/">
+          Motionsplan
+          <span class="site-subtitle">Træningsøvelser, træningsprogrammer og viden om træning.</span>
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/traeningsoevelser/">Øvelser</a>
+            </li><li class="masthead__menu-item">
+              <a href="/blog/">Blog</a>
+            </li><li class="masthead__menu-item">
+              <a href="/inspiration/">Inspiration</a>
+            </li><li class="masthead__menu-item">
+              <a href="/om/">Om</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16">
+            <path d="M15.5,13.12L13.19,10.8a1.69,1.69,0,0,0-1.28-.55l-0.06-.06A6.5,6.5,0,0,0,5.77,0,6.5,6.5,0,0,0,2.46,11.59a6.47,6.47,0,0,0,7.74.26l0.05,0.05a1.65,1.65,0,0,0,.5,1.24l2.38,2.38A1.68,1.68,0,0,0,15.5,13.12ZM6.4,2A4.41,4.41,0,1,1,2,6.4,4.43,4.43,0,0,1,6.4,2Z" transform="translate(-.01)"></path>
+          </svg>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Vis/skjul menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+  
+
+
+
+
+
+
+
+<div class="page__hero--overlay"
+  style=" background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://images.unsplash.com/photo-1486218119243-13883505764c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1952&q=80');"
+>
+  
+    <div class="wrapper">
+      <h1 id="page-title" class="page__title" itemprop="headline">
+        
+          Hvordan finder jeg min max-puls? Udregning eller test!
+
+        
+      </h1>
+      
+        <p class="page__lead">Jeg sidder og op planlægger mit træningsprogram, og der har jeg brug for at vide, hvad min maksimale puls er, så jeg kan regne ud, hvad min puls skal være ved forskellige intensiteter i de forskellige træningspas. Så jeg har undersøgt, hvordan jeg kan finde ud af hvad den maksimale puls er.
+</p>
+      
+      
+        <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  6 minutters læsning
+
+</p>
+      
+      
+      
+    </div>
+  
+  
+</div>
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person">
+
+  
+    <div class="author__avatar">
+      
+        <img src="/assets/images/authors/larsolesen.jpg" alt="Lars Olesen" itemprop="image">
+      
+    </div>
+  
+
+  <div class="author__content">
+    
+      <h3 class="author__name" itemprop="name">Lars Olesen</h3>
+    
+    
+      <div class="author__bio" itemprop="description">
+        <p>Lars Olesen er cand.scient. i Idræt og Sundhed fra Syddansk Universitet. Til daglig lærer på Vejle Idrætshøjskole, hvor han underviser i styrketræning, ernæring og teambuilding - og uddanner fitnessinstruktører for DGI og DIF’s Foreningsfitness.</p>
+
+      </div>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Følg</button>
+    <ul class="author__urls social-icons">
+      
+
+      
+        
+          
+            <li><a href="mailto:lars@vih.dk" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">Email</span></a></li>
+          
+        
+          
+            <li><a href="https://larsolesen.dk" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i><span class="label">Website</span></a></li>
+          
+        
+          
+            <li><a href="https://twitter.com/lsolesen" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i><span class="label">Twitter</span></a></li>
+          
+        
+          
+            <li><a href="https://www.linkedin.com/in/lsolesen/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span class="label">Linkedin</span></a></li>
+          
+        
+          
+            <li><a href="https://www.buymeacoffee.com/lsolesen" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-mug-hot" aria-hidden="true"></i><span class="label">Køb mig en kaffe</span></a></li>
+          
+        
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+    
+      
+      
+      <p>— <a href="https://online.adservicemedia.dk/cgi-bin/click.pl?bid=1625038&amp;media_id=90737"><img src="https://impr.adservicemedia.dk/cgi-bin/Services/ImpressionService/Image.pl?bid=1625038&amp;media_id=90737" alt="Få IForm" /></a> — <a href="https://online.adservicemedia.dk/cgi-bin/click.pl?bid=1625046&amp;media_id=90737" target="_blank"><img src="https://impr.adservicemedia.dk/cgi-bin/Services/ImpressionService/Image.pl?bid=1625046&amp;media_id=90737" /></a></p>
+
+      
+    
+    
+  
+  </div>
+
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Hvordan finder jeg min max-puls? Udregning eller test!">
+    <meta itemprop="description" content="Jeg sidder og op planlægger mit træningsprogram, og der har jeg brug for at vide, hvad min maksimale puls er, så jeg kan regne ud, hvad min puls skal være ved forskellige intensiteter i de forskellige træningspas. Så jeg har undersøgt, hvordan jeg kan finde ud af hvad den maksimale puls er.">
+    <meta itemprop="datePublished" content="2020-06-02T00:00:00+00:00">
+    <meta itemprop="dateModified" content="2020-05-31T08:14:14+00:00">
+
+    <div class="page__inner-wrap">
+      
+
+      <section class="page__content" itemprop="text">
+        
+          <aside class="sidebar__right sticky">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-file-alt"></i> På denne side</h4></header>
+              <ul class="toc__menu">
+  <li><a href="#hvad-begrænser-den-maksimale-puls">Hvad begrænser den maksimale puls?</a></li>
+  <li><a href="#hvordan-udregner-jeg-min-max-puls">Hvordan udregner jeg min max-puls?</a></li>
+  <li><a href="#hvordan-måler-jeg-min-maxpuls-selv">Hvordan måler jeg min maxpuls selv?</a></li>
+  <li><a href="#hvordan-måles-max-pulsen-i-et-laboratorium">Hvordan måles max-pulsen i et laboratorium?</a></li>
+  <li><a href="#hvad-kan-jeg-bruge-max-pulsen-til">Hvad kan jeg bruge max-pulsen til?</a></li>
+  <li><a href="#referencer">Referencer</a></li>
+</ul>
+
+            </nav>
+          </aside>
+        
+        <p>Jeg sidder og op planlægger mit træningsprogram, og der har jeg brug for at vide, hvad min maksimale puls er, så jeg kan regne ud, hvad min puls skal være ved forskellige intensiteter i de forskellige træningspas. Så jeg har undersøgt, hvordan jeg kan finde ud af hvad den maksimale puls er.</p>
+
+<p><strong>Maxpulsen er det maksimale antal slag, hjertet kan slå på et minut. Hjertet når kun maxpulsen under ekstremt anstrengende arbejde. Hvis din max-puls er 200, så kan dit hjerte slå 200 gange i minuttet, når du arbejder maksimalt. Maxpulsen falder typisk med alderen. Du udregne din maxpuls, selv teste den eller få den testet i et laboratorium.</strong></p>
+
+<p>Først synes jeg det er interessant at finde ud af, hvad der begrænser min maksimale puls, og om jeg overhovedet kan komme op på min maksimale puls. Jeg kan i hvert fald fornemme, at min egen maksimale puls er faldet med alderen, når jeg kigger på mit pulsur og mine træninger.</p>
+
+<p>Det viser sig, at der er flere måder at finde ud af, hvad min maksimale puls er.</p>
+
+<ul>
+  <li>Du kan <strong>udregne maxpulsen</strong></li>
+  <li>Du kan lave din <strong>egen test af den maksimale puls</strong></li>
+  <li>Du kan få <strong>max-pulsen målt i et laboratorium</strong></li>
+</ul>
+
+<h2 id="hvad-begrænser-den-maksimale-puls">Hvad begrænser den maksimale puls?</h2>
+
+<p>Du kan i udgangspunktet <strong>ikke påvirke max-pulsen med træning</strong>. Max-pulsen er primært genetisk bestemt, og den falder i øvrigt typisk med alderen.</p>
+
+<p>Max-pulsen er også afhængig af aktiviteten og varierer mellem løb, cykling og roning. Det sker formentlig pga. forskellen mellem at sidde og stå og involveringen af muskelmasse i aktiviteterne.</p>
+
+<p>For at kunne opnå din max-puls i en aktivitet skal du formentlig have trænet den på forhånd, så du ikke må sætte hastigheden ned, fordi du bliver lokalt udmattet i musklerne.</p>
+
+<p>Max-pulsen siger altså ikke noget om dit træningsniveau.  Dog kan veltrænede have en anelse lavere max-puls end gennemsnittet.</p>
+
+<h2 id="hvordan-udregner-jeg-min-max-puls">Hvordan udregner jeg min max-puls?</h2>
+
+<p>Da jeg læste idræt brugte vi bare følgende formel:</p>
+
+<p>HR<sub>max</sub> = 220 - alder</p>
+
+<p>Siden har forskningen imidlertid fundet nye formler, som bedre kan forklare data for max-puls for mange mennesker.</p>
+
+<p>Tanaka et al (2001) lavede en meta-analyse på 351 tidligere studier (18712 forsøgspersoner) og samtidig undersøgte de 512 nye forsøgspersoner. Deres studier gav nogenlunde samme formel:</p>
+
+<p>HR<sub>max</sub> = 208 - 0,7 x alder</p>
+
+<p>Samtidig viste studiet også, at max-pulsen ikke var påvirket af det daglige aktivitetsniveau eller køn. Hvis vi lader som om, at jeg stadig er 40 år, så vil du hurtigt kunne regne ud, at jeg får det samme resultat med begge formler.</p>
+
+<p>Men så enkelt skal det naturligvis ikke være. Der er mindst seks forskellige formler i litteraturen, der skulle være <em>mest præcis</em> til at estimere max-pulsen. Nogle formler ser ud til at virke bedre for nogle aldersgrupper eller på tværs af køn.
+Så vidt jeg har kunnet finde ud af er Tanakas formel for udregning af max-puls imidlertid den mest udbredte, og det er også den mest enkle formel. Det er også den <em>American College of Sports Medicine</em> anbefaler med 7 slag i standardafvigelse.</p>
+
+<blockquote>
+  <p>“The heart rate tolerance is specific to each individual and is best determined by experience.</p>
+</blockquote>
+
+<p>— <cite><a href="https://www.runnersworld.com/health-injuries/a20791648/max-heart-rate/">William O. Roberts, M.D., M.S., professor in the Department of Family Medicine and Community Health at the University of Minnesota</a></cite></p>
+
+<p>Du skal være opmærksom på usikkerhederne ved at udregne max-pulsen, hvis du agter at bruge resultatet til at udregne dine pulszoner.</p>
+
+<p>Udregningerne af max-puls er naturligvis ikke individuelle. At bestemme en persons max-puls ud fra alder har en usikkerhed, der statistisk set kan betyde, at hver tyvende person får vurderet sin max-puls 20 slag forkert. Det betyder jo rigtig meget, hvis max-pulsen blver udgangspunktet for din træningsplanlægning.</p>
+
+<p>Derfor er det bedre at teste den. Det kan du enten gøre selv eller i et laboratorium.</p>
+
+<h2 id="hvordan-måler-jeg-min-maxpuls-selv">Hvordan måler jeg min maxpuls selv?</h2>
+
+<p>Jeg har valgt at skrive et eksempel på, hvordan du selv kan teste din maksimale puls ved hjælp af løb. Hvis du har brug for din max-puls til en anden aktivitet, så kan du bare bruge de samme principper.</p>
+
+<p>For at lave din egen max-puls-test ved løb skal du helst finde et område, hvor du kan ende med en stigning. Ved at løbe op ad bakke til sidst i testen, kan du sikre dig, at du presser dig selv og derved dit hjerte til det ydeste.</p>
+
+<p>Når du løber op ad bakke aktiverer du endnu mere muskelmasse, og derved bliver hjertemusklen tvunget til at slå med maksimal frekvens for at kunne levere ilt ud til musklerne.</p>
+
+<!-- Courtesy of embedresponsively.com //-->
+<div class="responsive-video-container">
+
+  <iframe src="https://www.youtube-nocookie.com/embed/MtDdrjd1mes" frameborder="0" allowfullscreen=""></iframe>
+
+</div>
+
+<p>Hvis du ikke kan finde sådan et område, hvor du kan slutte på en bakke, så kan du også lave testen på et løbebånd, hvor du kan indstille en hældning på båndet.</p>
+
+<p>Uanset hvordan du ender med at gribe det an, så skal du bygge testen gradvist op. Progressionen skal være gradvis, så du kan blive ved med at presse dig selv hele testen.</p>
+
+<p>Hvis du løber for hurtigt i starten af testen, så begynder kroppen at producere energi uden ilt (anaerob energiproduktion). Ved anaerobt arbejde er hjertet ikke længere lige så vigtigt, og du vil opleve at du i stedet producerer mælkesyre og bliver træt. Det kan betyde, at hjertet ikke arbejder helt så hårdt, som det ville kunne gøre, hvis du bygger testen op langsomt.</p>
+
+<p>Du kan lave din egen max-puls-test efter følgende opskrift.</p>
+
+<ol>
+  <li>Start dit puls-ur</li>
+  <li><strong>Generel opvarmning</strong>: 5 min generel opvarmning af hele kroppen med forskellige typer løb.</li>
+  <li><strong>Specifik opvarmning</strong>: 5-7 min med et let og naturligt løbetempo. Du skal ikke presse dig selv endnu.</li>
+  <li><strong>Øg tempoet</strong>. For hver cirka 200 meter begynder du at øge tempoet med 5 sekunder pr. 200 meter.</li>
+  <li><strong>Ram stigningen</strong>. Når du efterhånden føler at du ikke længere kan accelere, så skal du gerne ramme en stigning, hvor du forsøger at løbe så hurtigt, du kan opad.</li>
+</ol>
+
+<p><strong>Hvis du har et pulsur</strong>, så kan du kigge på uret et par gange på vej op ad stigningen. Du skal blive ved med at holde øje med pulsen på uret op til 15-20 sekunder efter, t du er færdig. Pulsen kan nemlig godt stige, selvom du er stoppet med at løbe.</p>
+
+<p>Hvis pulsuret har hukommelse, kan du kigge på din max-puls bagefter. Jeg kan godt lide at lave nogle manuelle aflæsninger, for jeg har ofte oplevet, at pulsdataene på den ene eller anden måde er blevet væk fra uret.</p>
+
+<p><strong>Hvis ikke du har et pulsur</strong>, så må du lave en manuel pulstælling eller få en anden til det. Det kræver lidt skarphed, for pulsen løber virkelig hurtigt nu. Jeg foretrækker at tage pulsen på halsen med to fingre. Sørg for at have øvet dig på det på forhånd.</p>
+
+<p>Jeg foretrækker at tælle fx 30 sekunder og så gange med to. Du bør ikke gøre det kortere, da en fejltælling vil have større indflydelse, når du ganger pulsen op til et minut.</p>
+
+<figure class="">
+  <img src="https://i.insider.com/5eb9c8155f726e305642adb7?width=800&amp;format=jpeg&amp;auto=webp" alt="" />
+  
+    <figcaption>
+      Du kan enten tage pulsen på håndleddet eller på halsen.
+
+    </figcaption>
+  
+</figure>
+
+<h2 id="hvordan-måles-max-pulsen-i-et-laboratorium">Hvordan måles max-pulsen i et laboratorium?</h2>
+
+<p>Du kan også få lavet en max-test i et laboratorium. Sådan en test vil typisk foregå på et løbebånd, hvor man progressivt øger enten hastighed eller hældning på løbebåndet. Typisk vil du samtidig få målt din iltoptagelse og måske også få lavet en laktat-test (mælkesyretest) i slutningen af testen.</p>
+
+<p>Typisk siger man at R-værdien skal være over 1,1 og laktat-indholdet i blodet skal være over 7, hvis det skal være sandsynligt at det reelt var en maksimal test.</p>
+
+<h2 id="hvad-kan-jeg-bruge-max-pulsen-til">Hvad kan jeg bruge max-pulsen til?</h2>
+
+<p>Hvis du vil planlægge puls-træning, så skal du kende din max-puls. Max-pulsen er udgangspunktet for at udregne dine pulszoner.</p>
+
+<p>Jeg har skrevet mere om, hvordan du kan <a href="/puls-intensitet/">udregne dine intensitetszoner fra pulsen</a>.</p>
+
+<p>Du kan også bruge din max-puls sammen med din hvilepuls til at <a href="/kondital-fra-puls/">estimere dit kondital ud fra puls med vores enkle beregner</a>.</p>
+
+<h2 id="referencer">Referencer</h2>
+
+<p>Age-predicted maximal heart rate revisited.
+Tanaka H, Monahan KD, Seals DR
+J Am Coll Cardiol 2001 Jan;37(1):153-6</p>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+  
+
+
+
+
+  
+  
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Nøgleord: </strong>
+    <span itemprop="keywords">
+    
+      
+      
+      <a href="/tags/#maxpuls" class="page__taxonomy-item" rel="tag">maxpuls</a><span class="sep">, </span>
+    
+      
+      
+      <a href="/tags/#test" class="page__taxonomy-item" rel="tag">test</a>
+    
+    </span>
+  </p>
+
+
+
+
+
+  
+
+
+
+
+  
+  
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Kategorier: </strong>
+    <span itemprop="keywords">
+    
+      
+      
+      <a href="/categories/#konditionstr%C3%A6ning" class="page__taxonomy-item" rel="tag">Konditionstræning</a><span class="sep">, </span>
+    
+      
+      
+      <a href="/categories/#viden-om" class="page__taxonomy-item" rel="tag">Viden om</a>
+    
+    </span>
+  </p>
+
+
+
+        
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Opdateret:</strong> <time datetime="2020-05-31">May 31, 2020</time></p>
+
+
+      </footer>
+
+      <section class="page__share">
+  
+    <h4 class="page__share-title">Del på</h4>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=motionsplan&text=Hvordan+finder+jeg+min+max-puls%3F+Udregning+eller+test%21%20https%3A%2F%2Fwww.motionsplan.dk%2Ftest-max-puls%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Del på Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.motionsplan.dk%2Ftest-max-puls%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Del på Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.motionsplan.dk%2Ftest-max-puls%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Del på LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+
+  <a href="https://www.pinterest.com/pin/create/link/?url=https%3A%2F%2Fwww.motionsplan.dk%2Ftest-max-puls%2F" class="btn btn--pinterest btn--danger" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Del på Pinterest"><i class="fab fa-fw fa-pinterest" aria-hidden="true"></i><span> Pinterest</span></a>
+</section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/loeb-mere-energi-gang/" class="pagination--pager" title="Du forbrænder mere ved at løbe end ved at gå. Punktum.
+">Forrige</a>
+    
+    
+      <a href="/hvilepuls/" class="pagination--pager" title="Hvilepuls: Hvad er hvilepulsen og hvordan måles den?
+">Næste</a>
+    
+  </nav>
+
+    </div>
+
+    
+      <div class="page__comments">
+  
+  
+      <h4 class="page__comments-title">Skriv en kommentar</h4>
+      <section id="disqus_thread"></section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h4 class="page__related-title">Måske kan du også lide</h4>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="https://images.unsplash.com/photo-1579123480439-dcc379da4707?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80" alt="">
+      </div>
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/hvilepuls/" rel="permalink">Hvilepuls: Hvad er hvilepulsen og hvordan måles den?
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  9 minutters læsning
+
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">Din hvilepuls kan være en god indikator på dit helbred og din form. Jeg bruger hvilepulsen som en let måde at følge effekten af min træning.
+</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="https://images.unsplash.com/photo-1470777639313-60af88918203?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80" alt="">
+      </div>
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/restitutionstid-og-alder/" rel="permalink">Restitutionstid: Hvornår kan jeg træne igen?
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  9 minutters læsning
+
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">Jeg kan godt lide at træne, men jeg vil stadig gerne gøre det så effektivt som muligt. Hvis jeg gerne vil bygge kroppen op, skal jeg finde en balance mellem ...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="https://images.unsplash.com/photo-1569956726914-a9db65466c5b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80" alt="">
+      </div>
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/vaegt-stiger-traening/" rel="permalink">Hvorfor tager jeg på, når jeg træner? 7 ufarlige fordele!
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  8 minutters læsning
+
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">Jeg er kommet i gang med at træne igen efter at have holdt lidt pause. Jeg oplever ofte, at jeg tager på, når jeg begynder at træne igen, men hvordan kan det...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="https://images.unsplash.com/photo-1477332552946-cfb384aeaf1c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80" alt="">
+      </div>
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/tilpasning-konditionstraening/" rel="permalink">6 fysiologiske forandringer i kroppen ved konditionstræning?
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  7 minutters læsning
+
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">Jeg satte satte mig for at prøve at lave en oversigt over hvilke fysiologiske tilpasninger, der sker i kroppen, når man laver konditionstræning. Hvad er effe...</p>
+  </article>
+</div>
+
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Hvad leder du efter..." />
+  </form>
+  <div id="results" class="results"></div></div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Følg:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="https://twitter.com/motionsplan" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://facebook.com/motionsplan" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+        
+      
+        
+          <li><a href="https://github.com/motionsplan" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+    
+
+    <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2020 Motionsplan. Drives af <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
+
+
+
+
+    
+  <script>
+    var disqus_config = function () {
+      this.page.url = "https://www.motionsplan.dk/test-max-puls/";  /* Replace PAGE_URL with your page's canonical URL variable */
+      this.page.identifier = "/max-hr"; /* Replace PAGE_IDENTIFIER with your page's unique identifier variable */
+    };
+    (function() { /* DON'T EDIT BELOW THIS LINE */
+      var d = document, s = d.createElement('script');
+      s.src = 'https://motionsplan-dk.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
+  </script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+
+  
+
+
+
+  
+    <script src="/assets/js/bundle.js"></script>
+  
+
+
+
+  </body>
+</html>
