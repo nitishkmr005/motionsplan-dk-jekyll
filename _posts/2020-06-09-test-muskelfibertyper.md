@@ -1,5 +1,5 @@
 ---
-title: "Hvilke muskelfibertyper har vi? Forskel på hurtige og langsomme!"
+title: "Hvordan tester jeg min muskelfibertype?"
 permalink: /test-muskelfibertyper/
 language: da
 header:
